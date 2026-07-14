@@ -15,7 +15,23 @@
   </head>
   <body>
     <header>
-      <!-- Todo... -->
+      <nav>
+        <a href="/" class="brand">
+          {{ site.title }}
+        </a>
+        <ul>
+          <li>
+            <a href="/">
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="/license">
+              License
+            </a>
+          </li>
+        </ul>
+      </nav>
     </header>
     <main>
       <h1>
@@ -24,9 +40,12 @@
       {{content}}
     </main>
     <footer>
-      <a href="/license">
-        Unlicense
-      </a>
+      <p>
+        Released under the
+        <a href="/license">
+          Unlicense
+        </a>
+      </p>
     </footer>
   </body>
 </html>

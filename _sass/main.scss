@@ -1,1 +1,241 @@
-// Empty for now.
+@use "sass:color";
+
+// Color Palette
+$color-bg: #1a1a2e;
+$color-surface: #16213e;
+$color-accent: #e2b04a;
+$color-accent-dim: #b8902f;
+$color-text: #d4d4d8;
+$color-heading: #f0e6d2;
+$color-muted: #8b8b9a;
+$color-link: #e2b04a;
+$color-link-hover: #f5cd70;
+$color-border: #2a2a4a;
+
+// Fonts
+$font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+$font-mono: "SF Mono", "Fira Code", "Source Code Pro", Menlo, Consolas, monospace;
+
+// Layout
+$max-width: 750px;
+$spacing: 1.5rem;
+
+// Base Reset
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-serif;
+  background-color: $color-bg;
+  color: $color-text;
+  line-height: 1.7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// Header
+header {
+  background: linear-gradient(135deg, $color-surface 0%, color.adjust($color-surface, $lightness: -5%) 100%);
+  border-bottom: 1px solid $color-border;
+  padding: 0.75rem $spacing;
+
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: $max-width;
+    margin: 0 auto;
+  }
+
+  .brand {
+    font-family: $font-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: $color-heading;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $color-accent;
+    }
+  }
+
+  ul {
+    display: flex;
+    gap: 1.25rem;
+    list-style: none;
+
+    a {
+      color: $color-muted;
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s ease;
+
+      &:hover,
+      &:focus {
+        color: $color-accent;
+      }
+    }
+  }
+}
+
+// Main Content
+main {
+  flex: 1;
+  max-width: $max-width;
+  width: 100%;
+  margin: 0 auto;
+  padding: $spacing * 2 $spacing;
+
+  h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: $color-heading;
+    text-align: center;
+    margin-bottom: $spacing * 1.5;
+    letter-spacing: 0.02em;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 80px;
+      height: 3px;
+      margin: 0.75rem auto 0;
+      background: linear-gradient(90deg, transparent, $color-accent, transparent);
+    }
+  }
+
+  p {
+    margin-bottom: $spacing;
+    font-size: 1.1rem;
+  }
+
+  a {
+    color: $color-link;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $color-link-hover;
+      border-bottom-color: $color-link-hover;
+    }
+  }
+
+  strong {
+    color: $color-heading;
+    font-weight: 700;
+  }
+
+  em {
+    color: color.adjust($color-text, $lightness: 5%);
+  }
+
+  ul,
+  ol {
+    margin-bottom: $spacing;
+    padding-left: 2rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  code {
+    font-family: $font-mono;
+    font-size: 0.9em;
+    background-color: color.adjust($color-bg, $lightness: -3%);
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+    border: 1px solid $color-border;
+    color: $color-accent;
+  }
+
+  pre {
+    background-color: color.adjust($color-bg, $lightness: -3%);
+    border: 1px solid $color-border;
+    border-radius: 6px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin-bottom: $spacing;
+
+    code {
+      background: none;
+      border: none;
+      padding: 0;
+      color: $color-text;
+    }
+  }
+
+  blockquote {
+    border-left: 3px solid $color-accent-dim;
+    padding-left: $spacing;
+    margin: 0 0 $spacing $spacing;
+    color: $color-muted;
+    font-style: italic;
+  }
+
+  hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, $color-border, transparent);
+    margin: $spacing * 2 0;
+  }
+}
+
+// Footer
+footer {
+  background-color: $color-surface;
+  border-top: 1px solid $color-border;
+  text-align: center;
+  padding: $spacing;
+  font-size: 0.9rem;
+  color: $color-muted;
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: $color-accent-dim;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $color-link-hover;
+    }
+  }
+}
+
+// Responsive
+@media (max-width: 600px) {
+  header nav {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  main {
+    padding: $spacing $spacing * 0.75;
+
+    h1 {
+      font-size: 1.75rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
