@@ -1,0 +1,28 @@
+---
+layout: default
+title: The Amurra Republic
+---
+
+## Overview
+
+The Amurra Republic is the political entity that governs [Amurra](/content/amurra), the wealthy port city-state that is the centre of the spice trade on the northern coast of [Sahrana](/content/sahrana). The republic is not a monarchy but a merchant-led government, and its governance is based on the principles of commercial representation and the shared interest of the spice traders who are the foundation of the city's wealth. The Amurra Republic is one of the most prosperous and the most influential political entities in Sahrana, and its control of the spice trade gives it a commercial power that is disproportionate to its modest size.
+
+## The Republic and the Governance
+
+The Amurra Republic is governed by a council of merchants that is elected from the spice-trading families of the city, and the council is the primary political institution of the republic. The council meets in the council hall, a substantial building that is situated near the harbour, and the decisions of the council are made by vote. The council oversees the administration of the city, the regulation of the spice trade, the maintenance of the harbour and the caravan routes, and the administration of justice, and its decisions are binding on all the inhabitants of the city.
+
+The governance of the republic is based on the principles of commercial representation, and the officials are chosen from the merchants who are the economic foundation of the city. The council's primary concern is the regulation and the protection of the spice trade, for the spices that pass through the harbour of [Amurra](/content/amurra) are the most valuable single commodity in the known world, and the council's management of this trade is the foundation of the city's prosperity. The council regulates the caravans that bring the spices from the interior, the shipping that carries them to the northern continents, and the quality and the authenticity of the spices that are traded in the city's markets.
+
+## The Spice Trade and the Economy
+
+The spice trade is the foundation of the Amurra Republic's economy, and the spices that pass through the city are the most valuable single commodity in the known world. The caravans that bring the spices from the foothills and the upland valleys of the Sahrani interior are the lifeline of the city, and the republic's regulation of the caravan trade is a critical function of its governance. The spices are loaded onto vessels at the harbour for transport to the markets of [Aethelar](/content/aethelar) and [Morvind](/content/morvind), and the return cargo includes the grain, the iron, and the manufactured goods that the city needs.
+
+The wealth that accumulates in the treasury of the republic is used to fund the maintenance of the harbour, the caravan routes, and the fortifications, and the republic's investment in the infrastructure of the spice trade is a significant component of its governance. The republic is a member of the [League of the Northern Coast](/content/league-of-the-northern-coast), the alliance of the Sahrani coastal city-states, and its spice trade is a valued component of the league's commerce.
+
+## The People and the Defence
+
+The population of [Amurra](/content/amurra) is chiefly [human](/content/humans), and the people of the city are a mixture of merchants, traders, and the craftsmen who serve the spice trade. The [salawa](/content/salawa) of the desert are occasional visitors to the city, and the trade between the coastal humans and the desert salawa is a minor but valued part of the republic's commerce. The defence of the city is maintained by a standing force that is funded by the treasury, and the fortifications of Amurra are maintained in good order.
+
+## Significance
+
+The Amurra Republic is the centre of the spice trade and one of the wealthiest political entities in Sahrana, and its control of the most valuable single commerce in the known world gives it a significance that is disproportionate to its modest size. The republic's merchant-led governance is a model of the kind of political order that has sustained the Sahrani city-states, and its regulation of the spice trade is a critical function that ensures the quality and the reliability of the most valued product of the Sahrani coast. The significance of the Amurra Republic lies in its commercial power and its effective governance, and the republic is a symbol of the wealth and the enterprise of the Sahrani coast.

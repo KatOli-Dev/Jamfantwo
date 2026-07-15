@@ -1,0 +1,24 @@
+---
+layout: default
+title: Nordhaven
+---
+
+## Overview
+
+Nordhaven is the largest port of [Morvind](/content/morvind) and the hub of trade across the [Stormfall Sea](/content/stormfall-sea). The city stands on the northern coast of the continent, where a deep, natural harbour provides shelter from the storms that sweep across the sea for much of the year. Nordhaven is the primary point of contact between Morvind and the wider world, and the goods that pass through its harbour connect the mineral wealth and the metalwork of the Morvind interior to the markets of [Aethelar](/content/aethelar) and beyond.
+
+## The Harbour and the Stormfall Trade
+
+The harbour of Nordhaven is one of the finest on the northern coast, a deep, sheltered bay that is protected from the open sea by a chain of islands that form a natural breakwater. The harbour is accessible at all states of the tide and in most weather, though the autumn and winter storms can make the approach dangerous, and the pilots of Nordhaven are among the most skilled in the known world. The quays line the inner shore of the bay, and the warehouses, the counting houses, and the offices of the merchants who manage the Stormfall trade are situated along the waterfront.
+
+The trade that flows through Nordhaven is dominated by the exchange of Morvind and Aethelaran goods. The mineral wealth and the crafted metalwork of the Morvind interior, including iron, copper, and the finely wrought objects for which the dwarven smiths of Morvind are renowned, arrive at the harbour by the overland routes that connect the coast to the interior. These goods are loaded onto vessels for transport across the [Stormfall Sea](/content/stormfall-sea) to the markets of Aethelar, and the return cargo includes grain, cloth, and the manufactured goods that the Morvind interior cannot produce for itself.
+
+## The City
+
+Nordhaven is a large, well-built city, and its architecture reflects the harsh climate of the northern coast, with sturdy buildings of heavy stone, steep roofs designed to shed the rain and the snow, and narrow streets that are sheltered from the wind. The walls of the city are high and thick, for the coast has been threatened by raiders from the sea in ages past, and the fortifications are maintained in good order. The harbour is the heart of the city, and the waterfront is the busiest and most prosperous district, with the trading houses, the shipyards, and the fish-curing facilities that line the quays.
+
+The population of Nordhaven is chiefly [human](/content/humans), with a significant community of [dwarves](/content/dwarves) who are involved in the metal trade and the management of the overland routes that connect the harbour to the interior. The [lupines](/content/lupines) of the cold steppes are occasional visitors to the city, and the trade between the coast and the steppe is a small but valued part of the city's commerce.
+
+## Significance
+
+Nordhaven is the commercial heart of Morvind and the primary point of contact between the continent and the wider world, and its harbour is the gateway through which the mineral wealth and the metalwork of the interior reach the markets of Aethelar and beyond. The city is the capital of the [Kingdom of Nordhaven](/content/kingdom-of-nordhaven), and its influence extends throughout the coastal region and into the interior, shaping the economy and the politics of the continent. The prosperity of Nordhaven is built upon the trade that flows through its harbour, and the city is the most important and the most cosmopolitan settlement in Morvind.

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Frostbeak
+---
+
+## Overview
+
+Frostbeak is a settlement on a high plateau in the interior of [Morvind](/content/morvind), situated at an altitude where the air is thin and the cold is intense for much of the year. The settlement is one of the highest permanent communities in the known world, and its people are among the most adapted to the conditions of the high interior. Frostbeak is a small, self-sufficient community, and its primary function is the management of the highland pastures that surround the plateau and the maintenance of the passes that connect the plateau to the lower regions of the interior.
+
+## The Plateau and the Pastures
+
+The plateau on which Frostbeak stands is a broad, flat expanse of grassland that is surrounded by the higher peaks of the interior ranges, and the pastures that cover the plateau are among the most productive in the high interior, for the grass that grows here is hardy and nutritious, and the livestock that is raised on the plateau is valued for its resilience and its quality. The pastures are grazed by the flocks of mountain sheep and the herds of hardy cattle that are the primary resource of the settlement, and the wool, the meat, and the leather that are produced from these animals are the main exports of Frostbeak.
+
+The altitude of the plateau is the defining feature of the settlement, for the air is thin and the climate is harsh, and the people of Frostbeak have adapted to the conditions over many generations. The growing season is short, and the agriculture of the plateau is limited to the hardy crops that can tolerate the cold and the thin air, including the root vegetables and the hardy grains that are the staples of the local diet. The plateau is covered in snow for much of the year, and the settlement is isolated during the winter months, when the passes that connect it to the lower regions are blocked by snow.
+
+## The Passes and the Trade
+
+The passes that connect Frostbeak to the lower regions of the interior are the lifelines of the settlement, and their maintenance is a primary concern of the community. The passes are navigable only during the summer months, when the snow retreats and the ground becomes firm enough for the passage of animals and wagons. The trade that flows through the passes is modest but vital, for the settlement is dependent on the import of the goods that it cannot produce for itself, including the metalwork, the cloth, and the manufactured goods that are produced in the lower regions and the coast.
+
+The wool and the leather that are produced on the plateau are exported through the passes to the markets of the interior and the coast, and the quality of the Frostbeak wool is recognised throughout Morvind, for the mountain sheep that produce it are among the hardiest in the known world, and the wool is exceptionally warm and durable. The trade in wool and leather is the primary source of the settlement's income, and the merchants who manage the trade are the most influential members of the community.
+
+## The Settlement
+
+Frostbeak is a small, compact settlement, and its buildings are constructed of the stone that is quarried from the surrounding peaks, with walls that are thick and roofs that are weighted with stone to resist the wind and the snow. The buildings are low and close-set, and the streets are narrow and sheltered, for the wind on the plateau is fierce and the cold is intense. The population of Frostbeak is chiefly [human](/content/humans), with a small community of [dwarves](/content/dwarves) who are involved in the management of the passes and the maintenance of the settlement.
+
+## Significance
+
+Frostbeak is the highest permanent settlement in Morvind, and its people are among the most adapted to the extreme conditions of the high interior. The settlement is a dependency of the [Valdmark](/content/valdmark), the human realm of the interior river valley, and its wool and leather are a valued contribution to the economy of the interior. The significance of Frostbeak lies in its survival and its productivity in an environment that is among the most demanding in the known world, and the settlement is a testament to the adaptability and the resilience of the human people of Morvind.
