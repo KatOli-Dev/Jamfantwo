@@ -96,6 +96,11 @@ title: The Sunken War
 - Do not use slang, modern idioms, or anachronistic language that breaks the medieval fantasy setting.
 - Do not duplicate content across files. If information is relevant to two pages, write it in detail on the primary page and summarise or link on the other.
 
+## Page Length
+
+- Every content page must contain at least 1,000 words. This ensures each entry provides sufficient depth and context for its subject.
+- Word count includes all body text (headings, paragraphs, list items, and blockquotes) but excludes front matter, markdown link URLs, and code blocks.
+
 ## Revisions
 
 This style guide is a living document and may be revised as the project evolves.
