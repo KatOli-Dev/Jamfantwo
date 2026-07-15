@@ -5,7 +5,7 @@ title: The Kharesh
 
 ## Overview
 
-The Kharesh is the vast desert interior of [Sahrana](/content/sahrana), a place of striking beauty and quiet grandeur. It covers the greater part of the continent, stretching from the fertile northern coast to the poorly charted southern reaches. The name is given by the inhabitants themselves, and it carries in their tongue the sense of a great emptiness that is yet far from empty. To the peoples of the northern coast and the continents beyond, the Kharesh is a land of mystery and hardship, known chiefly through the accounts of the caravans that cross it and the nomads who dwell within it. To those who know the desert, it is a land of subtle abundance, where water and life are to be found by those who know where to look.
+The Kharesh is the vast desert interior of [Sahrana](/content/sahrana), a place of striking beauty and quiet grandeur. It covers the greater part of the continent, stretching from the fertile northern coast to the highlands that mark the threshold of the [Southern Reach](/content/southern-reach) in the far south. The name is given by the inhabitants themselves, and it carries in their tongue the sense of a great emptiness that is yet far from empty. To the peoples of the northern coast and the continents beyond, the Kharesh is a land of mystery and hardship, known chiefly through the accounts of the caravans that cross it and the nomads who dwell within it. To those who know the desert, it is a land of subtle abundance, where water and life are to be found by those who know where to look.
 
 ## Landscape
 

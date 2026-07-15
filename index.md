@@ -9,16 +9,22 @@ title: Homepage
 
 ### General
 
+Top-level overview pages covering the physical and demographic makeup of the known world.
+
 - [Geography](/content/geography)
 - [Population](/content/population)
 
 ### Continents
+
+The three major landmasses of the known world, each with its own climate, terrain, and peoples.
 
 - [Aethelar](/content/aethelar)
 - [Morvind](/content/morvind)
 - [Sahrana](/content/sahrana)
 
 ### Oceans and Seas
+
+The bodies of water that connect and divide the continents, and the straits that link them.
 
 - [The Auric Ocean](/content/auric-ocean)
 - [The Greyring Ocean](/content/greyring-ocean)
@@ -27,11 +33,17 @@ title: Homepage
 
 ### Regions
 
+Distinct geographic areas that span or cross continental boundaries.
+
 - [The Kharesh](/content/kharesh)
 
 ### Species
 
+The sapient peoples of the known world, grouped by the habitats and regions they inhabit. See [Population](/content/population) for a broad survey of all peoples and their relations.
+
 #### Common Peoples
+
+The most widespread and extensively documented species, found on all three continents.
 
 - [Humans](/content/humans)
 - [Elves](/content/elves)
@@ -39,17 +51,23 @@ title: Homepage
 
 #### Less Common Peoples
 
+Species whose populations are smaller or more localised, concentrated in particular regions rather than spread across the whole world.
+
 - [Gnomes](/content/gnomes)
 - [Orcs](/content/orcs)
 - [Goblins](/content/goblins)
 
 #### Seas and Coasts
 
+Species whose lives are tied to the oceans, coastlines, and deep waters.
+
 - [Merfolk](/content/merfolk)
 - [Cancrids](/content/cancrids)
 - [Cephalopods](/content/cephalopods)
 
 #### Warm Lands
+
+Species adapted to heat, confined to the warm southern latitudes and arid interiors.
 
 - [Naga](/content/naga)
 - [Lacertians](/content/lacertians)
@@ -59,6 +77,8 @@ title: Homepage
 - [Felinids](/content/felinids)
 
 #### Forests and Plains
+
+Species of the woodlands, grasslands, and open country, each adapted to a particular kind of terrain.
 
 - [Centaurs](/content/centaurs)
 - [Halflings](/content/halflings)
@@ -70,6 +90,8 @@ title: Homepage
 - [Lepidians](/content/lepidians)
 
 #### Mountains and Underground
+
+Species whose bodies are adapted to stone, darkness, thin air, and the remote heights.
 
 - [Trolls](/content/trolls)
 - [Goliaths](/content/goliaths)
@@ -84,12 +106,16 @@ title: Homepage
 
 #### Waters and Marshes
 
+Species tied to fresh water, wetlands, and the damp margins of the land.
+
 - [Kappa](/content/kappa)
 - [Anurans](/content/anurans)
 - [Murids](/content/murids)
 - [Lupines](/content/lupines)
 
 ### Cities
+
+Individual settlements across all three continents, the islands, and the far south, grouped by location.
 
 #### Aethelar
 
@@ -116,6 +142,8 @@ title: Homepage
 - [Emberfall](/content/emberfall)
 - [Redhollow](/content/redhollow)
 - [Brackenford](/content/brackenford)
+- [Southport](/content/southport)
+- [Caerhaven](/content/caerhaven)
 
 #### Morvind
 
@@ -153,7 +181,17 @@ title: Homepage
 - [Tidesmeet](/content/tidesmeet)
 - [Windward](/content/windward)
 
+#### Southern Reach
+
+Settlements of the far south beyond the Kharesh, on the shores of the inland seas.
+
+- [Vereth](/content/vereth)
+- [Ashaar](/content/ashaar)
+- [Torem](/content/torem)
+
 ### Nations
+
+Kingdoms, city-states, confederations, and other political entities, grouped by continent.
 
 #### Aethelar
 
@@ -188,6 +226,8 @@ title: Homepage
 - [The Southern Reach](/content/southern-reach)
 
 ### Additional Pages
+
+Project metadata: planning, licensing, and style guidance.
 
 - [Plan](/plan)
 - [License](/license)
