@@ -1,0 +1,36 @@
+---
+layout: default
+title: Aethelar
+---
+
+## Overview
+
+Aethelar is the largest of the known continents and occupies a central position in the world. It stretches from temperate latitudes in the north to sun-warmed plains in the south, encompassing a greater variety of climates than any other landmass. Its eastern coastline faces the [Auric Ocean](/content/auric-ocean), while its western shores are washed by the [Greyring Ocean](/content/greyring-ocean). Inland, Aethelar is divided by a mountain range that runs from the northwest to the southeast, forming a natural watershed between the two coasts. The continent's size and central location have made it the cradle of several major kingdoms and a meeting point of diverse peoples, and its history is the most extensively documented of any land in the known world.
+
+## Climate and Terrain
+
+The northern reaches of Aethelar are dominated by dense forests and fertile river valleys, where early settlements took root and grew into prosperous realms. The forests here are ancient, with canopies so thick that the floor remains in perpetual shade, and they shelter some of the oldest elven communities in the world. The river valleys that thread between the forests are broad and well-watered, their alluvial soils among the most fertile to be found anywhere, and it is upon these lands that the first human civilisations of the continent were established.
+
+South of the forested north, the land gradually opens into rolling grasslands that stretch for hundreds of miles, broken only by the courses of great rivers and the occasional line of hills. These grasslands are the heartland of the continent's agricultural wealth, and their gentle terrain has long supported both settled farming communities and the seasonal movements of pastoral peoples. Further south still, the grasslands give way to warm plains, where nomadic peoples have historically grazed their herds and traded with the settled towns that cluster around the larger rivers and oases.
+
+The mountain spine of Aethelar runs from the northwest to the southeast, a great range that divides the continent into eastern and western halves. These mountains are the source of both the major river systems of the continent, and their passes have served from the earliest times as routes of trade and communication between the coasts. The highlands are rich in minerals and have been worked by [dwarves](/content/dwarves) for centuries, and the foothills provide a temperate refuge for communities that prefer the uplands to the lowland forests and plains. The range serves as a cultural crossroads as much as a physical divide, where peoples of the eastern and western coasts meet and exchange traditions.
+
+## Coasts and Waters
+
+The eastern coast of Aethelar, washed by the warm currents of the [Auric Ocean](/content/auric-ocean), is mild and agreeable, and its natural harbours have given rise to some of the wealthiest port cities in the known world. Trade flows eastward across the Auric to [Sahrana](/content/sahrana), and the eastern ports are bustling with merchants, sailors, and travellers from every continent. Lighthouses and watchtowers line the coast, and the maritime traditions of the eastern shore are ancient and proud.
+
+The western coast, by contrast, is cooler and more rugged, battered by the cold currents and frequent fogs of the [Greyring Ocean](/content/greyring-ocean). The shoreline is marked by high cliffs and narrow harbours, and the communities here are hardier and more self-reliant than their eastern counterparts. The fishing is excellent, and the cold waters yield a bounty of fish and whales that sustain the western ports, but the Greyring offers few trade routes, and the western coast is far less cosmopolitan than the eastern.
+
+## Peoples
+
+Aethelar is home to all three of the common peoples, and its varied terrain supports the widest range of habitats of any continent. [Humans](/content/humans) are the dominant population across the temperate river valleys and coastal plains, having spread from the temperate regions where the earliest human remains have been found. Their settlements range from small farming villages to great cities that serve as centres of trade, learning, and governance, and the chronicles of human civilisation on Aethelar are the longest and most detailed of any people on any continent.
+
+[Elves](/content/elves) are most closely associated with the ancient temperate forests of Aethelar, where their largest and oldest populations are found. These forests provide the complex, layered environment to which the elven body and temperament are best adapted, and the elves have shaped them over centuries in ways that are often indistinguishable from wild woodland to the untrained eye. Smaller elven communities are found in the foothills of the mountain spine, where the wooded lower slopes offer a compromise between the deep forest and the open upland.
+
+[Dwarves](/content/dwarves) inhabit the interior highlands, where the mountain ranges provide the subterranean and high-altitude environments to which they are best suited. Their settlements are carved into the living rock, making use of natural cave systems and the veins of mineral that run through the mountains. The dwarves of Aethelar are less numerous than those of [Morvind](/content/morvind), but their halls are ancient and well-established, and their craftsmanship is regarded throughout the continent as the standard of excellence.
+
+Smaller populations of the less common peoples are also found on Aethelar. [Gnomes](/content/gnomes) inhabit the woodlands and hills, particularly in the transitional country between forest and mountain. [Orcs](/content/orcs) are present in the wilder and less settled regions, including the untamed forests and moorlands that humans and elves have not claimed. [Goblins](/content/goblins) are found in a variety of marginal habitats, often at the edges of settled territory, and their presence is a recurring concern for the communities they border.
+
+## Significance
+
+The central position of Aethelar has made it a hub of trade and cultural exchange throughout recorded history. Its coastlines give access to both great oceans, and its overland routes connect the far corners of the continent through mountain passes and river valleys. The meeting of peoples and traditions has fostered a richness of civilisation that is unequalled elsewhere in the known world, and the chronicles of Aethelar form the backbone of much that is known about the history of all peoples. The continent's diversity of climate and terrain has made it a microcosm of the world itself, where nearly every manner of life and every species of thinking people may be found within a single landmass.

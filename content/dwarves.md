@@ -5,9 +5,9 @@ title: Dwarves
 
 ## Origins
 
-The origins of dwarvenkind are a matter of some learned dispute, though the dwarves themselves care little for the question. What can be observed is that dwarves are plainly a people fashioned by the mountains, for their bodies are suited to the deep places of the earth in a way that no other people's are. Whether the first dwarves were shaped by the stone itself, as their oldest songs maintain, or whether they came from some other stock and were changed over long ages by the mountains they chose to inhabit, no naturalist can say with certainty. The deep caves of Morvind have yielded bones of a taller and more slender folk beneath the oldest dwarven workings, and these may represent an ancestral form, though the evidence is scant.
+The origins of dwarvenkind are a matter of some learned dispute, though the dwarves themselves care little for the question. What can be observed is that dwarves are plainly a people fashioned by the mountains, for their bodies are suited to the deep places of the earth in a way that no other people's are. Whether the first dwarves were shaped by the stone itself, as their oldest songs maintain, or whether they came from some other stock and were changed over long ages by the mountains they chose to inhabit, no naturalist can say with certainty. The deep caves of [Morvind](/content/morvind) have yielded bones of a taller and more slender folk beneath the oldest dwarven workings, and these may represent an ancestral form, though the evidence is scant.
 
-Scholars of other species have noted that dwarven bodies are consistent across widely separated communities, whether in Morvind or Aethelar, as though the mountains themselves impose the same form upon all who dwell within them. [Human](/content/humans) and [elven](/content/elves) naturalists have speculated that the same cause, whatever it may be, has produced the dwarven form independently in separate ranges, but this too remains unproven.
+Scholars of other species have noted that dwarven bodies are consistent across widely separated communities, whether in Morvind or [Aethelar](/content/aethelar), as though the mountains themselves impose the same form upon all who dwell within them. [Human](/content/humans) and [elven](/content/elves) naturalists have speculated that the same cause, whatever it may be, has produced the dwarven form independently in separate ranges, but this too remains unproven.
 
 ## Anatomy and Physiology
 
@@ -27,7 +27,7 @@ Dwarven births are infrequent, and populations grow only slowly even when food i
 
 Dwarves are found chiefly in the mountain ranges of Morvind and the interior highlands of Aethelar, where the [geography](/content/geography) provides the subterranean and high-altitude environments to which they are best suited. Their settlements are carved into the living rock, making use of natural cave systems and the veins of mineral that run through the mountains. The greatest concentration of dwarven population is in Morvind, where vast underground networks offer stable temperatures, refuge from the weather above, and access to the ores and stone that dwarven life requires.
 
-Dwarves tolerate cold, dry air and dim light well, but they fare poorly in hot, humid, or low-lying places. They are rarely encountered in the lowland forests of Aethelar or the warm coasts of Sahrana, except as temporary visitors. In the temperate uplands of Morvind, smaller numbers have taken to surface life in sheltered valleys, though even these maintain dwellings beneath the ground for shelter and for the extraction of stone and ore.
+Dwarves tolerate cold, dry air and dim light well, but they fare poorly in hot, humid, or low-lying places. They are rarely encountered in the lowland forests of Aethelar or the warm coasts of [Sahrana](/content/sahrana), except as temporary visitors. In the temperate uplands of Morvind, smaller numbers have taken to surface life in sheltered valleys, though even these maintain dwellings beneath the ground for shelter and for the extraction of stone and ore.
 
 ## Diet
 

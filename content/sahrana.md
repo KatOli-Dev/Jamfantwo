@@ -1,0 +1,34 @@
+---
+layout: default
+title: Sahrana
+---
+
+## Overview
+
+Sahrana is the southernmost continent, lying across the [Auric Ocean](/content/auric-ocean) from [Aethelar](/content/aethelar). Much of its interior is covered by vast desert, punctuated by rocky uplands and seasonal river systems. The northern coast, washed by warm currents, supports several fertile regions that have given rise to prosperous and cultured city-states. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare spices and dyes are among the most valuable in the known world. The continent is a land of contrasts, where great wealth and refinement coexist with some of the harshest conditions to be found anywhere.
+
+## Climate and Terrain
+
+The northern coast of Sahrana benefits from warm currents that flow northward along the continental shelf, granting the coastal regions a mild and agreeable climate. Fertile valleys and well-watered plains behind the coast support agriculture of great variety, and it is here that the wealthiest and most populous settlements are found. The coastal climate is warm and humid, with rains that come reliably in their season and sustain crops of rice, cotton, spices, and fruits that are prized throughout the known world. The rivers that water the coast descend from the interior highlands, and their floodplains are among the most productive lands in any continent.
+
+Behind the coastal strip, the land rises in a series of steps toward the interior. The foothills are dry but fertile where water is available, and they support orchards and vineyards that produce some of the finest wines and oils in the known world. As the land climbs, the vegetation thins and the soil becomes stony and arid, until the foothills give way to the great desert known as the [Kharesh](/content/kharesh), which covers the bulk of the continent's interior. The transition from fertile coast to barren desert is gradual but unmistakable, and the caravans that travel between the two must prepare for a journey through some of the most demanding terrain in the world.
+
+The southern reaches of Sahrana are poorly charted, and few reliable accounts exist of the lands beyond the desert. Rumours persist of fertile highlands and even of inland seas in the deep south, but no expedition has returned with confirmation, and the peoples of the northern coast regard the far south as a land of legend. The Kharesh itself is better known, though much of it remains unmapped, and the nomadic peoples who traverse its dunes possess a knowledge of its paths and water sources that no outsider has been able to replicate.
+
+## The Northern Coast
+
+The city-states of the northern coast are among the oldest and most cultured settlements in the known world. Each is independent, governed by its own council or ruler, and each has developed a distinct character shaped by its particular geography and history. Some are ports, oriented toward maritime trade across the Auric Ocean, while others are inland cities that serve as termini for the caravan routes of the Kharesh. All are united by their dependence on trade, and the wealth that flows through them has funded public works, libraries, temples, and gardens that are the envy of the northern continents.
+
+The architecture of the coastal cities is noted for its elegance and its adaptation to the warm climate. Buildings are constructed of light-coloured stone that reflects the sun, with shaded courtyards, high windows, and ventilated passages that channel the breezes from the sea. Water is channelled through the cities by means of aqueducts and underground channels, and the presence of running water in fountains and gardens is both a practical necessity and a symbol of prosperity.
+
+## Peoples
+
+[Humans](/content/humans) are concentrated along the fertile northern coast, with smaller numbers in the desert interior where they trade and travel alongside the nomadic peoples of the Kharesh. The humans of Sahrana are distinct in appearance from their northern kin, being taller and more slender on average, with darker skin adapted to the strong sun. Their civilisation is ancient, and their traditions of scholarship, commerce, and art are among the most developed of any human population.
+
+Small communities of [elves](/content/elves) are present in the warm and humid northern coastal regions, where they have settled in the wooded areas near the coast. These elves are the most distinct of all elven populations, adapted to a warmer and more humid climate than any of their kin, and their appearance and customs reflect the influence of their surroundings. They are few in number and seldom encountered by outsiders, and their communities are among the most secluded elven settlements in the known world.
+
+[Dwarves](/content/dwarves) are rarely encountered in Sahrana, as the hot and low-lying terrain ill suits their constitution, though a few may be found as temporary visitors in the trading cities of the north. [Orcs](/content/orcs) are present in the arid interior beyond the Kharesh, where they inhabit the wilder and more remote regions that no other people claims. [Goblins](/content/goblins) are found in scattered pockets along the desert fringes and in the ruins of abandoned settlements, where they scavenge and trade as opportunity allows.
+
+## Significance
+
+Sahrana's trade routes are the source of many of the rarest and most valued goods in the known world, including spices, dyes, and precious stones that are found nowhere else. The city-states of the northern coast have grown wealthy on this trade, and their markets are among the most cosmopolitan anywhere, where merchants from all three continents gather to exchange goods. The desert interior, though forbidding, is crossed by ancient caravan routes that connect the coast to the scattered oases and upland settlements within the Kharesh, and the goods that emerge from the desert are the foundation of fortunes made in the coastal cities.
