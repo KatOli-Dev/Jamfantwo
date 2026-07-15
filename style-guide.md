@@ -80,6 +80,14 @@ title: The Sunken War
 - Pick one spelling and stick with it. Do not alternate between variant spellings (e.g., magick and magic, elfs and elves).
 - In-world titles and honorifics should be consistent across all pages. If a ruler is called King in one article, do not call them Queen or Sovereign in another unless the change is intentional and explained.
 
+## Atmosphere and Tone of the World
+
+- The world is medieval fantasy but should not feel grim or bleak. Natural dangers exist, and life can be difficult, but the overall tone avoids dwelling on misery or despair.
+- Describe challenging environments honestly, acknowledging their difficulties without exaggerating their severity. A cold climate is demanding but liveable, not a frozen wasteland.
+- Coexistence, trade, and cultural exchange are common, but tension and conflict also have their place. Neither co-operation nor strife should dominate to the exclusion of the other.
+- Settlements face real challenges but are generally portrayed as established and functional, not as failing or on the brink of collapse.
+- [Geography](/content/geography) is a reference example of this balance in practice.
+
 ## What to Avoid
 
 - Do not use emoji or pictographic symbols in content.
