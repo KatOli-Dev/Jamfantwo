@@ -10,7 +10,7 @@ title: Homepage
 - [Geography](/content/geography)
 - [Population](/content/population)
 
-### Peoples
+### Species
 
 - [Humans](/content/humans)
 - [Elves](/content/elves)
