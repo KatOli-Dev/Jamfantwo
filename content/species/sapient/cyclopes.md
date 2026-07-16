@@ -1,0 +1,42 @@
+---
+layout: default
+title: Cyclopes
+---
+
+## Origins
+
+The origins of the cyclopes are a subject of considerable interest to naturalists, for the cyclops body is unlike that of any other sapient people in the most distinctive feature of its form: the possession of a single, large eye set in the centre of the forehead. Cyclopes are a large people, found on the remote islands and coastlines of the known world, and their bodies are adapted to a life of solitary labour in remote and rugged places. Some naturalists have proposed a kinship between cyclopes and [giants](/content/species/sapient/giants), citing the enormous size shared by both peoples and their preference for the most remote and inaccessible habitats. Others have argued for a connection to [ogres](/content/species/sapient/ogres), pointing to the great strength and the rugged, isolated way of life that both share. The cyclopes themselves have offered no account of their origins, for they are a people of few words and less inclined to share their thoughts with outsiders.
+
+What is certain is that cyclopes have inhabited the remote islands and coastlines of the known world for as long as any people can account for, and their presence in these isolated places is attested in the oldest maritime records. The cyclopes are among the most scattered of the sapient peoples, and their populations are so small and so widely separated that contact between cyclops communities is rare.
+
+## Anatomy and Physiology
+
+Cyclopes are an enormous people, standing taller than [ogres](/content/species/sapient/ogres) and approaching the height of [giants](/content/species/sapient/giants), with a massive and broadly built frame. Their bones are thick and heavy, and their musculature is enormous, built for raw strength and sustained labour rather than speed or agility. A cyclops can lift and carry loads that would require a team of [humans](/content/species/sapient/humans) or [dwarves](/content/species/sapient/dwarves), and the force they can bring to bear in a single effort is greater than that of any other people save the giants themselves. Their movements are slow and deliberate, for their great bulk demands a careful management of balance and momentum, but the power behind each movement is formidable.
+
+The single eye of the cyclops is its most remarkable feature, and it is large, golden, and set deep within a bony socket in the centre of the forehead. The eye grants excellent forward vision, and its size allows the cyclops to see in conditions of very low light, for the large pupil gathers more light than the paired eyes of other peoples. However, the cyclops lacks binocular vision in the manner of other peoples, for the single eye cannot provide the depth perception that two eyes allow, and the cyclops compensates through parallax and the movement of the head, judging distance through a slow, deliberate assessment that suits the measured pace of cyclopean life. Their hearing is competent, and their sense of smell is moderate, for the cyclops relies chiefly upon its eye and its great strength.
+
+Cyclops skin is thick and tough, ranging from ruddy to weathered brown, and it is well adapted to the wind and salt of the coastal environments they inhabit. Their hair is coarse and dark, worn long and unbound by both sexes, and their teeth are large and strong. Their hands are enormous, with thick, calloused fingers that are nonetheless capable of fine work, for the cyclopes are skilled in the shaping of stone and the working of metal, and their craftsmanship in these materials is noted for its scale and its rugged precision.
+
+## Life Cycle
+
+Cyclopes are long-lived, with a typical lifespan of one hundred and fifty to two hundred years under favourable conditions. They grow to maturity very slowly, not reaching their full size and strength until their thirtieth or fortieth year, and they remain vigorous well into their second century. Cyclops women carry their young for approximately fourteen months before giving birth, and births are invariably single. The infant is large and well-developed, capable of walking within days, though it requires many years of care before it is fully independent.
+
+Cyclops populations are very small and grow at an extremely slow pace, for births are infrequent and the isolated, solitary nature of cyclops life means that encounters between potential mates are rare. The cyclops is the most solitary of the sapient peoples, and a typical cyclops may go for decades without seeing another of its kind. The slow pace of cyclops life and the extreme longevity of the species mean that populations remain stable over long periods, for the death of an adult cyclops is a rare event and the birth of a new one rarer still.
+
+## Habitat and Distribution
+
+Cyclopes are found on the remote islands and coastlines of the known world, in places that are too isolated or too rugged for other peoples to settle. In the [Auric Ocean](/content/location/natural/feature/auric-ocean), they inhabit the smaller and more remote of the volcanic islands, where the terrain is steep and the soil is thin but the sea provides a bounty of fish and the rock provides material for building. In [Morvind](/content/location/natural/continent/morvind), cyclopes are found on the isolated capes and headlands of the northern coast, where the cliffs are high and the approaches are difficult. In [Sahrana](/content/location/natural/continent/sahrana), a few cyclopes are reported on the rocky islands off the southern coast, though these accounts are less reliable.
+
+The [geography](/content//geography) of each region determines the distribution of cyclops populations, and the cyclopes are absent from the interiors of the continents, the forests, and the open plains, for their great size and their solitary habits require the kind of remote, open ground that only islands and isolated coastlines can provide. Cyclops dwellings are typically single structures, built of stone and situated in locations that are defensible and exposed to the sea, and each cyclops constructs and maintains its own dwelling, working alone over many years to shape the stone to its needs.
+
+## Diet
+
+The cyclops diet is a mixture of marine and terrestrial foods, reflecting the coastal and island environments they inhabit. Fish, shellfish, and other marine creatures form the staple, gathered from the waters around the cyclops dwelling by a variety of techniques including nets, traps, and the patient art of hand-fishing from the rocks. The sea provides abundantly for a people of few numbers and great strength, and the cyclops can harvest from the waters what it needs with relatively little effort.
+
+Plant foods are gathered from the island and coastal terrain, including the hardy vegetables, roots, and fruits that grow in the thin soil of the coast. Cyclopes practise a limited form of cultivation, tending small plots near their dwellings where the conditions allow, and their gardens, though modest, provide a supplement to the marine catch. The cyclops approach to food is solitary and practical, for each cyclops feeds itself, and the sharing of meals is unknown among them, for they do not gather in numbers sufficient for communal eating.
+
+## Ecology
+
+Cyclopes occupy the niche of a large-bodied, solitary marine forager in the remote island and coastal environments they inhabit. Their impact on their surroundings is minimal, for their numbers are so small and their range so vast that a single cyclops may be the only sapient inhabitant of an entire island. The cyclops and the island ecosystem exist in a state of balance that has persisted for centuries, the cyclops taking what it needs and the island and sea providing what they can.
+
+Cyclopes have almost no contact with other sapient peoples, owing to the isolation of their habitats and their solitary nature. [Merfolk](/content/species/sapient/merfolk) occasionally encounter cyclopes on the coastlines where their ranges overlap, and the relationship is distant, for the two peoples have little to offer one another. The island peoples of the Auric Ocean are aware of the cyclopes and regard them with a mixture of respect and unease, for the sight of a solitary giant working stone on a remote headland is a striking one, and the cyclopes are figures of legend among the maritime peoples. For a broader overview of the world's peoples, see [Population](/content//population).

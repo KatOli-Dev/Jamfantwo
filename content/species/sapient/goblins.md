@@ -1,0 +1,42 @@
+---
+layout: default
+title: Goblins
+---
+
+## Origins
+
+The origins of the goblins are poorly documented, and what little is known has been pieced together from the accounts of other peoples rather than from goblin records. Goblins are a smaller and more numerous people, reported in a variety of habitats, often in places that other peoples do not occupy. Some naturalists have proposed a kinship between goblins and [orcs](/content/species/sapient/orcs), citing the broadly similar social organisation, the preference for marginal habitats, and certain features of the goblinish body that echo, in diminished form, the powerful build of the orc. Others have dismissed this connection, noting that goblins are far more adaptable in their choice of habitat and far more varied in their ways of life than the orcish peoples. The question remains open, and the goblins themselves have contributed little to the debate.
+
+What is known is that goblins have been present in the known world for as long as records have been kept, and their populations have proved remarkably resilient in the face of pressure from the expanding common peoples. Goblin communities have persisted in regions where other peoples have come and gone, and their ability to maintain themselves in difficult and contested ground is a defining characteristic of the species.
+
+## Anatomy and Physiology
+
+Goblins are small, standing shorter than [dwarves](/content/species/sapient/dwarves) but taller than [gnomes](/content/species/sapient/gnomes), with thin and wiry frames that belie a surprising resilience. Their bones are light but tough, and their musculature is built for agility and endurance rather than strength. Goblins are quick in their movements and capable of sustained exertion over long periods, qualities that serve them well in the marginal habitats they occupy, where the ability to travel far and fast is of greater value than the ability to fight or carry heavy loads.
+
+Goblinish senses are sharp, particularly their vision and hearing. Their eyes are large and adapted to low light, capable of seeing in conditions that would leave a [human](/content/species/sapient/humans) effectively blind, and their large, pointed ears are mobile and sensitive, detecting faint sounds at considerable distance. Their sense of smell is moderate, less developed than that of orcs or dwarves, but adequate for their needs. Goblins are noted for their manual dexterity, and their long-fingered hands are capable of fine and precise work, a talent that they apply to the making of tools, traps, and the clever devices for which they are known.
+
+Goblinish skin ranges from greenish-grey to pale yellow in colour, and it is coarse and somewhat leathery, providing a degree of protection against rough conditions. Their hair is dark and lank, worn long and often unkempt, and their teeth are sharp and numerous, with the canines somewhat enlarged though not so prominent as the tusks of orcs.
+
+## Life Cycle
+
+Goblins are short-lived, with a typical lifespan of forty to sixty years under favourable conditions, though many goblins do not live to old age owing to the harsh circumstances in which they dwell. They mature quickly, reaching physical adulthood by their early teens, and their decline in later years is rapid. Goblinish women carry their young for approximately six months, the shortest gestation among the sapient peoples alongside gnomes, and births are frequently multiple, with twins and triplets being common. Infant mortality is high, particularly in communities that dwell in difficult or contested terrain, but the extraordinary rate of birth ensures that goblinish populations recover rapidly from losses and can increase quickly when conditions allow.
+
+The rapid turnover of generations has produced a people who live in the present and place little value on long-term planning. Goblinish communities are oriented toward immediate survival and opportunistic gain, and their traditions emphasise cunning and adaptability over permanence and accumulation. This orientation has contributed to the goblinish reputation for unpredictability, as a community may alter its habits or its location with a speed that other peoples find disconcerting.
+
+## Habitat and Distribution
+
+Goblins are the most adaptable of the less common peoples, found in a wider range of habitats than [orcs](/content/species/sapient/orcs) or [gnomes](/content/species/sapient/gnomes). They are reported in the forests and hills of [Aethelar](/content/location/natural/continent/aethelar), the cold steppes and coastal margins of [Morvind](/content/location/natural/continent/morvind), the desert fringes of [Sahrana](/content/location/natural/continent/sahrana), and in a variety of other terrains that other peoples find uninviting. Goblins favour places that are overlooked or avoided by the common peoples, including dense thickets, rocky wastelands, abandoned settlements, and the margins of human and elven territory, where they may scavenge and trade without coming into direct conflict.
+
+Goblinish settlements are typically small and impermanent, established in caves, ruins, or rough shelters that can be abandoned at short notice. The mobility of goblinish communities is a key to their survival, as they may relocate in response to pressure from other peoples, changes in the availability of resources, or the simple whim of the community. Some goblinish groups are wholly nomadic, moving through a territory without establishing any fixed base.
+
+## Diet
+
+The goblinish diet is the most varied and least fastidious of any sapient people. Goblins are opportunistic omnivores, eating whatever the land provides, including roots, fungi, small game, fish, insects, and the scavenged remains of animals killed by other predators. They are not above eating foods that other peoples would reject, and their digestion is hardy and tolerant of spoilage and rough fare. Goblins do not practise agriculture, though they sometimes gather and tend wild plants in a casual manner, encouraging the growth of useful species near their settlements without formally cultivating them.
+
+The goblinish willingness to eat anything has contributed to their ability to persist in marginal habitats, where the food supply is uncertain and the competition for resources is fierce. It has also contributed to their low reputation among the common peoples, who regard goblinish eating habits with distaste, though naturalists have noted that the goblinish constitution is remarkably well adapted to the conditions under which they live.
+
+## Ecology
+
+Goblins occupy the niche of a small-bodied opportunist and scavenger, living at the margins of the territories of other peoples and making use of resources that others overlook or discard. Their impact on their surroundings is modest in scale but pervasive, as goblinish communities may affect the ecology of an area through their foraging and scavenging without ever being seen by its dominant inhabitants. Goblins are both competitors and incidental beneficiaries of the common peoples, raiding stores and fields in times of scarcity but also consuming pests and waste that would otherwise accumulate.
+
+Where goblinish ranges overlap with those of [orcs](/content/species/sapient/orcs), the two peoples are sometimes found in close proximity, and a wary symbiosis may develop in which goblins scavenge from orcish kills and orcs tolerate the goblins' presence in exchange for such services as scouting and the cleaning of carcasses. Where goblins encounter [humans](/content/species/sapient/humans) or [dwarves](/content/species/sapient/dwarves), relations are typically hostile, as goblinish raiding and scavenging bring them into conflict with the settled peoples. For a broader overview of the world's peoples, see [Population](/content//population).

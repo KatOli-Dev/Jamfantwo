@@ -11,219 +11,159 @@ title: Homepage
 
 Top-level overview pages covering the physical and demographic makeup of the known world.
 
-- [Geography](/content/geography)
-- [Population](/content/population)
-
-### Continents
-
-The three major landmasses of the known world, each with its own climate, terrain, and peoples.
-
-- [Aethelar](/content/aethelar)
-- [Morvind](/content/morvind)
-- [Sahrana](/content/sahrana)
-
-### Oceans and Seas
-
-The bodies of water that connect and divide the continents, and the straits that link them.
-
-- [The Auric Ocean](/content/auric-ocean)
-- [The Greyring Ocean](/content/greyring-ocean)
-- [The Stormfall Sea](/content/stormfall-sea)
-- [The Strait of Velden](/content/strait-of-velden)
-
-### Regions
-
-Distinct geographic areas that span or cross continental boundaries.
-
-- [The Kharesh](/content/kharesh)
+- [Geography](/content//geography)
+- [Population](/content//population)
 
 ### Species
 
-The sapient peoples of the known world, grouped by the habitats and regions they inhabit. See [Population](/content/population) for a broad survey of all peoples and their relations.
+- [Anurans](/content/species/sapient/anurans)
+- [Arachne](/content/species/sapient/arachne)
+- [Cancrids](/content/species/sapient/cancrids)
+- [Centaurs](/content/species/sapient/centaurs)
+- [Cephalopods](/content/species/sapient/cephalopods)
+- [Cervines](/content/species/sapient/cervines)
+- [Corvids](/content/species/sapient/corvids)
+- [Cyclopes](/content/species/sapient/cyclopes)
+- [Dwarves](/content/species/sapient/dwarves)
+- [Elves](/content/species/sapient/elves)
+- [Felinids](/content/species/sapient/felinids)
+- [Giants](/content/species/sapient/giants)
+- [Gnomes](/content/species/sapient/gnomes)
+- [Goblins](/content/species/sapient/goblins)
+- [Goliaths](/content/species/sapient/goliaths)
+- [Halflings](/content/species/sapient/halflings)
+- [Harpies](/content/species/sapient/harpies)
+- [Humans](/content/species/sapient/humans)
+- [Kappa](/content/species/sapient/kappa)
+- [Kobolds](/content/species/sapient/kobolds)
+- [Kryn](/content/species/sapient/kryn)
+- [Lacertians](/content/species/sapient/lacertians)
+- [Lepidians](/content/species/sapient/lepidians)
+- [Lupines](/content/species/sapient/lupines)
+- [Merfolk](/content/species/sapient/merfolk)
+- [Minotaurs](/content/species/sapient/minotaurs)
+- [Murids](/content/species/sapient/murids)
+- [Naga](/content/species/sapient/naga)
+- [Noctules](/content/species/sapient/noctules)
+- [Ogres](/content/species/sapient/ogres)
+- [Orcs](/content/species/sapient/orcs)
+- [Salawa](/content/species/sapient/salawa)
+- [Satyrs](/content/species/sapient/satyrs)
+- [Saurians](/content/species/sapient/saurians)
+- [Tortolans](/content/species/sapient/tortolans)
+- [Trolls](/content/species/sapient/trolls)
+- [Ursines](/content/species/sapient/ursines)
 
-#### Common Peoples
+### Government
 
-The most widespread and extensively documented species, found on all three continents.
+#### National
 
-- [Humans](/content/humans)
-- [Elves](/content/elves)
-- [Dwarves](/content/dwarves)
+- [Kingdom of Aldreth](/content/government/national/kingdom-of-aldreth)
+- [Kingdom of Vael](/content/government/national/kingdom-of-vael)
+- [The Amurra Republic](/content/government/national/amurra-republic)
+- [The Auric Isles](/content/government/national/auric-isles)
+- [The Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold)
+- [The Frostwall Clans](/content/government/national/frostwall-clans)
+- [The Holds of Stoneheim](/content/government/national/holds-of-stoneheim)
+- [The Kharesh Tribes](/content/government/national/kharesh-tribes)
+- [The Kingdom of Nordhaven](/content/government/national/kingdom-of-nordhaven)
+- [The League of the Northern Coast](/content/government/national/league-of-the-northern-coast)
+- [The Northern Marches](/content/government/national/northern-marches)
+- [The Plains Confederation](/content/government/national/plains-confederation)
+- [The Southern Reach](/content/government/national/southern-reach)
+- [The Thessaran League](/content/government/national/thessaran-league)
+- [The Valdmark](/content/government/national/valdmark)
+- [The Vashari Pact](/content/government/national/vashari-pact)
 
-#### Less Common Peoples
+#### Local
 
-Species whose populations are smaller or more localised, concentrated in particular regions rather than spread across the whole world.
+- [The Council of Khalisar](/content/government/local/council-of-khalisar)
+- [The Grey Coast Holdings](/content/government/local/grey-coast-holdings)
+- [The Sylvan Court](/content/government/local/sylvan-court)
+- [The Velden Compact](/content/government/local/velden-compact)
 
-- [Gnomes](/content/gnomes)
-- [Orcs](/content/orcs)
-- [Goblins](/content/goblins)
+### Locations
 
-#### Seas and Coasts
+#### Natural — Continents
 
-Species whose lives are tied to the oceans, coastlines, and deep waters.
+- [Aethelar](/content/location/natural/continent/aethelar)
+- [Morvind](/content/location/natural/continent/morvind)
+- [Sahrana](/content/location/natural/continent/sahrana)
 
-- [Merfolk](/content/merfolk)
-- [Cancrids](/content/cancrids)
-- [Cephalopods](/content/cephalopods)
+#### Natural — Features
 
-#### Warm Lands
+- [The Auric Ocean](/content/location/natural/feature/auric-ocean)
+- [The Greyring Ocean](/content/location/natural/feature/greyring-ocean)
+- [The Kharesh](/content/location/natural/feature/kharesh)
+- [The Stormfall Sea](/content/location/natural/feature/stormfall-sea)
+- [The Strait of Velden](/content/location/natural/feature/strait-of-velden)
 
-Species adapted to heat, confined to the warm southern latitudes and arid interiors.
+#### Settlements — Cities
 
-- [Naga](/content/naga)
-- [Lacertians](/content/lacertians)
-- [Saurians](/content/saurians)
-- [Salawa](/content/salawa)
-- [Tortolans](/content/tortolans)
-- [Felinids](/content/felinids)
+- [Amurra](/content/location/settlement/city/amurra)
+- [Ashford](/content/location/settlement/city/ashford)
+- [Avaros](/content/location/settlement/city/avaros)
+- [Caerwyn](/content/location/settlement/city/caerwyn)
+- [Drahima](/content/location/settlement/city/drahima)
+- [Eldergrove](/content/location/settlement/city/eldergrove)
+- [Eldreth](/content/location/settlement/city/eldreth)
+- [Emberfall](/content/location/settlement/city/emberfall)
+- [Goldmeadow](/content/location/settlement/city/goldmeadow)
+- [Grimhold](/content/location/settlement/city/grimhold)
+- [Hafnir](/content/location/settlement/city/hafnir)
+- [Highgate](/content/location/settlement/city/highgate)
+- [Karhold](/content/location/settlement/city/karhold)
+- [Khalisar](/content/location/settlement/city/khalisar)
+- [Khazgar](/content/location/settlement/city/khazgar)
+- [Nessara](/content/location/settlement/city/nessara)
+- [Nordhaven](/content/location/settlement/city/nordhaven)
+- [Qassir](/content/location/settlement/city/qassir)
+- [Sallowmere](/content/location/settlement/city/sallowmere)
+- [Stagford](/content/location/settlement/city/stagford)
+- [Stoneheim](/content/location/settlement/city/stoneheim)
+- [Sunmere](/content/location/settlement/city/sunmere)
+- [Taretha](/content/location/settlement/city/taretha)
+- [Thornhaven](/content/location/settlement/city/thornhaven)
+- [Thornwick](/content/location/settlement/city/thornwick)
+- [Vaelmouth](/content/location/settlement/city/vaelmouth)
+- [Valdheim](/content/location/settlement/city/valdheim)
+- [Vashari](/content/location/settlement/city/vashari)
 
-#### Forests and Plains
+#### Settlements — Towns
 
-Species of the woodlands, grasslands, and open country, each adapted to a particular kind of terrain.
+- [Ashaar](/content/location/settlement/town/ashaar)
+- [Bjornsholm](/content/location/settlement/town/bjornsholm)
+- [Brackenford](/content/location/settlement/town/brackenford)
+- [Caerhaven](/content/location/settlement/town/caerhaven)
+- [Deepreach](/content/location/settlement/town/deepreach)
+- [Dustford](/content/location/settlement/town/dustford)
+- [Fernmoor](/content/location/settlement/town/fernmoor)
+- [Greycliff](/content/location/settlement/town/greycliff)
+- [Ironhollow](/content/location/settlement/town/ironhollow)
+- [Misthaven](/content/location/settlement/town/misthaven)
+- [Redhollow](/content/location/settlement/town/redhollow)
+- [Saltreach](/content/location/settlement/town/saltreach)
+- [Skaldshavn](/content/location/settlement/town/skaldshavn)
+- [Southport](/content/location/settlement/town/southport)
+- [Torem](/content/location/settlement/town/torem)
+- [Torshavn](/content/location/settlement/town/torshavn)
+- [Vargvik](/content/location/settlement/town/vargvik)
+- [Veldenwatch](/content/location/settlement/town/veldenwatch)
+- [Vereth](/content/location/settlement/town/vereth)
 
-- [Centaurs](/content/centaurs)
-- [Halflings](/content/halflings)
-- [Satyrs](/content/satyrs)
-- [Minotaurs](/content/minotaurs)
-- [Ursines](/content/ursines)
-- [Corvids](/content/corvids)
-- [Cervines](/content/cervines)
-- [Lepidians](/content/lepidians)
+#### Settlements — Villages
 
-#### Mountains and Underground
+- [Coldmoor](/content/location/settlement/village/coldmoor)
+- [Frostbeak](/content/location/settlement/village/frostbeak)
+- [Kheled](/content/location/settlement/village/kheled)
+- [Ravenscrag](/content/location/settlement/village/ravenscrag)
+- [Shurra](/content/location/settlement/village/shurra)
+- [Tidesmeet](/content/location/settlement/village/tidesmeet)
+- [Windward](/content/location/settlement/village/windward)
 
-Species whose bodies are adapted to stone, darkness, thin air, and the remote heights.
+#### Settlements — Outposts
 
-- [Trolls](/content/trolls)
-- [Goliaths](/content/goliaths)
-- [Giants](/content/giants)
-- [Harpies](/content/harpies)
-- [Kobolds](/content/kobolds)
-- [Arachne](/content/arachne)
-- [Kryn](/content/kryn)
-- [Noctules](/content/noctules)
-- [Ogres](/content/ogres)
-- [Cyclopes](/content/cyclopes)
-
-#### Waters and Marshes
-
-Species tied to fresh water, wetlands, and the damp margins of the land.
-
-- [Kappa](/content/kappa)
-- [Anurans](/content/anurans)
-- [Murids](/content/murids)
-- [Lupines](/content/lupines)
-
-### Cities
-
-Individual settlements across all three continents, the islands, and the far south, grouped by location.
-
-#### Aethelar
-
-- [Eldreth](/content/eldreth)
-- [Vaelmouth](/content/vaelmouth)
-- [Caerwyn](/content/caerwyn)
-- [Thornhaven](/content/thornhaven)
-- [Sallowmere](/content/sallowmere)
-- [Greycliff](/content/greycliff)
-- [Misthaven](/content/misthaven)
-- [Saltreach](/content/saltreach)
-- [Eldergrove](/content/eldergrove)
-- [Thornwick](/content/thornwick)
-- [Ashford](/content/ashford)
-- [Fernmoor](/content/fernmoor)
-- [Highgate](/content/highgate)
-- [Avaros](/content/avaros)
-- [Goldmeadow](/content/goldmeadow)
-- [Stagford](/content/stagford)
-- [Karhold](/content/karhold)
-- [Deepreach](/content/deepreach)
-- [Sunmere](/content/sunmere)
-- [Dustford](/content/dustford)
-- [Emberfall](/content/emberfall)
-- [Redhollow](/content/redhollow)
-- [Brackenford](/content/brackenford)
-- [Southport](/content/southport)
-- [Caerhaven](/content/caerhaven)
-
-#### Morvind
-
-- [Nordhaven](/content/nordhaven)
-- [Skaldshavn](/content/skaldshavn)
-- [Bjornsholm](/content/bjornsholm)
-- [Vargvik](/content/vargvik)
-- [Hafnir](/content/hafnir)
-- [Stoneheim](/content/stoneheim)
-- [Khazgar](/content/khazgar)
-- [Grimhold](/content/grimhold)
-- [Frostbeak](/content/frostbeak)
-- [Valdheim](/content/valdheim)
-- [Veldenwatch](/content/veldenwatch)
-- [Torshavn](/content/torshavn)
-- [Ravenscrag](/content/ravenscrag)
-- [Coldmoor](/content/coldmoor)
-- [Ironhollow](/content/ironhollow)
-
-#### Sahrana
-
-- [Khalisar](/content/khalisar)
-- [Amurra](/content/amurra)
-- [Vashari](/content/vashari)
-- [Taretha](/content/taretha)
-- [Drahima](/content/drahima)
-- [Nessara](/content/nessara)
-- [Qassir](/content/qassir)
-- [Shurra](/content/shurra)
-- [Kheled](/content/kheled)
-- [Dunesend](/content/dunesend)
-
-#### Islands
-
-- [Tidesmeet](/content/tidesmeet)
-- [Windward](/content/windward)
-
-#### Southern Reach
-
-Settlements of the far south beyond the Kharesh, on the shores of the inland seas.
-
-- [Vereth](/content/vereth)
-- [Ashaar](/content/ashaar)
-- [Torem](/content/torem)
-
-### Nations
-
-Kingdoms, city-states, confederations, and other political entities, grouped by continent.
-
-#### Aethelar
-
-- [Kingdom of Vael](/content/kingdom-of-vael)
-- [Kingdom of Aldreth](/content/kingdom-of-aldreth)
-- [The Thessaran League](/content/thessaran-league)
-- [The Plains Confederation](/content/plains-confederation)
-- [The Northern Marches](/content/northern-marches)
-- [The Grey Coast Holdings](/content/grey-coast-holdings)
-- [The Deep Realm of Karhold](/content/deep-realm-of-karhold)
-- [The Sylvan Court](/content/sylvan-court)
-
-#### Morvind
-
-- [The Kingdom of Nordhaven](/content/kingdom-of-nordhaven)
-- [The Holds of Stoneheim](/content/holds-of-stoneheim)
-- [The Frostwall Clans](/content/frostwall-clans)
-- [The Valdmark](/content/valdmark)
-- [The Velden Compact](/content/velden-compact)
-
-#### Sahrana
-
-- [The Council of Khalisar](/content/council-of-khalisar)
-- [The Amurra Republic](/content/amurra-republic)
-- [The League of the Northern Coast](/content/league-of-the-northern-coast)
-- [The Kharesh Tribes](/content/kharesh-tribes)
-- [The Vashari Pact](/content/vashari-pact)
-
-#### Islands and Beyond
-
-- [The Auric Isles](/content/auric-isles)
-- [The Southern Reach](/content/southern-reach)
+- [Dunesend](/content/location/settlement/outpost/dunesend)
 
 ### Additional Pages
 
