@@ -5,7 +5,7 @@ title: Karhold
 
 ## Overview
 
-Karhold is the greatest [dwarven](/content/species/sapient/dwarves) city of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), and it is the capital of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold). The city is carved into the living rock of the mountains, its halls and chambers extending for miles into the interior of the range, and its wealth is built upon the mineral deposits that are worked in the depths beneath the city. Karhold is one of the oldest dwarven settlements in the known world, and its halls are among the most extensive and the most magnificent of any dwarven city, rivalled only by the great halls of [Morvind](/content/location/natural/continent/morvind).
+Karhold is the greatest [dwarven](/content/species/sapient/dwarves) city of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), and it is the capital of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold). The city is carved into the living rock of the mountains, its halls and chambers extending for miles into the interior of the range, and its wealth is built upon the mineral deposits that are worked in the depths beneath the city. Karhold is one of the oldest dwarven settlements in the known world, and its halls are among the most extensive and the most magnificent of any dwarven city, rivalled only by the great halls of [Stoneheim](/content/location/settlement/city/stoneheim) in [Morvind](/content/location/natural/continent/morvind).
 
 ## The Halls
 

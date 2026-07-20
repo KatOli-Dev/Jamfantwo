@@ -17,7 +17,7 @@ The pilots of Vargvik are the most skilled in Morvind, for the passage through t
 
 ## Fishing and Survival
 
-The fishing grounds off Vargvik are productive, for the cold waters of the northern [Stormfall Sea](/content/location/natural/feature/stormfall-sea) sustain the shoals that are the primary food source of the town, and the catch is supplemented by the hunting of the marine mammals that inhabit the coast, including the seals and the walruses that are a valued source of food, oil, and material. The hunting of these animals is a dangerous and demanding activity, and the hunters of Vargvik are among the most skilled and the most courageous in Morvind.
+The fishing grounds off Vargvik are productive, for the cold offshore waters sustain the shoals that are the primary food source of the town, and the catch is supplemented by the hunting of the marine mammals that inhabit the coast, including the seals and the walruses that are a valued source of food, oil, and material. The hunting of these animals is a dangerous and demanding activity, and the hunters of Vargvik are among the most skilled and the most courageous in Morvind.
 
 The town is also sustained by the hunting of the [lupines](/content/species/sapient/lupines) of the cold steppes that lie behind the mountains, and the occasional trade between the coastal humans and the steppe lupines is a valued if rare event. The lupines provide the fur and the meat of the steppe in exchange for the fish and the oil of the coast, and the exchange is conducted at the highland passes that connect the coast to the interior during the brief summer.
 
@@ -35,7 +35,7 @@ Vargvik is a small, rugged town, and its buildings are constructed of the dark s
 
 The [lupines](/content/species/sapient/lupines) of the cold steppes that lie behind the mountains are the nearest neighbours of Vargvik, and the occasional trade between the coastal humans and the steppe lupines is a valued if rare event. The lupines are a nomadic people who range across the cold steppes in patterns that are governed by the movement of the herds and the seasons, and their visits to the highland passes are unpredictable and infrequent. The trade between the two peoples is conducted at the passes that connect the coast to the interior during the brief summer, and the exchanges are made in the open air, for neither people is accustomed to the dwellings of the other.
 
-The relationship between the coastal humans and the steppe lupines is one of cautious respect, for the two peoples are separated by the mountains and the differences of their ways of life, and the contact between them is limited to the brief exchanges that occur at the passes. The lupines are a fierce and a independent people, and the humans of Vargvik have learned to respect their ways and to value the trade that they bring, for the fur and the meat of the steppe are the most valuable commodities that the town acquires from the interior.
+The relationship between the coastal humans and the steppe lupines is one of cautious respect, for the two peoples are separated by the mountains and the differences of their ways of life, and the contact between them is limited to the brief exchanges that occur at the passes. The lupines are a fierce and an independent people, and the humans of Vargvik have learned to respect their ways and to value the trade that they bring, for the fur and the meat of the steppe are the most valuable commodities that the town acquires from the interior.
 
 ## Culture and the Survival
 

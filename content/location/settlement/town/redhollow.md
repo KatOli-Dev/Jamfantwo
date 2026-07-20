@@ -5,7 +5,7 @@ title: Redhollow
 
 ## Overview
 
-Redhollow is a southern settlement of [Aethelar](/content/location/natural/continent/aethelar), situated at the frontier of the plains where the cultivated land meets the warm, dry country of the far south. The town stands in a shallow valley where the red soil of the dry country meets the darker earth of the grasslands, and the name of the settlement is derived from the reddish hue of the ground that surrounds it. Redhollow is the smallest and the most remote of the settlements of the southern plains, and its people are hardy and self-reliant, accustomed to the demands of a life at the edge of the cultivated land.
+Redhollow is a southern settlement of [Aethelar](/content/location/natural/continent/aethelar), situated at the frontier of the [Plains Confederation](/content/government/national/plains-confederation) where the cultivated grasslands meet the [Emberlands](/content/location/settlement/region/the-emberlands). The town stands in a shallow valley where the red soil of the dry country meets the darker earth of the grasslands, and the name of the settlement is derived from the reddish hue of the ground that surrounds it. Redhollow is the smallest and the most remote of the settlements of the southern plains, and its people are hardy and self-reliant, accustomed to the demands of a life at the edge of the cultivated land.
 
 ## The Frontier
 

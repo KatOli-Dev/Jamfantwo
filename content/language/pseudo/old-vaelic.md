@@ -5,7 +5,7 @@ title: Old Vaelic
 
 ## Overview
 
-Old Vaelic is the name given by the scholars of the [Kingdom of Vael](/content/government/national/kingdom-of-vael) to the system of signal banners and standing flags by which the court and the garrisons of the [River Vael](/content/location/natural/feature/auric-ocean) valley communicate over distances too great for the voice to carry. It is not a language in the ordinary sense, for it has no grammar and no vocabulary of the kind that is written or spoken. It is instead a code of colours, patterns, and sequences, displayed upon poles and towers, that conveys information across the fields and the fortifications of the kingdom. The system is used by the castle watchmen, the garrison signalmen, and the royal messengers to send warnings, to relay commands, and to coordinate the movements of troops and goods across the length of the valley.
+Old Vaelic is the name given by the scholars of the [Kingdom of Vael](/content/government/national/kingdom-of-vael) to the system of signal banners and standing flags by which the court and the garrisons of the River Vael valley communicate over distances too great for the voice to carry. It is not a language in the ordinary sense, for it has no grammar and no vocabulary of the kind that is written or spoken. It is instead a code of colours, patterns, and sequences, displayed upon poles and towers, that conveys information across the fields and the fortifications of the kingdom. The system is used by the castle watchmen, the garrison signalmen, and the royal messengers to send warnings, to relay commands, and to coordinate the movements of troops and goods across the length of the valley.
 
 ## The Nature of the Signals
 
@@ -22,6 +22,10 @@ The settled peoples of the valley who live within sight of the towers are genera
 ## Relation to the Spoken Tongue
 
 Old Vaelic is distinct from the spoken language of the kingdom, which is the tongue of the Vaelic people and the medium of the court and the market. The spoken language is a true language with a grammar and a vocabulary, used for the ordinary purposes of life and for the preservation of the laws and the histories of the realm. The banner signals, by contrast, are a code of limited scope, capable of conveying only a fixed set of meanings, and they are used only for the specific purposes of communication across distance. Many of the common people of the valley cannot read the signals at all, but rely upon the public criers and the town heralds whose signal-boxes relay the important messages that fly from the towers.
+
+The training of a Vaelic signalman begins with the recognition of colours under poor light, for mist, rain, and sunset can make one banner resemble another at a distance. Apprentices next learn the fixed order in which a message is opened, repeated, acknowledged, and closed, allowing each station to detect an incomplete relay before passing it onward. Watches keep written logs of every signal received and sent, and discrepancies are carried to the captain of the tower at the end of the day. These disciplines prevent the speed of the system from becoming a source of confusion and allow the royal court to trace an error to the station at which it arose.
+
+Old Vaelic is least reliable during heavy fog, snowfall, or still nights when no wind opens the banners. The towers therefore keep horns, lamps, and mounted couriers as secondary means of communication, though none combines the range and precision of the flag code in clear weather. A signalman is judged not only by speed but by the restraint to suspend a doubtful message rather than relay a colour or sequence that has not been clearly seen.
 
 ## Significance
 
