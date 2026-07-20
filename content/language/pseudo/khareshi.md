@@ -1,0 +1,28 @@
+---
+layout: default
+title: Khareshi
+---
+
+## Overview
+
+Khareshi is the system of whistle signals used by the [Kharesh Tribes](/content/government/national/kharesh-tribes), the nomadic peoples of the [Kharesh](/content/location/natural/feature/kharesh) desert in [Sahrana](/content/location/natural/continent/sahrana), to communicate across the open wastes where the voice cannot carry and where distance defeats the spoken word. It is not a language in the ordinary sense, for it has no grammar and no vocabulary of the kind that the settled peoples recognise as speech. It is instead a code of pitches and sequences, produced by the lips and the fingers of the skilled caller, that carries information across distances of a mile or more. The system is used by the herders, the scouts, and the caravan guides of the desert interior, and its signals are understood by every nomad who travels the wastes, whatever the dialect of his spoken tongue.
+
+## The Nature of the Signals
+
+The signals of Khareshi are produced by whistling through the fingers, a technique that sends a high and piercing note across the open desert, and they are distinguished one from another by the pitch, the duration, and the pattern of the notes. A single long note, held for a count of three, is a signal of greeting, a sign that the caller is a friend and that he means to approach in peace. A pair of short notes, rising in pitch, is a signal of water, informing the hearer that a spring or a well has been found. A series of short notes, descending in pitch and repeated at intervals, is a signal of danger, warning the hearer of raiders, predators, or approaching storms. A steady alternation of high and low notes, sustained for a count of ten, is a signal of gathering, a summons for the scattered members of the kindred to come together at a meeting point.
+
+The range of the signals is determined by the openness of the terrain and the stillness of the air, and a caller stationed upon a high dune can be heard at a distance of several miles in the quiet of the desert morning. The [salawa](/content/species/sapient/salawa), whose hearing is sharper than that of humans, can read Khareshi signals at ranges that would be inaudible to the human ear, and they are valued as sentinels and as relay callers. The wind can distort the signals or carry them away, and the practised caller learns to read the behaviour of the air and to choose his moment accordingly. The system is thus a subtle art as well as a practical one, and the reputation of a scout rests in part upon the clarity and the reliability of his calls.
+
+## Centres of Use
+
+The use of Khareshi is most extensive among the nomadic kindreds of the desert interior, where the distances between the camps are measured in days rather than in hours and where the spoken word cannot span the gaps between the scattered groups. The herders who tend the flocks on the margins of the settled lands are the most frequent users of the system, for their flocks are spread across wide pastures and the herders must remain in contact with one another and with the camp. The caravan guides who cross the desert between the coastal cities and the interior settlements also make use of Khareshi, sending signals between the forward scouts and the main body of the caravan to coordinate the passage through the difficult terrain.
+
+The settled peoples of the coastal cities who have dealings with the nomads are generally aware of the existence of Khareshi, but few have learned to read its signals, for the pitch and the timing of the whistled calls require a trained ear and a knowledge of the desert conventions. The traders who travel with the caravans are taught a limited set of signals for practical purposes, such as the call for water and the call for danger, but the deeper codes of the system, the calls that carry the news of the kindreds and the intelligence of the desert, are kept within the nomadic community and are not shared with the outsiders.
+
+## Relation to the Spoken Tongues
+
+Khareshi is distinct from the spoken languages of the desert peoples, for the spoken tongues are true languages with grammar and vocabulary, while the signal system is a code of limited scope, capable of conveying only a fixed set of meanings. The two systems are used in different contexts and for different purposes, and a nomad who converses in the spoken tongue within the camp will use the Khareshi calls when he moves beyond the hearing of the hearth. The spoken languages of the Kharesh, of which there are several, are languages of words and sentences, used for the ordinary commerce of life and for the preservation of the traditions and the histories of the kindreds. The Khareshi calls, by contrast, are the voice of the desert itself, the means by which the scattered peoples of the wastes maintain their connection across the distances that keep them apart.
+
+## Significance
+
+Khareshi is the voice of the open desert, the means by which the nomadic peoples of the Kharesh maintain the coherence and the safety of their scattered communities. Without the whistled signals, the kindreds of the interior would be isolated from one another by the distances that the voice cannot cross, and the coordination of the herds, the caravans, and the camps would be a far more difficult and a far more dangerous undertaking. The system is a practical invention, born of the necessities of the nomadic life, and it is a measure of the ingenuity by which the desert peoples have adapted to the conditions of their world. In the silence of the wastes where the traveller hears only the wind, the nomad hears the whistle of the Khareshi calls, carrying the news of water and of danger and of gathering from one horizon to the next.

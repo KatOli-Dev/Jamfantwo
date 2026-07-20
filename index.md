@@ -11,8 +11,8 @@ title: Homepage
 
 Top-level overview pages covering the physical and demographic makeup of the known world.
 
-- [Geography](/content//geography)
-- [Population](/content//population)
+- [Geography](/content/geography)
+- [Population](/content/population)
 
 ### Species
 
@@ -167,8 +167,8 @@ Top-level overview pages covering the physical and demographic makeup of the kno
 
 ### Additional Pages
 
-Project metadata: planning, licensing, and style guidance.
+Project metadata: licensing and style guidance.
 
-- [Plan](/plan)
 - [License](/license)
 - [Style Guide](/style-guide)
+- [Content Structure](/structure)

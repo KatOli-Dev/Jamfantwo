@@ -10,7 +10,7 @@ title: Content Style Guide
 - Third person; past tense for history and biography, present only for enduring facts (geography, architecture). No second person.
 
 ## Content File Conventions
-- kebab-case filenames in `content/`, no subdirectories yet. Front matter needs `layout: default` and a title-case `title` matching the canonical name.
+- kebab-case filenames in `content/`, organised into subdirectories by category. Front matter needs `layout: default` and a title-case `title` matching the canonical name.
 - Begin at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
 - Every page must be at least 1,000 words (body text only; excludes front matter, link URLs, and code blocks).
 
