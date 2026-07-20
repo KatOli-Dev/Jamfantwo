@@ -2,8 +2,13 @@ title: Jamfantwo
 initials: Jfw
 description: A medieval fantasy world-building project.
 keywords: medieval,fantasy,world,world-building
+url: "http://localhost:4000"
+baseurl: ""
+permalink: pretty
 
 exclude:
   - "opencode.json"
   - "**/sed*"
   - ".opencode"
+  - ".github"
+  - "scripts"
