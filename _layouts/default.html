@@ -2,39 +2,42 @@
 ---
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>
-      {{page.title}} - {{site.initials}}
+      {% if page.url == '/' %}{{ site.title | escape }}{% else %}{{ page.title | default: site.title | escape }} - {{ site.initials | escape }}{% endif %}
     </title>
-    <meta name="description" content="{{site.description}}">
-    <meta name="keywords" content="{{site.keywords}}">
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <meta name="keywords" content="{{ site.keywords | escape }}">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/default.css">
-    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
   </head>
   <body>
+    <a href="#main-content" class="skip-link">
+      Skip to main content
+    </a>
     <header>
-      <nav>
-        <a href="/" class="brand">
+      <nav aria-label="Primary">
+        <a href="{{ '/' | relative_url }}" class="brand">
           {{site.title}}
         </a>
         <ul>
           <li>
-            <a href="/">
+            <a href="{{ '/' | relative_url }}">
               Home
             </a>
           </li>
           <li>
-            <a href="/license">
+            <a href="{{ '/license/' | relative_url }}">
               License
             </a>
           </li>
         </ul>
       </nav>
     </header>
-    <main>
+    <main id="main-content" tabindex="-1">
       <h1>
         {{page.title}}
       </h1>
@@ -43,7 +46,7 @@
     <footer>
       <p>
         Released under the
-        <a href="/license">
+        <a href="{{ '/license/' | relative_url }}">
           Unlicense
         </a>
       </p>
