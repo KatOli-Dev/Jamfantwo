@@ -3,7 +3,7 @@ layout: default
 title: Content Structure
 ---
 
-This document describes the current (as-implemented) layout of the `content/` directory and the rationale for each grouping. See [style-guide.md](/style-guide) for voice, linking, and formatting conventions.
+This document describes the current (as-implemented) layout of the `content/` directory and the rationale for each grouping. See [style-guide.md]({{ '/style-guide/' | relative_url }}) for voice, linking, and formatting conventions.
 
 ## Directory Tree
 
@@ -90,4 +90,23 @@ Split by sapience.
 
 ## Page Structure Convention
 
-Every content page opens with an `## Overview` section and closes with an `## Significance` section. This convention is enforced across all files and is not covered by the style guide.
+Heading schemas are category-specific. There is no universal `## Overview` / `## Significance` rule. The schemas actually in use are:
+
+### Sapient species (`content/species/sapient/*.md`)
+A fixed six-section schema used by every page in this category:
+1. `## Origins`
+2. `## Anatomy and Physiology`
+3. `## Life Cycle`
+4. `## Habitat and Distribution`
+5. `## Diet`
+6. `## Ecology`
+
+No `## Overview` or `## Significance` section is used.
+
+### Historical figures (`content/people/historical/*.md`)
+Begin with `## Overview`, followed by biographical sections (`Rise to Power`, `Reign`, `Legacy`, etc.). Pages in this category do not end with `## Significance`.
+
+### Other content pages
+Most other pages begin with `## Overview` and then use topic-specific sections suited to the subject. A section whose title contains `Significance` commonly closes place, polity, and creature pages, but overview pages and some established category templates may end with another subject-specific section. The validator enforces the opening heading and basic heading structure without imposing a false universal closing title.
+
+The index page (`index.md`) renders these category lists through `_includes/content-list.html`, which groups pages automatically; the lists are not maintained by hand.

@@ -11,18 +11,22 @@ title: Content Style Guide
 
 ## Content File Conventions
 - kebab-case filenames in `content/`, organised into subdirectories by category. Front matter needs `layout: default` and a title-case `title` matching the canonical name.
-- Begin at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
-- Every page must be at least 1,000 words (body text only; excludes front matter, link URLs, and code blocks).
+- Body begins at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
+- Heading schemas are category-specific. See [structure.md]({{ '/structure/' | relative_url }}) for the actual schemas used by each category (the historical Overview/Significance rule does not apply universally).
+- Every page must be at least 1,000 words of body prose (excluding front matter, link destinations, and fenced code blocks).
 
 ## Linking
 - Link with site-root-relative paths (`/content/...`). Link a subject on its first mention only, using its canonical name as link text. No dead links—mention in plain text until the page exists.
+- The auto-generated index and navigation use `{{ '/path/' | relative_url }}` so the same content builds correctly under any `baseurl`.
 
 ## Terminology and Consistency
 - Maintain a glossary of canonical terms and spellings; use it everywhere. Define new in-world terms inline on first use.
 - One spelling per term; consistent titles and honorifics across all pages.
+- Standard English article usage: "a" before consonant sounds, "an" before vowel sounds (e.g., "a kingdom", "an empire", "a unified", "an inhabitant"). Watch for copy-paste slips that produce "a apple", "a independent", "an kingdom".
 
 ## World Atmosphere
 - Medieval fantasy, but not grim or bleak. Honest about hardship without exaggeration; settlements are functional, not failing. Coexistence and conflict both present, neither dominant.
+- Prose is English only. Anomalous scripts (Han, Hangul, Hiragana/Katakana, full-width punctuation, and similar) appearing inside English sentences indicate a copy-paste corruption and must be corrected.
 
 ## Avoid
 - Emoji or pictographs; exclamation marks outside dialogue; all-caps emphasis; slang, modern idioms, or anachronistic language; duplicated content across files.

@@ -1,0 +1,76 @@
+{%- assign all_pages = site.pages | where_exp: "p", "p.path contains 'content/'" -%}
+{%- assign belief_subs = "ideology,religion/monotheist,religion/polytheist,science/physical,science/theoretical" | split: "," -%}
+{%- assign gov_subs = "national,local" | split: "," -%}
+{%- assign location_subs = "natural/continent,natural/ecosystem,natural/feature,route/trade,settlement/city,settlement/town,settlement/village,settlement/outpost,settlement/region" | split: "," -%}
+{%- assign people_subs = "historical,notable" | split: "," -%}
+{%- assign species_subs = "beasts,sapient" | split: "," -%}
+
+## Table of Contents
+
+### General
+
+Top-level overview pages covering the physical and demographic makeup of the known world.
+
+{% for p in all_pages %}{% assign ptitle = p.title | downcase %}{% if ptitle == "geography" or ptitle == "population" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endif %}{% endfor %}
+### Belief
+
+Systems of thought, faith, and learning.
+
+{% for sub in belief_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | replace: "/", " — " | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### Culture
+
+Festivals, rites, and decorative traditions.
+
+{% assign culture_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/culture/" %}{% assign culture_pages = culture_pages | push: p %}{% endif %}{% endfor %}{% for p in culture_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+### Government
+
+Governing bodies and polities.
+
+{% for sub in gov_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/government/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### History
+
+{% assign history_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/history/" %}{% assign history_pages = history_pages | push: p %}{% endif %}{% endfor %}{% for p in history_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+### Language
+
+Non-verbal signalling systems.
+
+{% assign lang_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/language/" %}{% assign lang_pages = lang_pages | push: p %}{% endif %}{% endfor %}{% for p in lang_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+### Locations
+
+Places in the known world.
+
+{% for sub in location_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/location/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | replace: "/", " — " | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### People
+
+Individuals of note.
+
+{% for sub in people_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/people/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### Species
+
+Creatures and peoples of the world.
+
+{% for sub in species_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/species/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
