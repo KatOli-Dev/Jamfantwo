@@ -1,0 +1,38 @@
+---
+layout: default
+title: Glasslight Coast
+---
+
+## Overview
+
+Along the southern shore of the principal continent, between the [Sahrani Coastal Strip](/content/location/natural/ecosystem/the-sahrani-coastal-strip) to the east and the mouth of the [Strait of Velden](/content/location/natural/feature/strait-of-velden) to the west, the coast takes on a distinctive character that the chroniclers of the academies have named the Glasslight Coast. The coast takes its name from the long, unbroken beaches of fine sand that the offshore currents deposit, and the sand reflects the light of the sun in a manner that the chroniclers compare to the surface of polished glass. The coast is bounded on the east by the rocky headland that marks the limit of the Sahrani Strip, on the west by the cliffs that rise toward the strait, on the north by the low hills that mark the limit of the coastal plain, and on the south by the [Auric Ocean](/content/location/natural/feature/auric-ocean).
+
+The coast is sparsely populated, and the population is concentrated in a string of small fishing villages along the beaches and a smaller number of farms upon the coastal plain. The villages and the farms are connected by a network of unpaved tracks that the magistrates of the towns of the coast maintain, and the tracks are suitable for the small carts that the farmers use but not for the larger vehicles that the paved roads of the trade routes carry. The chronicler notes that the coast is one of the most distinctive of the landscapes of the warm coast, and the coast is held in particular esteem by the fishermen and the glass-makers who make their living upon it.
+
+## Climate
+
+The coast enjoys a warm maritime climate that is moderated by the steady influence of the [Auric Ocean](/content/location/natural/feature/auric-ocean). The summers are hot but rarely oppressive, and the sea breeze that rises in the afternoon tempers the heat of the day. The winters are mild and dry, and the winters are the season at which the fishermen can work the beaches in comfort. The rainfall is sparse and falls mostly in the winter, and the rainfall is sufficient for the crops that the farmers cultivate upon the coastal plain but not for the more demanding crops that the inland valleys support.
+
+The coast is subject to the occasional storm that drives the surf high upon the beaches, and the storms are the source of much of the hardship of the fishermen who work the beaches in the season. The chronicler notes that the storms are recorded in the chronicles of the villages as exceptional events, and the chronicles describe the damage that the storms inflict upon the boats and the gear and the labour that the villagers must undertake to repair the damage. The chronicler observes that the storms have been the foundation of the careful management of the boats and the gear that the [Watch of the Inner Sea](/content/government/local/watch-of-the-inner-sea) maintains along the coast.
+
+## The Beaches
+
+The beaches of the coast are the foundation of the landscape, and the beaches extend for several days of travel from east to west without interruption. The sand is fine and pale, and the sand is the product of the slow erosion of the offshore rocks by the currents of the ocean. The sand supports a sparse vegetation of tough grasses and shrubs that the farmers have used to stabilise the dunes behind the beaches, and the vegetation is the home of the smaller creatures that the chroniclers of the [Cataloguing of Flora and Fauna](/content/belief/science/physical/the-cataloguing-of-flora-and-fauna) have catalogued with care.
+
+The beaches are the principal source of the fish that the villages catch, and the fishermen work the beaches with nets set from small boats that are launched from the beach. The principal fish are the small sardine-like species that the markets of [Khalisar](/content/location/settlement/city/khalisar) prize, and the fish are dried and salted for transport to the inland towns. The chronicler notes that the fishery has been the foundation of the prosperity of the villages, and the fishery is the source of much of the public spirit of the coast.
+
+## The Glass-Makers
+
+The fine sand of the beaches is the raw material of the glass that the workshops of the coast produce, and the glass-makers have worked the sand since the [Era of the Founding Cities](/content/history/era-of-the-founding-cities). The sand is mixed with the ash of the coastal shrubs and heated in small kilns that the glass-makers tend with care. The glass that the kilns produce is pale and clear, and the glass has been the foundation of the reputation of the coast as a source of fine glassware. The chronicler notes that the glass-makers are the most skilled of the craftsmen of the warm coast, and the glass-makers are held in high esteem by the magistrates and the merchants of [Khalisar](/content/location/settlement/city/khalisar).
+
+The glass-makers are organised into workshops that are governed by the master glass-makers in consultation with the magistrates of the nearest town. The masters maintain the kilns, the workshops, the standards of the glass, and the public order of the workshops. The masters are elected by the journeymen for a term of five years, and the masters hold office at the pleasure of the journeymen. The chronicler notes that the masters are held in high esteem by the workshops, and the masters mark the anniversaries of the founding with appropriate ceremonies.
+
+## The Farms
+
+The farms of the coastal plain are the source of the grain and the vegetables that the towns of the coast require, and the farms have been cultivated since the founding of the villages. The principal crops are the small grains that the dry climate supports, and the grain is the staple of the diet of the villages and the towns. The farms are worked by the farming households of the villages, and the households have cultivated the plain for several generations. The chronicler notes that the farms are the foundation of the food supply of the warm coast, and the farms are held in high esteem by the magistrates and the merchants of [Khalisar](/content/location/settlement/city/khalisar).
+
+The farms are governed by the heads of the households in consultation with the magistrates of the nearest town, and the heads maintain the fields, the irrigation works, the tracks, and the public order of the farms. The heads are elected by the households for a term of three years, and the heads hold office at the pleasure of the households. The chronicler notes that the heads are held in high esteem by the farms, and the heads mark the anniversaries of the founding with appropriate ceremonies.
+
+## Significance
+
+The Glasslight Coast is one of the most distinctive of the landscapes of the warm coast, and the coast is the foundation of the fishing and the glass-making economies of the southern shore. The beaches, the workshops, the farms, the villages, and the tracks are the inheritance that the coast has bequeathed to the present age. The chronicler notes that the coast is held in particular memory by the fishermen and the glass-makers who make their living upon it, and the fishermen and the glass-makers mark the anniversaries of the founding with appropriate ceremonies. The ceremonies are among the most important of the public observances of the warm coast, and the ceremonies are attended by the magistrates and the principal citizens of every town of the coast.

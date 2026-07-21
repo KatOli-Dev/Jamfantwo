@@ -1,0 +1,44 @@
+# Validator exception configuration
+#
+# Overrides for the article (a/an) rules in scripts/validate_content.rb.
+# English pronunciation sometimes diverges from spelling, so a strict
+# letter-based check would flag correct prose. Each pattern here marks
+# a word prefix where the article choice is reversed from the default.
+
+article_exceptions:
+  # Words where "a" is correct even though the first letter is a vowel.
+  # Patterns are matched against the start of the word, case-insensitive.
+  a_before_vowel:
+    - pattern: 'eu'
+      note: 'eu- words (euphoria, ewe) where the second letter carries the vowel'
+    - pattern: 'ew'
+      note: 'ew- words (ewer) where the w makes the consonant sound'
+    - pattern: 'one'
+      note: 'one, where the o is pronounced /w/'
+    - pattern: 'once'
+      note: 'once, where the o is pronounced /w/'
+    - pattern: 'un[iu]'
+      note: 'unicorn, university, unified, union, etc. where u is /j/'
+    - pattern: 'use'
+      note: 'useful, useless, user, usual, etc. where u is /j/'
+
+  # Words where "an" is correct even though the first letter is a consonant.
+  # Patterns are matched against the start of the word, case-insensitive.
+  an_before_consonant:
+    - pattern: 'h[aeiou]'
+      note: 'silent-h words (heir, hour, honest, honor) where h is not pronounced'
+
+# Overrides for the link text / page title matcher.
+# Each entry is a regex matched against the raw link text. If any pattern
+# matches, the link is accepted as canonical for any target page. Use this
+# for variations the fuzzy matcher cannot resolve (singular/plural pairs,
+# hyphenation variants, abbreviations, etc.).
+
+link_text_exceptions:
+  universal:
+    - pattern: '\Aelf\z'
+      note: 'singular "elf" accepted for the plural "Elves" page'
+    - pattern: '\Aorc\z'
+      note: 'singular "orc" accepted for the plural "Orcs" page'
+    - pattern: 'Storm-Petrel'
+      note: 'hyphenated compound accepted alongside the space-separated "The Storm Petrel"'

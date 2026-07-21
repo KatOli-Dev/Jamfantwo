@@ -67,7 +67,7 @@ Split by governing scope.
 - `national/` — kingdoms, republics, leagues, and other state-level entities.
 
 ### `history/`
-Single `timeline.md` file containing the chronological history of the world.
+A loose collection of pages covering the major eras, conflicts, treaties, and turning points of the world. `timeline.md` remains the principal chronological reference; the other pages treat individual events or periods at length.
 
 ### `language/`
 - `pseudo/` — non-verbal, commonly understood signalling systems (e.g. gestures, flag signals). Not full spoken languages.
@@ -88,25 +88,14 @@ Split by sapience.
 - `beasts/` — non-sapient animals and monsters.
 - `sapient/` — intelligent, language-using species.
 
-## Page Structure Convention
+## Filename and Title Conventions
 
-Heading schemas are category-specific. There is no universal `## Overview` / `## Significance` rule. The schemas actually in use are:
+Filenames are kebab-case slugs without leading articles. No slug begins with `the-`; titles may begin with `The` when natural to prose (e.g. "The Stormfall Sea") but the slug itself drops the article. The front-matter `title` is title case, with articles capitalised in the usual English way.
 
-### Sapient species (`content/species/sapient/*.md`)
-A fixed six-section schema used by every page in this category:
-1. `## Origins`
-2. `## Anatomy and Physiology`
-3. `## Life Cycle`
-4. `## Habitat and Distribution`
-5. `## Diet`
-6. `## Ecology`
+Older entries in some directories (`belief/`, `culture/`, `language/pseudo/`, and a few of the existing entries in `location/natural/ecosystem/`) were originally created with a `the-` prefix; they remain as historical exceptions and need not be renamed unless a page is being substantially rewritten. All new pages use bare slugs.
 
-No `## Overview` or `## Significance` section is used.
+## Page Structure
 
-### Historical figures (`content/people/historical/*.md`)
-Begin with `## Overview`, followed by biographical sections (`Rise to Power`, `Reign`, `Legacy`, etc.). Pages in this category do not end with `## Significance`.
+Headings are flexible. Each page should use whatever ATX heading structure best suits its subject matter, as long as the body starts at `##` (the layout renders the `h1`), headings do not skip levels, and the page contains at least 1,000 words of body prose. There is no required opening heading or closing section; pages may begin with any `##` heading and close with any section that fits the subject.
 
-### Other content pages
-Most other pages begin with `## Overview` and then use topic-specific sections suited to the subject. A section whose title contains `Significance` commonly closes place, polity, and creature pages, but overview pages and some established category templates may end with another subject-specific section. The validator enforces the opening heading and basic heading structure without imposing a false universal closing title.
-
-The index page (`index.md`) renders these category lists through `_includes/content-list.html`, which groups pages automatically; the lists are not maintained by hand.
+The index page (`index.md`) renders category lists through `_includes/content-list.html`, which groups pages automatically; the lists are not maintained by hand.

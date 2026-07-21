@@ -1,0 +1,44 @@
+---
+layout: default
+title: Wars of the Twin Reaches
+---
+
+## Overview
+
+The Wars of the Twin Reaches is the treaty that concluded the [Wars of the Twin Reaches](/content/history/wars-of-the-twin-reaches), signed at the temple of [the Faith of the Sea Mother](/content/belief/religion/polytheist/the-faith-of-the-sea-mother) at [Khalisar](/content/location/settlement/city/khalisar) in the early years of [Queen Sera](/content/people/historical/queen-sera-of-the-amber-vale)'s reign. The peace took its name from the two parties to the conflict - the [Amurra Republic](/content/government/national/amurra-republic) and the [Vashari Pact](/content/government/national/vashari-pact) - and from the inland valleys that the wars had disputed. The chroniclers of the academies record the peace as one of the most consequential instruments of the present age, and the peace is the foundation of the [Long Peace of the Twin Cities](/content/history/long-peace-of-the-twin-cities) that followed.
+
+The peace was negotiated over several years through the mediators of the academies of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm). The mediators included scholars who had studied the older river agreements and the ancient accords between the cities, and the scholars brought to the negotiation a knowledge of the traditions that the parties had observed for several centuries. The chronicler notes that the negotiation was a model of patient and careful diplomacy, and the negotiation is held in high esteem by the magistrates and the scholars of the present age.
+
+## The Negotiations
+
+Sera opened the negotiations soon after her accession to the throne of the [Amurra Republic](/content/government/national/amurra-republic), and Sera appointed the council of the Republic to act in concert with the mediators of the academies. The mediators met with the parties in the temple of [the Faith of the Sea Mother](/content/belief/religion/polytheist/the-faith-of-the-sea-mother) at [Khalisar](/content/location/settlement/city/khalisar), and the mediators conducted the negotiations over the course of several years. The mediators travelled between the Republic and the [Vashari Pact](/content/government/national/vashari-pact) to consult with the magistrates and the councils of both parties, and the mediators reported the state of the negotiations to Sera and to the council of the Pact.
+
+The negotiations were complicated by the insistence of each party upon the rights that it claimed at the beginning of the war. The Republic insisted upon the customs dues by virtue of the ancient accord that the founders of the Republic had made with the founders of the cities of the warm coast. The Pact insisted upon the right to export its goods without hindrance by virtue of the natural liberty of trade. The mediators proposed a compromise that abolished the customs dues and replaced them with a small transit fee that was shared between the two parties, and the compromise was accepted by Sera and by the council of the Pact.
+
+## The Terms of the Peace
+
+The Wars of the Twin Reaches is a long document that covers the trade, the navigation, the customs, and the territory of the parties. The peace abolishes the customs dues that the Republic had long claimed, and the peace replaces the customs dues with a small transit fee that is collected at the gates of the principal towns along the trade routes. The transit fee is shared between the Republic and the Pact, and the proportion is set by the mediators at the proportion of two to one in favour of the Republic. The peace also establishes the rules of the navigation upon the rivers and the seas that the parties share, and the peace establishes the rules of the military forces that the parties may maintain upon the trade routes.
+
+The peace also establishes the office of the mediator, and the mediator is appointed by the academies of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm) to oversee the implementation of the peace. The mediator inspects the trade routes at regular intervals, and the mediator reports to the parties upon the state of the trade and the navigation. The mediator has the power to mediate any dispute that arises between the parties, and the mediator has the power to bring the parties to a settlement that the peace permits. The chronicler notes that the office of the mediator has been the foundation of the success of the peace, and the mediator is held in high esteem by the magistrates and the merchants of both parties.
+
+## The Signing
+
+The peace was signed in a public ceremony at the temple of [the Faith of the Sea Mother](/content/belief/religion/polytheist/the-faith-of-the-sea-mother) at [Khalisar](/content/location/settlement/city/khalisar), and the ceremony was attended by the magistrates and the principal citizens of both parties. Sera signed for the Republic, and the head of the council of the Pact signed for the Pact. The mediators signed as witnesses, and the chroniclers of the academies recorded the ceremony in the archives. The chronicler notes that the ceremony was the measure of the public spirit of the magistrates and the merchants of both parties, and the public spirit is the foundation of the success of the peace.
+
+The ceremony was followed by a procession through the streets of Khalisar, and the procession included the magistrates and the principal citizens of both parties. The procession was greeted by the citizens of Khalisar with great public celebration, and the celebration included the singing of hymns in the temples and the feasting that the council of Khalisar provided. The chronicler notes that the celebration was the measure of the relief of the citizens of both parties, and the relief is the foundation of the public order of the present age.
+
+## The Implementation
+
+The implementation of the peace required several years of careful work by the magistrates and the mediator. The mediator inspected the trade routes section by section, and the mediator recorded the state of the trade and the navigation. The mediator brought the violators of the peace before the magistrates of the nearest town, and the magistrates imposed the fines that the peace prescribed. The mediator also mediated the disputes that arose between the merchants and the captains, and the mediator brought the parties to settlements that the peace permitted.
+
+The chronicler notes that the implementation was a model of careful administration, and the implementation is the measure of the public spirit of the mediator. The mediator reported to the parties at regular intervals, and the parties reviewed the reports and revised the regulations of the peace as the reports required. The chronicler observes that the revisions have been few and have been carefully considered, and the revisions are the measure of the care with which the parties have administered the peace.
+
+## The Legacy
+
+The Wars of the Twin Reaches has been in force for several centuries, and the peace is the foundation of the public order of the inland valleys and the warm coast for the present age. The peace has been revised from time to time to reflect the changes in the trade and the navigation, but the revisions have been few and have been carefully considered. The chronicler notes that the peace is held in particular esteem by the magistrates and the merchants of both parties, and the magistrates mark the anniversaries of the signing with appropriate ceremonies.
+
+The peace has also served as a model for the agreements that the parties have signed with the other principal cities of the three continents, and the agreements have followed the structure of the Wars of the Twin Reaches. The chronicler notes that the peace is the foundation of the public order of the trade routes of the present age, and the peace is the measure by which the magistrates and the councils of both parties judge the public acts of their own day.
+
+## Significance
+
+The Wars of the Twin Reaches is one of the most consequential instruments of the present age, and the peace is the foundation of the [Long Peace of the Twin Cities](/content/history/long-peace-of-the-twin-cities) for several centuries. The transit fees, the navigation, the military forces, and the office of the mediator are managed in accordance with the terms of the peace, and the mediator is the foundation of the implementation of the peace. The chronicler notes that the peace is held in particular memory by the magistrates and the merchants of both parties, and the magistrates mark the anniversaries of the signing with appropriate ceremonies. The ceremonies are among the most important of the public observances of the present age, and the ceremonies are attended by the magistrates and the principal citizens of every city of both parties.

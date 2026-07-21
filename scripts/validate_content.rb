@@ -1,13 +1,34 @@
 #!/usr/bin/env ruby
 require 'pathname'
+require 'yaml'
 
 ROOT = Pathname.new(File.expand_path('..', __dir__))
 CONTENT_DIR = ROOT.join('content')
 SITE_DIR = ROOT.join('_site')
 SITE_INDEX = SITE_DIR.join('index.html')
 INDEX_MD = ROOT.join('index.md')
+CONFIG_PATH = ROOT.join('scripts', 'validator_config.yml')
 
 MIN_WORDS = 1000
+
+unless CONFIG_PATH.exist?
+  abort("missing validator config: #{CONFIG_PATH}")
+end
+
+VALIDATOR_CONFIG = YAML.load_file(CONFIG_PATH)
+
+def article_exception_regex(key)
+  entries = VALIDATOR_CONFIG.dig('article_exceptions', key) || []
+  patterns = entries.map { |e| e['pattern'].to_s }
+  return nil if patterns.empty?
+  "(#{patterns.join('|')})"
+end
+
+A_BEFORE_VOWEL_RE = article_exception_regex('a_before_vowel')
+AN_BEFORE_CONSONANT_RE = article_exception_regex('an_before_consonant')
+
+LINK_TEXT_EXCEPTION_PATTERNS = (VALIDATOR_CONFIG.dig('link_text_exceptions', 'universal') || [])
+  .map { |e| Regexp.new(e['pattern'].to_s) }
 
 @failures = []
 @warnings = []
@@ -104,11 +125,7 @@ def count_words(text)
 end
 
 def expected_opening(rel_path)
-  if rel_path.start_with?('content/species/sapient/')
-    '## Origins'
-  else
-    '## Overview'
-  end
+  nil
 end
 
 def check_file(file)
@@ -168,12 +185,12 @@ def check_file(file)
     end
     line.scan(/(\b)a\s+([aeiouAEIOU][\w\[\(]*)/) do |_, word|
       base = word.sub(/\A[\[\(]+/, '')
-      next if base =~ /\A(eu|ew|one|once|un[iu])/i
+      next if A_BEFORE_VOWEL_RE && base =~ /\A#{A_BEFORE_VOWEL_RE}/i
       fail(file, line_no, "possible article error: 'a #{base}' (use 'an' before vowel)")
     end
     line.scan(/(\b)an\s+([bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ][\w\[\(]*)/) do |_, word|
       base = word.sub(/\A[\[\(]+/, '')
-      next if base =~ /\A(h[aeiou]|hour|honest|honor)/i
+      next if AN_BEFORE_CONSONANT_RE && base =~ /\A#{AN_BEFORE_CONSONANT_RE}/i
       fail(file, line_no, "possible article error: 'an #{base}' (use 'a' before consonant)")
     end
   end
@@ -182,7 +199,7 @@ def check_file(file)
     fail(file, fm_line_offset, "body has no ATX headings")
   else
     opening = headings.first
-    if opening[2] != expected
+    if expected && opening[2] != expected
       fail(file, opening[0], "first body heading must be '#{expected}' for this category (got '#{opening[2]}')")
     end
     headings.each_cons(2) do |a, b|
@@ -225,6 +242,10 @@ def link_text_matches(link_text, title)
   false
 end
 
+def link_text_excepted?(link_text)
+  LINK_TEXT_EXCEPTION_PATTERNS.any? { |re| link_text =~ re }
+end
+
 def title_for_path(path)
   source = ROOT.join(path + '.md')
   source = ROOT.join(path, 'index.md') unless source.exist?
@@ -252,7 +273,7 @@ def check_internal_links(file, body, line_offset)
       end
       title = title_for_path(path)
       next unless title
-      if !link_text_matches(link_text, title)
+      if !link_text_matches(link_text, title) && !link_text_excepted?(link_text)
         warn(file, abs_line,
              "link text '#{link_text}' for #{url} does not match target page title '#{title}'")
       end

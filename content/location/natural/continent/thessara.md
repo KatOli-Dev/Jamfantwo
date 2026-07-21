@@ -1,0 +1,54 @@
+---
+layout: default
+title: Thessara
+---
+
+## Overview
+
+Thessara is a long continent of eastern waters, high interior country, and sheltered valleys that descend toward a chain of warm seas. Its western shore faces the open [Auric Ocean](/content/location/natural/feature/auric-ocean), while its eastern coast breaks into peninsulas and deep bays that turn inland traffic toward the same harbours. The landmass is narrower than [Aethelar](/content/location/natural/continent/aethelar) but nearly as long from north to south, and this shape gives Thessara several climates within a day's sailing of one another. The northern capes are cool and wind-beaten, the central valleys are temperate, and the southern lowlands remain green during the season when the uplands are already dry.
+
+The name Thessara is older than the present coastal kingdoms. It appears on clay tablets recovered from the highland passes and on sea markers found far beyond the mainland. Some scholars interpret the name as a reference to the three great ridges that divide the continent, while others connect it to an ancient word for a sheltered road. The uncertainty has not reduced its authority. A [Thessaran League](/content/government/national/thessaran-league) on the eastern coast of Aethelar uses a related name, and the shared form is generally understood as evidence of an old maritime connection rather than proof that the two lands were once united.
+
+## Shape of the Land
+
+The Thessaran interior is dominated by the Crown Range, a set of highlands whose ridges form a broad crescent around the central valleys. The mountains are not continuous walls. They open into passes, stair-stepped plateaus, and high meadows, allowing roads to cross the continent while still dividing its watersheds. Snow remains upon the highest summits through much of the warm season, and the meltwater gathers in lakes before finding its way to the coast. The Thessaran Highlands begin above the last orchards and extend across the upper valleys, where thin soils and strong winds favour grasses, juniper, and low flowering shrubs.
+
+The western slope of the Crown Range is steep and wet. Rivers cut through dark stone and reach the Auric shore in narrow estuaries bordered by marsh and reed beds. The eastern slope is gentler, with broad terraces and long alluvial fans where villages grow grain, olives, and fruit. Between the two lies a basin of pale limestone, honey-coloured in the afternoon light, whose roads have served as the principal route across the continent since the first settled communities appeared. The Amber Pass is the most reliable crossing of the central range, though its road is closed during the worst winter storms.
+
+The coast changes character from north to south. The north has high cliffs, small beaches, and harbours that require local knowledge. The central coast has deep river mouths where ships can shelter several miles inland. The south is lower and more intricate, with lagoons, islands, and headlands that protect the calm water behind them. Offshore currents bring warm water northward in one season and draw cooler water southward in another, and the fishermen of Thessara time their voyages by the arrival of particular shoals and seabirds.
+
+## Seasons and Waters
+
+Thessara has a wet winter, a bright spring, a hot summer, and a dry autumn. The winter rains are strongest along the western slope and in the southern coastal lowlands. They fill the lakes of the Crown Range and recharge the underground channels that supply the eastern valleys. Spring arrives unevenly, appearing first in the south and several weeks later upon the high meadows. The air is clear during this transition, and the roads through the lower passes carry merchants, shepherds, and messengers before the summer heat begins.
+
+Summer is warm along the coast and mild in the uplands. The sea moderates the lower country, while the high valleys remain cool at night. The southern lagoons may become shallow as evaporation increases, but their reeds continue to grow and provide nesting grounds for waterfowl. Autumn is the season of harvest and repair. Grain is stored, terraces are strengthened, and the mountain roads are inspected before the first snow. In years when the autumn rains fail, the valley councils open reserve cisterns and restrict the watering of orchards so that drinking water remains secure.
+
+The rivers are the foundation of Thessaran settlement. Each major river has a headwater lake, a middle valley of farms, and a lower course where marsh, estuary, and port meet. Flooding is not regarded solely as a danger, for the silt it leaves behind renews the fields and carries mineral soil from the highlands. Settlements therefore build raised granaries and flood channels rather than trying to confine every river to a fixed bed. The arrangement requires constant maintenance, and the river guilds hold considerable influence because their workers know the banks, sluices, and seasonal channels better than any distant magistrate.
+
+## Highland Ecology
+
+The highlands contain a mosaic of meadows, scree slopes, pine woods, and cold lakes. The dominant grass has narrow leaves that curl inward during dry weather, reducing the loss of water to the wind. Juniper grows upon exposed ridges, while silver fir and dark cedar occupy the sheltered valleys. In spring the meadows are covered by blue crocus, yellow bellflower, and the red mountain star, all of which complete their flowering before the grazing herds arrive. Shepherds move their animals by agreed routes so that the grass is cropped evenly and the fragile slopes are not trampled into gullies.
+
+The upper country supports mountain goats, long-eared hares, marmots, and a pale eagle that nests upon the cliffs. Wolves follow the herds, and a broad-shouldered cat called the highland lynx hunts among the juniper. The lynx is seldom seen because its coat resembles the grey and gold of the slopes, yet its tracks are familiar to shepherds who know the age of a print by the sharpness of its edges. Bears remain in the wetter northern woods, where they feed upon nuts, roots, and river fish before retiring to winter dens.
+
+The highland communities have altered the landscape without removing its variety. They burn small patches of old grass, maintain stone-lined springs, and leave strips of woodland along streams. These practices reduce erosion and ensure that wild animals retain cover between the pastures. The [dwarves](/content/species/sapient/dwarves) who work the high passes have built drainage galleries and cisterns beneath several ridges, but the agreements governing those works require that underground channels remain open to downstream villages.
+
+## Peoples and Cultures
+
+[Humans](/content/species/sapient/humans) live throughout Thessara, with the largest populations in the eastern terraces and the central river valleys. Their settlements range from walled market towns to villages arranged around communal wells. Highland families are known for woven wool, pack animals, and the preservation of mountain herbs, while the coast is home to shipwrights, salt makers, and fishers. Despite regional differences, all share a calendar based upon the opening and closing of the passes.
+
+[Elves](/content/species/sapient/elves) inhabit the northern cedar woods and several high valleys where streams remain cool throughout the summer. Their settlements are small and widely spaced, and their forest management favours mixed stands rather than a single useful tree. [Gnomes](/content/species/sapient/gnomes) maintain workshops near the lower passes, producing survey instruments, glazed pottery, and small water devices. [Satyrs](/content/species/sapient/satyrs) are present in the southern hills, where they tend orchards and guard old springs. They are not a nomadic people in Thessara, though many families move between summer and winter holdings according to the needs of their groves.
+
+The peoples of Thessara maintain local councils rather than a single continental government. Valley assemblies regulate water and pasture, port authorities oversee navigation, and highland wardens keep the passes open. The greatest disputes concern the division of river water and the right to cut timber above a settlement. Such disputes are commonly submitted to panels composed of representatives from upstream and downstream communities, because no valley can settle questions of water without affecting its neighbours.
+
+## The Deep and the Coasts
+
+Beneath the southern shelf lies the Thessaran Deep, a trench in the warm sea whose depth alters the currents along the coast. The deep water draws migrating fish and supports broad beds of shellfish, but it also produces sudden changes in weather when cold water rises toward the surface. Thessaran navigators mark the edge of the deep with floating stone buoys and watch the colour of the sea before setting out. [Merfolk](/content/species/sapient/merfolk) communities know the trench more intimately than surface sailors, and the oldest harbour agreements include rules for sharing breeding grounds and rescuing those lost in fog.
+
+The coastal economy depends upon fish, salt, timber from the uplands, fruit from the terraces, and metal from the Crown Range. Ships carry these goods between the northern capes and southern lagoons, while pack trains use the Amber Pass to reach the inland markets. The ports also receive spices and dyes from [Sahrana](/content/location/natural/continent/sahrana), ironwork from Morvind, and cloth from Aethelar. Thessaran merchants are therefore less concerned with owning distant lands than with keeping roads, pilotage stations, and river mouths open to all peaceful traffic.
+
+## Significance
+
+Thessara is significant because its geography makes cooperation necessary. No single region possesses enough grain, timber, metal, pasture, and harbour space to stand apart from the others. The highlands hold the water, the valleys turn it into food, and the coasts carry the surplus toward markets beyond the continent. The old roads through the Amber Pass and the shipping lanes over the Thessaran Deep have made the land a meeting place for several peoples and traditions.
+
+The continent's chronicles consequently record engineering and agreement as often as they record rulers. A repaired bridge, a renewed grazing compact, or an unchanged signal tower may receive more attention than a noble succession. Thessara endures through these practical continuities, and its highlands, rivers, and deep waters remain joined in a system whose prosperity depends upon every part being maintained.

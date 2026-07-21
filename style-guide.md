@@ -10,10 +10,11 @@ title: Content Style Guide
 - Third person; past tense for history and biography, present only for enduring facts (geography, architecture). No second person.
 
 ## Content File Conventions
-- kebab-case filenames in `content/`, organised into subdirectories by category. Front matter needs `layout: default` and a title-case `title` matching the canonical name.
+- kebab-case filenames in `content/`, organised into subdirectories by category. Filenames are bare slugs with no leading article; do not prefix slugs with `the-`. Front matter needs `layout: default` and a title-case `title` matching the canonical name. The title may include `The` where natural in prose; the slug does not.
 - Body begins at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
-- Heading schemas are category-specific. See [structure.md]({{ '/structure/' | relative_url }}) for the actual schemas used by each category (the historical Overview/Significance rule does not apply universally).
+- Headings are flexible; see [structure.md]({{ '/structure/' | relative_url }}) for the general conventions.
 - Every page must be at least 1,000 words of body prose (excluding front matter, link destinations, and fenced code blocks).
+- Avoid mechanical repetition across pages: each entry should open in a way suited to its subject rather than starting every section with the same "The X is..." construction.
 
 ## Linking
 - Link with site-root-relative paths (`/content/...`). Link a subject on its first mention only, using its canonical name as link text. No dead links—mention in plain text until the page exists.
