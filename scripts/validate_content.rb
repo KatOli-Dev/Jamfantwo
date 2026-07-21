@@ -202,20 +202,59 @@ def check_file(file)
     fail(file, 1, "body has #{words} words; minimum is #{MIN_WORDS}")
   end
 
-  check_internal_links(file, body)
+  check_internal_links(file, body, fm_line_offset)
 end
 
-def check_internal_links(file, body)
-  body.scan(/\[[^\]]*\]\((\/[A-Za-z0-9_\-\/\.]+)\)/) do |match|
-    url = match.is_a?(Array) ? match[0] : match
-    path = url[1..]
-    if path =~ %r{\Acontent/}
+def normalize_link_text(text)
+  text.to_s.downcase
+      .sub(/\A(the|a|an)\s+/, '')
+      .gsub(/[^\w\s]/, '')
+      .gsub(/\s+/, ' ')
+      .strip
+end
+
+def link_text_matches(link_text, title)
+  l = normalize_link_text(link_text)
+  t = normalize_link_text(title)
+  return true if l == t
+  return false if l.length < 4 || t.length < 4
+  return true if l.include?(t) || t.include?(l)
+  common = 0
+  [l.length, t.length].min.times { |i| break if l[i] != t[i]; common += 1 }
+  return true if common.to_f / [l.length, t.length].min >= 0.6
+  false
+end
+
+def title_for_path(path)
+  source = ROOT.join(path + '.md')
+  source = ROOT.join(path, 'index.md') unless source.exist?
+  return nil unless source.exist?
+  text = source.read
+  fm_text, _ = parse_front_matter(text)
+  return nil if fm_text.nil?
+  fm = parse_front_matter_yaml(fm_text)
+  fm['title']
+end
+
+def check_internal_links(file, body, line_offset)
+  body.each_line.with_index do |line, idx|
+    line.scan(/\[([^\]]*)\]\((\/content\/[A-Za-z0-9_\-\/\.]+)\)/) do |match|
+      link_text, url = match
+      abs_line = idx + line_offset + 1
+      path = url[1..]
       source = ROOT.join(path + '.md')
       unless source.exist?
         source_alt = ROOT.join(path, 'index.md')
         unless source_alt.exist?
-          fail(file, 1, "internal link #{url} does not resolve to a source page")
+          fail(file, abs_line, "internal link #{url} does not resolve to a source page")
+          next
         end
+      end
+      title = title_for_path(path)
+      next unless title
+      if !link_text_matches(link_text, title)
+        warn(file, abs_line,
+             "link text '#{link_text}' for #{url} does not match target page title '#{title}'")
       end
     end
   end

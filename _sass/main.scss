@@ -1,26 +1,33 @@
 @use "sass:color";
 
-// Color Palette
-$color-bg: #1a1a2e;
-$color-surface: #16213e;
+$color-bg: #14172a;
+$color-bg-2: #1a1d36;
 $color-accent: #e2b04a;
 $color-accent-dim: #b8902f;
+$color-accent-warm: #c98745;
 $color-text: #d4d4d8;
 $color-heading: #f0e6d2;
 $color-muted: #8b8b9a;
-$color-link: #e2b04a;
 $color-link-hover: #f5cd70;
-$color-border: #2a2a4a;
 
-// Fonts
+$color-glass: rgba(255, 255, 255, 0.05);
+$color-glass-strong: rgba(255, 255, 255, 0.10);
+$color-glass-soft: rgba(255, 255, 255, 0.03);
+$color-glass-fallback: rgba(20, 23, 42, 0.94);
+$color-glass-edge: rgba(255, 255, 255, 0.14);
+$color-glass-edge-soft: rgba(255, 255, 255, 0.08);
+$color-glass-edge-strong: rgba(255, 255, 255, 0.30);
+$color-glass-border-warm: rgba(226, 176, 74, 0.22);
+
 $font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
 $font-mono: "SF Mono", "Fira Code", "Source Code Pro", Menlo, Consolas, monospace;
 
-// Layout
 $max-width: 750px;
 $spacing: 1.5rem;
+$radius-card: 18px;
+$radius-chip: 12px;
+$min-tap: 2.75rem;
 
-// Base Reset
 * {
   margin: 0;
   padding: 0;
@@ -34,12 +41,31 @@ html {
 
 body {
   font-family: $font-serif;
-  background-color: $color-bg;
   color: $color-text;
-  line-height: 1.7;
+  line-height: 1.75;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: $color-bg;
+  background-image:
+    radial-gradient(ellipse 55% 50% at 25% 25%, rgba($color-accent, 0.10) 0%, transparent 55%),
+    radial-gradient(ellipse 60% 50% at 78% 78%, rgba($color-accent-warm, 0.07) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 45% at 55% 50%, rgba($color-accent, 0.04) 0%, transparent 70%),
+    repeating-linear-gradient(
+      45deg,
+      rgba($color-accent, 0.022) 0px,
+      rgba($color-accent, 0.022) 1px,
+      transparent 1px,
+      transparent 22px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      rgba($color-accent, 0.014) 0px,
+      rgba($color-accent, 0.014) 1px,
+      transparent 1px,
+      transparent 22px
+    ),
+    linear-gradient(160deg, $color-bg 0%, $color-bg-2 55%, $color-bg 100%);
 }
 
 a:focus-visible {
@@ -53,9 +79,10 @@ a:focus-visible {
   left: $spacing;
   z-index: 1000;
   padding: 0.75rem 1rem;
-  background-color: $color-heading;
+  background: $color-heading;
   color: $color-bg;
   font-weight: 700;
+  border-radius: 8px;
   transform: translateY(-150%);
   transition: transform 0.2s ease;
 
@@ -64,11 +91,33 @@ a:focus-visible {
   }
 }
 
-// Header
 header {
-  background: linear-gradient(135deg, $color-surface 0%, color.adjust($color-surface, $lightness: -5%) 100%);
-  border-bottom: 1px solid $color-border;
-  padding: 0.75rem $spacing;
+  background:
+    radial-gradient(ellipse 70% 120% at 25% 50%, rgba($color-accent, 0.07) 0%, transparent 70%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.015) 100%),
+    $color-bg;
+  border-bottom: 1px solid $color-glass-border-warm;
+  padding: 0.85rem $spacing;
+  position: relative;
+  z-index: 100;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.28);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, $color-glass-edge-strong, transparent);
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 -1px 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent 5%, $color-accent 50%, transparent 95%);
+    opacity: 0.65;
+  }
 
   nav {
     display: flex;
@@ -76,6 +125,7 @@ header {
     justify-content: space-between;
     max-width: $max-width;
     margin: 0 auto;
+    gap: 1rem;
   }
 
   .brand {
@@ -85,56 +135,136 @@ header {
     color: $color-heading;
     text-decoration: none;
     letter-spacing: 0.03em;
-    transition: color 0.2s ease;
+    padding: 0.45rem 1rem;
+    padding-left: 1.6rem;
+    min-height: $min-tap;
+    display: inline-flex;
+    align-items: center;
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.04) 100%),
+      rgba(255, 255, 255, 0.06);
+    border: 1px solid $color-glass-edge;
+    border-radius: $radius-chip;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.22),
+      0 4px 12px rgba(0, 0, 0, 0.22);
+    transition: color 0.2s ease, transform 0.2s ease;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.85rem;
+      top: 50%;
+      width: 7px;
+      height: 7px;
+      background: $color-accent;
+      transform: translateY(-50%) rotate(45deg);
+      box-shadow: 0 0 8px rgba($color-accent, 0.55);
+    }
 
     &:hover,
     &:focus {
       color: $color-accent;
+      transform: translateY(-1px);
     }
   }
 
   ul {
     display: flex;
-    gap: 1.25rem;
+    gap: 0.5rem;
     list-style: none;
 
     a {
-      color: $color-muted;
+      display: inline-flex;
+      align-items: center;
+      min-height: $min-tap;
+      color: rgba(255, 255, 255, 0.78);
       text-decoration: none;
       font-size: 0.95rem;
-      transition: color 0.2s ease;
+      padding: 0.4rem 0.9rem;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
+        rgba(255, 255, 255, 0.04);
+      border: 1px solid $color-glass-edge-soft;
+      border-radius: $radius-chip;
+      transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 
       &:hover,
       &:focus {
-        color: $color-accent;
+        color: $color-heading;
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
+          rgba(255, 255, 255, 0.08);
+        border-color: $color-glass-edge;
+        transform: translateY(-1px);
       }
     }
   }
 }
 
-// Main Content
 main {
   flex: 1;
-  max-width: $max-width;
   width: 100%;
-  margin: 0 auto;
-  padding: $spacing * 2 $spacing;
+  max-width: $max-width;
+  margin: $spacing * 1.5 auto;
+  padding: $spacing * 1.85 $spacing * 1.4;
+  background:
+    radial-gradient(ellipse 110% 80% at 22% 18%, rgba($color-accent, 0.09) 0%, transparent 65%),
+    radial-gradient(ellipse 110% 80% at 82% 88%, rgba($color-accent-warm, 0.07) 0%, transparent 70%),
+    radial-gradient(ellipse 70% 60% at 50% 55%, rgba($color-accent, 0.04) 0%, transparent 75%),
+    $color-glass-fallback;
+  border: 1px solid $color-glass-edge-soft;
+  border-radius: $radius-card;
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    inset 0 1px 0 $color-glass-edge-strong,
+    inset 0 -1px 0 rgba(0, 0, 0, 0.18),
+    0 26px 50px -12px rgba(0, 0, 0, 0.55),
+    0 10px 24px rgba(0, 0, 0, 0.32);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 1px 1px auto 1px;
+    height: 50%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
+    border-radius: 17px 17px 0 0;
+    pointer-events: none;
+  }
 
   h1 {
-    font-size: 2.25rem;
+    font-size: 2.4rem;
     font-weight: 700;
     color: $color-heading;
     text-align: center;
     margin-bottom: $spacing * 1.5;
     letter-spacing: 0.02em;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+
+    &::before {
+      content: "";
+      display: block;
+      width: 9px;
+      height: 9px;
+      margin: 0 auto 0.6rem;
+      background: $color-accent;
+      transform: rotate(45deg);
+      box-shadow:
+        -18px 0 0 -1px $color-accent-dim,
+        18px 0 0 -1px $color-accent-dim,
+        0 0 10px rgba($color-accent, 0.5);
+    }
 
     &::after {
       content: "";
       display: block;
-      width: 80px;
-      height: 3px;
-      margin: 0.75rem auto 0;
+      width: 140px;
+      height: 1px;
+      margin: 0.85rem auto 0;
       background: linear-gradient(90deg, transparent, $color-accent, transparent);
+      box-shadow: 0 0 10px rgba($color-accent, 0.4);
     }
   }
 
@@ -148,17 +278,35 @@ main {
 
   h2 {
     margin: $spacing * 1.75 0 $spacing * 0.5;
-    font-size: 1.65rem;
+    font-size: 1.7rem;
+    padding-left: 1.1rem;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.35em;
+      bottom: 0.35em;
+      width: 3px;
+      background: linear-gradient(180deg, $color-accent 0%, $color-accent-dim 100%);
+      border-radius: 1px;
+      box-shadow: 0 0 10px rgba($color-accent, 0.55);
+    }
   }
 
   h3 {
     margin: $spacing * 1.25 0 $spacing * 0.4;
-    font-size: 1.35rem;
+    font-size: 1.3rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    color: $color-accent;
   }
 
   h4 {
     margin: $spacing 0 $spacing * 0.3;
     font-size: 1.15rem;
+    color: $color-heading;
   }
 
   p {
@@ -167,7 +315,7 @@ main {
   }
 
   a {
-    color: $color-link;
+    color: $color-accent;
     text-decoration-line: underline;
     text-decoration-thickness: 0.08em;
     text-decoration-color: $color-accent-dim;
@@ -204,17 +352,18 @@ main {
   code {
     font-family: $font-mono;
     font-size: 0.9em;
-    background-color: color.adjust($color-bg, $lightness: -3%);
+    background: rgba(0, 0, 0, 0.5);
     padding: 0.15em 0.4em;
-    border-radius: 3px;
-    border: 1px solid $color-border;
+    border-radius: 4px;
+    border: 1px solid $color-glass-edge-soft;
     color: $color-accent;
   }
 
   pre {
-    background-color: color.adjust($color-bg, $lightness: -3%);
-    border: 1px solid $color-border;
-    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.6);
+    border: 1px solid $color-glass-edge-soft;
+    border-left: 3px solid $color-accent-dim;
+    border-radius: 8px;
     padding: 1rem;
     overflow-x: auto;
     margin-bottom: $spacing;
@@ -229,28 +378,73 @@ main {
 
   blockquote {
     border-left: 3px solid $color-accent-dim;
-    padding-left: $spacing;
+    padding: 0.5rem 0 0.5rem $spacing;
     margin: 0 0 $spacing $spacing;
     color: $color-muted;
     font-style: italic;
+    background: rgba(0, 0, 0, 0.22);
+    border-radius: 6px;
+    position: relative;
+
+    &::before,
+    &::after {
+      content: "";
+      display: block;
+      width: 80px;
+      max-width: 30%;
+      border-top: 1px solid rgba(184, 144, 47, 0.4);
+    }
+
+    &::before {
+      margin-bottom: 0.5rem;
+    }
+
+    &::after {
+      margin-top: 0.5rem;
+    }
   }
 
   hr {
     border: none;
     height: 1px;
-    background: linear-gradient(90deg, transparent, $color-border, transparent);
+    background: linear-gradient(90deg, transparent, $color-glass-edge, transparent);
     margin: $spacing * 2 0;
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 7px;
+      height: 7px;
+      background: $color-accent;
+      transform: translate(-50%, -50%) rotate(45deg);
+      box-shadow: 0 0 10px rgba($color-accent, 0.55);
+    }
   }
 }
 
-// Footer
 footer {
-  background-color: $color-surface;
-  border-top: 1px solid $color-border;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.015) 0%, rgba(255, 255, 255, 0.05) 100%),
+    $color-bg;
+  border-top: 1px solid $color-glass-border-warm;
   text-align: center;
-  padding: $spacing;
+  padding: $spacing $spacing;
   font-size: 0.9rem;
   color: $color-muted;
+  position: relative;
+  margin-top: $spacing;
+
+  &::before {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 1px;
+    margin: 0 auto 0.85rem;
+    background: linear-gradient(90deg, transparent, $color-accent-dim, transparent);
+  }
 
   p {
     margin: 0;
@@ -281,21 +475,111 @@ footer {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
   }
-}
 
-// Responsive
-@media (max-width: 600px) {
-  header nav {
-    flex-direction: column;
-    gap: 0.75rem;
+  body,
+  header,
+  main,
+  footer {
+    background-image: none !important;
+  }
+
+  header .brand,
+  header ul a {
+    background: rgba(255, 255, 255, 0.06) !important;
   }
 
   main {
-    padding: $spacing $spacing * 0.75;
+    background: $color-glass-fallback !important;
+  }
+}
+
+@media (forced-colors: active) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    background: Canvas;
+    color: CanvasText;
+    background-image: none;
+  }
+
+  header,
+  main,
+  footer {
+    background: Canvas;
+    color: CanvasText;
+    border-color: CanvasText;
+    box-shadow: none;
+  }
+
+  main a,
+  footer a,
+  header ul a {
+    color: LinkText;
+    text-decoration-color: LinkText;
+
+    &:hover,
+    &:focus {
+      color: LinkText;
+    }
+  }
+
+  a:focus-visible,
+  .skip-link:focus {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+  }
+
+  header .brand,
+  header ul a {
+    background: Canvas !important;
+    color: CanvasText !important;
+    border-color: CanvasText !important;
+  }
+
+  header .brand::before,
+  main h1::before,
+  main h1::after,
+  main h2::before,
+  main hr::after {
+    background: Highlight !important;
+    box-shadow: none !important;
+  }
+
+  main h2,
+  main h3,
+  main h4 {
+    color: CanvasText;
+  }
+
+  .skip-link {
+    background: Highlight !important;
+    color: HighlightText !important;
+  }
+}
+
+@media (max-width: 600px) {
+  header nav {
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  header ul {
+    justify-content: center;
+  }
+
+  main {
+    margin: $spacing $spacing * 0.5;
+    padding: $spacing $spacing * 0.85;
+    border-radius: 14px;
 
     h1 {
-      font-size: 1.75rem;
+      font-size: 1.85rem;
     }
 
     h2 {
@@ -303,7 +587,7 @@ footer {
     }
 
     h3 {
-      font-size: 1.2rem;
+      font-size: 1.15rem;
     }
 
     h4 {
@@ -313,5 +597,63 @@ footer {
     p {
       font-size: 1rem;
     }
+  }
+}
+
+@media (max-width: 380px) {
+  header {
+    padding: 0.65rem 0.85rem;
+  }
+
+  main {
+    margin: 0.85rem 0.4rem;
+    padding: 0.9rem 0.65rem;
+    border-radius: 12px;
+
+    h1 {
+      font-size: 1.55rem;
+      margin-bottom: 1.5rem;
+
+      &::before {
+        margin-bottom: 0.45rem;
+      }
+
+      &::after {
+        width: 90px;
+      }
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      padding-left: 0.9rem;
+    }
+
+    h3 {
+      font-size: 1.05rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.95rem;
+    }
+
+    ul,
+    ol {
+      padding-left: 1.4rem;
+    }
+
+    blockquote {
+      margin-left: 0.85rem;
+      padding-left: 0.85rem;
+    }
+  }
+
+  .skip-link {
+    left: 0.5rem;
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9rem;
   }
 }

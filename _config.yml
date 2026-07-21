@@ -8,7 +8,6 @@ permalink: pretty
 
 exclude:
   - "opencode.json"
-  - "**/sed*"
-  - ".opencode"
   - ".github"
   - "scripts"
+  - "temp"
