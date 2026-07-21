@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Council of Khalisar
+title: Council of Khalisar
 ---
 
 ## Overview

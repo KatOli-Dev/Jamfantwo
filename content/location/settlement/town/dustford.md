@@ -5,7 +5,7 @@ title: Dustford
 
 ## Overview
 
-Dustford is a southern river town of [Aethelar](/content/location/natural/continent/aethelar), situated at the edge of the grasslands where the cultivated land of the [Plains Confederation](/content/government/national/plains-confederation) gives way to the [Emberlands](/content/location/settlement/region/the-emberlands). The town stands at a crossing of the river that marks the boundary between the fertile plains and the arid margins, and its position at the edge of the grasslands has made it a frontier settlement and a gateway to the warm plains beyond. Dustford is smaller and less prosperous than the cities of the central grasslands, but it is a thriving and self-sufficient community, and its trade connects the grasslands to the regions that lie beyond.
+Dustford is a southern river town of [Aethelar](/content/location/natural/continent/aethelar), situated at the edge of the grasslands where the cultivated land of the [Plains Confederation](/content/government/national/plains-confederation) gives way to the [Emberlands](/content/location/settlement/region/emberlands). The town stands at a crossing of the river that marks the boundary between the fertile plains and the arid margins, and its position at the edge of the grasslands has made it a frontier settlement and a gateway to the warm plains beyond. Dustford is smaller and less prosperous than the cities of the central grasslands, but it is a thriving and self-sufficient community, and its trade connects the grasslands to the regions that lie beyond.
 
 ## The River and the Frontier
 

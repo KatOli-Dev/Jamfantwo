@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Deep Realm of Karhold
+title: Deep Realm of Karhold
 ---
 
 ## Overview

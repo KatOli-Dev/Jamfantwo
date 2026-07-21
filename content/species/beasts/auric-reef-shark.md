@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Auric Reef Shark
+title: Auric Reef Shark
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Kingdom of Nordhaven
+title: Kingdom of Nordhaven
 ---
 
 ## Overview

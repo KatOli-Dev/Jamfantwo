@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Greyring Whale
+title: Greyring Whale
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Stormfall Sea
+title: Stormfall Sea
 ---
 
 ## Overview

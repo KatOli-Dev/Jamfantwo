@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Thessaran League
+title: Thessaran League
 ---
 
 ## Overview

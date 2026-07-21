@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Velden Compact
+title: Velden Compact
 ---
 
 ## Overview

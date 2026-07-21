@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Amber Crawler
+title: Amber Crawler
 ---
 
 ## Overview

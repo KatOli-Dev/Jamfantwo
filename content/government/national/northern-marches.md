@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Northern Marches
+title: Northern Marches
 ---
 
 ## Overview

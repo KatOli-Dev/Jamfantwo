@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Greyring Ocean
+title: Greyring Ocean
 ---
 
 ## Overview

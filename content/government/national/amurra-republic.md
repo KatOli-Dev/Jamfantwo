@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Amurra Republic
+title: Amurra Republic
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Sylvan Court
+title: Sylvan Court
 ---
 
 ## Overview

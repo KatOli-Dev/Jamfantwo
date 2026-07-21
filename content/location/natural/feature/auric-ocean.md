@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Auric Ocean
+title: Auric Ocean
 ---
 
 ## Overview

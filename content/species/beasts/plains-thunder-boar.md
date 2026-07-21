@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The Plains Thunder Boar
+title: Plains Thunder Boar
 ---
 
 ## Overview
 
-The plains thunder boar is the largest of the wild swine of the [Great Grass Plains](/content/location/natural/ecosystem/the-great-grass-plains) of central [Aethelar](/content/location/natural/continent/aethelar), a great and shaggy beast of formidable temper whose range extends across the grasslands from the foothills of the western mountains to the river valleys of the interior. The boar is the quarry of the great mounted hunt of the [Plains Confederation](/content/government/national/plains-confederation), and the hunt of the thunder boar is a ceremonial pursuit that is conducted according to traditions that are among the most ancient of the plains peoples. The chronicler notes that the boar is not confined to the plains, for smaller populations are found in the woodland margins and the river valleys of the central continent, but the great boars of the open grasslands are the most celebrated, and the lore of the hunt is principally concerned with the boars of the open country.
+The plains thunder boar is the largest of the wild swine of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) of central [Aethelar](/content/location/natural/continent/aethelar), a great and shaggy beast of formidable temper whose range extends across the grasslands from the foothills of the western mountains to the river valleys of the interior. The boar is the quarry of the great mounted hunt of the [Plains Confederation](/content/government/national/plains-confederation), and the hunt of the thunder boar is a ceremonial pursuit that is conducted according to traditions that are among the most ancient of the plains peoples. The chronicler notes that the boar is not confined to the plains, for smaller populations are found in the woodland margins and the river valleys of the central continent, but the great boars of the open grasslands are the most celebrated, and the lore of the hunt is principally concerned with the boars of the open country.
 
 ## Form and Appearance
 

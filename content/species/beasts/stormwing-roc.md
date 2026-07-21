@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Stormwing Roc
+title: Stormwing Roc
 ---
 
 ## Overview

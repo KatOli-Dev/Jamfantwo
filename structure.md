@@ -90,9 +90,7 @@ Split by sapience.
 
 ## Filename and Title Conventions
 
-Filenames are kebab-case slugs without leading articles. No slug begins with `the-`; titles may begin with `The` when natural to prose (e.g. "The Stormfall Sea") but the slug itself drops the article. The front-matter `title` is title case, with articles capitalised in the usual English way.
-
-Older entries in some directories (`belief/`, `culture/`, `language/pseudo/`, and a few of the existing entries in `location/natural/ecosystem/`) were originally created with a `the-` prefix; they remain as historical exceptions and need not be renamed unless a page is being substantially rewritten. All new pages use bare slugs.
+Filenames are kebab-case slugs without leading articles. No slug begins with `the-`; titles do not begin with `The`, `A`, or `An` either, so the front-matter `title` matches the canonical name without its leading article. The front-matter `title` is title case, with articles capitalised in the usual English way. Existing pages that still carry a `the-` prefix are being migrated to bare slugs as they are touched.
 
 ## Page Structure
 

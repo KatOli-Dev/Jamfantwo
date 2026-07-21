@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dune Worm
+title: Dune Worm
 ---
 
 ## Overview

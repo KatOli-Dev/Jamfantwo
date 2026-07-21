@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Velden Reef Serpent
+title: Velden Reef Serpent
 ---
 
 ## Overview

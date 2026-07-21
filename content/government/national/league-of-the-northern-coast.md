@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The League of the Northern Coast
+title: League of the Northern Coast
 ---
 
 ## Overview

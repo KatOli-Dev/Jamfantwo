@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Vashari Pact
+title: Vashari Pact
 ---
 
 ## Overview

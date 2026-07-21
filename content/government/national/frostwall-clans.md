@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Frostwall Clans
+title: Frostwall Clans
 ---
 
 ## Overview

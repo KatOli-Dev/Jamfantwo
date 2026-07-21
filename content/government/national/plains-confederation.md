@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Plains Confederation
+title: Plains Confederation
 ---
 
 ## Overview

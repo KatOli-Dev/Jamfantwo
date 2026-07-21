@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Kharesh Tribes
+title: Kharesh Tribes
 ---
 
 ## Overview
@@ -29,7 +29,7 @@ The council of elders convenes at a gathering that is known as the Assembly of t
 
 The culture of the Kharesh Tribes is shaped by the demands of the desert and the nomadic way of life, and the traditions of the confederation are distinct from those of the settled peoples of the coast and the interior. The most notable of these traditions is the practice of hospitality, a code of conduct that governs the reception of guests and the obligations of the host toward the traveller. The code of hospitality is the foundation of the social order of the desert, for the survival of the traveller depends upon the generosity of the host, and the refusal of hospitality is regarded as the gravest of offences. The code extends to the caravans that cross the desert, and the tribes that guide them are bound by the same obligations toward the merchants and the drovers who travel under their protection.
 
-The oral traditions of the Kharesh Tribes are among the richest in the known world, and the songs and the stories of the nomadic peoples are a record of the history of the desert and the peoples who have inhabited it. The traditions include the knowledge of the routes and the water sources, the histories of the kindreds and the families, and the legends of the desert and the [Spirits of the Kharesh](/content/belief/religion/polytheist/the-spirits-of-the-kharesh). The oral traditions are maintained by the elders and the storytellers who are the guardians of the knowledge, and the transmission of the traditions from one generation to the next is the most important responsibility of the elders. The traditions of the Kharesh Tribes are a living record of the desert and its peoples, and they are a testament to the endurance and the adaptability of the nomadic way of life.
+The oral traditions of the Kharesh Tribes are among the richest in the known world, and the songs and the stories of the nomadic peoples are a record of the history of the desert and the peoples who have inhabited it. The traditions include the knowledge of the routes and the water sources, the histories of the kindreds and the families, and the legends of the desert and the [Spirits of the Kharesh](/content/belief/religion/polytheist/spirits-of-the-kharesh). The oral traditions are maintained by the elders and the storytellers who are the guardians of the knowledge, and the transmission of the traditions from one generation to the next is the most important responsibility of the elders. The traditions of the Kharesh Tribes are a living record of the desert and its peoples, and they are a testament to the endurance and the adaptability of the nomadic way of life.
 
 ## Significance
 

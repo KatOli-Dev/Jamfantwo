@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Valdmark
+title: Valdmark
 ---
 
 ## Overview

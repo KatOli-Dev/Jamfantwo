@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Southern Reach
+title: Southern Reach
 ---
 
 ## Overview

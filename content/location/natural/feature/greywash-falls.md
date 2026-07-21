@@ -17,7 +17,7 @@ The cascades are the source of the power that the mills require, and the mills h
 
 ## The Cliffs
 
-The cliffs that flank the falls are composed of the same ancient stone that forms the plateau of the upper river, and the cliffs are exposed in the faces that drop to the water below. The cliffs are the home of the seabirds that breed upon the ledges in the spring, and the birds include the gulls and the cormorants that the chroniclers of the [Cataloguing of Flora and Fauna](/content/belief/science/physical/the-cataloguing-of-flora-and-fauna) have catalogued with care. The cliffs are covered with a tough vegetation of shrubs and small trees that the salt spray has shaped into low, wind-bent forms, and the vegetation is the foundation of the ecology of the falls.
+The cliffs that flank the falls are composed of the same ancient stone that forms the plateau of the upper river, and the cliffs are exposed in the faces that drop to the water below. The cliffs are the home of the seabirds that breed upon the ledges in the spring, and the birds include the gulls and the cormorants that the chroniclers of the [Cataloguing of Flora and Fauna](/content/belief/science/physical/cataloguing-of-flora-and-fauna) have catalogued with care. The cliffs are covered with a tough vegetation of shrubs and small trees that the salt spray has shaped into low, wind-bent forms, and the vegetation is the foundation of the ecology of the falls.
 
 The cliffs are the source of the small streams that run off the slopes to the river below, and the streams are the only source of fresh water upon the cliffs. The chronicler notes that the streams are small and unreliable, and the streams are sufficient for the small millers' village above the falls but not for any larger settlement.
 
@@ -35,7 +35,7 @@ The chronicler notes that the fishery has been the subject of long debate betwee
 
 ## The Wildlife
 
-The falls are the home of a rich variety of wildlife, and the wildlife is the foundation of the ecology of the falls. The cliffs support the seabirds that breed upon the ledges in the spring, and the birds include the gulls and the cormorants that the chroniclers of the [Cataloguing of Flora and Fauna](/content/belief/science/physical/the-cataloguing-of-flora-and-fauna) have catalogued with care. The slopes support the smaller mammals that the birds of prey feed upon, and the waters below the falls support the fish that the fishermen pursue.
+The falls are the home of a rich variety of wildlife, and the wildlife is the foundation of the ecology of the falls. The cliffs support the seabirds that breed upon the ledges in the spring, and the birds include the gulls and the cormorants that the chroniclers of the [Cataloguing of Flora and Fauna](/content/belief/science/physical/cataloguing-of-flora-and-fauna) have catalogued with care. The slopes support the smaller mammals that the birds of prey feed upon, and the waters below the falls support the fish that the fishermen pursue.
 
 The wildlife is the source of much of the food of the villages along the river, and the wildlife is the foundation of the careful management of the chase that the river warden maintains. The chronicler notes that the wildlife has been the subject of careful study by the scholars of the academies, and the scholars have recorded the patterns of the birds and the fish in their catalogues.
 

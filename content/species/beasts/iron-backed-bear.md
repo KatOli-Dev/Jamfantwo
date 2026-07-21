@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The Iron-Backed Bear
+title: Iron-Backed Bear
 ---
 
 ## Overview
 
-The iron-backed bear is the largest of the terrestrial predators of the [Morvind Uplands](/content/location/natural/ecosystem/the-morvind-uplands), a great bear of dark pelage and remarkable strength whose range extends across the coniferous forests of the lower slopes and the valleys of the mountain interior of [Morvind](/content/location/natural/continent/morvind). The bear takes its name from the grey patch upon the shoulders that the foresters have likened to a plate of iron, and the creature is reputed among the most dangerous of the predators of the northern continent. The chronicler notes that the iron-backed bear is held in a wary respect by the [dwarves](/content/species/sapient/dwarves) of the mountain holds, who regard the creature as a hazard of the surface world and who take care to seal the lower entrances of their halls against the intrusion of the bear.
+The iron-backed bear is the largest of the terrestrial predators of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands), a great bear of dark pelage and remarkable strength whose range extends across the coniferous forests of the lower slopes and the valleys of the mountain interior of [Morvind](/content/location/natural/continent/morvind). The bear takes its name from the grey patch upon the shoulders that the foresters have likened to a plate of iron, and the creature is reputed among the most dangerous of the predators of the northern continent. The chronicler notes that the iron-backed bear is held in a wary respect by the [dwarves](/content/species/sapient/dwarves) of the mountain holds, who regard the creature as a hazard of the surface world and who take care to seal the lower entrances of their halls against the intrusion of the bear.
 
 ## Form and Appearance
 

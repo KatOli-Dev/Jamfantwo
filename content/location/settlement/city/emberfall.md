@@ -5,7 +5,7 @@ title: Emberfall
 
 ## Overview
 
-Emberfall is a southern trade city of [Aethelar](/content/location/natural/continent/aethelar), situated at the junction of the overland routes near the northern threshold of the [Emberlands](/content/location/settlement/region/the-emberlands). The city stands at the point where the roads from the eastern coast, the western coast, and the southern plains converge, and its position at the meeting of these routes has made it the primary hub of southern inland trade. Emberfall is a bustling, well-connected city of the [Plains Confederation](/content/government/national/plains-confederation), and its prosperity is built upon the traffic that flows through its streets and the commerce that accumulates at the junction.
+Emberfall is a southern trade city of [Aethelar](/content/location/natural/continent/aethelar), situated at the junction of the overland routes near the northern threshold of the [Emberlands](/content/location/settlement/region/emberlands). The city stands at the point where the roads from the eastern coast, the western coast, and the southern plains converge, and its position at the meeting of these routes has made it the primary hub of southern inland trade. Emberfall is a bustling, well-connected city of the [Plains Confederation](/content/government/national/plains-confederation), and its prosperity is built upon the traffic that flows through its streets and the commerce that accumulates at the junction.
 
 ## The Roads and the Junction
 

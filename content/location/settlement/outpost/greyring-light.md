@@ -29,7 +29,7 @@ The beacons are connected by a chain of signals that the garrison exchanges with
 
 ## The Navigation
 
-The waters of the strait are treacherous, and the navigation of the strait has been the subject of careful study by the pilots of the [Surveying of Heights and Distances](/content/belief/science/physical/the-surveying-of-heights-and-distances) since the founding of the tower. The pilots maintain the charts of the strait, and the pilots report the state of the channels to the harbormaster of [Velden](/content/location/settlement/city/velden). The chronicler notes that the charts have been the foundation of the safety of the navigation of the strait, and the navigation is the source of much of the prosperity of the merchants of the coast.
+The waters of the strait are treacherous, and the navigation of the strait has been the subject of careful study by the pilots of the [Surveying of Heights and Distances](/content/belief/science/physical/surveying-of-heights-and-distances) since the founding of the tower. The pilots maintain the charts of the strait, and the pilots report the state of the channels to the harbormaster of [Velden](/content/location/settlement/city/velden). The chronicler notes that the charts have been the foundation of the safety of the navigation of the strait, and the navigation is the source of much of the prosperity of the merchants of the coast.
 
 The pilots also oversee the pilots of the larger vessels that pass through the strait, and the pilots direct the vessels through the dangerous waters with care. The chronicler notes that the direction has been the foundation of the safety of the strait, and the direction is the measure of the careful management that the Standing Watch maintains.
 

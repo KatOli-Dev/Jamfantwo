@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Holds of Stoneheim
+title: Holds of Stoneheim
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Storm Petrel
+title: Storm Petrel
 ---
 
 ## Overview

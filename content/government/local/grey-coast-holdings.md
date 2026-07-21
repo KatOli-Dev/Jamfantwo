@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Grey Coast Holdings
+title: Grey Coast Holdings
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Kharesh
+title: Kharesh
 ---
 
 ## Overview

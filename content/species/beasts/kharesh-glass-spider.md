@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Kharesh Glass Spider
+title: Kharesh Glass Spider
 ---
 
 ## Overview

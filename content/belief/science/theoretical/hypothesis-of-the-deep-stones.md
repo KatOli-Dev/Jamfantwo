@@ -1,0 +1,44 @@
+---
+layout: default
+title: Hypothesis of the Deep Stones
+---
+
+## Overview
+
+The Hypothesis of the Deep Stones is the theoretical doctrine that the visible stones of the world's surface are not the principal matter of the world but only its lightest crust, and that beneath the familiar rocks of the fields and the hills lies a succession of deeper stones, denser and older and stranger, whose nature is to be inferred from the fragments that occasionally reach the surface. The hypothesis takes its name from these supposed deep stones, and it holds that the deep places of the world contain a graduated sequence of materials, each laid down in its proper order, and each preserving, in its grain and composition, a record of the conditions under which it was formed. The doctrine is reckoned among the theoretical sciences, for it proceeds by reasoning upon the observed behaviour of stones in the deep mines and in the exposed faces of mountains, rather than by any direct inspection of the deep places themselves.
+
+## The Original Observation
+
+The hypothesis arose among the delvers of the [Holds of Stoneheim](/content/government/national/holds-of-stoneheim), whose mines pierce the flank of the mountains to a depth unmatched in any other land of the known world. The delvers had long observed that the stone of the upper shafts differs from the stone of the deeper shafts, and that the deeper stone is, as a rule, harder, darker, and heavier in the hand. The thanes of the holds, whose authority extends over the workings, preserved the testimony of the delvers in the ledgers of the mines, and a [Thrain Ironbrow](/content/people/historical/thrain-ironbrow) of the older generation is said to have first proposed that the difference of stone marked a succession of deeper layers, each older than the one above.
+
+The hypothesis, as set out in the principal treatise of the school, holds that the stones of the world's surface are the lightest and most recent of a series, and that beneath them lie heavier and older stones, formed under conditions of greater heat and greater pressure than any that now obtain at the surface. The deepest stones, which no mine has yet reached, are supposed to be of a density and a composition altogether unlike the familiar rocks of the fields.
+
+## The Succession of the Layers
+
+The philosophers of the school describe the succession of the layers as a graduated series, each layer differing from the one above it by some marked change in composition or in grain. The uppermost layer, which they term the soil, is the loose and fertile matter in which the roots of plants are fixed, and which is renewed year by year by the falling of leaves and the action of water. Beneath the soil lies the second layer, the sandstones and clays of the lowlands, which are held to be the deposits of ancient seas. Beneath the sandstones lie the limestones, which are held to be the compressed remains of the creatures of those seas. Beneath the limestones lie the granites and other hard stones of the mountains, which the school holds to be of a different origin, having been formed by the cooling of molten matter rather than by the laying down of sediments.
+
+The school holds that each layer preserves, in its grain and in the fossils it contains, a record of the conditions under which it was formed, and that the careful reading of a layer may reveal what the surface of the world was like when that layer was laid down. The natural philosophers of [Amurra](/content/location/settlement/city/amurra) have taken up this doctrine with enthusiasm, and the [Amurra Republic](/content/government/national/amurra-republic) supports a small academy devoted to the reading of the stones.
+
+## The Reading of the Stones
+
+The philosophers of the school teach that the stones may be read as the chronicler reads a manuscript, by the patient comparison of one layer with another, and by the observation of the marks and the fossils that each layer contains. The fossils, which are the petrified remains of creatures embedded in the stone, are of particular interest, for they reveal what manner of creatures lived when the layer was formed. The limestones of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), for example, contain the shells of sea creatures, and the school holds that the presence of these shells proves that the heartwood was once covered by the sea, and that the limestones were laid down beneath the waters.
+
+The reading of the stones is a difficult art, and the philosophers of the school are careful to distinguish what is observed from what is inferred. A fossil embedded in a layer is observed; the conclusion that the layer was once beneath the sea is inferred. The school maintains that its inferences are well founded, and it points to the agreement of independent observers and to the consistency of the inferences with one another.
+
+## Difficulties and Objections
+
+The hypothesis is not without its serious difficulties, and the more cautious of its adherents acknowledge them. The deepest layers have never been directly observed, and the description of them is a matter of inference from the behaviour of the shallower layers. The practitioners of the physical sciences, who are accustomed to demand direct evidence, observe that a hypothesis which depends upon what cannot be seen is hardly better established than the older doctrines that the hypothesis was advanced to replace.
+
+The philosophers of the school reply that the deeper layers are inferred from the regularities observed in the shallower layers, and that the regularities are themselves evidence for the existence of the deeper layers. The reply is not conclusive, and the philosophers know it, but they maintain that no other hypothesis accounts so well for the observed succession of the stones.
+
+The cartographers of the [Cartography of the Spheres](/content/belief/science/theoretical/cartography-of-the-spheres) observe that the hypothesis, if true, would require that the surface of the world was once very different from what it is now, and they ask what force could have lifted the mountains and drained the seas from the lands. The philosophers reply that the lifting of the mountains is the work of the [Philosophy of the Underlying Fire](/content/belief/science/theoretical/philosophy-of-the-underlying-fire), and that the two doctrines are not inconsistent but complementary.
+
+## Reception Among the Learned
+
+The hypothesis has been received with interest by the natural philosophers of the known world, and the academies of [Amurra](/content/location/settlement/city/amurra) and [Vashari](/content/location/settlement/city/vashari) have given it a sympathetic hearing. The [dwarves](/content/species/sapient/dwarves) of the deep holds are unanimous in their support of the hypothesis, for the succession of the stones is the daily experience of their mines, and the delvers of [Stoneheim](/content/location/settlement/city/stoneheim) and [Karhold](/content/location/settlement/city/karhold) have contributed many of the observations upon which the hypothesis rests. The [Thessaran League](/content/government/national/thessaran-league) maintains a school of the deep stones in the libraries of [Stoneheim](/content/location/settlement/city/stoneheim), and the [gnomes](/content/species/sapient/gnomes) of the workshops have devised instruments by which the density and the grain of a stone may be measured with precision.
+
+The hypothesis has been criticised by certain philosophers who hold that the reading of the stones is too uncertain to support the conclusions that the school draws from it, and that the inferences of the school are sometimes contradicted by new observations. The philosophers of the school reply that the inferences are revised as new observations are made, and that the doctrine is therefore not a fixed account but a growing one, in the manner of all honest inquiry.
+
+## Significance
+
+The Hypothesis of the Deep Stones is, in the judgment of the chronicler, among the more fruitful of the theoretical sciences, for it has directed the attention of scholars to the deep places of the world and to the record that the stones themselves preserve of the ages in which they were formed. Whether or not the succession of the layers is precisely as the school supposes, the doctrine has produced a manner of inquiry that is now in use among every careful observer of the rocks, and the chroniclers of the deep mines have begun to keep their logs with a precision that the older delvers did not require. The doctrine may in time be confirmed by discoveries yet to be made, or it may give place to a better account of the world's stony foundation. In either case it will be remembered as one of the great constructions of the age.
