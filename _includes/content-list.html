@@ -1,9 +1,11 @@
 {%- assign all_pages = site.pages | where_exp: "p", "p.path contains 'content/'" -%}
-{%- assign belief_subs = "ideology,religion/monotheist,religion/polytheist,science/physical,science/theoretical" | split: "," -%}
+{%- assign belief_subs = "deity,ideology,religion/monotheist,religion/polytheist,science/physical,science/theoretical" | split: "," -%}
 {%- assign gov_subs = "national,local" | split: "," -%}
 {%- assign location_subs = "natural/continent,natural/ecosystem,natural/feature,route/trade,settlement/city,settlement/town,settlement/village,settlement/outpost,settlement/region" | split: "," -%}
 {%- assign people_subs = "historical,notable" | split: "," -%}
 {%- assign species_subs = "beasts,sapient" | split: "," -%}
+{%- assign magic_subs = "law,tradition,working,relic" | split: "," -%}
+{%- assign lang_subs = "pseudo,spoken" | split: "," -%}
 
 ## Table of Contents
 
@@ -43,10 +45,23 @@ Governing bodies and polities.
 {% endfor %}
 ### Language
 
-Non-verbal signalling systems.
+Verbal languages and non-verbal signalling systems.
 
-{% assign lang_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/language/" %}{% assign lang_pages = lang_pages | push: p %}{% endif %}{% endfor %}{% for p in lang_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
-{% endfor %}
+{% for sub in lang_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/language/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### Magic
+
+The workings of the Art.
+
+{% assign overview_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/overview" %}{% assign overview_pages = overview_pages | push: p %}{% endif %}{% endfor %}{% for p in overview_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% for sub in magic_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
 ### Locations
 
 Places in the known world.

@@ -12,6 +12,7 @@ content/
 ├── geography.md
 ├── population.md
 ├── belief/
+│   ├── deity/
 │   ├── ideology/
 │   ├── religion/
 │   │   ├── monotheist/
@@ -25,7 +26,8 @@ content/
 │   └── national/
 ├── history/
 ├── language/
-│   └── pseudo/
+│   ├── pseudo/
+│   └── spoken/
 ├── location/
 │   ├── natural/
 │   │   ├── continent/
@@ -39,6 +41,12 @@ content/
 │       ├── region/
 │       ├── town/
 │       └── village/
+├── magic/
+│   ├── overview.md
+│   ├── law/
+│   ├── tradition/
+│   ├── working/
+│   └── relic/
 ├── people/
 │   ├── historical/
 │   └── notable/
@@ -54,6 +62,7 @@ content/
 
 ### `belief/` — Systems of thought and worship
 Organised by the nature of the belief system.
+- `deity/` — individual named powers venerated within one or more religions (gods, goddesses, spirits, and similar figures invoked by name). Each file describes a single figure: the domain, the customary observances, the principal legends, and the peoples among whom the figure is honoured. Deity pages sit alongside the religion pages rather than inside them, so that a religion page can describe the cult while a deity page describes the power.
 - `ideology/` — ethical and philosophical codes not tied to worship.
 - `religion/` — faiths, split into `monotheist/` and `polytheist/`.
 - `science/` — schools of thought that conflict with one another; each file represents a divergent theory.
@@ -71,6 +80,7 @@ A loose collection of pages covering the major eras, conflicts, treaties, and tu
 
 ### `language/`
 - `pseudo/` — non-verbal, commonly understood signalling systems (e.g. gestures, flag signals). Not full spoken languages.
+- `spoken/` — true spoken languages with grammar and vocabulary, used for the ordinary commerce of life.
 
 ### `location/` — Places in the world
 Three broad types, each with sub-types:
@@ -83,6 +93,14 @@ Split by their status in the world's chronology.
 - `historical/` — figures from the past.
 - `notable/` — living or recently living figures.
 
+### `magic/` — The workings of magic
+Treated in-world as a real, rule-bound phenomenon rather than a matter of belief.
+- `overview.md` — chronicler-voiced index for the category.
+- `law/` — the explicit, named rules of magic: source, medium, limit, and cost, each in its own page.
+- `tradition/` — schools or orders of practice; one file per tradition.
+- `working/` — named techniques or effects; one file per working.
+- `relic/` — artefacts of note; one file per relic.
+
 ### `species/` — Creatures and peoples
 Split by sapience.
 - `beasts/` — non-sapient animals and monsters.
@@ -90,10 +108,14 @@ Split by sapience.
 
 ## Filename and Title Conventions
 
-Filenames are kebab-case slugs without leading articles. No slug begins with `the-`; titles do not begin with `The`, `A`, or `An` either, so the front-matter `title` matches the canonical name without its leading article. The front-matter `title` is title case, with articles capitalised in the usual English way. Existing pages that still carry a `the-` prefix are being migrated to bare slugs as they are touched.
+Filenames are kebab-case slugs without leading articles. No slug begins with `the-`; titles do not begin with `The`, `A`, or `An` either, so the front-matter `title` matches the canonical name without its leading article. The front-matter `title` is title case, with articles capitalised in the usual English way.
 
 ## Page Structure
 
 Headings are flexible. Each page should use whatever ATX heading structure best suits its subject matter, as long as the body starts at `##` (the layout renders the `h1`), headings do not skip levels, and the page contains at least 1,000 words of body prose. There is no required opening heading or closing section; pages may begin with any `##` heading and close with any section that fits the subject.
 
 The index page (`index.md`) renders category lists through `_includes/content-list.html`, which groups pages automatically; the lists are not maintained by hand.
+
+## Extending the Tree
+
+The tree above reflects the current layout, not a closed taxonomy. New subdirectories may be added under any category as the world grows, and category rationales should be amended (rather than treated as fixed) to describe whatever grouping is in use at the time. The only firm constraints are the existing style and content rules: a page must still belong in one of the broad categories, use the slug and front-matter conventions, and meet the word-count and heading requirements from the style guide.

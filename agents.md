@@ -1,3 +1,2 @@
 - If the style guide or structure is overriden by the user, then update those files to match.
-- Do not write more than 5000 words per batch of tool calls.
-- Before creating subagents, ask the user. Subagents break much worse when usage limits run out.
+- Do not write more than 10000 words per batch of tool calls.
