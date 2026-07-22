@@ -5,7 +5,7 @@ title: Nessara
 
 ## Overview
 
-Nessara is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), situated at the edge of the fertile strip where the coastal agriculture gives way to the drier country of the western coast. The city is the northernmost of the major Sahrani city-states, and its position at the boundary of the fertile and the arid coast gives it a character that is distinct from the other cities of the northern coast. Nessara is a prosperous, well-situated city, and its wealth is built upon the agriculture of the surrounding country and the trade that flows through its harbour.
+Nessara is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), situated at the edge of the fertile strip where the coastal agriculture gives way to the drier country of the western coast. The city is the northernmost of the major [Sahrani](/content/language/spoken/sahrani) city-states, and its position at the boundary of the fertile and the arid coast gives it a character that is distinct from the other cities of the northern coast. Nessara is a prosperous, well-situated city, and its wealth is built upon the agriculture of the surrounding country and the trade that flows through its harbour.
 
 ## The Coast and the Agriculture
 

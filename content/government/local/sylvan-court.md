@@ -5,7 +5,7 @@ title: Sylvan Court
 
 ## Overview
 
-The Sylvan Court is the [elven](/content/species/sapient/elves) governance of the ancient northern forests of [Aethelar](/content/location/natural/continent/aethelar), encompassing the woodland territories that are inhabited and managed by the elven people of the continent. The court is not a kingdom in the manner of the human realms but a council of elders that governs the forest through consensus and tradition, and its authority is based not on military power or territorial control but on the deep connection between the elves and the woodland they inhabit. The Sylvan Court is the oldest political entity in Aethelar, and its governance of the ancient forests has sustained the elven people and the woodland they inhabit for many centuries.
+The [Sylvan](/content/language/pseudo/sylvan) Court is the [elven](/content/species/sapient/elves) governance of the ancient northern forests of [Aethelar](/content/location/natural/continent/aethelar), encompassing the woodland territories that are inhabited and managed by the elven people of the continent. The court is not a kingdom in the manner of the human realms but a council of elders that governs the forest through consensus and tradition, and its authority is based not on military power or territorial control but on the deep connection between the elves and the woodland they inhabit. The Sylvan Court is the oldest political entity in Aethelar, and its governance of the ancient forests has sustained the elven people and the woodland they inhabit for many centuries.
 
 ## The Forest and the Territory
 

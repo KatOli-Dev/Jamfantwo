@@ -5,7 +5,7 @@ title: Kingdom of Vael
 
 ## Overview
 
-The Kingdom of Vael is a major human kingdom of the temperate river valleys of [Aethelar](/content/location/natural/continent/aethelar), and it is among the oldest and most prosperous of the political entities on the continent. The kingdom occupies the valley of the River Vael, the greatest waterway of Aethelar, and its territory extends from the foothills of the mountain spine in the west to the coast of the [Auric Ocean](/content/location/natural/feature/auric-ocean) in the east. The capital of the kingdom is [Vaelmouth](/content/location/settlement/city/vaelmouth), the port city that stands at the mouth of the river, and the seat of the king and the court is situated in the oldest quarter of the city, overlooking the harbour and the river.
+The Kingdom of Vael is a major human kingdom of the temperate river valleys of [Aethelar](/content/location/natural/continent/aethelar), and it is among the oldest and most prosperous of the political entities on the continent. The kingdom occupies the valley of the [River Vael](/content/location/natural/feature/river-vael), the greatest waterway of Aethelar, and its territory extends from the foothills of the mountain spine in the west to the coast of the [Auric Ocean](/content/location/natural/feature/auric-ocean) in the east. The capital of the kingdom is [Vaelmouth](/content/location/settlement/city/vaelmouth), the port city that stands at the mouth of the river, and the seat of the king and the court is situated in the oldest quarter of the city, overlooking the harbour and the river.
 
 ## The Valley and the Realm
 

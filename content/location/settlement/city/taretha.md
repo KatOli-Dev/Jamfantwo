@@ -5,7 +5,7 @@ title: Taretha
 
 ## Overview
 
-Taretha is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world for its libraries and its scholarship. The city stands on a sheltered bay on the coast where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast, and its position on the coast and its proximity to the interior have made it a natural gathering point for the knowledge and the learning of the Sahrani civilisation. Taretha is a prosperous, cultivated city, and its wealth is built not upon trade alone but upon the accumulation and the preservation of the knowledge that is the pride of the Sahrani people.
+Taretha is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world for its libraries and its scholarship. The city stands on a sheltered bay on the coast where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast, and its position on the coast and its proximity to the interior have made it a natural gathering point for the knowledge and the learning of the [Sahrani](/content/language/spoken/sahrani) civilisation. Taretha is a prosperous, cultivated city, and its wealth is built not upon trade alone but upon the accumulation and the preservation of the knowledge that is the pride of the Sahrani people.
 
 ## The Libraries
 

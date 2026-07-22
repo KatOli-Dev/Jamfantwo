@@ -5,7 +5,7 @@ title: Grey Coast Holdings
 
 ## Overview
 
-The Grey Coast Holdings is an alliance of the western coast fishing and whaling towns of [Aethelar](/content/location/natural/continent/aethelar), united by their common dependence on the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) and their shared interest in the fisheries and the whaling grounds that sustain them. The holdings are not a kingdom but a commercial and a defensive alliance, and its member towns retain their individual governance while co-operating on matters of trade, navigation, and defence. The Grey Coast Holdings is the primary political entity of the western coast, and its influence extends along the full length of the cliff coast, from the northern headlands to the southern edge of the cliff country.
+The [Grey Coast](/content/location/settlement/region/grey-coast) Holdings is an alliance of the western coast fishing and whaling towns of [Aethelar](/content/location/natural/continent/aethelar), united by their common dependence on the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) and their shared interest in the fisheries and the whaling grounds that sustain them. The holdings are not a kingdom but a commercial and a defensive alliance, and its member towns retain their individual governance while co-operating on matters of trade, navigation, and defence. The Grey Coast Holdings is the primary political entity of the western coast, and its influence extends along the full length of the cliff coast, from the northern headlands to the southern edge of the cliff country.
 
 ## The Member Towns
 

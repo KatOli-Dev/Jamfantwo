@@ -5,7 +5,7 @@ title: Kingdom of Nordhaven
 
 ## Overview
 
-The Kingdom of Nordhaven is the human kingdom of the Morvind coast, encompassing the coastal lowlands and the settlements that line the shores of [Morvind](/content/location/natural/continent/morvind). The kingdom is the primary human political entity on the continent, and its capital is [Nordhaven](/content/location/settlement/city/nordhaven), the largest port and the hub of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) trade. The Kingdom of Nordhaven is a maritime power, and its prosperity is built upon the trade that flows through its harbours, connecting the mineral wealth and the metalwork of the Morvind interior to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond.
+The Kingdom of [Nordhaven](/content/location/settlement/city/nordhaven) is the human kingdom of the [Morvind](/content/location/natural/continent/morvind) coast, encompassing the coastal lowlands and the settlements that line the shores of [Morvind](/content/location/natural/continent/morvind). The kingdom is the primary human political entity on the continent, and its capital is [Nordhaven](/content/location/settlement/city/nordhaven), the largest port and the hub of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) trade. The Kingdom of Nordhaven is a maritime power, and its prosperity is built upon the trade that flows through its harbours, connecting the mineral wealth and the metalwork of the Morvind interior to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond.
 
 ## The Coast and the Trade
 

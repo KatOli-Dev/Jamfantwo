@@ -5,7 +5,7 @@ title: Strait of Velden
 
 ## Overview
 
-The Strait of Velden is a narrow channel that connects the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), passing between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). The strait has long been a point of strategic importance, as any vessel travelling between the two oceans must pass through these waters. The name Velden is drawn from the oldest charts of the region, and its origin is uncertain, though some scholars have proposed that it derives from a word in an ancient coastal tongue meaning narrows or gate.
+The Strait of [Velden](/content/location/settlement/city/velden) is a narrow channel that connects the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), passing between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). The strait has long been a point of strategic importance, as any vessel travelling between the two oceans must pass through these waters. The name Velden is drawn from the oldest charts of the region, and its origin is uncertain, though some scholars have proposed that it derives from a word in an ancient coastal tongue meaning narrows or gate.
 
 ## Geography and Conditions
 

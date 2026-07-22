@@ -5,7 +5,7 @@ title: Amurra
 
 ## Overview
 
-Amurra is a wealthy port city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world as the centre of the spice trade. The city stands on a natural harbour that is sheltered by a headland of rock, and its position on the coast near the mouth of a river that descends from the interior highlands has made it the primary port for the export of the spices that are grown in the foothills and the upland valleys of the Sahrani interior. Amurra is a prosperous, cosmopolitan city, and its wealth is built upon the trade in the rare and the valuable spices that are found only in Sahrana.
+Amurra is a wealthy port city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world as the centre of the spice trade. The city stands on a natural harbour that is sheltered by a headland of rock, and its position on the coast near the mouth of a river that descends from the interior highlands has made it the primary port for the export of the spices that are grown in the foothills and the upland valleys of the [Sahrani](/content/language/spoken/sahrani) interior. Amurra is a prosperous, cosmopolitan city, and its wealth is built upon the trade in the rare and the valuable spices that are found only in Sahrana.
 
 ## The Harbour and the Spice Trade
 

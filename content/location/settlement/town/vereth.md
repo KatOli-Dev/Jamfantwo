@@ -5,7 +5,7 @@ title: Vereth
 
 ## Overview
 
-Vereth is the largest settlement of the [Southern Reach](/content/government/national/southern-reach), situated on the northern shore of the Greater Inland Sea in the far south of [Sahrana](/content/location/natural/continent/sahrana), beyond the [Kharesh](/content/location/natural/feature/kharesh). The town is the seat of the council of the federation, and its position on the shore of the largest of the inland seas gives it a commercial and a political significance that is disproportionate to its modest size. Vereth is the most populous and the most prosperous of the Southern Reach settlements, and its harbour is the centre of the trade that flows across the inland seas and through the caravan routes to the north.
+Vereth is the largest settlement of the [Southern Reach](/content/government/national/southern-reach), situated on the northern shore of the [Greater Inland Sea](/content/location/natural/feature/greater-inland-sea) in the far south of [Sahrana](/content/location/natural/continent/sahrana), beyond the [Kharesh](/content/location/natural/feature/kharesh). The town is the seat of the council of the federation, and its position on the shore of the largest of the inland seas gives it a commercial and a political significance that is disproportionate to its modest size. Vereth is the most populous and the most prosperous of the Southern Reach settlements, and its harbour is the centre of the trade that flows across the inland seas and through the caravan routes to the north.
 
 ## The Inland Sea and the Harbour
 

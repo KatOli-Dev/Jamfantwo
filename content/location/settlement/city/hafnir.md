@@ -5,7 +5,7 @@ title: Hafnir
 
 ## Overview
 
-Hafnir is a port on the southeastern coast of [Morvind](/content/location/natural/continent/morvind), situated near the [Strait of Velden](/content/location/natural/feature/strait-of-velden) where the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) meets the [Auric Ocean](/content/location/natural/feature/auric-ocean). The city stands on a natural harbour that is one of the best on the southeastern coast, and its position near the strait has made it a significant point in the trade network that connects Morvind to the markets of Aethelar and Sahrana. Hafnir is smaller than [Nordhaven](/content/location/settlement/city/nordhaven), but its proximity to the strait gives it a commercial importance that is disproportionate to its size.
+Hafnir is a port on the southeastern coast of [Morvind](/content/location/natural/continent/morvind), situated near the [Strait of Velden](/content/location/natural/feature/strait-of-velden) where the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) meets the [Auric Ocean](/content/location/natural/feature/auric-ocean). The city stands on a natural harbour that is one of the best on the southeastern coast, and its position near the strait has made it a significant point in the trade network that connects Morvind to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Sahrana](/content/location/natural/continent/sahrana). Hafnir is smaller than [Nordhaven](/content/location/settlement/city/nordhaven), but its proximity to the strait gives it a commercial importance that is disproportionate to its size.
 
 ## The Harbour and the Strait
 

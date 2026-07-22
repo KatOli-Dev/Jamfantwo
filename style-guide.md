@@ -11,7 +11,7 @@ title: Content Style Guide
 
 ## Content File Conventions
 - kebab-case filenames in `content/`, organised into subdirectories by category. Filenames are bare slugs with no leading article; do not prefix slugs with `the-`. Front matter needs `layout: default` and a title-case `title` matching the canonical name. Titles do not begin with a leading article (`The`, `A`, `An`); drop the article from the title just as it is dropped from the slug. The canonical name in prose may still take an article where natural.
-- Body begins at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
+- Body begins at `##`; the `h1` is rendered by the layout. ATX headings only. No bold/italic. No links in headings; use the first body paragraph to link the subject on its first mention. Blockquotes for in-world quotes. Use `-` for groups, `1.` for sequences. Paragraphs 3–7 sentences. Tables sparingly.
 - Headings are flexible; see [structure.md]({{ '/structure/' | relative_url }}) for the general conventions.
 - Every page must be at least 1,000 words of body prose (excluding front matter, link destinations, and fenced code blocks).
 - Avoid mechanical repetition across pages: each entry should open in a way suited to its subject rather than starting every section with the same "The X is..." construction.

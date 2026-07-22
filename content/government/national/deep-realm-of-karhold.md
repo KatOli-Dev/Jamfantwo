@@ -5,7 +5,7 @@ title: Deep Realm of Karhold
 
 ## Overview
 
-The Deep Realm of Karhold is the [dwarven](/content/species/sapient/dwarves) kingdom of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), encompassing the underground cities, the mining settlements, and the highland territories that are inhabited and governed by the dwarven people of the continent. The realm is the oldest and the most extensive dwarven political entity in Aethelar, and its capital is [Karhold](/content/location/settlement/city/karhold), the greatest dwarven city of the mountain spine. The Deep Realm is a significant power in the politics and the economy of Aethelar, and its mineral wealth and its craftsmanship are the foundation of its influence.
+The Deep Realm of [Karhold](/content/location/settlement/city/karhold) is the [dwarven](/content/species/sapient/dwarves) kingdom of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), encompassing the underground cities, the mining settlements, and the highland territories that are inhabited and governed by the dwarven people of the continent. The realm is the oldest and the most extensive dwarven political entity in Aethelar, and its capital is [Karhold](/content/location/settlement/city/karhold), the greatest dwarven city of the mountain spine. The Deep Realm is a significant power in the politics and the economy of Aethelar, and its mineral wealth and its craftsmanship are the foundation of its influence.
 
 ## The Mountain Spine and the Territory
 

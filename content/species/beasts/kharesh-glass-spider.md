@@ -5,7 +5,7 @@ title: Kharesh Glass Spider
 
 ## Overview
 
-The Kharesh glass spider is the most feared of the arthropod predators of the [Kharesh](/content/location/natural/feature/kharesh), a great arachnid of crystalline carapace whose range extends across the rocky uplands and the edges of the deep erg of [Sahrana](/content/location/natural/continent/sahrana). The spider takes its name from the translucent quality of its exoskeleton, which catches the sunlight in a manner that the desert peoples have likened to blown glass, and the creature is reputed among the most venomous of the known world. The chronicler notes that the glass spider is the subject of an extensive body of lore among the caravan peoples, who regard it with a mixture of fear and a grudging respect, and the bite of the spider is reckoned among the most serious of the hazards of the desert crossing.
+The [Kharesh](/content/location/natural/feature/kharesh) glass spider is the most feared of the arthropod predators of the [Kharesh](/content/location/natural/feature/kharesh), a great arachnid of crystalline carapace whose range extends across the rocky uplands and the edges of the deep erg of [Sahrana](/content/location/natural/continent/sahrana). The spider takes its name from the translucent quality of its exoskeleton, which catches the sunlight in a manner that the desert peoples have likened to blown glass, and the creature is reputed among the most venomous of the known world. The chronicler notes that the glass spider is the subject of an extensive body of lore among the caravan peoples, who regard it with a mixture of fear and a grudging respect, and the bite of the spider is reckoned among the most serious of the hazards of the desert crossing.
 
 ## Form and Appearance
 

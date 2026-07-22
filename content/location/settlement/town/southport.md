@@ -5,7 +5,7 @@ title: Southport
 
 ## Overview
 
-Southport is the principal Aethelaran-side town of the [Strait of Velden](/content/location/natural/feature/strait-of-velden), situated on the southern shore of the strait where it connects the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the counterpart of [Veldenwatch](/content/location/settlement/town/veldenwatch) on the Morvind shore, and the two towns together form the core of the [Velden Compact](/content/government/local/velden-compact), the joint governance that regulates passage through the strait. Southport is the primary point of Aethelaran-side pilotage and toll collection, and its harbour is the first or the last port of call for vessels navigating the strait from the southern shore.
+Southport is the principal Aethelaran-side town of the [Strait of Velden](/content/location/natural/feature/strait-of-velden), situated on the southern shore of the strait where it connects the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the counterpart of [Veldenwatch](/content/location/settlement/town/veldenwatch) on the [Morvind](/content/location/natural/continent/morvind) shore, and the two towns together form the core of the [Velden Compact](/content/government/local/velden-compact), the joint governance that regulates passage through the strait. Southport is the primary point of Aethelaran-side pilotage and toll collection, and its harbour is the first or the last port of call for vessels navigating the strait from the southern shore.
 
 ## The Strait and the Pilotage
 

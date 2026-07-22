@@ -5,7 +5,7 @@ title: Path of the Sunless Veils
 
 ## Overview
 
-The Path of the Sunless Veils is an ascetic and contemplative monotheist tradition held chiefly by the cloistered communities of the inland valleys of [Aethelar](/content/location/natural/continent/aethelar) and along the quieter roads of the southern ranges. Its central teaching holds that the divine is hidden from view by the world's brightness and by the noise of its commerce, and that the soul must learn to veil itself from the world's distractions before it can attend to the dimmer light that the veils conceal. The faithful call the divine the Veiled One, and they hold that the Veiled One has wrapped the world in successive coverings, each of which must be lifted in its order by the practitioner who has the patience for the labour.
+The Path of the Sunless Veils is an ascetic and contemplative monotheist tradition held chiefly by the cloistered communities of the inland valleys of [Aethelar](/content/location/natural/continent/aethelar) and along the quieter roads of the southern ranges. Its central teaching holds that the divine is hidden from view by the world's brightness and by the noise of its commerce, and that the soul must learn to veil itself from the world's distractions before it can attend to the dimmer light that the veils conceal. The faithful call the divine the [Veiled One](/content/belief/deity/veiled-one), and they hold that the Veiled One has wrapped the world in successive coverings, each of which must be lifted in its order by the practitioner who has the patience for the labour.
 
 ## Origins among the Inland Hermits
 

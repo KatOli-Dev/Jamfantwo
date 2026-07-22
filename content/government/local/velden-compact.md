@@ -5,7 +5,7 @@ title: Velden Compact
 
 ## Overview
 
-The Velden Compact is the joint governance of the [Strait of Velden](/content/location/natural/feature/strait-of-velden) towns, encompassing the settlements on both the Morvind and the Aethelaran shores of the strait. The compact is not a kingdom but a commercial and a regulatory agreement, and its purpose is to ensure the safe and the efficient passage of vessels through the strait, the fair collection of tolls and pilotage fees, and the maintenance of the navigation aids and the pilotage services that are essential to the strait trade. The Velden Compact is one of the most effective and the most enduring political institutions in the known world, and its governance of the strait has sustained the trade between the two oceans for many centuries.
+The [Velden](/content/location/settlement/city/velden) Compact is the joint governance of the [Strait of Velden](/content/location/natural/feature/strait-of-velden) towns, encompassing the settlements on both the [Morvind](/content/location/natural/continent/morvind) and the Aethelaran shores of the strait. The compact is not a kingdom but a commercial and a regulatory agreement, and its purpose is to ensure the safe and the efficient passage of vessels through the strait, the fair collection of tolls and pilotage fees, and the maintenance of the navigation aids and the pilotage services that are essential to the strait trade. The Velden Compact is one of the most effective and the most enduring political institutions in the known world, and its governance of the strait has sustained the trade between the two oceans for many centuries.
 
 ## The Strait and the Member Towns
 

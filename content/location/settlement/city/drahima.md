@@ -5,7 +5,7 @@ title: Drahima
 
 ## Overview
 
-Drahima is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world for its dye works and the vivid colours that are produced in its workshops. The city stands on a broad, open bay on the coast where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast, and its position near the sources of the dye-producing plants of the interior foothills has made it the primary centre of the dye trade in Sahrana. Drahima is a prosperous, industrious city, and its wealth is built upon the production and the export of the dyes that are among the most valued products of the Sahrani coast.
+Drahima is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world for its dye works and the vivid colours that are produced in its workshops. The city stands on a broad, open bay on the coast where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast, and its position near the sources of the dye-producing plants of the interior foothills has made it the primary centre of the dye trade in Sahrana. Drahima is a prosperous, industrious city, and its wealth is built upon the production and the export of the dyes that are among the most valued products of the [Sahrani](/content/language/spoken/sahrani) coast.
 
 ## The Dye Works
 

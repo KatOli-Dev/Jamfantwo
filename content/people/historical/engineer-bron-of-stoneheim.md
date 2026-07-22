@@ -7,7 +7,7 @@ title: Engineer Bron of Stoneheim
 
 Engineer Bron of the [Holds of Stoneheim](/content/government/national/holds-of-stoneheim) is recorded in the chronicles of the dwarven holds as the engineer who designed and oversaw the construction of the great road through the [Stonespire Pass](/content/location/natural/feature/stonespire-pass). Bron was born in the upper reaches of the Stonespire in the early generations of the [Long Peace of the Twin Cities](/content/history/long-peace-of-the-twin-cities), and Bron was trained as an engineer in the workshops of the senior holds before being appointed to the position of chief engineer of the road-building programme. Bron served the programme for more than thirty years, and Bron's road is the foundation of the land trade between the cold north and the warm coast.
 
-Bron is held in particular esteem by the dwarves of the [Holds of Stoneheim](/content/government/national/holds-of-stoneheim) and by the merchants of the inland valleys, and Bron's road is consulted by every merchant who must cross the Stoneheim Highlands. The chronicler notes that Bron is one of the most useful of the engineers of the present age, and Bron's road is the measure of the public spirit of the dwarven holds.
+Bron is held in particular esteem by the dwarves of the [Holds of Stoneheim](/content/government/national/holds-of-stoneheim) and by the merchants of the inland valleys, and Bron's road is consulted by every merchant who must cross the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands). The chronicler notes that Bron is one of the most useful of the engineers of the present age, and Bron's road is the measure of the public spirit of the dwarven holds.
 
 ## Early Life
 

@@ -169,6 +169,9 @@ def check_file(file)
     end
     if line =~ /\A(#+)\s/
       level = $1.length
+      if line =~ /\[[^\]]*\]\([^)]+\)/ || line =~ /!\[[^\]]*\]\([^)]+\)/
+        fail(file, line_no, "links are not allowed in headings")
+      end
       headings << [line_no, level, line.strip]
     end
     if line =~ /\*\*[^*\n]+\*\*/

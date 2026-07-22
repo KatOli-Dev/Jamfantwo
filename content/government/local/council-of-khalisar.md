@@ -5,7 +5,7 @@ title: Council of Khalisar
 
 ## Overview
 
-The Council of Khalisar is the governing body of [Khalisar](/content/location/settlement/city/khalisar), the greatest of the Sahrani coastal city-states, and it is the primary political institution of the wealthiest and most influential settlement on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The council is not a monarchy but an elected body of officials and appointed elders, and its governance is based on the principles of merit, consensus, and the representation of the commercial and the civic interests of the city. The Council of Khalisar is the most powerful political entity in Sahrana, and its decisions shape the economy and the culture of the Sahrani coast and the continent as a whole.
+The Council of [Khalisar](/content/location/settlement/city/khalisar) is the governing body of [Khalisar](/content/location/settlement/city/khalisar), the greatest of the [Sahrani](/content/language/spoken/sahrani) coastal city-states, and it is the primary political institution of the wealthiest and most influential settlement on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The council is not a monarchy but an elected body of officials and appointed elders, and its governance is based on the principles of merit, consensus, and the representation of the commercial and the civic interests of the city. The Council of Khalisar is the most powerful political entity in Sahrana, and its decisions shape the economy and the culture of the Sahrani coast and the continent as a whole.
 
 ## The Council and the Governance
 

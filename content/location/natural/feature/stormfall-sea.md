@@ -5,7 +5,7 @@ title: Stormfall Sea
 
 ## Overview
 
-The Stormfall Sea separates [Morvind](/content/location/natural/continent/morvind) from [Aethelar](/content/location/natural/continent/aethelar). It is named for the spirited weather systems that move across it, particularly during the autumn and winter months, when the clash of cold air from the north and warmer air from the south produces gales of considerable ferocity. Despite its reputation, the Stormfall Sea is a vital passage for the movement of goods and people between the two continents, and its crossing has been mastered by generations of skilled northern mariners who have learned to read its moods and to time their voyages to the rhythm of its seasons.
+The [Stormfall](/content/location/natural/continent/stormfall) Sea separates [Morvind](/content/location/natural/continent/morvind) from [Aethelar](/content/location/natural/continent/aethelar). It is named for the spirited weather systems that move across it, particularly during the autumn and winter months, when the clash of cold air from the north and warmer air from the south produces gales of considerable ferocity. Despite its reputation, the Stormfall Sea is a vital passage for the movement of goods and people between the two continents, and its crossing has been mastered by generations of skilled northern mariners who have learned to read its moods and to time their voyages to the rhythm of its seasons.
 
 ## Conditions and Navigation
 

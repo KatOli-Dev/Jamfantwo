@@ -5,7 +5,7 @@ title: Khalisar
 
 ## Overview
 
-Khalisar is the greatest of the Sahrani coastal city-states, and it is the wealthiest and most influential settlement on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The city stands on a broad, natural harbour on the coast where the warm currents of the [Auric Ocean](/content/location/natural/feature/auric-ocean) meet the fertile strip of the northern coast, and its position at the centre of the most productive region of the Sahrani coast has made it the primary hub of trade between Sahrana and the northern continents. Khalisar is a large, sophisticated city, and its wealth, its learning, and its political influence are unmatched by any other settlement in Sahrana.
+Khalisar is the greatest of the [Sahrani](/content/language/spoken/sahrani) coastal city-states, and it is the wealthiest and most influential settlement on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The city stands on a broad, natural harbour on the coast where the warm currents of the [Auric Ocean](/content/location/natural/feature/auric-ocean) meet the fertile strip of the northern coast, and its position at the centre of the most productive region of the Sahrani coast has made it the primary hub of trade between Sahrana and the northern continents. Khalisar is a large, sophisticated city, and its wealth, its learning, and its political influence are unmatched by any other settlement in Sahrana.
 
 ## The Harbour and the Trade
 

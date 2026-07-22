@@ -5,7 +5,7 @@ title: Qassir
 
 ## Overview
 
-Qassir is a port city-state on the Auric coast of [Sahrana](/content/location/natural/continent/sahrana), situated on the eastern shore where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the Sahrani coast. The city stands on a natural harbour that is sheltered by a headland of rock, and its position on the eastern coast gives it a role in the Auric trade that is distinct from the cities of the northern coast. Qassir is a prosperous, well-situated city, and its wealth is built upon the trade that flows through its harbour and the maritime connections that link the eastern Sahrani coast to the islands and the northern continents.
+Qassir is a port city-state on the Auric coast of [Sahrana](/content/location/natural/continent/sahrana), situated on the eastern shore where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Sahrani](/content/language/spoken/sahrani) coast. The city stands on a natural harbour that is sheltered by a headland of rock, and its position on the eastern coast gives it a role in the Auric trade that is distinct from the cities of the northern coast. Qassir is a prosperous, well-situated city, and its wealth is built upon the trade that flows through its harbour and the maritime connections that link the eastern Sahrani coast to the islands and the northern continents.
 
 ## The Harbour and the Auric Trade
 

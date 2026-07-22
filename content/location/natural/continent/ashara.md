@@ -11,7 +11,7 @@ The name Ashara is old in the coastal languages and is usually translated as the
 
 ## Mountains and Basins
 
-The western half of Ashara is occupied by the Sunken Crown, a range of old mountains whose outer slopes are worn into broad steps. The upper ridges are covered by cloud forest and high grassland, while the lower slopes carry hardwood woodland and cultivated terraces. The range contains iron, tin, coloured stone, and deposits of amber resin, though the mines are generally shallow because the richest veins lie near the surface of the weathered rock. Several rivers begin in the Sunken Crown and flow eastward across the continent.
+The western half of Ashara is occupied by the [Sunken Crown](/content/location/natural/feature/sunken-crown), a range of old mountains whose outer slopes are worn into broad steps. The upper ridges are covered by cloud forest and high grassland, while the lower slopes carry hardwood woodland and cultivated terraces. The range contains iron, tin, coloured stone, and deposits of amber resin, though the mines are generally shallow because the richest veins lie near the surface of the weathered rock. Several rivers begin in the Sunken Crown and flow eastward across the continent.
 
 Between the mountains and the coast are three great basins. The northern basin is warm and densely cultivated, with fields of rice, millet, and reed-root arranged along canals. The central basin contains open woodland, seasonal lakes, and long strips of fertile soil beside the main rivers. The southern basin is wetter and lower, ending in the Silver Marsh, where river water spreads through reed beds before reaching the sea. The basins are separated by low ridges rather than impassable walls, and the roads between them follow the same natural shelves that carry the oldest waterways.
 
@@ -45,7 +45,7 @@ Ashara has no enduring continental crown. River councils, marsh assemblies, high
 
 The western trade begins in the highlands, where metal, amber resin, wool, and dried herbs are exchanged for lowland grain and salt fish. The Amber Pass crosses the northern shoulder of the Sunken Crown and joins the Asharan basins to routes beyond the continent. It is not the highest pass, but its stone floor drains well and its springs remain available through the dry season. Merchants use pack animals on the upper road, then transfer their cargo to barges when they reach the river country.
 
-Coastal trade connects Ashara with the cities of Aethelar and Sahrana. Asharan vessels carry pepper, resin, lacquer, hardwood, rice, and marsh dyes, receiving woven cloth, worked iron, and glass in return. The warm currents of the Auric allow a swift outward passage, though storms can rise quickly when the sea is at its hottest. Harbour pilots watch the flight of seabirds and the colour of the water, while river pilots carry their own maps made from reeds, knots, and marked shells.
+Coastal trade connects Ashara with the cities of [Aethelar](/content/location/natural/continent/aethelar) and Sahrana. Asharan vessels carry pepper, resin, lacquer, hardwood, rice, and marsh dyes, receiving woven cloth, worked iron, and glass in return. The warm currents of the Auric allow a swift outward passage, though storms can rise quickly when the sea is at its hottest. Harbour pilots watch the flight of seabirds and the colour of the water, while river pilots carry their own maps made from reeds, knots, and marked shells.
 
 ## Significance
 

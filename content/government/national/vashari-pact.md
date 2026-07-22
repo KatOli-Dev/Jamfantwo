@@ -5,7 +5,7 @@ title: Vashari Pact
 
 ## Overview
 
-The Vashari Pact is the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh), the vast desert interior of [Sahrana](/content/location/natural/continent/sahrana). The pact is not a kingdom but a commercial and a defensive alliance, and its member cities retain their individual governance while co-operating on matters of trade, caravan management, and defence. The Vashari Pact is the primary political entity of the inland Sahrani, and its collective power in the caravan trade that connects the coast to the interior is the foundation of the economy of the desert regions.
+The [Vashari](/content/location/settlement/city/vashari) Pact is the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh), the vast desert interior of [Sahrana](/content/location/natural/continent/sahrana). The pact is not a kingdom but a commercial and a defensive alliance, and its member cities retain their individual governance while co-operating on matters of trade, caravan management, and defence. The Vashari Pact is the primary political entity of the inland [Sahrani](/content/language/spoken/sahrani), and its collective power in the caravan trade that connects the coast to the interior is the foundation of the economy of the desert regions.
 
 ## The Member Cities
 

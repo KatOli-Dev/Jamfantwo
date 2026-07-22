@@ -5,7 +5,7 @@ title: Dunesend
 
 ## Overview
 
-Dunesend is a caravan stop at the edge of the [Kharesh](/content/location/natural/feature/kharesh), situated where the great caravan routes emerge from the desert and meet the foothills of the Sahrani interior. The settlement is the last outpost before the deep desert, and its function is to serve the caravans that prepare to enter the Kharesh or that have just emerged from it. Dunesend is small and purpose-built, and its prosperity is built upon the services it provides to the caravan trade, including provisioning, shelter, and the exchange of goods between the desert routes and the inland cities.
+Dunesend is a caravan stop at the edge of the [Kharesh](/content/location/natural/feature/kharesh), situated where the great caravan routes emerge from the desert and meet the foothills of the [Sahrani](/content/language/spoken/sahrani) interior. The settlement is the last outpost before the deep desert, and its function is to serve the caravans that prepare to enter the Kharesh or that have just emerged from it. Dunesend is small and purpose-built, and its prosperity is built upon the services it provides to the caravan trade, including provisioning, shelter, and the exchange of goods between the desert routes and the inland cities.
 
 ## The Caravan Stop
 

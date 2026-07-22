@@ -5,7 +5,7 @@ title: Holds of Stoneheim
 
 ## Overview
 
-The Holds of Stoneheim is the greatest [dwarven](/content/species/sapient/dwarves) realm in [Morvind](/content/location/natural/continent/morvind), encompassing the underground cities, the mining settlements, and the mountain territories that are inhabited and governed by the dwarven people of the continent. The realm is the largest and the most powerful dwarven political entity in the known world, and its capital is [Stoneheim](/content/location/settlement/city/stoneheim), the greatest dwarven hall of Morvind. The Holds of Stoneheim are the foundation of the dwarven civilisation in Morvind, and their mineral wealth and their craftsmanship are the basis of the continent's prosperity and its reputation.
+The Holds of [Stoneheim](/content/location/settlement/city/stoneheim) is the greatest [dwarven](/content/species/sapient/dwarves) realm in [Morvind](/content/location/natural/continent/morvind), encompassing the underground cities, the mining settlements, and the mountain territories that are inhabited and governed by the dwarven people of the continent. The realm is the largest and the most powerful dwarven political entity in the known world, and its capital is [Stoneheim](/content/location/settlement/city/stoneheim), the greatest dwarven hall of Morvind. The Holds of Stoneheim are the foundation of the dwarven civilisation in Morvind, and their mineral wealth and their craftsmanship are the basis of the continent's prosperity and its reputation.
 
 ## The Territory and the Holds
 

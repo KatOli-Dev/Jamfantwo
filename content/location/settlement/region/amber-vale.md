@@ -9,7 +9,7 @@ The Amber Vale is a fertile river valley in central [Aethelar](/content/location
 
 ## Geography and Climate
 
-The Amber Vale follows the upper and middle course of the River Vael, which rises among the western foothills of Aethelar's mountain spine and flows eastward toward [Vaelmouth](/content/location/settlement/city/vaelmouth) and the [Auric Ocean](/content/location/natural/feature/auric-ocean). Within the vale, the river meanders across a broad floodplain before gathering its tributaries and entering the wider lowlands. Low wooded hills shelter the valley to north and south, giving it warm summers, mild winters, and reliable rainfall throughout the growing season.
+The Amber Vale follows the upper and middle course of the [River Vael](/content/location/natural/feature/river-vael), which rises among the western foothills of Aethelar's mountain spine and flows eastward toward [Vaelmouth](/content/location/settlement/city/vaelmouth) and the [Auric Ocean](/content/location/natural/feature/auric-ocean). Within the vale, the river meanders across a broad floodplain before gathering its tributaries and entering the wider lowlands. Low wooded hills shelter the valley to north and south, giving it warm summers, mild winters, and reliable rainfall throughout the growing season.
 
 The soil of the Amber Vale is the foundation of its prosperity, a deep, dark loam renewed by the annual flooding of the Vael. The fields of the floodplain are divided by hedgerows, dykes, and drainage channels whose maintenance is governed by customs older than the kingdom itself. The bounding hills are clothed in oak, ash, and beech, with pine on the drier slopes, and these woodlands provide timber, fuel, and shelter for the game of the valley.
 
@@ -21,13 +21,13 @@ The population of the Amber Vale is predominantly [human](/content/species/sapie
 
 ## Economy
 
-The economy of the Amber Vale is built upon grain, chiefly wheat and barley, whose quality is celebrated throughout central Aethelar. Watermills line the tributaries, and the flour of the vale is carried down the Vael to the eastern ports and the markets beyond. Orchards cover the lower hillsides, producing apples, pears, and plums, and the cider and preserved fruit of the vale are traded as far as the Sahrani coast.
+The economy of the Amber Vale is built upon grain, chiefly wheat and barley, whose quality is celebrated throughout central Aethelar. Watermills line the tributaries, and the flour of the vale is carried down the Vael to the eastern ports and the markets beyond. Orchards cover the lower hillsides, producing apples, pears, and plums, and the cider and preserved fruit of the vale are traded as far as the [Sahrani](/content/language/spoken/sahrani) coast.
 
 Cattle and sheep graze upon the hills and the stubble fields after harvest, providing meat, milk, wool, and leather. The soft wool of the vale is especially prized in the northern kingdoms, while its harness leather serves the bargemen, carters, and royal cavalry of Vael. The Amber Road, first laid under Queen Sera, follows the river and binds these local trades to the mountain routes in the west and the harbour of Vaelmouth in the east.
 
 ## Culture and Governance
 
-The culture of the Amber Vale is shaped by the agricultural year and by the memory of the kingdom's founding. Planting and harvest festivals are observed in every village, but the Crown Harvest at the old hall is the greatest gathering, when the laws of Sera are recited and grain from each district is offered in token of the vale's common inheritance. The ceremony affirms the valley's place within Vael without confusing the ancestral hall with the working court at Vaelmouth.
+The culture of the Amber Vale is shaped by the agricultural year and by the memory of the kingdom's founding. Planting and harvest festivals are observed in every village, but the [Crown Harvest](/content/culture/crown-harvest) at the old hall is the greatest gathering, when the laws of Sera are recited and grain from each district is offered in token of the vale's common inheritance. The ceremony affirms the valley's place within Vael without confusing the ancestral hall with the working court at Vaelmouth.
 
 The vale is administered by royal governors and local councils under the Crown of Vael. Its landholding families claim descent from the households that first followed Sera, but their privileges remain bounded by the water law of the valley, which gives the maintenance of dykes, channels, bridges, and public granaries precedence over private claims. This union of royal law with older local custom is among the most enduring legacies of the unification.
 
