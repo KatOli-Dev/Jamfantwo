@@ -1,0 +1,38 @@
+---
+layout: default
+title: Kaelen's Voyage
+---
+
+## Overview
+
+Kaelen's Voyage is the conventional name for the expedition by which [Kaelen](/content/people/historical/kaelen-the-navigator) and the pilots of [Khalisar](/content/location/settlement/city/khalisar) first reached the great island of the [Kharesh](/content/location/natural/feature/kharesh) in the early generations of the [Long Peace](/content/history/long-peace). The voyage was the result of several generations of patient exploration by the pilots of the warm coast, and the voyage opened a new chapter in the maritime trade of the three continents. The chroniclers of the academies date the voyage by the year in which Kaelen returned to Khalisar with the first cargo of the spices and the woods of the Kharesh.
+
+The voyage is recorded in the chronicles of the [Inner Sea Watch](/content/government/local/inner-sea-watch) and of the academies of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm), and the voyage is among the most admired of the achievements of the pilots of the present age. The chronicler notes that the voyage is held in particular esteem by the pilots and the merchants of the warm coast, and the pilots mark the anniversaries of the return of Kaelen with appropriate ceremonies.
+
+## The Background
+
+The pilots of [Khalisar](/content/location/settlement/city/khalisar) had long suspected that a great land lay to the east beyond the horizon of the [Auric Ocean](/content/location/natural/feature/auric-ocean). The pilots had observed the flight of the migratory birds that passed over the ocean in the spring and the autumn, and the pilots had heard the legends of the [Grey Sea Way](/content/belief/religion/polytheist/grey-sea-way) that spoke of a great island in the eastern waters. The pilots had attempted to sail east on several occasions, but the pilots had been turned back by the contrary winds and the uncertain currents. The chronicler notes that the pilots were patient in their attempts, and the patience is the foundation of the success of Kaelen's voyage.
+
+The growth of the trade in the Long Peace provided the resources for a more ambitious attempt, and the council of Khalisar voted to equip a small fleet for the voyage. The council appointed Kaelen to the command of the fleet, and the council provided the fleet with the supplies and the instruments that the voyage required. The chronicler notes that the council's decision was a considerable investment, and the investment is the measure of the public spirit of the magistrates of Khalisar.
+
+## The Voyage
+
+Kaelen set out from [Khalisar](/content/location/settlement/city/khalisar) in the early spring, and the fleet sailed east upon the trade winds that blow steadily across the [Auric Ocean](/content/location/natural/feature/auric-ocean) at that season. Kaelen kept a careful record of the course, the winds, and the currents, and Kaelen consulted the records of the earlier pilots who had attempted the voyage. Kaelen sailed south of the track that the earlier pilots had followed, and Kaelen was rewarded by finding a steadier wind and a more favourable current. The fleet made good progress, and Kaelen sighted the high mountains of the [Kharesh](/content/location/natural/feature/kharesh) in the late summer.
+
+Kaelen landed upon the southern coast of the Kharesh, and Kaelen was received by the [Kharesh Spirits](/content/belief/religion/polytheist/kharesh-spirits), the indigenous people of the island. Kaelen spent several months upon the island, and Kaelen learned the language and the customs of the Spirits. Kaelen traded with the Spirits for the spices and the woods that the island produced, and Kaelen loaded the fleet with the first cargo of these goods. Kaelen then set sail for the return voyage, and Kaelen reached [Khalisar](/content/location/settlement/city/khalisar) in the following spring.
+
+## The Return
+
+The return of Kaelen was greeted with great public celebration in [Khalisar](/content/location/settlement/city/khalisar), and the celebration included a procession through the streets, a service in the temple of [the Sea Mother's Court](/content/belief/religion/polytheist/sea-mothers-court), and a public reading of the account of the voyage. The council of Khalisar received the cargo and paid Kaelen the reward that the council had promised, and the council voted to equip a second voyage in the following year. The chronicler notes that the celebration was the measure of the public spirit of the magistrates and the merchants of Khalisar, and the public spirit is the foundation of the success of the trade with the Kharesh.
+
+The cargo that Kaelen brought back was sold at a great price in the markets of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm), and the price provided the resources for the second voyage and for the subsequent voyages that the council of Khalisar equipped. The chronicler notes that the trade with the Kharesh has been one of the most profitable of the trades of the warm coast, and the trade is the foundation of the prosperity of the merchants of Khalisar.
+
+## The Aftermath
+
+Kaelen's Voyage opened a new chapter in the maritime trade of the three continents, and the trade has continued without interruption ever since. The merchants of [Khalisar](/content/location/settlement/city/khalisar) established a permanent factory upon the southern coast of the [Kharesh](/content/location/natural/feature/kharesh), and the factory has been the principal point of contact between the people of the three continents and the [Kharesh Spirits](/content/belief/religion/polytheist/kharesh-spirits). The factory is governed by a consul who is appointed by the council of Khalisar, and the consul has the power to adjudicate the disputes that arise between the merchants and the Spirits. The chronicler notes that the factory has been the foundation of the success of the trade, and the consul is held in high esteem by the merchants and the Spirits alike.
+
+Kaelen's Voyage also had an effect upon the learning of the academies. The scholars of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm) studied the account of Kaelen's voyage, and the scholars revised the maps and the charts of the [Auric Ocean](/content/location/natural/feature/auric-ocean) in light of the new information. The scholars also studied the language and the customs of the [Kharesh Spirits](/content/belief/religion/polytheist/kharesh-spirits), and the study is part of the curriculum of the academies. The chronicler notes that the voyage has been the source of much of the most important work of the academies, and the work is the measure of the significance of the voyage.
+
+## Significance
+
+Kaelen's Voyage is among the most important of the maritime achievements of the present age, and the voyage is the foundation of the trade with the [Kharesh](/content/location/natural/feature/kharesh) for several centuries. The voyage of Kaelen, the factory upon the southern coast, and the consul who governs the factory are the legacy of the voyage. The chronicler notes that the voyage is held in particular memory by the pilots and the merchants of the warm coast, and the pilots mark the anniversaries of the return of Kaelen with appropriate ceremonies. The ceremonies are among the most important of the public observances of the warm coast, and the ceremonies are attended by the magistrates and the principal citizens of every city of the coast.

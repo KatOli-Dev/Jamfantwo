@@ -56,7 +56,7 @@ Verbal languages and non-verbal signalling systems.
 
 The workings of the Art.
 
-{% assign overview_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/overview" %}{% assign overview_pages = overview_pages | push: p %}{% endif %}{% endfor %}{% for p in overview_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% assign overview_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/magic-overview" %}{% assign overview_pages = overview_pages | push: p %}{% endif %}{% endfor %}{% for p in overview_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
 {% endfor %}{% for sub in magic_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
 #### {{ sub | capitalize }}
 

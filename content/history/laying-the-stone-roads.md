@@ -1,0 +1,44 @@
+---
+layout: default
+title: Laying the Stone Roads
+---
+
+## Overview
+
+Across several generations of the [Long Peace](/content/history/long-peace), the magistrates of [Khalisar](/content/location/settlement/city/khalisar), [Vassholm](/content/location/settlement/city/vassholm), and the other principal cities undertook the construction of a continuous network of paved roads across the inland valleys and the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands). Chroniclers of the academies refer to this programme as the Laying the Stone Roads, although the term is a loose one and the construction proceeded in distinct phases over more than a century. The roads replaced the older unpaved tracks that had served the merchants of the trade routes since the founding of the cities, and the roads are the foundation of the land commerce of the present age.
+
+The construction was financed by the transit fees that the [Twin-Reaches Peace](/content/history/twin-reaches-peace) had established, by the contributions of the magistrates of the principal towns, and by the labour that the villages along the route were required to furnish. The chronicler notes that the financing was a careful compromise between the need to maintain the roads and the need to keep the transit fees at a level that the merchants could afford, and the compromise is recorded in the chronicles of both parties as a model of public finance.
+
+## The Engineering of the Roads
+
+The roads were built by the master masons and the road wardens of the cities, and the engineering of the roads is among the most admired of the works of the Long Peace. The road was built upon a foundation of large stones that were set into a trench, and the foundation was covered with a layer of smaller stones that were packed tight. The surface was finished with a layer of gravel that was rolled smooth, and the surface was crowned slightly so that the water would run off to the ditches that were cut along the sides. The ditches were cut deep enough to carry the heaviest rain, and the ditches were connected to the streams that the road crossed so that the water could be carried away.
+
+The chronicler notes that the engineering was adapted to the terrain, and the engineers of the Stoneheim Highlands faced challenges that the engineers of the warm coast did not. The engineers of the Stoneheim Highlands cut the road into the rock of the passes, and the engineers built the retaining walls that hold the road in place upon the steeper slopes. The engineers of the warm coast laid the road across the plains, and the engineers built the causeways that carry the road across the marshes and the river mouths. The chronicler observes that the engineers of the two regions learned from each other, and the learning is the foundation of the road-building tradition of the present age.
+
+## The Bridges and the Passes
+
+The roads required bridges and passes at the points where the road crossed a river or a mountain, and the bridges and the passes are among the most admired of the works of the Long Peace. The bridges were built of stone and timber, and the bridges were set upon piers that were founded upon the bedrock of the river. The chronicler notes that the bridges were built to last, and the bridges have been maintained by the road wardens of the cities ever since. The bridges that have endured for several centuries include the bridge of the Greywash at [Nessara](/content/location/settlement/city/nessara), the bridge of the [Stonespire](/content/location/natural/feature/stonespire) at the head of the pass, and the bridge of the [Velden](/content/location/settlement/city/velden) at the northern mouth of the strait.
+
+The passes were cut through the rock of the mountains, and the passes required the labour of the dwarven engineers of the [Stoneheim Holds](/content/government/national/stoneheim-holds). The dwarven engineers cut the road into the rock of the steepest sections, and the dwarven engineers cut the tunnels that carry the road through the ridges that would otherwise have been impassable. The chronicler notes that the passes are the most remarkable of the works of the road-building programme, and the passes are the measure of the skill of the dwarven engineers who cut them.
+
+## The Maintenance of the Roads
+
+The roads were maintained by the road wardens, who were appointed by the magistrates of the principal towns and who held office at the pleasure of the magistrates. The road wardens were responsible for the inspection of the road, the repair of the surface, the clearing of the ditches, and the maintenance of the bridges and the passes. The road wardens were sustained by a small toll that was collected at the gates of the principal towns, and the toll was used to pay the wages of the wardens and the labourers who worked under their direction.
+
+The chronicler notes that the maintenance has been the foundation of the durability of the roads, and the roads have endured for several centuries because the maintenance has been careful and continuous. The chronicler observes that the roads would have been destroyed by the weather and the traffic within a generation if the maintenance had been neglected, and the maintenance is the measure of the public spirit of the magistrates and the councils of the cities.
+
+## The Quarters and the Inns
+
+The roads were furnished with quarters and inns at intervals of a day's ride, and the quarters and inns are among the most useful of the works of the Long Peace. The quarter was a small building of stone that was maintained by the road wardens, and the quarter provided shelter for the travellers who were caught upon the road in time of storm. The inn was a larger building that was maintained by a private innkeeper under licence from the magistrates, and the inn provided lodging and food for the travellers and their animals. The chronicler notes that the quarters and the inns are the foundation of the safety of the roads, and the travellers of the present age rely upon them as the travellers of the Long Peace relied upon them.
+
+The innkeeper was licensed by the magistrates of the principal town, and the licence set the price that the innkeeper might charge and the quality of the lodging and the food that the innkeeper must provide. The innkeeper was inspected by the road wardens at regular intervals, and the innkeeper who violated the terms of the licence was brought before the magistrates. The chronicler notes that the licensing has been the foundation of the reputation of the inns of the principal roads, and the inns are held in high esteem by the merchants and the travellers of the present age.
+
+## The Decline and the Repair
+
+The roads fell into disrepair in the generations following the [Stone Plague](/content/history/stone-plague), for the loss of population reduced the labour that was available for the maintenance and reduced the traffic that the roads carried. The chronicler notes that the decline was gradual, and the decline was not uniform across the network. The principal roads of the trade routes were maintained by the magistrates of the principal towns even in the worst years, but the secondary roads fell into disrepair and the bridges and the passes were neglected. The chronicler observes that the decline is recorded in the chronicles of the cities as a period of necessary hardship, and the hardship is the measure of the severity of the plague.
+
+The roads were repaired in the generations following the recovery from the plague, and the repair was the work of the magistrates and the road wardens of the cities. The repair was financed by the transit fees and by the contributions of the merchants who used the roads, and the repair was conducted by the master masons and the road wardens of the cities. The chronicler notes that the repair has been continuous ever since, and the roads of the present age are the roads that the master masons of the Long Peace built and that the road wardens of the present age maintain.
+
+## Significance
+
+The Laying the Stone Roads is among the most useful and least controversial of the works of the Long Peace, and the roads are the foundation of the land commerce of the present age. The roads, the bridges, the passes, the quarters, and the inns are the inheritance that the Long Peace has bequeathed to the present age, and the inheritance is the measure of the prosperity that the Long Peace established. The chronicler notes that the roads are held in particular esteem by the merchants and the travellers of the cities, and the merchants and the travellers mark the anniversaries of the completion of the principal sections with appropriate ceremonies. The ceremonies are among the most important of the public observances of the present age, and the ceremonies are attended by the magistrates and the principal citizens of every city of the three continents.

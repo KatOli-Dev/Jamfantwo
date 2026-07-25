@@ -5,7 +5,7 @@ title: Karhold
 
 ## Overview
 
-Karhold is the greatest [dwarven](/content/species/sapient/dwarves) city of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), and it is the capital of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold). The city is carved into the living rock of the mountains, its halls and chambers extending for miles into the interior of the range, and its wealth is built upon the mineral deposits that are worked in the depths beneath the city. Karhold is one of the oldest dwarven settlements in the known world, and its halls are among the most extensive and the most magnificent of any dwarven city, rivalled only by the great halls of [Stoneheim](/content/location/settlement/city/stoneheim) in [Morvind](/content/location/natural/continent/morvind).
+Karhold is the greatest [dwarven](/content/species/sapient/dwarves) city of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), and it is the capital of the [Karhold Realm](/content/government/national/karhold-realm). The city is carved into the living rock of the mountains, its halls and chambers extending for miles into the interior of the range, and its wealth is built upon the mineral deposits that are worked in the depths beneath the city. Karhold is one of the oldest dwarven settlements in the known world, and its halls are among the most extensive and the most magnificent of any dwarven city, rivalled only by the great halls of [Stoneheim](/content/location/settlement/city/stoneheim) in [Morvind](/content/location/natural/continent/morvind).
 
 ## The Halls
 
@@ -29,7 +29,7 @@ The history of Karhold is a history of expansion and endurance, for the city has
 
 ## The City and the Realm
 
-Karhold is the capital of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold), the dwarven kingdom that encompasses the mountain spine of Aethelar, and the city is the seat of the king and the council that govern the realm. The population of Karhold is almost entirely [dwarven](/content/species/sapient/dwarves), with a small community of [humans](/content/species/sapient/humans) who are involved in the trade between the city and the lowlands, and a few [gnomes](/content/species/sapient/gnomes) who are drawn by the metalwork and the craftsmanship for which the city is known.
+Karhold is the capital of the [Karhold Realm](/content/government/national/karhold-realm), the dwarven kingdom that encompasses the mountain spine of Aethelar, and the city is the seat of the king and the council that govern the realm. The population of Karhold is almost entirely [dwarven](/content/species/sapient/dwarves), with a small community of [humans](/content/species/sapient/humans) who are involved in the trade between the city and the lowlands, and a few [gnomes](/content/species/sapient/gnomes) who are drawn by the metalwork and the craftsmanship for which the city is known.
 
 ## Trade and the Lowlands
 
@@ -39,7 +39,7 @@ The humans who reside in Karhold are the agents of the trading houses of the low
 
 ## Governance and the King
 
-Karhold is governed by the king and the council, and the council is composed of the representatives of the great families, the master smiths, and the merchant guilds. The king is the hereditary ruler of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold), and his authority is unquestioned in matters of defence and foreign policy. The council is responsible for the governance of the city and the management of the mines, the forges, and the trade that is the foundation of the economy of the realm. The council meets in the council chamber that is situated in the great hall, and the chamber is the most ornate of the public spaces in the city, its walls carved with the inscriptions that record the history and the laws of the dwarven people.
+Karhold is governed by the king and the council, and the council is composed of the representatives of the great families, the master smiths, and the merchant guilds. The king is the hereditary ruler of the [Karhold Realm](/content/government/national/karhold-realm), and his authority is unquestioned in matters of defence and foreign policy. The council is responsible for the governance of the city and the management of the mines, the forges, and the trade that is the foundation of the economy of the realm. The council meets in the council chamber that is situated in the great hall, and the chamber is the most ornate of the public spaces in the city, its walls carved with the inscriptions that record the history and the laws of the dwarven people.
 
 The governance of Karhold is noted for its stability and its continuity, for the king and the council have governed the city for centuries without significant disruption, and the traditions and the laws that guide the governance are among the oldest and the most respected in the known world. The king is advised by the council on all matters of consequence, and the relationship between the king and the council is one of mutual respect and co-operation, for the king relies upon the expertise of the councillors and the councillors respect the authority of the king.
 

@@ -25,7 +25,7 @@ The community of Deepreach is governed by a council of the senior mining familie
 
 ## Significance
 
-Deepreach is the most important mining settlement in the central highlands of Aethelar, and the ore that is extracted from its mines is a significant contribution to the mineral output of the mountain spine. The settlement is a dependency of the [Deep Realm of Karhold](/content/government/national/deep-realm-of-karhold), and its ore is processed and distributed through the trade network of the realm. The prosperity of Deepreach is built upon the wealth of the surrounding mountains, and the community is a model of the dwarven capacity to establish productive settlements in the most remote and demanding environments.
+Deepreach is the most important mining settlement in the central highlands of Aethelar, and the ore that is extracted from its mines is a significant contribution to the mineral output of the mountain spine. The settlement is a dependency of the [Karhold Realm](/content/government/national/karhold-realm), and its ore is processed and distributed through the trade network of the realm. The prosperity of Deepreach is built upon the wealth of the surrounding mountains, and the community is a model of the dwarven capacity to establish productive settlements in the most remote and demanding environments.
 
 ## History
 

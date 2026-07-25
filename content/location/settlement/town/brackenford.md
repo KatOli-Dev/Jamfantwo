@@ -5,7 +5,7 @@ title: Brackenford
 
 ## Overview
 
-Brackenford is a western inland town of the [Kingdom of Vael](/content/government/national/kingdom-of-vael), situated at the head of the [Amber Vale](/content/location/settlement/region/amber-vale) where the foothills of [Aethelar](/content/location/natural/continent/aethelar)'s mountain spine meet the lowland river country. The town stands at a crossing of the river that descends from the mountains, and its position at the meeting of the highland and the lowland has made it a natural point of exchange between the mountain peoples and the peoples of the vale. Brackenford is smaller than the cities of the eastern coast, but it is a thriving and well-situated community, and its trade connects the western interior to the mountain passes and the regions beyond.
+Brackenford is a western inland town of the [Vael](/content/government/national/vael), situated at the head of the [Amber Vale](/content/location/settlement/region/amber-vale) where the foothills of [Aethelar](/content/location/natural/continent/aethelar)'s mountain spine meet the lowland river country. The town stands at a crossing of the river that descends from the mountains, and its position at the meeting of the highland and the lowland has made it a natural point of exchange between the mountain peoples and the peoples of the vale. Brackenford is smaller than the cities of the eastern coast, but it is a thriving and well-situated community, and its trade connects the western interior to the mountain passes and the regions beyond.
 
 ## The River and the Foothills
 

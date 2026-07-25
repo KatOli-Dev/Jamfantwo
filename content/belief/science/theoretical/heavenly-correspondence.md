@@ -1,0 +1,42 @@
+---
+layout: default
+title: Heavenly Correspondence
+---
+
+## Overview
+
+Heavenly Correspondence is the theoretical science that holds each region of the world to lie beneath a particular portion of the heavens, and the portion of the heavens above a region to govern, in some measure, the character of that region and the fortunes of its people. The doctrine takes its name from this correspondence, and it teaches that the heavens above the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood) are not the same heavens, in their influence, as those above the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) or the [Kharesh](/content/location/natural/feature/kharesh) of the south, and that the differences of the regions are in part the consequence of the differences of the heavens above them. The doctrine is reckoned among the theoretical sciences, for it proceeds by reasoning upon the observed character of different lands and the positions of the stars above them, rather than by any direct demonstration of the correspondence itself.
+
+## The Original Doctrine
+
+The doctrine arose among the astronomers of [Amurra](/content/location/settlement/city/amurra), whose scholars, in comparing the records of celestial observation kept in several libraries of the known world, observed that the configurations of the heavens at the same hour of the same night differed from one latitude to another in a regular manner. The astronomers proposed that each region of the world has its own heavens, as it were, and that the heavens of one region are not interchangeable with those of another. The proposition was at first received with caution, but when it was found to explain several otherwise puzzling observations, the doctrine took root and was extended by successive generations of scholars.
+
+The doctrine, as set out in the principal treatise of the school, holds that the heavens are divided into regions, each region corresponding to a region of the earth, and the correspondence being preserved by the orderly arrangement of the celestial spheres. The lower spheres, being nearer to the earth, vary from place to place, and the configuration of the lower spheres above any point of the earth's surface is determined by the position of that point. The higher spheres, being common to all points, are not local in their influence, but the lower spheres are local, and it is the lower spheres that govern the particular fortunes of each region.
+
+## The Doctrine of Local Heavens
+
+The philosophers of the school teach that the local heavens of a region may be read by an observer who knows the position of the region and the configuration of the spheres at the moment of his observation. The reading is a difficult art, and the philosophers of the school are careful to distinguish what is observed from what is inferred. The position of the stars at a given hour is observed; the conclusion that the configuration is favourable or unfavourable to the region beneath is inferred. The philosophers maintain that the inferences are well founded, and they point to the agreement of independent observers and to the consistency of the inferences with one another.
+
+The doctrine is of particular interest to the rulers of kingdoms and to the generals of armies, for the philosophers of the school offer counsel upon the favourable and unfavourable times for the undertaking of great affairs. The [Aldreth](/content/government/national/aldreth) has long employed a court astronomer who is versed in the doctrine, and the [Amurra Republic](/content/government/national/amurra-republic) maintains a council of the corresponding heavens that advises the magistrates of the republic upon the configuration of the spheres above the city. The doctrine is not held to compel, and the philosophers are careful to say that the heavens incline but do not determine, and that a wise ruler will take counsel of the heavens but will not be ruled by them.
+
+## Difficulties and Objections
+
+The doctrine is not without its serious difficulties, and the more cautious of its adherents acknowledge them. The correspondence of the heavens to the regions has never been directly observed, and the philosophers themselves admit that it is inferred from the regularities of celestial position. The cartographers of the [Spherical Cartography](/content/belief/science/theoretical/spherical-cartography) observe that the configuration of the heavens above any point of the earth is determined by the position of that point and the time of observation, and that no further correspondence is required to explain the observed differences of the heavens from place to place.
+
+The philosophers of the school reply that the regularities are too precise to be the consequence of position alone, and that the hypothesis of a true correspondence is the simplest account of what is observed. The reply is not conclusive, and the philosophers know it, but they maintain that a doctrine which has served so long and so well as a guide to the great affairs of kingdoms is not to be set aside upon theoretical objections alone.
+
+## Reception Among the Learned
+
+The doctrine has been received with a wary interest by the philosophers of the known world, and the academies of [Vael](/content/government/national/vael) and [Amurra](/content/government/national/amurra-republic) have given it a hearing. The [Still Flame](/content/belief/religion/monotheist/still-flame) is divided in its judgment, for the more austere of the faithful reject the doctrine altogether, while the more moderate allow that the heavens may be read as signs, though not as causes, of what is to come. The [Kharesh Spirits](/content/belief/religion/polytheist/kharesh-spirits), whose faith is older than the doctrine, has given the doctrine a cautious approval, and the scholars of the [Kharesh Tribes](/content/government/national/kharesh-tribes) are said to keep their own records of the configurations above the desert interior.
+
+The doctrine has been criticised by certain natural philosophers who hold that the correspondences are the construction of the observers rather than the property of the heavens, and that two observers of the same configuration may draw different conclusions from it. The philosophers of the school reply that the conclusions are revised as new observations are made, and that the doctrine is therefore not a fixed account but a growing one, in the manner of all honest inquiry.
+
+## The Practice of the Doctrine
+
+The doctrine is put into practice by the rulers of several kingdoms and by the commanders of armies in the field. The general who is about to engage the enemy will consult the court astronomer as to the configuration of the spheres above the field of battle, and the astronomer will advise him upon the favourable and unfavourable times for the assault. The advice is not always followed, and the chroniclers record several instances in which the advice was disregarded and the battle was lost. The doctrine is not, of course, a guarantee of victory, and the philosophers are careful to say that the heavens incline but do not determine, and that the valour of the soldiers and the skill of the commanders are the principal causes of success or failure.
+
+The doctrine is also of use to the merchant who undertakes a long voyage, for the astronomer will advise him upon the favourable and unfavourable times for the putting out to sea. The mariner who sets out at a time of favourable configuration is said to have a better chance of a safe passage, and the merchants of the [Auric Isles](/content/government/national/auric-isles) are noted for their attention to the doctrine.
+
+## Significance
+
+Heavenly Correspondence is, in the judgment of the chronicler, among the more influential of the theoretical sciences, for it touches the great affairs of kingdoms and the daily business of merchants and mariners. Whether or not the correspondence is real in the precise form that the school supposes, the doctrine has directed the attention of scholars to the heavens above each region and to the regularities of the celestial configurations. The doctrine may in time be confirmed by discoveries yet to be made, or it may give place to a better account of the relation between the heavens and the earth. In either case it will be remembered as one of the great constructions of the age, and as an example of what the inquiring mind may accomplish when it ventures beyond the immediate evidence of the senses.

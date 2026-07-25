@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strait of Velden
+title: Velden Strait
 ---
 
 ## Overview

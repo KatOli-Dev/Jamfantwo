@@ -4,5 +4,11 @@
     "structure.md",
     "style-guide.md",
     "agents.md"
-  ]
+  ],
+  "compaction": {
+    "auto": true,
+    "prune": true,
+    "reserved": 900000,
+    "comment": "100k of 1m"
+  }
 }

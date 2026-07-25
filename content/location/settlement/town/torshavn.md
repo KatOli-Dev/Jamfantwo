@@ -5,7 +5,7 @@ title: Torshavn
 
 ## Overview
 
-Torshavn is a southeastern port of [Morvind](/content/location/natural/continent/morvind), situated on the coast near the [Strait of Velden](/content/location/natural/feature/strait-of-velden) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the southernmost of the Morvind coastal settlements, and its position near the strait gives it a role in the strait trade that is secondary to [Veldenwatch](/content/location/settlement/town/veldenwatch) but nonetheless significant. Torshavn is a fishing and trading port, and its harbour is a valued stopping point for vessels that are approaching or leaving the strait from the south.
+Torshavn is a southeastern port of [Morvind](/content/location/natural/continent/morvind), situated on the coast near the [Velden Strait](/content/location/natural/feature/strait-of-velden) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the southernmost of the Morvind coastal settlements, and its position near the strait gives it a role in the strait trade that is secondary to [Veldenwatch](/content/location/settlement/town/veldenwatch) but nonetheless significant. Torshavn is a fishing and trading port, and its harbour is a valued stopping point for vessels that are approaching or leaving the strait from the south.
 
 ## The Harbour and the Fishing
 
@@ -45,4 +45,4 @@ The boatbuilders of Torshavn are the most respected craftsmen in the town, for t
 
 ## Significance
 
-Torshavn is the southernmost port of Morvind and a valued stopping point for vessels navigating the waters near the [Strait of Velden](/content/location/natural/feature/strait-of-velden). The town is a member of the [Velden Compact](/content/government/local/velden-compact), and its fishing and trading economy is a modest but valuable contribution to the commerce of the strait region. The prosperity of Torshavn is built upon the richness of the waters that surround it and the traffic that passes through the nearby strait, and the community is a model of the maritime tradition that characterises the Morvind coast.
+Torshavn is the southernmost port of Morvind and a valued stopping point for vessels navigating the waters near the [Velden Strait](/content/location/natural/feature/strait-of-velden). The town is a member of the [Velden Compact](/content/government/local/velden-compact), and its fishing and trading economy is a modest but valuable contribution to the commerce of the strait region. The prosperity of Torshavn is built upon the richness of the waters that surround it and the traffic that passes through the nearby strait, and the community is a model of the maritime tradition that characterises the Morvind coast.

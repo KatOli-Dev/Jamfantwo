@@ -23,7 +23,7 @@ The population is overwhelmingly [dwarven](/content/species/sapient/dwarves), or
 
 Mining is the foundation of the Frostwall economy. The veins exposed by the escarpment yield iron, copper, silver, and rarer metals, and the clan forges work much of the ore into tools, weapons, and armour before it leaves the region. Grimhold is renowned for heavy plate and defensive ironwork, while Ravenscrag supplies smaller quantities of ore and the practical tools required by the highland communities.
 
-Trade follows the summer roads eastward and westward through the Morvind ranges, linking the clans to the [Holds of Stoneheim](/content/government/national/holds-of-stoneheim) and, through them, to the coastal markets. Metalwork and stone travel outward in guarded caravans, while grain, cloth, salt, and other goods that the high country cannot provide travel inward. The Frostwall Clans maintain the roads and escort the traffic, for the survival of the marches depends as much upon secure passage as upon the wealth beneath the mountains.
+Trade follows the summer roads eastward and westward through the Morvind ranges, linking the clans to the [Stoneheim Holds](/content/government/national/stoneheim-holds) and, through them, to the coastal markets. Metalwork and stone travel outward in guarded caravans, while grain, cloth, salt, and other goods that the high country cannot provide travel inward. The Frostwall Clans maintain the roads and escort the traffic, for the survival of the marches depends as much upon secure passage as upon the wealth beneath the mountains.
 
 ## The Passes and Their Defence
 

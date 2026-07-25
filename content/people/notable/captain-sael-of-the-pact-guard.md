@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Captain Sael of the Pact Guard
+title: Sael, Captain of the Pact Guard
 ---
 
 ## Overview
 
-Captain Sael of the [Pact Guard](/content/government/local/pact-guard) is the present commander of the collective force of the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh). He was appointed to the command by the council of the pact in the year that the chroniclers of the [Vashari Pact](/content/government/national/vashari-pact) record as the three hundred and forty-first year of the pact, succeeding the previous captain, who had held the command for the customary term of six years. Captain Sael is in the forty-second year of his life, and his command of the guard has been marked by a substantial improvement in the discipline of the force and by the construction of two new watchtowers upon the caravan routes that pass through the deep desert.
+Sael, Captain of the [Pact Guard](/content/government/local/pact-guard) is the present commander of the collective force of the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh). He was appointed to the command by the council of the pact in the year that the chroniclers of the [Vashari Pact](/content/government/national/vashari-pact) record as the three hundred and forty-first year of the pact, succeeding the previous captain, who had held the command for the customary term of six years. Sael is in the forty-second year of his life, and his command of the guard has been marked by a substantial improvement in the discipline of the force and by the construction of two new watchtowers upon the caravan routes that pass through the deep desert.
 
 ## Background and Early Career
 
@@ -33,10 +33,10 @@ The captain maintains a careful record of the strength and the disposition of th
 
 ## Character and Reputation
 
-Captain Sael is described by the soldiers of the guard as a commander of considerable courage and of firm but equitable administration. The captain is known for the close attention that he pays to the welfare of the soldiers under his command, and the soldiers are accustomed to see him at the watchtowers and the shelters that the guard maintains upon the routes. The captain is also known for the courtesy with which he receives the deputations of the merchants who come to the guard hall at [Vashari](/content/location/settlement/city/vashari), and the merchants speak well of the welcome that they receive.
+Sael is described by the soldiers of the guard as a commander of considerable courage and of firm but equitable administration. The captain is known for the close attention that he pays to the welfare of the soldiers under his command, and the soldiers are accustomed to see him at the watchtowers and the shelters that the guard maintains upon the routes. The captain is also known for the courtesy with which he receives the deputations of the merchants who come to the guard hall at [Vashari](/content/location/settlement/city/vashari), and the merchants speak well of the welcome that they receive.
 
 The reputation of the captain is not confined to the inland cities, for the captains of the caravans that operate the routes have corresponded with Sael upon the matters that concern the security of the passages, and the reputation of the guard is a credit to the pact and to the council. The chronicler notes that the captain is held in high esteem by the soldiers and by the merchants alike, and the discipline that the captain has maintained during his tenure of the command is among the most rigorous that the long history of the force records.
 
 ## Significance
 
-Captain Sael is the present commander of the pact guard and the principal military officer of the [Vashari Pact](/content/government/national/vashari-pact). His command of the force has been marked by a substantial improvement in the discipline of the soldiers and by the construction of two new watchtowers upon the caravan routes. The chronicler notes that the office of the captain is one of the most important of the public positions of the pact, and the security of the caravan routes that the captain provides is a foundation upon which the commerce of the inland cities depends.
+Sael is the present commander of the pact guard and the principal military officer of the [Vashari Pact](/content/government/national/vashari-pact). His command of the force has been marked by a substantial improvement in the discipline of the soldiers and by the construction of two new watchtowers upon the caravan routes. The chronicler notes that the office of the captain is one of the most important of the public positions of the pact, and the security of the caravan routes that the captain provides is a foundation upon which the commerce of the inland cities depends.

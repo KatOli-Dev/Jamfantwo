@@ -1,2 +1,5 @@
 - If the style guide or structure is overriden by the user, then update those files to match.
-- Do not write more than 10000 words per batch of tool calls.
+- Do not attempt to automate nuanced tasks with code unless told to do so.
+- Place throwaway scripts and intermediate files in `temp/` rather than the repo root or `scripts/`. The `scripts/` directory is reserved for long-lived tooling like the content validator.
+- The content validator at `scripts/validate_content.rb` runs against the source files only and does not depend on a Jekyll build; it can be invoked with `ruby scripts/validate_content.rb` at any time.
+- Subagent sessions can be resumed by passing their `task_id` back to the task tool; the new prompt becomes the next turn in the existing context rather than starting fresh. Useful for continuing work after a context quota interruption or for following up on a prior delegation.

@@ -45,7 +45,7 @@ The tundra is travelled chiefly by [lupines](/content/species/sapient/lupines), 
 
 The southern sea is cold, shallow near the coast, and rich in fish. Herring, cod, and silver-backed salmon gather where river water meets the ocean, while kelp forests shelter crabs, shellfish, and young seals. Coastal villages set aside breeding bays during the spring, and the prohibition on netting in those waters is enforced by local councils rather than distant rulers. The winter fishing is dangerous, but the summer catch is large enough to sustain inland communities through the longest months.
 
-At the western edge of Nordheim stands the [Cape of Storms](/content/location/natural/feature/cape-of-storms), a dark headland that reaches into the meeting of two currents. Its cliffs are nesting grounds for seabirds, and its lighthouse fires are visible from distant routes when the air is clear. The cape creates difficult weather, but it also marks a safe approach to the southern harbours. Pilots measure their course by the colour of the water and the sound of waves striking the outer rocks.
+At the western edge of Nordheim stands the [Storm Cape](/content/location/natural/feature/cape-of-storms), a dark headland that reaches into the meeting of two currents. Its cliffs are nesting grounds for seabirds, and its lighthouse fires are visible from distant routes when the air is clear. The cape creates difficult weather, but it also marks a safe approach to the southern harbours. Pilots measure their course by the colour of the water and the sound of waves striking the outer rocks.
 
 ## Significance
 

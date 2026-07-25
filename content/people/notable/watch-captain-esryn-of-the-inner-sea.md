@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Watch Captain Esryn of the Inner Sea
+title: Esryn, Watch Captain of the Inner Sea
 ---
 
 ## Overview
 
-Watch Captain Esryn holds the position of commander of the [Watch of the Inner Sea](/content/government/local/watch-of-the-inner-sea), succeeding in that office a line of pilots that reaches back to the founding of the Watch in the early generations of the [Long Peace of the Twin Cities](/content/history/long-peace-of-the-twin-cities). Esryn was born in [Khalisar](/content/location/settlement/city/khalisar) more than fifty years ago, and Esryn was trained as a pilot in the Watch before being appointed to the command. Esryn's principal work has been the supervision of the patrol of the southern waters of the strait and the prosecution of the wreckers who have preyed upon the commerce of the coast, and Esryn's vigilance is the foundation of the safety of the navigation of the warm coast at the present day.
+Watch Captain Esryn holds the position of commander of the [Inner Sea Watch](/content/government/local/inner-sea-watch), succeeding in that office a line of pilots that reaches back to the founding of the Watch in the early generations of the [Long Peace](/content/history/long-peace). Esryn was born in [Khalisar](/content/location/settlement/city/khalisar) more than fifty years ago, and Esryn was trained as a pilot in the Watch before being appointed to the command. Esryn's principal work has been the supervision of the patrol of the southern waters of the strait and the prosecution of the wreckers who have preyed upon the commerce of the coast, and Esryn's vigilance is the foundation of the safety of the navigation of the warm coast at the present day.
 
 Esryn is held in particular esteem by the pilots and the merchants of the warm coast, and Esryn's judgement is consulted by every magistrate who must decide a question of navigation. The chronicler notes that Esryn is one of the most useful of the pilots of the present day, and Esryn's service is the measure of the public spirit of the Watch.
 
@@ -41,4 +41,4 @@ The school was authorised by the council of [Khalisar](/content/location/settlem
 
 ## Significance
 
-Watch Captain Esryn of the [Watch of the Inner Sea](/content/government/local/watch-of-the-inner-sea) is one of the most useful of the pilots of the present day, and Esryn's service is the foundation of the safety of the navigation of the warm coast. The patrol, the prosecutions, and the maintenance of the lighthouses are the inheritance that Esryn has bequeathed to the present age. The chronicler notes that Esryn is held in particular memory by the pilots and the merchants of the warm coast, and Esryn is the measure by which the magistrates and the councils of the coast judge the public acts of their own day.
+Watch Captain Esryn of the [Inner Sea Watch](/content/government/local/inner-sea-watch) is one of the most useful of the pilots of the present day, and Esryn's service is the foundation of the safety of the navigation of the warm coast. The patrol, the prosecutions, and the maintenance of the lighthouses are the inheritance that Esryn has bequeathed to the present age. The chronicler notes that Esryn is held in particular memory by the pilots and the merchants of the warm coast, and Esryn is the measure by which the magistrates and the councils of the coast judge the public acts of their own day.

@@ -4,8 +4,6 @@ require 'yaml'
 
 ROOT = Pathname.new(File.expand_path('..', __dir__))
 CONTENT_DIR = ROOT.join('content')
-SITE_DIR = ROOT.join('_site')
-SITE_INDEX = SITE_DIR.join('index.html')
 INDEX_MD = ROOT.join('index.md')
 CONFIG_PATH = ROOT.join('scripts', 'validator_config.yml')
 
@@ -29,6 +27,51 @@ AN_BEFORE_CONSONANT_RE = article_exception_regex('an_before_consonant')
 
 LINK_TEXT_EXCEPTION_PATTERNS = (VALIDATOR_CONFIG.dig('link_text_exceptions', 'universal') || [])
   .map { |e| Regexp.new(e['pattern'].to_s) }
+
+# Mirror of the filtering in _includes/content-list.html. A content page is
+# considered listed by the homepage index if any rule matches. Keep this list
+# in sync with the include.
+INDEX_TITLE_RULES = %w[geography population].freeze
+INDEX_PATH_RULES = [
+  'deity',
+  'ideology',
+  'religion/monotheist',
+  'religion/polytheist',
+  'science/physical',
+  'science/theoretical',
+  'content/culture/',
+  ['content/government/', 'national'],
+  ['content/government/', 'local'],
+  'content/history/',
+  ['content/language/', 'pseudo'],
+  ['content/language/', 'spoken'],
+  'content/magic/magic-overview',
+  ['content/magic/', 'law'],
+  ['content/magic/', 'tradition'],
+  ['content/magic/', 'working'],
+  ['content/magic/', 'relic'],
+  ['content/location/', 'natural/continent'],
+  ['content/location/', 'natural/ecosystem'],
+  ['content/location/', 'natural/feature'],
+  ['content/location/', 'route/trade'],
+  ['content/location/', 'settlement/city'],
+  ['content/location/', 'settlement/town'],
+  ['content/location/', 'settlement/village'],
+  ['content/location/', 'settlement/outpost'],
+  ['content/location/', 'settlement/region'],
+  ['content/people/', 'historical'],
+  ['content/people/', 'notable'],
+  ['content/species/', 'beasts'],
+  ['content/species/', 'sapient'],
+].freeze
+
+def listed_in_index?(page_path, title)
+  return true if INDEX_TITLE_RULES.include?(title.to_s.downcase)
+  INDEX_PATH_RULES.each do |rule|
+    return true if Array(rule).all? { |frag| page_path.to_s.include?(frag) }
+  end
+  false
+end
 
 @failures = []
 @warnings = []
@@ -284,9 +327,9 @@ def check_internal_links(file, body, line_offset)
   end
 end
 
-content_files = CONTENT_DIR.glob('**/*.md').sort
+CONTENT_FILES = CONTENT_DIR.glob('**/*.md').sort
 
-content_files.each do |f|
+CONTENT_FILES.each do |f|
   check_file(f)
 end
 
@@ -295,58 +338,22 @@ def collect_content_slugs
 end
 
 def linked_from_index
-  sources = []
-  sources << SITE_INDEX if SITE_INDEX.exist?
-  sources << INDEX_MD if INDEX_MD.exist?
-  seen = {}
-  sources.each do |src|
-    text = src.read
-    text.scan(/\[[^\]]*\]\((\/[A-Za-z0-9_\-\/\.]+)\)/) do |match|
-      url = match.is_a?(Array) ? match[0] : match
-      path = url[1..].sub(/\.html\z/, '')
-      next unless path.start_with?('content/')
-      slug = path.sub(/\Acontent\//, '').sub(%r{/index\z}, '')
-      seen[slug] = src
-    end
-    text.scan(/<a[^>]+href="(\/[A-Za-z0-9_\-\/\.]+)"/) do |match|
-      url = match.is_a?(Array) ? match[0] : match
-      path = url[1..].sub(/\.html\z/, '').sub(/\/\z/, '')
-      next unless path.start_with?('content/')
-      slug = path.sub(/\Acontent\//, '').sub(%r{/index\z}, '')
-      seen[slug] = src
-    end
+  CONTENT_FILES.each_with_object({}) do |f, h|
+    rel = f.relative_path_from(ROOT).to_s
+    fm_text, _ = parse_front_matter(f.read)
+    next if fm_text.nil?
+    fm = parse_front_matter_yaml(fm_text)
+    h[rel] = fm['title'] if listed_in_index?(rel, fm['title'])
   end
-  seen
 end
 
 all_slugs = collect_content_slugs
 linked = linked_from_index
 all_slugs.each do |slug|
-  unless linked.key?(slug)
-    fail(INDEX_MD, 1, "orphan content page not linked from generated index: #{slug}")
+  unless linked.key?("content/#{slug}.md")
+    fail(INDEX_MD, 1, "orphan content page not listed by the homepage index: content/#{slug}")
   end
 end
-
-def check_rendered_links
-  return unless SITE_DIR.exist?
-
-  SITE_DIR.glob('**/*.html').sort.each do |file|
-    file.read.scan(/(?:href|src)=["']([^"']+)["']/) do |match|
-      url = match[0]
-      next unless url.start_with?('/')
-      path = url.split(/[?#]/, 2).first.sub(%r{\A/}, '')
-      next if path.empty?
-
-      target = SITE_DIR.join(path)
-      candidates = [target, Pathname.new("#{target}.html"), target.join('index.html')]
-      unless candidates.any?(&:file?)
-        fail(file, 1, "rendered internal URL #{url} does not resolve in _site")
-      end
-    end
-  end
-end
-
-check_rendered_links
 
 unless @failures.empty?
   puts "Validation failed with #{@failures.length} failure(s):"

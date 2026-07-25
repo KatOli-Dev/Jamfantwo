@@ -1,0 +1,44 @@
+---
+layout: default
+title: Lodestone Lore
+---
+
+## Overview
+
+Lodestone Lore is the practical discipline by which the smiths, the navigators, the scholars of the academies, and the curious of the workshops observe and record the peculiar attractions of the lodestone and the alignment of iron in the field of the world. The discipline has its origin in the observation that a piece of the dark stone of certain northern quarries will turn upon a pivot until one face points toward the cold of the north, and that a needle of iron that has been touched to the stone will hold the same alignment. The observation is among the most remarkable of the practical disciplines, and the discipline has been the subject of careful study by the scholars of every academy of the known world.
+
+The discipline is shared across the smithies of the [Stoneheim Holds](/content/government/national/stoneheim-holds), the workshops of the [gnome](/content/species/sapient/gnomes) communities, the academies of the coastal cities, and the navigators of the great ports. The practitioners are unanimous in their respect for the subject: the lodestone is a useful tool and a puzzling thing, and the proper understanding of its behaviour is among the most important of the practical and theoretical inquiries of the age.
+
+## The Behaviour of the Lodestone
+
+The basic observation of the discipline is the behaviour of the lodestone, and the lodestone is a piece of the dark stone of certain quarries of the [Frostwall Marches](/content/location/settlement/region/frostwall-marches) that turns upon a pivot until one face points toward the north and the other toward the south. The lodestone is mounted in a small wooden frame and floated in a bowl of water, and the stone is allowed to settle. The face that points toward the north is marked with a small notch, and the notch is the reference for every subsequent use of the compass.
+
+The lodestone does not point exactly toward the north in every place, and the discipline maintains a set of tables of the variation. The variation is the angle between the line of the lodestone and the true north, and the variation differs from place to place and from year to year. The navigators consult the tables of variation before they set out, and the navigators correct their bearings by the variation. The tables of variation are compiled by the scholars of the academies, and the tables are revised as new observations are made. The chronicler notes that the variation is one of the most puzzling features of the lodestone, and the discipline maintains the tables as carefully as it maintains any of its productions.
+
+## The Needle and the Compass
+
+The lodestone is too heavy and too cumbersome for use at sea, and the navigators use a needle of iron that has been touched to the lodestone. The needle is balanced upon a fine point in a small wooden box, and the needle is allowed to settle. The face of the box is marked with the bearings, and the bearing is read against the needle. The compass is small enough to be held in the hand, and the compass can be consulted at any moment by the pilot.
+
+The discipline holds that the compass must be made with care, and the discipline maintains a set of rules for the making. The needle must be of good iron, and the iron must be drawn out fine and straightened carefully. The pivot must be set in the centre of the box, and the box must be level. The needle must be touched to the lodestone several times before it is mounted, and the touch must be made with the marked face of the lodestone. The compass must be tested against the lodestone before it is used, and the compass must be corrected if the test shows a deviation. The chronicler notes that a compass that is made carelessly can be the difference between a safe voyage and a wreck, and the discipline maintains the rules as one of its most important responsibilities.
+
+## The Use of the Compass at Sea
+
+The compass is the most useful of the tools of the navigator, and the discipline maintains a set of rules for the use of the compass at sea. The pilot reads the bearing of the sun at noon and the bearing of the stars at night, and the pilot enters the bearings in the log. The pilot then consults the tables of variation and corrects the bearings, and the corrected bearings are the position of the vessel. The pilot compares the position with the chart, and the chart shows the course that the pilot must steer to reach the desired port.
+
+The discipline holds that the compass must be consulted at every watch, and that the bearings must be entered in the log at the time of the observation. A pilot who neglects the bearings is a danger to his vessel, and the discipline maintains a strict code of practice. The chronicler notes that the compass has made the navigation of the open sea far safer than it was in the age before the lodestone was known, and the discipline maintains the rules for the use of the compass as carefully as it maintains the rules for the making.
+
+## The Behaviour of Iron in the Field
+
+The discipline maintains a separate set of observations for the behaviour of iron in the field of the world, and the observations are the foundation of the theoretical inquiries of the scholars. The scholar places a needle of iron upon a pivot in a quiet room and observes the alignment, and the scholar notes the alignment against the time of day. The scholar observes that the alignment is steady through most of the day but that the alignment shifts during a storm, and the scholar enters the shift in the record. The scholar also observes that the alignment is altered when a piece of iron is brought near the needle, and the scholar enters the alteration in the record.
+
+The discipline holds that the behaviour of iron in the field is one of the most promising of the inquiries of the present age, and the discipline maintains the records of every observation carefully. The records are consulted by the scholars of the academies, and the records are the foundation of the theoretical branches that concern themselves with the fields that surround the world. The chronicler notes that the practical observations of the lodestone and the needle have produced more theoretical inquiry than any other set of observations in the present age, and the discipline maintains the observations as one of its most important responsibilities.
+
+## Reception Among the Learned
+
+The discipline is respected by every branch of learning that touches the navigation of the sea or the inquiry into the fields of the world. The scholars of the [Linked Moons](/content/belief/science/theoretical/linked-moons) consult the navigators for the bearings of the stars, and the scholars of the [Spherical Cartography](/content/belief/science/theoretical/spherical-cartography) consult the navigators for the positions of the vessels that have carried the charts. The navigators in turn consult the scholars for the tables of variation and the corrections that must be applied to the compass, and the consultation has produced several useful agreements.
+
+The discipline does contend with the theoretical branches upon the question of the nature of the field, for the field is not directly observed and the explanations of the field differ from one theoretical branch to another. The discipline holds that the question of the nature of the field is beyond the present observation of the practical disciplines, and that the discipline must await the accumulation of more observations before the question can be settled. The chronicler notes that the discipline is patient in the face of the theoretical disputes, and that the discipline maintains the practical observations as carefully as it has always done. The patience is one of the reasons that the discipline is held in such high esteem.
+
+## Significance
+
+Lodestone Lore is among the most useful of the practical disciplines, and the discipline has produced the compass that has made the navigation of the open sea possible. The discipline has no famous disputes and no contested doctrines, because its conclusions are tested by the practical outcome of the voyage. A bearing that does not produce the expected position is rejected; a bearing that produces the expected position is entered in the log. The discipline has produced some of the most remarkable observations of the present age, and the chronicler notes that the observations are the foundation of the theoretical inquiries that may one day explain the nature of the field that surrounds the world. The compasses of the great ports and the needles of the scholars are the most widely consulted of the productions of the discipline, and the chronicler notes that no responsible authority of any land neglects to maintain a careful set of the instruments.
