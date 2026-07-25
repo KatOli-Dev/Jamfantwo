@@ -1,4 +1,4 @@
-- If the style guide or structure is overriden by the user, then update those files to match.
+- If the style guide or structure is overridden by the user, update those files to match.
 - Do not attempt to automate nuanced tasks with code unless told to do so.
 - Place throwaway scripts and intermediate files in `temp/` rather than the repo root or `scripts/`. The `scripts/` directory is reserved for long-lived tooling like the content validator.
 - The content validator at `scripts/validate_content.rb` runs against the source files only and does not depend on a Jekyll build; it can be invoked with `ruby scripts/validate_content.rb` at any time.

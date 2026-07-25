@@ -12,5 +12,4 @@ title: Homepage
 Project metadata: licensing and style guidance.
 
 - [License]({{ '/license/' | relative_url }})
-- [Style Guide]({{ '/style-guide/' | relative_url }})
-- [Content Structure]({{ '/structure/' | relative_url }})
+- [Structure and Style]({{ '/structure/' | relative_url }})
