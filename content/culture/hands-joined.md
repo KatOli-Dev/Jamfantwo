@@ -11,7 +11,7 @@ Hands Joined is the principal marriage custom of the human communities of the te
 
 The origins of the custom are prehistoric. Scholars of the [Vael](/content/government/national/vael) propose that it began as a religious observance of the polytheistic peoples of the central lowlands, recognising that the formation of a household was a matter of significance to the gods of the community. Scholars of the [Plains Confederation](/content/government/national/plains-confederation) argue that the custom is older than settled agriculture, descending from a pastoral ritual of prehistoric grassland peoples. Regardless of its origins, the custom is observed by peoples of every religion and of none.
 
-The marriageable age varies with community and climate. Those in the warmer southern regions marry at an earlier age than those in the colder north. The persons to be married must have reached the age of majority and demonstrated the competence to maintain a household. The consent of both families is a customary requirement enforced through the community's elders.
+The marriageable age varies with community and climate. Those in the warmer southern regions marry at an earlier age than those in the colder north. The persons to be married must have reached the age of majority and demonstrated the competence to maintain a household. The consent of both families is a customary requirement enforced through the community's elders. Marriages between families of markedly different standing are uncommon in practice, for the contributions required of each side and the expectations of the community tend to keep unions within the same broad station.
 
 ## The Betrothal
 
