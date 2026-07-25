@@ -1,0 +1,50 @@
+---
+layout: default
+title: Halric Vael
+---
+
+## Overview
+
+Halric Vael is the thirty-sixth monarch of the Vaelic dynasty, the ruler whose long reign of thirty-eight years preceded the accession of his son [Aldric Vael](/content/people/notable/aldric-vael) and who consolidated the institutions of the kingdom established by his predecessors. Halric was born in the royal palace overlooking the confluence of the two rivers at [Vaelmouth](/content/location/settlement/city/vaelmouth). He ascended to the throne in the eight hundred and seventy-third year of the [Amurra Republic](/content/government/national/amurra-republic), succeeding his father King Dorian, who died after a reign of twenty-seven years. Halric died in the seventy-fourth year of his life and the thirty-eighth year of his reign, and his body was interred in the royal tomb on the hill overlooking Vaelmouth. Halric's reign was one of the most stable of the long succession, and the institutions that he maintained have endured through the present age.
+
+## Birth and Lineage
+
+Halric was born in the royal palace at [Vaelmouth](/content/location/settlement/city/vaelmouth) in the year of his grandfather's reign, the second son of King Dorian by his queen, a lady of the great house of the western marches. The lineage of Halric is unbroken through the long succession of the Vaelic dynasty, recorded by the chroniclers of the court through a chain of marriages and births unmarred by any irregularity of succession. Halric's early years were spent in the palace at Vaelmouth, where he received the customary education of the princes of the realm, including instruction in law, governance, history, and the arts of the sword and the bow.
+
+The firstborn son of King Dorian died in childhood, leaving Halric as heir to the throne at an age when most princes were still under the supervision of their tutors. The early elevation of Halric to the position of heir was conducted with care observed by the council of the kingdom, including the appointment of senior lords of the valley to serve as the prince's advisors. These advisors instructed the prince in the affairs of the kingdom, providing knowledge of governance that served him well in the reign that followed. This early preparation for the throne is one of the reasons that his reign proved so stable and has been recommended as a model for Halric's successors.
+
+## Accession
+
+Halric ascended to the throne of the [Vael](/content/government/national/vael) upon the death of his father King Dorian. The coronation was conducted in the hall of the palace at [Vaelmouth](/content/location/settlement/city/vaelmouth) in the presence of the lords of the valley, the chief judges of the realm, and the representatives of the guilds of the capital. The crown was placed upon the new king's head by the lord high steward, who spoke the customary words of office. Halric received the oaths of the lords and judges with a gravity that impressed even the most sceptical of the council, and he spoke the customary response with notable clarity.
+
+The accession was followed by the customary confirmation of the governors of the provinces, conducted in the manner that [Sera](/content/people/historical/sera-ambervale) had established and that her successors had observed. The governors were confirmed in their offices for the customary term, accompanied by the customary exchange of letters between the king and the governors. The confirmation of the governors is one of the foundations of the stability of the kingdom and has been observed by every monarch of the Vaelic dynasty since the founding of the line.
+
+## The Long Reign
+
+Halric's reign extended over thirty-eight years, one of the longest in the history of the [Vael](/content/government/national/vael). It was marked by careful stewardship of the kingdom's affairs and close attention to the counsel of the lords of the valley and the guilds of the capital. The king maintained the institutions established by [Sera](/content/people/historical/sera-ambervale), and the code of law she had instituted remained the foundation of the legal system of the realm. Halric's attention to the law was one of the most distinctive features of his reign and the foundation of his reputation as a ruler of measured and considered temperament.
+
+The foreign policy of the reign was marked by close attention to relations with neighbouring realms. Treaties negotiated by Halric's predecessors were renewed and extended. The king maintained customary relations with the [Aldreth](/content/government/national/aldreth) and the [Plains Confederation](/content/government/national/plains-confederation), and embassies exchanged between [Vaelmouth](/content/location/settlement/city/vaelmouth) and the courts of these neighbours were among the most regular diplomatic correspondences of the continent. Halric did not engage in any war of conquest during his reign; the peace that prevailed throughout his years upon the throne was not the result of neglect of the kingdom's defences — the king maintained the standing army and fortifications in good order — but of prudent management of the kingdom's affairs.
+
+The economic policies that Halric pursued encouraged the flow of trade across the kingdom's boundaries. He invested in the maintenance of roads and bridges connecting the provinces. The grain of the [Amber Vale](/content/location/settlement/region/amber-vale) continued to flow through the harbour of [Vaelmouth](/content/location/settlement/city/vaelmouth) to the markets of the eastern coast, and the iron of the mountain kingdoms and the cloth of the eastern cities continued to reach the towns of the interior. The prosperity of the kingdom during Halric's reign was one of the most distinctive features of the period and the foundation of his reputation as a ruler of considerable accomplishment.
+
+## The Court at Vaelmouth
+
+Halric's court was maintained at [Vaelmouth](/content/location/settlement/city/vaelmouth) in the palace that [Sera](/content/people/historical/sera-ambervale) had built above the confluence of the rivers. The king was attended by the great officers of the household — the lord high steward, the lord chamberlain, and the master of the horse — and the council of the king was composed of the lords of the valley, the chief judges of the realm, and the representatives of the guilds of the capital. The court of Halric was among the most refined of the long succession, and the king was regarded as a patron of the arts and learning.
+
+The queen of Halric, a lady of the great house of the eastern marches, was a patron of the religious houses of the kingdom. She attended the chapel of the royal palace daily, and her example was followed by the ladies of the court. The queen bore the king three children, the eldest of whom is [Aldric Vael](/content/people/notable/aldric-vael), the present ruler of the kingdom. The queen's influence upon the court was one of the most distinctive features of the reign.
+
+## Family and Succession
+
+The king was married to his queen for forty-one years, a marriage marked by fidelity that the chronicles of the dynasty record as one of the most distinctive features of the reign. The queen bore the king three children: two sons and a daughter, raised in the palace at [Vaelmouth](/content/location/settlement/city/vaelmouth) with the customary care of the princes of the line. The eldest son, Aldric, was invested with the governance of the western marches at the age of twenty-four, the customary preparation of the heir for the responsibilities of the crown. The younger son was invested with the governance of a province, and the daughter was married into a great house of a neighbouring realm. The family of the king was one of the most harmonious of the long succession.
+
+The succession was the subject of careful preparation in the closing years of the reign, including the appointment of senior lords of the valley to serve as advisors to the heir. These advisors instructed the heir in the affairs of the kingdom, providing knowledge that would serve him well in the reign to follow. The preparation of the succession is one of the foundations of the stability of the kingdom and has been recommended as a model for Halric's successors.
+
+## The Last Years
+
+The last years of Halric were marked by a gradual decline in the king's health, a matter of concern to the council of the kingdom. The king continued to attend the council and the ceremonies of the court, but his attendance required increasing care. Halric appointed [Aldric Vael](/content/people/notable/aldric-vael) to act as his representative in the affairs of the kingdom, the customary preparation of the heir for the responsibilities of the crown. The king's care for the succession was one of the most distinctive features of his last years.
+
+Halric died in the seventy-fourth year of his life and the thirty-eighth year of his reign. The mourning that followed was the most extensive of the long succession. The body of the king was interred in the royal tomb on the hill overlooking the city of [Vaelmouth](/content/location/settlement/city/vaelmouth), a place of pilgrimage for the people of the kingdom. The tomb is among the most distinguished of the royal tombs of the continent and is the centre of ceremonial observances upon the anniversary of the king's death.
+
+## Significance
+
+Halric is the thirty-sixth monarch of the Vaelic dynasty, and his long reign of thirty-eight years was one of the most stable of the long succession. The institutions that Halric maintained have endured through the present age and are the foundation of the prosperity of the [Vael](/content/government/national/vael) in the present day. His reputation abroad was favourable, and the embassies exchanged during his reign were conducted with a smoothness in keeping with the traditions of the dynasty. Halric is remembered as one of the most patient and least displaced of the monarchs of the long succession, a ruler whose careful stewardship of the kingdom's affairs has been the model for his successors through the present age.

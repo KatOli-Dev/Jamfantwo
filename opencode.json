@@ -1,13 +1,12 @@
 {
   "$schema": "https://opencode.ai/config.json",
+  "model": "opencode-go/deepseek-v4-flash",
   "instructions": [
     "structure.md",
     "agents.md"
   ],
   "compaction": {
     "auto": true,
-    "prune": true,
-    "reserved": 900000,
-    "comment": "100k of 1m"
+    "reserved": 798576
   }
 }

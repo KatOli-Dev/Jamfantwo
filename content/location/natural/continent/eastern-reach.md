@@ -5,7 +5,7 @@ title: Eastern Reach
 
 ## Overview
 
-The Eastern Reach is a long, irregular continent that extends beyond the far side of the [Auric Ocean](/content/location/natural/feature/auric-ocean). Its western coast faces the established sea routes, while its eastern edge breaks into islands, reefs, and open water whose full extent remains uncertain. The land narrows toward the north and widens in the south, giving it a shape that resembles an arm reaching into the sunrise. Broad river plains occupy the centre, but much of the continent is covered by low hills, salt grass, and forest that has adapted to the strong seasonal winds from the ocean.
+The Eastern Reach is a long, irregular continent that extends beyond the far side of the [Auric Ocean](/content/location/natural/feature/auric-ocean). Its western coast faces the established sea routes, while its eastern edge breaks into islands, reefs, and open water whose full extent remains uncertain. The land narrows toward the north and widens in the south, giving it a shape that resembles an arm reaching into the sunrise. Broad river plains occupy the centre, but much of the continent is covered by low hills, salt grass, and forest adapted to the strong seasonal winds from the ocean.
 
 The term Eastern Reach comes from the earliest mariners of [Aethelar](/content/location/natural/continent/aethelar), who described the continent as the furthest land touched by the morning light. Its inhabitants use several older names for their regions, and no single name is accepted throughout the interior. The common term remains useful in trade records because it identifies a coherent group of ports, river mouths, and coastal roads. It also distinguishes the continent from the smaller eastern islands whose pilots share its routes but whose councils remain independent.
 
@@ -21,17 +21,17 @@ The southern peninsula is flatter and warmer. Seasonal rivers spread over wide p
 
 The Eastern Reach has a climate governed by the Auric currents and by a strong seasonal wind that turns toward the continent in the warm half of the year. The western shore receives its heaviest rain during this period, while the southern plains may remain dry until late in the season. Winter is clearer and cooler, with steady winds that carry dust from the eastern woodland toward the sea. Frost is uncommon near the coast but occurs regularly in the northern interior.
 
-Spring is the most important season for farming. The rivers are full from winter rain, the soil is soft, and farmers plant grain before the warmer winds begin. Summer brings heat, insects, and fast plant growth. Fields are protected by raised banks, and villages maintain shaded storehouses for seed and grain. Autumn is a season of harvest and fishing, when coastal boats travel to the reef edges and the inland communities bring salt, fruit, and ore toward the ports.
+Spring is the most important season for farming. The rivers are full from winter rain, the soil is soft, and farmers plant grain before the warmer winds begin. Summer brings heat, insects, and fast plant growth. Fields are protected by raised banks, and villages maintain shaded storehouses for seed and grain. Autumn is a season of harvest and fishing, when coastal boats travel to the reef edges and inland communities bring salt, fruit, and ore toward the ports.
 
 Storms form over the warm ocean and may reach the continent with little warning. The western deltas are vulnerable to surge, so villages build on raised mounds and preserve emergency boats above the ordinary waterline. The inland ridge weakens some storms but also causes heavy rain on its western face. Flood channels and reed barriers reduce the force of the water, and the oldest settlements have several generations of marked flood levels carved into their public stones.
 
 ## The Reef Fields
 
-The [Velden](/content/location/settlement/city/velden) Reef Fields lie along the central western shelf, where submerged ridges create a network of shallow water, coral growth, kelp beds, and sandy channels. The fields are not a single reef but a changing series of habitats joined by currents. Some areas are exposed at low tide, while others remain deep enough for small boats. Fish spawn among the branching coral, shellfish gather in the sheltered pools, and sea grass covers the mud where young creatures shelter.
+The [Velden](/content/location/settlement/city/velden) Reef Fields lie along the central western shelf, where submerged ridges create a network of shallow water, coral growth, kelp beds, and sandy channels. The fields are not a single reef but a changing series of habitats joined by currents. Some areas are exposed at low tide, while others remain deep enough for small boats. Fish spawn among the branching coral, shellfish gather in sheltered pools, and sea grass covers the mud where young creatures shelter.
 
 The reef fields are tended by fishing communities and by [merfolk](/content/species/sapient/merfolk) settlements that occupy the deeper channels. Nets are permitted in certain seasons and forbidden in others, with boundaries marked by poles, shell lines, or floating bundles of kelp. The rules are complicated because a catch taken from one part of the reef affects the breeding stock of another. Reef wardens record the colour of the water, the return of migrating fish, and the condition of the coral after storms.
 
-The coast beyond the reef supports mangrove, salt grass, and low palms. Crocodiles inhabit the quiet estuaries, while river turtles lay their eggs on the higher sandbanks. Dolphins enter the channels with the tide, and large sea birds nest upon the outer rocks. The reef is also the nursery for fish that later move into the open ocean, which makes its protection important to distant ports as well as to the villages immediately beside it.
+The coast beyond the reef supports mangrove, salt grass, and low palms. Crocodiles inhabit the quiet estuaries, while river turtles lay their eggs on the higher sandbanks. Dolphins enter the channels with the tide, and large sea birds nest upon the outer rocks. The reef is the nursery for fish that later move into the open ocean, making its protection important to distant ports as well as to the villages immediately beside it.
 
 ## Rivers and Inland Life
 
@@ -39,7 +39,7 @@ The main rivers of the Eastern Reach are broad, slow, and navigable for much of 
 
 The inland fauna includes long-horned deer, striped boars, river cats, and a large browsing animal called the greyback. Greybacks move in family herds along the ridge foothills and create clear paths through the grass. Predators include wolves, spotted cats, and a broad-winged eagle that nests upon the central cliffs. [Felinids](/content/species/sapient/felinids) hunt in the drier eastern woodland, and [halflings](/content/species/sapient/halflings) maintain small farming communities along the riverbanks.
 
-The eastern woodland is not continuous. Old clearings, seasonal burns, and grazing routes create a patchwork of trees and grass. The people of the interior manage these openings carefully, leaving seed trees and protecting springs from fire. The result is a landscape that appears open from a distance but retains enough mature forest to support birds, bees, and animals that require shade. Woodcutters are expected to replant, and river councils may close a district to felling when erosion becomes visible on the banks.
+The eastern woodland is not continuous. Old clearings, seasonal burns, and grazing routes create a patchwork of trees and grass. The people of the interior manage these openings carefully, leaving seed trees and protecting springs from fire. Woodcutters are expected to replant, and river councils may close a district to felling when erosion becomes visible on the banks.
 
 ## Peoples and Settlement
 
@@ -51,12 +51,12 @@ Political authority is divided among port councils, river assemblies, and inland
 
 ## Trade and Navigation
 
-The Eastern Reach trades grain, salt, fish, resin, blue stone, hardwood, reef shell, and dyes. Its ships are broad-hulled and shallow-drafted, suited to the deltas and the reef channels. Pilots use weighted lines, tide staffs, and reef songs that preserve the sequence of turns through dangerous water. The most experienced pilots are able to identify a submerged ridge from the pattern of birds upon the surface, though written charts are increasingly common in the larger ports.
+The Eastern Reach trades grain, salt, fish, resin, blue stone, hardwood, reef shell, and dyes. Its ships are broad-hulled and shallow-drafted, suited to the deltas and the reef channels. Pilots use weighted lines, tide staffs, and reef songs that preserve the sequence of turns through dangerous water. The most experienced pilots identify submerged ridges from the pattern of birds upon the surface, though written charts are increasingly common in the larger ports.
 
 Auric merchants bring iron, cloth, glass, spices, and worked goods. The return voyage depends upon the seasonal current, and captains who miss the favourable wind may wait in harbour for many weeks. The Eastern Reach has therefore developed extensive warehouse districts and a culture of long-term storage. Grain is kept in sealed jars, fish is dried upon raised racks, and resin is packed in clay-lined baskets that protect it from heat and moisture.
 
 ## Significance
 
-The Eastern Reach is significant because it is both a continental shore and a marine landscape. Its rivers, reefs, lagoons, and open ocean cannot be separated from one another. The floodplain feeds the estuary, the estuary shelters young fish, and the reefs support the adults that sustain coastal trade. A damaged bank or a cleared mangrove may therefore affect a harbour many miles away.
+The Eastern Reach is both a continental shore and a marine landscape. Its rivers, reefs, lagoons, and open ocean cannot be separated from one another. The floodplain feeds the estuary, the estuary shelters young fish, and the reefs support the adults that sustain coastal trade. A damaged bank or a cleared mangrove may affect a harbour many miles away.
 
 Its people have built institutions around that connection. The reef wardens, river clerks, pilots, and inland roadkeepers all maintain different portions of one system. Foreign merchants value the continent for its goods, but its deeper importance lies in the knowledge by which those goods are produced without exhausting the waters that carry them. The Eastern Reach remains a land of long distances, yet its coasts and rivers are joined by careful practice and by the regular movement of tide, season, and trade.
