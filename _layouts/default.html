@@ -28,8 +28,18 @@
         </a>
         <ul>
           <li>
-            <a href="{{ '/' | relative_url }}">
-              Home
+            <a href="{{ '/content/geography/' | relative_url }}">
+              Geography
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/content/population/' | relative_url }}">
+              Population
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/structure/' | relative_url }}">
+              Style
             </a>
           </li>
           <li>
@@ -41,6 +51,35 @@
       </nav>
     </header>
     <main id="main-content" tabindex="-1">
+      {%- unless page.url == '/' %}
+      <nav aria-label="Breadcrumb">
+        <ol>
+{%- assign crumbs = page.url | split: '/' %}
+{%- assign cum_url = '' %}
+{%- for crumb in crumbs %}
+  {%- if crumb != '' and crumb != 'content' %}
+    {%- assign cum_url = cum_url | append: '/' | append: crumb %}
+    {%- assign label_parts = crumb | replace: '-', ' ' | split: ' ' %}
+    {%- assign label = '' %}
+    {%- for word in label_parts %}
+      {%- assign capped = word | capitalize %}
+      {%- if forloop.first %}
+        {%- assign label = capped %}
+      {%- else %}
+        {%- assign label = label | append: ' ' | append: capped %}
+      {%- endif %}
+    {%- endfor %}
+    {%- if forloop.last %}
+          <li aria-current="page">{{ page.title }}</li>
+    {%- else %}
+      {%- assign page_match = site.pages | where: "url", cum_url -%}
+          <li>{% if page_match.size > 0 %}<a href="{{ cum_url | relative_url }}">{{ label }}</a>{% else %}{{ label }}{% endif %}</li>
+    {%- endif %}
+  {%- endif %}
+{%- endfor %}
+        </ol>
+      </nav>
+      {%- endunless %}
       <h1>
         {{page.title}}
       </h1>
