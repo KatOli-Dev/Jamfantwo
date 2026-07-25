@@ -15,4 +15,5 @@ title: Content Structure and Style
 - Prejudices of the period (racism, sexism, and similar) exist in the world but are never the focus; treat them as background reality, not narrative centerpieces
 - Anomalous scripts (Han, Hangul, Hiragana/Katakana, full-width punctuation) inside English prose are copy-paste corruption — correct them
 - No slang, modern idioms, or anachronisms
+- Write concisely like Wikipedia — every sentence should add substance; avoid padding, florid description, or redundant elaboration
 - The tree is extensible — new subdirectories may be added under any category
