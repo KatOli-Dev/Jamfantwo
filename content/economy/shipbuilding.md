@@ -1,0 +1,62 @@
+---
+layout: default
+title: Shipbuilding
+---
+
+## The Construction of Vessels for Trade and War
+
+The shipbuilding industry of the known world is concentrated in the port cities of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and the Greyring Sea, where the demand for vessels to carry the intercontinental trade is constant and the supply of timber from the forests of [Aethelar](/content/location/natural/continent/aethelar) is abundant. The shipwrights of the great ports are organised into [guilds](/content/economy/guilds) that maintain the standards of construction, the prices of vessels, and the training of the apprentices and journeymen who work in the yards. The vessels that the shipyards produce range from small fishing boats of twenty feet in length to great merchant cogs and caravels of two hundred tons or more, and the variety of designs reflects the variety of the waters that the vessels must navigate and the cargoes that they must carry.
+
+The shipbuilding industry is one of the largest employers in the port cities, providing work for the carpenters and the caulkers, the rope-makers and the sail-makers, the smiths who forge the fittings and the chandlers who supply the stores. The construction of a single large vessel can occupy a team of shipwrights and labourers for a year or more, and the materials that go into the vessel include timber from the forests of Aethelar, iron from the mines of [Morvind](/content/location/natural/continent/morvind), and cordage and canvas from the workshops of the cities.
+
+## The Great Shipbuilding Ports
+
+The port of [Eldreth](/content/location/settlement/city/eldreth) is the largest and the busiest shipbuilding centre in the known world, with a dozen shipyards along the shore of the harbour that turn out a continuous stream of vessels for the merchant houses and the navy of the [Aldreth](/content/government/national/aldreth). The shipyards of Eldreth are the most advanced in their techniques and the most productive in their output, and the vessels that are built in Eldreth are sold to merchants from every region of the known world. The shipwrights of Eldreth are the most skilled in the trade, and the guild of the shipwrights of Eldreth is the standard-setter for the industry across the three continents.
+
+The port of [Khalisar](/content/location/settlement/city/khalisar) is the second largest shipbuilding centre, serving the merchant houses of the [Northern Coast League](/content/government/national/northern-coast-league) and the [Vashari Pact](/content/government/national/vashari-pact). The shipyards of Khalisar are located along the shore of the harbour, where the warm waters of the Auric Ocean meet the coast of Sahrana. The vessels that are built in Khalisar are designed for the southern trade, with shallower drafts and broader beams than the vessels of the northern yards, and the timber that is used in their construction is imported from the forests of Aethelar.
+
+The port of [Nordhaven](/content/location/settlement/city/nordhaven) is the principal shipbuilding centre of Morvind, producing the sturdy vessels that are designed for the cold waters of the Greyring Ocean and the northern seas. The vessels of Nordhaven are built for strength and endurance rather than speed, with thick planking and heavy frames that can withstand the storms and the ice of the northern waters. The timber for the Nordhaven shipyards comes from the forests of the [Northern Marches](/content/government/national/northern-marches) and the Morvind coast, and the iron fittings are forged in the smithies of the [Stoneheim Holds](/content/government/national/stoneheim-holds).
+
+The ports of [Velden](/content/location/settlement/city/velden) and [Vassholm](/content/location/settlement/city/vassholm) are smaller shipbuilding centres, serving the regional trade of the Greyring Ocean and the Stormfall Sea. The shipyards of Velden are known for the construction of the fast pilot boats that guide the vessels through the [Velden Strait Run](/content/location/route/trade/velden-strait-run), while the shipyards of Vassholm produce the smaller merchant vessels that trade along the coast of the Northern Marches and the islands of the Greyring.
+
+## Types of Vessels
+
+The merchant cog is the most common type of vessel in the intercontinental trade, a sturdy, round-hulled ship of one hundred to two hundred tons burden that is built for carrying cargo rather than for speed. The cog has a single mast with a square sail, a high stern and a low bow, and a capacity that is large enough to carry a profitable cargo but small enough to enter the harbours and the rivers of the coast. The cog is the workhorse of the merchant fleets, carrying grain, timber, cloth, and metalwork across the Auric Ocean and the Greyring Sea in a steady traffic that never ceases throughout the sailing season.
+
+The caravel is a smaller and faster vessel, built for the carriage of valuable cargoes that require speed and manoeuvrability rather than bulk capacity. The caravel has two or three masts with lateen sails, a hull that is longer and narrower than the hull of the cog, and a speed that is significantly greater. The caravel is the vessel of choice for the spice trade, for the merchants who deal in saffron and pepper and cardamom are willing to pay the higher freight charges that the faster vessel commands in return for the earlier arrival of their goods at the markets of the north.
+
+The fishing boat is the most numerous type of vessel, built in the hundreds by the shipyards of the coastal villages and the smaller ports. The fishing boat is a small, open vessel of twenty to thirty feet in length, with a single mast and a sail that is supplemented by oars when the wind fails. The fishing boats are built for the inshore fisheries, returning to harbour each evening with the day's catch, and the design of the fishing boat varies from region to region according to the conditions of the local waters.
+
+The whaling vessel of Morvind is a specialised type of ship, built for the pursuit of the great whales of the Greyring Ocean. The whaling vessel is sixty to eighty feet in length, with a crew of twenty to thirty men and a capacity for the barrels and the equipment that the whaling expedition requires. The whaling vessel is stoutly built, with reinforced bows and a strong frame that can withstand the strains of towing a whale, and the vessel is equipped with the boats and the harpoons and the rendering equipment that the whalers need.
+
+## Timber Supply from the Aethelaran Forests
+
+The supply of timber for the shipyards is the most critical constraint on the shipbuilding industry, for the quality of the vessel depends on the quality of the timber that goes into its construction and the cost of the timber is the largest single component of the cost of the vessel. The timber for the shipyards comes from the forests of Aethelar, principally from the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood) and the [Brackenshield Wood](/content/location/natural/ecosystem/brackenshield-wood), where the oak, elm, and pine that the shipwrights need grow in abundance.
+
+The oak of Brackenshield Wood is the most valuable timber for the shipyards, used for the frames and the keels of the largest vessels. The oak is felled in the winter, when the sap is down and the timber is at its driest, and the logs are hauled by teams of oxen to the rivers that carry them to the coast. The timber that is destined for the shipyards of Eldreth and Khalisar is loaded onto the vessels at the coastal ports and carried across the Auric Ocean to the shipyards where it will be used.
+
+The elm of the Heartwood is used for the planking of the hulls, for elm is resistant to the rot and the worm that attack the timber in the warm waters of the south. The elm is felled and transported in the same manner as the oak, and the planks that are cut from the elm logs are stacked in the timber yards of the shipbuilding ports to season for a year or more before they are used. The pine of the Northern Marches is used for the masts and the spars of the vessels, for pine is light and strong and straight, and the masts that are cut from the pines of the north are the finest that can be obtained.
+
+The cost of timber varies with the quality and the distance that it must be transported, and the prices that the shipwrights pay for the timber are the subject of constant negotiation with the guilds of the timber merchants. The shipwrights of Eldreth, who have access to the timber of the Heartwood and Brackenshield at the shortest distance, pay the lowest prices for their timber, while the shipwrights of Khalisar, who must import their timber across the Auric Passage, pay considerably more.
+
+## The Guilds of the Shipwrights
+
+The guilds of the shipwrights are among the oldest and most respected of the trade guilds in the port cities, for the skill of the shipwright is essential to the prosperity of the city and the safety of the vessels that carry the trade. The guild of the shipwrights of Eldreth is the largest and the most influential, with a membership that includes the master shipwrights of all the shipyards in the city and the authority to set the standards of construction for the vessels that are built in the port.
+
+The guild regulates the training of the apprentices and the journeymen who work in the shipyards, requiring that the apprentice serve a term of seven years before becoming a journeyman and that the journeyman produce a masterpiece in the form of a scale model of a vessel before being admitted to the rank of master. The guild also sets the wages of the shipwrights and the prices that the yards may charge for the vessels they build, and the guild maintains the register of the vessels that are built in the city and the names of the masters who built them.
+
+The guilds of the shipwrights of the other ports are smaller and less powerful, but they perform the same functions in their own cities. The guild of the shipwrights of Khalisar is the second largest, with a membership that includes the masters of the yards that build the vessels of the southern trade. The guild of the shipwrights of Nordhaven is the third largest, with a membership that includes the masters of the yards that build the whaling vessels and the northern traders.
+
+## The Velden Strait Run and the Pilot Boats
+
+The [Velden Strait Run](/content/location/route/trade/velden-strait-run) is the most demanding of the coastal voyages for the vessels that carry the trade between the northern and southern seas, and the pilot boats that guide the vessels through the strait are among the most specialised of the vessels that the shipyards produce. The pilot boats of Velden are fast, manoeuvrable vessels that are built for speed and stability, with a shallow draft that allows them to navigate the shoals and the currents of the strait.
+
+The pilot boats are built in the shipyards of [Velden](/content/location/settlement/city/velden), where the guild of the pilots maintains a close relationship with the guild of the shipwrights. The pilots specify the design of the pilot boats, and the shipwrights build them to the pilots' requirements. The cost of the pilot boats is borne by the [Velden Compact](/content/government/local/velden-compact), which maintains the fleet of pilot boats that serve the vessels passing through the strait.
+
+The pilot boats are the fastest vessels in the known world in the conditions for which they are designed, capable of overtaking any merchant vessel under sail and of manoeuvring in the confined waters of the strait with a precision that the larger vessels cannot match. The pilots who command the pilot boats are the most skilled navigators in the trade, and their knowledge of the strait and its currents is the foundation of the safe passage that the compact provides.
+
+Related topics:
+- [guilds](/content/economy/guilds)
+- [timber and logging](/content/economy/timber-and-logging)
+- [trade and tariffs](/content/economy/trade-and-tariffs)
+- [fishing and whaling](/content/economy/fishing-and-whaling)

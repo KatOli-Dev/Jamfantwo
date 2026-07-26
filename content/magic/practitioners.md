@@ -1,0 +1,70 @@
+---
+layout: default
+title: Practitioners of the Art
+---
+
+## Those Who Walk the Paths of Resonance
+
+A practitioner of the Art is one who has learned to read the pattern of a thing and to reshape it within the [limits](/content/magic/law/limit) that the order of the world imposes. Practitioners are not wizards in the sense that the tales of the uninitiated sometimes describe. They do not call fire from the air or compel the obedience of other wills. The practitioner is a scholar of resonance and a crafter of pattern, and the discipline of the Art is learned through years of patient study under the guidance of a master. The practitioner emerges from this training not as a wielder of power but as one who has learned to perceive the order of the world more clearly than those who have not undergone the discipline.
+
+This page describes the training, the attunement, the specialisation, and the place of the practitioner in the wider society, together with the ethical constraints and the burden of the [cost](/content/magic/law/cost) that every practitioner must bear. It concludes with notes on some of the practitioners whose names have been recorded in the chronicles of the traditions.
+
+## The Long Apprenticeship
+
+The training of a practitioner begins with a long apprenticeship under a master of the chosen tradition. The apprenticeship is measured in years rather than months, and the traditions agree that no practitioner of the Art should be entrusted with a working of any consequence before at least seven years of study. The Sylvan Court requires a minimum of ten years before a student may attempt a first working; the Khalisar Council sets the minimum at eight years; the Heartwood Fellowship requires that the apprentice spend at least three years in the forest before any instruction in reshaping begins.
+
+The first years of apprenticeship are devoted to the discipline of reading. The apprentice learns to attend to a subject with a stillness of body and mind that is the foundation of all later work. This discipline is taught through exercises that appear simple to the uninitiated: the apprentice sits with a stone or a leaf or a bowl of water and learns to perceive the configuration of the subject as a whole. The apprentice who cannot read a stone with patience cannot hope to read a living creature, and the apprentice who cannot read a living creature cannot hope to read a person. The progression from simple to complex patterns is the structure upon which every tradition builds its curriculum.
+
+The apprentice also learns the vocabulary of the Art in the language of the tradition. The Sylvan Court teaches the terms of resonance and pattern; the Heartwood Fellowship teaches the older vocabulary of sympathy and attunement; the Khalisar Council teaches the practical terminology of the working and the cost. The apprentice learns to speak of the Art with precision, for imprecision in speech reflects imprecision in understanding, and imprecision in understanding leads to harm.
+
+The apprenticeship concludes with a working performed under the supervision of the master. The working is typically modest in scope — the reshaping of a small pattern of dead matter — and the apprentice who performs it successfully is recognised as a licensed practitioner of the tradition. The recognition is recorded in the registers of the tradition, and the practitioner may thereafter undertake workings independently, subject to the oversight of the tradition's governing body.
+
+## Attunement as the Foundation of Training
+
+Attunement is the process by which a practitioner brings their own pattern into sympathy with the pattern of a subject. It is the foundation of every working of the Art, and the traditions teach attunement as the second discipline after reading. A practitioner who has not attuned to the subject will accomplish nothing, and an attempt to reshape without attunement is a common cause of harm to the practitioner.
+
+Attunement is taught through exercises that vary by tradition. The Sylvan Court teaches the apprentice to walk the forest until the pattern of the trees, the soil, and the creatures within it are felt as a single configuration. The Heartwood Fellowship teaches the apprentice to sit in a single place in the Heartwood for days at a time, letting the pattern of the place enter the practitioner's awareness gradually. The Khalisar Council teaches the apprentice to read the movement of people through a marketplace until the flow of the crowd is perceived as a pattern. The Velden Compact teaches the apprentice to attend to the movement of water until the pattern of the current is felt in the practitioner's own body.
+
+A practitioner who has attained deep attunement to a subject may accomplish more in a working than one who has not, and the traditions therefore require that a practitioner devote considerable time to attunement before any working of consequence is attempted. The [limits](/content/magic/law/limit) of the Art require sympathy between practitioner and subject, and attunement is the means by which sympathy is established and deepened.
+
+## Specialisation by Tradition
+
+A practitioner's specialisation is shaped by the tradition in which they have trained. A practitioner of the Sylvan Court is skilled in the reading and reshaping of forest patterns and may have little facility with the patterns of the sea or the city. A practitioner of the Velden Compact reads the patterns of water and weather with a fluency that a practitioner of the Khalisar Council cannot match but may find the patterns of a forest opaque.
+
+Specialisation is not absolute. A practitioner trained in one tradition may, after a period of reattunement, practise within another, and the chronicles of the traditions record several cases of practitioners who have studied under masters of more than one tradition. These cases are rare, however, and the traditions do not encourage cross-training, for the disciplines of each tradition are built upon assumptions that may not be compatible with those of another. A practitioner who attempts to practise the Art in a tradition other than the one in which they were trained risks confusion and error.
+
+The specialisation of practitioners is the principal reason that the traditions are not readily interchangeable. A town that requires a practitioner to improve its water supply will send for a practitioner of the Khalisar Council, who is trained in the patterns of built infrastructure. A ship that requires a practitioner to read the weather before a crossing will send for a practitioner of the Velden Compact. A forest that requires a practitioner to assess the health of its trees will send for a practitioner of the Sylvan Court. The division of labour among the traditions reflects the diversity of the patterns to which they have attuned.
+
+## Practitioners in Society
+
+Practitioners of the Art occupy a particular place in the societies of the known world. They are not set apart from the communities in which they live; they are scholars and craftspeople, and their work is valued for its practical utility. A practitioner may be found in the marketplaces of [Khalisar](/content/location/settlement/city/khalisar) advising merchants on the best routes for their caravans, in the libraries of [Avaros](/content/location/settlement/city/avaros) studying the patterns of ancient relics, or in the forests of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood) reading the health of the woodland. The practitioner is a member of the community, and the discipline of the Art is a craft like any other.
+
+The relationship between practitioners and the wider society is shaped by the nature of the Art itself. The Art is not a source of power in the sense that the uninitiated sometimes imagine; it is a discipline of attention and will, and the practitioner's skill is in reading and reshaping patterns, not in commanding forces. A practitioner who reshapes the pattern of a stone does not cause the stone to glow or to float; the stone is simply more suited to the purpose for which it was reshaped. This modesty of effect is one of the reasons that practitioners are trusted by the communities they serve.
+
+The traditions maintain registers of licensed practitioners, and a practitioner who violates the ethical constraints of the Art may be removed from the register and prohibited from practising. The registers are the principal means by which the traditions regulate the conduct of their members, and a practitioner who is removed from the register of one tradition is unlikely to be accepted by another.
+
+## Ethical Constraints
+
+The most important ethical constraint upon the practitioner is the requirement of consent for any working upon a living person. The traditions agree that the pattern of a person is the most complex and the most resistant of any subject and that reshaping a person without consent is a violation of the order of the Art itself. The Khalisar Council has been particularly insistent on this point and has published several accounts of practitioners who undertook the reshaping of a person without consent and were harmed in the attempt.
+
+The constraint upon the reshaping of living things extends, in a lesser degree, to animals and plants. The traditions hold that a practitioner should not reshape a living creature without cause and that the reshaping of a creature for mere curiosity or amusement is beneath the dignity of the Art. The Sylvan Court is the most insistent on this point, and its practitioners will not reshape any living thing without first reading its pattern thoroughly and determining that the reshaping will not cause unnecessary harm.
+
+The constraint does not apply to the reshaping of dead matter, and the most common workings of the Art involve the improvement of stone, metal, and other materials. The traditions differ on whether the reshaping of a place — a forest or a city or a stretch of coast — requires the consent of the people who live within it. The Sylvan Court holds that the consent of the forest's inhabitants, both human and otherwise, should be sought before any reshaping of the woodland is undertaken. The Khalisar Council holds that the consent of the property owner is sufficient.
+
+## The Burden of the Cost
+
+Every practitioner bears the [cost](/content/magic/law/cost) of the Art in the body and mind. The cost is not a punishment but the price of reshaping the world, and the practitioner who would practise the Art must be prepared to pay it. The cost manifests in several forms: the weariness of reading and reshaping, the strain that reshaping places upon the practitioner's pattern, the backflow that travels from the subject to the practitioner, the accumulated traces that mark a career of practice, and the reverberation that tends to return a reshaped pattern to its old shape.
+
+A practitioner who bears too much reshaping is marked by it. The accumulated traces of a career of practice can be read by another practitioner of sufficient skill, and a practitioner of advanced years is a pattern of considerable complexity. The traditions take this marking as a sign of standing in the Art, but it also functions as a [limit](/content/magic/law/limit), for the accumulated traces eventually render further reshaping difficult or impossible. The traditions therefore require a period of withdrawal from the Art in later years, a practice that the Heartwood Fellowship prescribes as a gradual reduction beginning around sixty years of age and that the Sylvan Court enforces as a complete cessation of all workings after the practitioner's seventieth year.
+
+The burden of the cost is the principal reason that the Art is taught only to those prepared to bear it. The traditions do not accept every applicant for apprenticeship, and the selection of students is conducted with care. The masters of each tradition observe the applicants over a period of months before accepting any into the first year of instruction, and applicants who show signs of impatience or carelessness are turned away.
+
+## Practitioners of Note
+
+The chronicles of the traditions record the names of many practitioners who have distinguished themselves by their skill, their endurance, or their contributions to the Art. The unnamed chroniclers of the Sylvan Court who first set down the four laws in their present form are the most ancient of those recorded, and their work is the foundation upon which every later formulation of the laws has been built.
+
+The practitioners of the [Heartwood Fellowship](/content/government/local/heartwood-fellowship) who are believed to have written the [Letters on Pattern](/content/magic/relic/letters-on-pattern) are among the most influential figures in the study of the Art, though their names are not known with certainty. The author of the Letters, if the attribution is correct, produced a text that has shaped the instruction of practitioners across every continent.
+
+[Vaelen Eldreth](/content/people/historical/vaelen-eldreth), though not a practitioner of the Art in the strict sense, was a scholar whose work on the [Known-World Codex](/content/magic/relic/codex-of-the-known-world) depended upon the same disciplines of attention and observation that the Art requires. His method of systematic observation is taught to practitioners in many traditions as a foundation of the discipline of reading.
+
+[Kaelen Navigator](/content/people/historical/kaelen-navigator), the master of the [Star-Seeker](/content/magic/relic/star-seeker), is sometimes described as a practitioner of the Art by scholars of the Velden Compact, though Kaelen himself did not claim the title. The discipline by which Kaelen read the stars and the currents in the crossing of the [Auric Ocean](/content/location/natural/feature/auric-ocean) was a form of attunement, and the vessel itself bears the traces of the attention Kaelen devoted to it.

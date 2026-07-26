@@ -1,0 +1,50 @@
+---
+layout: default
+title: Elf-Dwarf Accords
+---
+
+## The Ancient Binding of Two Peoples
+
+The Elf-Dwarf Accords are among the most ancient surviving instruments of the present age, predating the founding of the great cities of the three continents by several generations. The accords were established between the [elves](/content/species/sapient/elves) of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood) and the [dwarves](/content/species/sapient/dwarves) of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) and set the terms of the relationship between the two peoples for the centuries that followed. The accords have been revised and renewed at intervals, but their essential provisions have never been displaced, and they remain in force in the present age as the foundation of elven and dwarven relations.
+
+The accords are preserved in the archives of the elven council of the Heartwood and in the hall of records of the dwarven holds of Stoneheim. The text is preserved both in the High Elven script and in the Dwarven runes, with the two versions considered equally authoritative. The academies of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm) have studied the accords for centuries and have produced a substantial body of commentary on their meaning and interpretation. The accords are regarded as one of the masterworks of the ancient art of treaty-making and a model for subsequent instruments of the present age.
+
+## Precedent for a Pact
+
+The centuries before the accords were marked by a series of conflicts between the elven and dwarven peoples over the control of the mountain passes that connected the Heartwood to the highlands. The elves claimed the passes by virtue of their ancient presence in the forest, and the dwarves claimed them by virtue of their occupation of the mountains. The conflicts were fought in the passes and upon the slopes of the [Stonespire](/content/location/natural/feature/stonespire), and the chronicles of the two peoples record a number of engagements that were celebrated in the songs of the elders.
+
+The conflicts were costly for both peoples and achieved nothing of lasting value. The passes changed hands several times over the course of several generations, but neither side was able to hold the passes for long against the other. The elven archers were formidable in the forest but less effective in the open passes, and the dwarven warriors were strong in the mountains but vulnerable in the forest. The wars had reached a stalemate by the time the elders of the two peoples began to consider a settlement.
+
+The initiative for the accords is attributed in the elven chronicles to the elven queen Aeliana the Wise, who is said to have proposed a truce to the dwarven king Bron Stoneheim. The dwarven chronicles attribute the initiative to King Bron himself, who is said to have seen that the wars were wasting the strength of both peoples. The academies judge that both accounts are probably true in part and that the initiative emerged from a series of exchanges between the two courts over several years. The negotiations were conducted through the mediators of the ancient temples, who brought a knowledge of the old traditions and a reputation for impartiality that the elders of both peoples trusted.
+
+## The Terms of the Accords
+
+The accords established three principal provisions that have governed the relationship between the elven and dwarven peoples ever since. The first provision defined the boundaries between the elven territories and the dwarven territories. The elven territory was defined as the forest and the foothills of the western slopes of the Stonespire, and the dwarven territory was defined as the highlands and the eastern slopes. The passes were divided between the two peoples, with the principal pass reserved for the joint use of both.
+
+The second provision established the rules for trade and commerce between the two peoples. The elves would supply timber, leather, and woven goods from the forest, and the dwarves would supply stone, metal, and finished tools from the mountains. The trade was to be conducted at a market established at the foot of the principal pass, and disputes were to be adjudicated by a joint council of elven and dwarven elders appointed for the purpose.
+
+The third provision established the rules for the resolution of future disputes. The joint council was authorised to hear any dispute that arose between the two peoples and to render a binding judgment. The judgment was to be enforced by the elders of the offending party, and if the offending party failed to enforce it, the other party was entitled to take reasonable measures to secure compliance. The provision has been invoked on a number of occasions over the centuries, and the joint council has issued judgments on matters ranging from the grazing of goats upon the slopes to the rights of passage through the passes.
+
+## Renewals and Revisions
+
+The accords have been renewed and revised at intervals over the centuries, each renewal reflecting the changing circumstances of the two peoples. The first renewal occurred several generations after the original signing, when the elven population of the Heartwood had grown and the dwarven holds of the highlands had expanded. The renewal defined the boundaries more precisely and added a provision for the establishment of a permanent market at the foot of the principal pass, which has operated without interruption to the present day.
+
+The second renewal occurred during the period of the [Founding Era](/content/history/founding-era), when the cities of the plains were being established and the trade between the elven and dwarven peoples had increased. The renewal expanded the trade provisions to include the exchange of goods with the new cities of the plains and established the right of the traders of the cities to pass through the elven and dwarven territories on the same terms as the traders of the two peoples.
+
+The third renewal occurred during the [Long Peace](/content/history/long-peace), when the relations between the elven and dwarven peoples had become more complex and the joint council had fallen into disuse. The renewal restored the joint council and established a new procedure for the appointment of its members, requiring each people to appoint three elders to serve for a term of years. The renewed council has heard a number of disputes in the centuries since, and its judgments are recorded in the archives of both peoples.
+
+## The Council in Practice
+
+The joint council established by the accords has been one of the most successful institutions of the present age, serving as a model for the dispute-resolution mechanisms of other peoples. The council meets at the market at the foot of the principal pass, which has grown from a simple trading post into a substantial settlement that is regarded as neutral ground by both peoples. The settlement, known as Highgate, is governed by a council of its own elders appointed by both the elven and the dwarven councils.
+
+The council hears disputes between elven and dwarven parties and between parties of either people who have consented to its jurisdiction. The procedure is informal, with the elders hearing the parties and questioning witnesses before retiring to deliberate. The judgment is announced in a public session and is recorded in the archives of both peoples. The judgments are not precedents in the manner of the judgments of the courts of the cities, as the council is not bound by its own earlier decisions, but they are followed in practice as a guide to the interpretation of the accords.
+
+The council has been praised by scholars of the academies of [Khalisar](/content/location/settlement/city/khalisar) and [Vassholm](/content/location/settlement/city/vassholm) as a model of impartial justice and practical wisdom. The elders who serve on the council are chosen for their reputation for fairness and their knowledge of the traditions of both peoples, and they are known to be conscientious in their duties. The council has never been accused of partiality by either people, and its judgments are accepted by the parties in nearly every case.
+
+## The Legacy of the Accords
+
+The Elf-Dwarf Accords have been in force for several centuries and are among the most enduring instruments of the present age. The accords established peace between two peoples who had been in conflict for generations and laid the foundation for a relationship that has benefited both peoples in the centuries that followed. The trade between the elven forest and the dwarven highlands has been a source of prosperity for both, and the joint council has resolved disputes that might otherwise have led to renewed conflict.
+
+The accords have served as a model for other instruments of the present age, including the [Greywash Compact](/content/history/greywash-compact) and the [Desert Treaty](/content/history/the-desert-treaty). The provision for a joint council and the establishment of a neutral market have been imitated in a number of subsequent treaties, and the principle of impartial adjudication by a body of elders has been adopted in the governance of several cities of the present age.
+
+The memory of the accords is preserved in the ceremonies of the elven and dwarven peoples. The anniversary of the signing of the original accords is marked by a joint ceremony at Highgate, attended by the elders of both peoples and by the magistrates of the principal cities of the plains. The ceremony includes the reading of the text of the accords in both High Elven and Dwarven runes, the exchange of gifts between the elven and dwarven elders, and a feast prepared from the products of both the forest and the mountains. The ceremony is among the most important observances of the two peoples and a symbol of the peace that the accords have maintained. The [World Timeline](/content/history/world-timeline) records the signing of the accords in relation to the other major events of the age.

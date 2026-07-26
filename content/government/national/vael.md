@@ -25,7 +25,7 @@ The population of Vael is chiefly [human](/content/species/sapient/humans), and 
 
 The defence of the kingdom is maintained by a standing army funded by the taxes of the valley, and the fortifications of Vaelmouth and other settlements are kept in good order. The kingdom has been at peace with its neighbours for many generations, but rivalry with Aldreth and occasional tensions with the [Thessaran League](/content/government/national/thessaran-league) require a credible military force. The army consists of retainers of noble families and the standing force funded by the royal treasury. Soldiers are trained in the defence of the river and valley, for the river is both highway and potential avenue of attack.
 
-The valley is also home to many [hearth-halls](/content/government/local/hearth-halls) of the Still Flame, and the most ancient of these halls is said to lie within the heart of the Vael.
+The valley is also home to many [hearth-halls](/content/religion/hearth-halls) of the Still Flame, and the most ancient of these halls is said to lie within the heart of the Vael.
 
 ## Agricultural Wealth and Continental Reach
 

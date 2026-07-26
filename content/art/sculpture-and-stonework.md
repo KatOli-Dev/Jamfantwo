@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Sculpture and Stonework"
+---
+
+## The Working of Stone as Art
+
+Sculpture in stone is among the most enduring of the arts, for the material outlasts the sculptor and the civilisation that produced it. The stoneworks of the ancient world are the principal evidence of the peoples who came before, and the study of sculpture is therefore a discipline that concerns not only the artist but the historian and the natural philosopher. The known world contains stoneworks of great age whose makers are forgotten, yet the quality of the work speaks across the centuries of the skill of those who produced it.
+
+The practice of stone sculpture is concentrated in those regions where suitable stone is abundant and where the culture values permanence in its art. The [dwarven](/content/species/sapient/dwarves) peoples of [Morvind](/content/location/natural/continent/morvind) are the most accomplished sculptors in stone, for they inhabit mountains of granite and marble and have developed the tools and techniques required to work these materials over many centuries. The [Stoneheim Holds](/content/government/national/stoneheim-holds) are the centre of dwarven sculpture, and the halls of Stoneheim are adorned with works that represent the highest achievement of the art.
+
+## Dwarven Stonework and the Great Halls
+
+The dwarven approach to sculpture is shaped by the nature of the material and the purpose of the work. Dwarven sculpture is not primarily representational in the manner of human or [elven](/content/species/sapient/elves) art. Dwarven sculptors seek to reveal the form that already exists within the stone, freeing it from the surrounding material rather than imposing an external shape upon it. This philosophy of sculpture produces works that follow the natural grain and structure of the stone, incorporating veins of colour and planes of cleavage into the design rather than fighting against them.
+
+The great halls of the dwarven holds are the principal locations of dwarven sculpture. The columns that support the ceilings are carved with the forms of mountain trees, their branches spreading to meet the stone of the roof. The walls are adorned with relief carvings that depict the history of the hold, the deeds of its founders, and the creatures of the deep. The floors are inlaid with patterns of coloured stone that direct the eye and the foot through the spaces of the hall. Every surface that can be carved has been carved, and the effect is of a space that has been shaped by generations of sculptors working to a single vision.
+
+The [Inlay Art](/content/culture/inlay-art) is closely related to dwarven sculpture, for the techniques of cutting and fitting one material into another are shared between the two disciplines. A dwarf who has mastered inlay has the foundation of the skills required for stone sculpture, and many dwarven sculptors begin their training as inlay craftsmen before moving to the larger forms. The relationship between the two arts is a measure of the unity of dwarven craft.
+
+## Memorial Carving and the Houses of Memory
+
+Stone is the material of memory in the known world, for only stone endures long enough to preserve the names of the dead across the generations. The memorial carvings of the [Memory Houses](/content/religion/houses-of-memory) are among the most important works of sculpture produced in the present age, for they serve the religious function of preserving the identities of the departed against the erosion of time.
+
+The Houses of Memory in [Aldreth](/content/government/national/aldreth) and [Vael](/content/government/national/vael) contain thousands of carved memorial plaques, each bearing the name and the deeds of a departed soul. The carving of these plaques is a specialised craft, requiring a steady hand and a clear eye for the precise cutting of letters into stone. The letter-carvers of the Houses of Memory are organised into a guild that maintains the standards of the craft, and the apprenticeship for a letter-carver lasts no less than ten years.
+
+The [dwarven](/content/species/sapient/dwarves) tradition of memorial carving is distinct from the human tradition. Dwarven memorials are carved into the living rock of the mountain, not into plaques that can be moved. The names of the dead are cut into the walls of the ancestral halls, and the carver must work with the irregular surface of the natural stone rather than the smooth face of a prepared block. The effect is more organic and more permanent, for the mountain itself becomes the monument, and the carving can be extended as new generations are added to the record.
+
+## The Figurative Sculpture of the Southern Realms
+
+The [Thessaran League](/content/government/national/thessaran-league) and the [Amurra Republic](/content/government/national/amurra-republic) have developed traditions of figurative sculpture that differ markedly from the dwarven approach. Human sculptors of the southern realms seek to represent the human form with accuracy and grace, working in marble and limestone imported from the quarries of [Aethelar](/content/location/natural/continent/aethelar) and [Sahrana](/content/location/natural/continent/sahrana).
+
+The sculptors of [Thessara](/content/location/natural/continent/thessara) produce free-standing figures of gods, heroes, and notable citizens, set in public squares and temple precincts. The figures are carved with attention to the proportions of the body, the fall of the drapery, and the expression of the face. The sculptors of Thessara have developed a canon of proportions that is taught in the academies of the league and that serves as the foundation of the figurative tradition. The canon specifies the ideal ratios of the parts of the body to one another, and a figure carved according to the canon is considered to be beautiful by the standards of the school.
+
+The [Amurra Republic](/content/government/national/amurra-republic) has a more eclectic tradition, drawing on influences from [Sahrana](/content/location/natural/continent/sahrana) and [Aethelar](/content/location/natural/continent/aethelar) as well as from the Thessaran canon. Amurran sculptors are known for their willingness to experiment with form and material, producing works that combine stone with metal, wood, and glass. The public sculpture of [Amurra](/content/location/settlement/city/amurra) is among the most varied in the known world, and the city is a destination for sculptors who wish to study the works of their predecessors.
+
+## The Relief Carving of the Vashari Pact
+
+The [Vashari Pact](/content/government/national/vashari-pact) has developed a distinctive tradition of relief carving that decorates the walls of their sea-temples and the prows of their ships. Vashari relief carving is characterised by the representation of waves, sea-creatures, and the ships of the Pact, carved in shallow relief that catches the light and shadow of the sea. The carvers of the Vashari Pact work in the dark basalts and granites of the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast), and they have developed techniques for working these hard stones with the precision that the fine detail of their reliefs requires.
+
+The Vashari tradition is closely linked to the [Sea Mothers Court](/content/religion/sea-mothers-court), for the reliefs that adorn the sea-temples depict the stories of the sea mothers and the covenants they made with the peoples of the coast. The carvings serve both as decoration and as scripture, and the Vashari carvers regard their work as an act of devotion as much as an act of art. The apprenticeship for a Vashari carver includes instruction in the theology of the sea mothers, and a carver who cannot recite the stories of the faith is not permitted to carve them in stone.
+
+## The Smaller Forms of Stonework
+
+Not all stone sculpture takes the form of great monuments and hall carvings. The smaller forms of stonework are practised across the known world, producing objects of use and beauty that serve the daily life of the people. Stone vessels for grinding grain and mixing pigments, stone weights for balances and looms, stone seals for marking clay and wax, and stone ornaments for personal adornment are produced in every region where suitable stone is available.
+
+The [gnomes](/content/species/sapient/gnomes) of the Aethelaran hill country are particularly skilled in the carving of small stone objects, working in the softer stones such as soapstone and alabaster that are easier to shape than granite or marble. Gnomish stone carvers produce figurines, boxes, and decorative tiles that are traded across the known world. The gnomish style is more playful than the dwarven or human traditions, incorporating natural forms such as leaves, flowers, and small animals into the design of functional objects.
+
+The [Sahrani](/content/location/natural/continent/sahrana) tradition of stonework includes the carving of ornamental screens and grilles from marble and alabaster, pierced with geometric patterns that filter the light of the desert sun. The screens serve both as decoration and as a means of controlling the climate of the interior spaces, casting patterned shadows that change with the movement of the sun through the day. The carvers of [Sahran](/content/location/settlement/city/sahran) and [Qassir](/content/location/settlement/city/qassir) are the most skilled in this form, and their screens are exported to every region of the known world.

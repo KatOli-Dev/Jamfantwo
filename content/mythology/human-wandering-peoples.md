@@ -1,0 +1,44 @@
+---
+layout: default
+title: The Wandering Peoples
+---
+
+## The Memory of Another Shore
+
+The human origin myths differ from one another in many particulars, but they share a common theme that distinguishes them from the creation stories of the other species. The humans remember that they came from somewhere else. The elves awoke beneath the Heartwood and have always been where they are. The dwarves were shaped from the stone and have always belonged to the stone. The centaurs were formed by the dance of the constellations and have always moved across the plains. The humans alone tell stories of a journey, of a homeland that was left behind, of a crossing that changed them and that continues to shape their character.
+
+The tradition of the Wandering Peoples is preserved in different forms among the human communities of every continent, and the variations among the accounts reflect the different routes and the different circumstances of the migrations that the humans remember. The scholars of the Houses of Memory have collected these accounts from every human realm, and they have identified a number of common elements that recur across the diversity of the traditions. The journey was long; the homeland was lost; the crossing was perilous; the arrival was a new beginning that contained within it the memory of the old ending.
+
+## The Northern Account: The Voyage Across the Stormfall
+
+The human kingdoms of the northern lands preserve an account of a great voyage across the Stormfall Sea. According to the tradition of Nordhaven and the Karhold Realm and the Frostwall Clans, the first humans came from a land that lay beyond the northern sea, a place of green hills and warm summers that the early chronicles call the Summer Land. The Summer Land was lost to the rising of the waters or the coming of the ice, the accounts differ on this point, and the humans who fled its drowning built ships and sailed south across the storm-tossed sea in search of a new home.
+
+The voyage was led by the first navigators, the tradition says, the men and women who could read the stars and the currents and the flight of the seabirds. The most famous of the early navigators is remembered in the sagas as the Star-Watcher, a figure whose name varies among the northern kingdoms but whose role is the same in every account: it was the Star-Watcher who guided the fleet through the storms and who kept the people alive through the long crossing. The Star-Watcher is sometimes identified with Kaelen the Navigator, though the scholars of the Cloisters of Reading note that the identification is contested and that the northern accounts predate Kaelen's Voyage by many generations.
+
+The ships landed on the shores of what is now Morvind and the northern coasts of Aethelar, and the humans who stepped onto the new land were not the same people who had left the Summer Land. The crossing had changed them, the tradition says, and they carried the memory of the loss and the memory of the journey in their blood and their songs and their way of looking at the sea. The northern human kingdoms have never forgotten that they are a people of the voyage, and the sea is the horizon against which their history is written.
+
+## The Eastern Account: The Archipelago Crossing
+
+The human city-states of the Auric Isles and the eastern coasts of Aethelar preserve an account of a journey that followed the curve of the warm sea, island by island, across the vast archipelago that stretches between the unknown east and the known lands of the world. According to this tradition, the first humans came from a land that lay beyond the rising sun, a place of great rivers and broad plains that the eastern chronicles call the Dawn Land. The Dawn Land was not destroyed, the tradition says, but it was left behind when the humans chose to seek new shores, and the memory of the choice is as important as the memory of the loss.
+
+The journey across the archipelago took generations, and the human communities that settled on the islands along the route became the ancestors of the island peoples who still inhabit the Auric Isles and the eastern coasts. Each island was a stopping place, a brief settlement that the humans occupied for a season or a year or a generation before moving onward, and each island left its mark on the people who passed through it. The eastern account is therefore a story of accumulation as well as a story of journey, and the humans who finally reached the shores of Aethelar carried within them the traditions and the languages and the customs of all the islands they had passed.
+
+## The Southern Account: The Crossing of the Drowned Sea
+
+The human peoples of Sahrana preserve an account that is the most ancient and the most fragmentary of the human origin traditions. According to the tradition of the Vashari Pact and the coastal city-states, the first humans came from a land that lay to the south, beyond the great desert that was once a sea. The Kharesh, the tradition says, was not always a desert of sand and stone and dry wind; it was once a sea, a body of water that connected the southern continent to the lands that lay beyond it, and the first humans crossed this sea in boats that were later abandoned on the shore when the waters retreated.
+
+The crossing of the drowned sea was the most perilous of all the human journeys, the southern tradition holds, for the waters were treacherous and the winds were unreliable and the sea itself was dying. The sea withdrew as the humans crossed it, the tradition says, and the boats that had floated upon the water were left stranded on the drying bed, and the humans who survived the crossing walked the rest of the way on foot, through the mud and the salt and the remains of the sea creatures that had perished with the waters. The memory of this crossing is preserved in the Sahrani rituals of salt and water, and the caravans that cross the Kharesh follow routes that are said to trace the paths of the first human migrations.
+
+## The Common Thread
+
+The scholars of the Houses of Memory have observed that the human origin stories, for all their diversity, share a structural similarity that sets them apart from the myths of the other species. The human stories are stories of movement, of leaving and arriving, of loss and gain. The humans are defined not by where they came from but by the fact that they moved, and the journey itself is the formative experience that shaped the human character.
+
+The other species do not share this sense of movement. The elves have always been where they are, and their identity is bound to the land and the forest and the Heartwood. The dwarves have always been within the stone, and their identity is bound to the mountain and the deep places. The centaurs have always moved across the plains, but their movement is cyclical and returning rather than linear and irreversible. The human journey was a journey without return, a movement from a homeland that can never be recovered, and the memory of that irrecoverable loss is the foundation of the human spirit.
+
+## The Debate Over the Historical Truth
+
+The scholars of the Cloisters of Reading have debated whether the human origin stories preserve a memory of actual historical events or whether they are purely mythical narratives that express the human sense of displacement in symbolic form. The debate has continued for generations without resolution, and the evidence on both sides remains inconclusive.
+
+Those who argue for the historical interpretation point to the consistency of the migration theme across the human traditions and to the geographical details that recur in accounts separated by great distances. The navigation by the stars, the stopping places along the route, the specific descriptions of the lands that were left behind: these details suggest, the historical interpreters argue, that the human origin stories contain a core of genuine memory that has been preserved through the generations.
+
+Those who argue for the symbolic interpretation point to the variations among the accounts and to the impossibility of reconciling them into a single coherent narrative. The northern account speaks of a drowning; the eastern account speaks of a choice; the southern account speaks of a dying sea. These are not different versions of the same event, the symbolic interpreters argue; they are different myths that express the same underlying theme of displacement and journey. The humans are wanderers, the symbolic interpreters conclude, not because they actually migrated from a lost homeland but because the myth of the journey is the way that the humans understand themselves.

@@ -1,10 +1,10 @@
 {%- assign all_pages = site.pages | where_exp: "p", "p.path contains 'content/'" -%}
-{%- assign belief_subs = "deity,ideology,religion/monotheist,religion/polytheist,science/physical,science/theoretical" | split: "," -%}
+{%- assign belief_subs = "content/religion/,deity,ideology,religion/monotheist,religion/polytheist,science/physical,science/theoretical" | split: "," -%}
 {%- assign gov_subs = "national,local" | split: "," -%}
 {%- assign location_subs = "natural/continent,natural/ecosystem,natural/feature,route/trade,settlement/city,settlement/town,settlement/village,settlement/outpost,settlement/region" | split: "," -%}
 {%- assign people_subs = "historical,notable" | split: "," -%}
 {%- assign species_subs = "beasts,sapient" | split: "," -%}
-{%- assign magic_subs = "law,tradition,working,relic" | split: "," -%}
+{%- assign magic_subs = "law,tradition,working,relic,practitioners,phenomena" | split: "," -%}
 {%- assign lang_subs = "pseudo,spoken" | split: "," -%}
 
 ## Table of Contents
@@ -30,6 +30,12 @@ Systems of thought, faith, and learning.
 
 {% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
 {% endfor %}{% endif %}{% endfor %}
+### Art and Craft
+
+Traditions of making and expression.
+
+{% assign art_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/art/" %}{% assign art_pages = art_pages | push: p %}{% endif %}{% endfor %}{% for p in art_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
 ### Culture
 
 Festivals, rites, and decorative traditions.
@@ -49,6 +55,12 @@ Governing bodies and polities.
 
 {% assign history_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/history/" %}{% assign history_pages = history_pages | push: p %}{% endif %}{% endfor %}{% for p in history_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
 {% endfor %}
+### Law
+
+Legal systems, codes, and customary law.
+
+{% assign law_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/law/" %}{% assign law_pages = law_pages | push: p %}{% endif %}{% endfor %}{% for p in law_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
 ### Language
 
 Verbal languages and non-verbal signalling systems.
@@ -63,7 +75,32 @@ Verbal languages and non-verbal signalling systems.
 The workings of the Art.
 
 {% assign overview_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/magic-overview" %}{% assign overview_pages = overview_pages | push: p %}{% endif %}{% endfor %}{% for p in overview_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
-{% endfor %}{% for sub in magic_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+{% endfor %}{% assign magic_root_pages = "" | split: "" %}{% for p in all_pages %}{% assign path = p.path | remove: "magic-overview" %}{% if p.path contains "content/magic/" and p.path != "content/magic/magic-overview.md" and p.path != "content/magic/magic-overview" %}{% assign is_sub = false %}{% for sub in magic_subs %}{% if p.path contains sub %}{% assign is_sub = true %}{% endif %}{% endfor %}{% if is_sub == false %}{% assign magic_root_pages = magic_root_pages | push: p %}{% endif %}{% endif %}{% endfor %}{% if magic_root_pages.size > 0 %}
+#### Studies
+
+{% for p in magic_root_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% for sub in magic_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/magic/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
+#### {{ sub | capitalize }}
+
+{% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}{% endif %}{% endfor %}
+### Military
+
+Forces, fortifications, and the conduct of war.
+
+{% assign military_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/military/" %}{% assign military_pages = military_pages | push: p %}{% endif %}{% endfor %}{% for p in military_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+### Mythology and Folklore
+
+Legends, beliefs, and traditional tales.
+
+{% assign myth_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/mythology/" %}{% assign myth_pages = myth_pages | push: p %}{% endif %}{% endfor %}{% for p in myth_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+### Nature
+
+The living world — flora and fauna.
+
+{% assign nature_subs = "flora,fauna" | split: "," %}{% for sub in nature_subs %}{% assign sub_pages = "" | split: "" %}{% for p in all_pages %}{% if p.path contains "content/nature/" and p.path contains sub %}{% assign sub_pages = sub_pages | push: p %}{% endif %}{% endfor %}{% if sub_pages.size > 0 %}
 #### {{ sub | capitalize }}
 
 {% for p in sub_pages | sort: "title" %}- [{{ p.title }}]({{ p.url | relative_url }})

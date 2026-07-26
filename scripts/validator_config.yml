@@ -21,6 +21,8 @@ article_exceptions:
       note: 'unicorn, university, unified, union, etc. where u is /j/'
     - pattern: 'use'
       note: 'useful, useless, user, usual, etc. where u is /j/'
+    - pattern: 'us'
+      note: 'usurper, usury, usurpation, etc. where u is /j/'
 
   # Words where "an" is correct even though the first letter is a consonant.
   # Patterns are matched against the start of the word, case-insensitive.

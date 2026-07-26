@@ -1,0 +1,46 @@
+---
+layout: default
+title: The Wanderer Tales
+---
+
+## The Stranger Who Appears
+
+The Wanderer tales are among the most mysterious and the most widespread of the folklore traditions of the known world, and versions of the tales are found among the human communities of every continent and among many of the other species as well. The tales tell of a mysterious figure, the Wanderer, who appears in times of need and who offers aid to those who are in danger or distress. The Wanderer is not a hero in the manner of the epic sagas; the Wanderer is a helper, a guide, a source of wisdom and comfort, and the tales describe the encounters that the ordinary people have had with this extraordinary figure.
+
+The Wanderer is described in different ways in the different versions of the tales. In some versions, the Wanderer is an old man with a staff and a cloak, a figure of great age and great wisdom who appears on the road at the moment when the traveller has lost the way. In other versions, the Wanderer is a woman in a grey cloak, silent and watchful, who appears at the edge of the battlefield or the scene of a disaster. In the northern versions, the Wanderer is a tall figure in a dark coat who walks the winter roads and who brings warmth to the frozen. In the southern versions, the Wanderer is a figure in a light robe who appears in the desert and who leads the lost to water.
+
+## The Common Pattern
+
+The scholars of the Cloisters of Reading who have collected the Wanderer tales have identified a common pattern that the tales share. The Wanderer appears at a moment of crisis, when the protagonist is alone and without hope. The Wanderer offers aid, but the aid is never what the protagonist expects: the Wanderer does not solve the problem directly but provides the means by which the protagonist can solve the problem. The Wanderer speaks in riddles or in parables, and the meaning of the Wanderer's words becomes clear only after the crisis has passed. The Wanderer departs as mysteriously as the Wanderer arrived, and the protagonist is left with the memory of the encounter and the knowledge that the Wanderer will not return.
+
+The pattern suggests that the Wanderer is not a single figure but a type that recurs across the different cultures, and the scholars have debated whether the Wanderer is a figure of folklore, a spirit of the roads, or a manifestation of a power that the different cultures have recognised in different forms. The debate is unresolved, and the scholars acknowledge that the evidence is insufficient to determine the nature of the figure that the tales describe.
+
+## The Wanderer on the Road
+
+The most common of the Wanderer tales describe encounters on the road, and the road is the setting that the different versions share most consistently. The protagonist is travelling alone, the tales say, when the Wanderer appears on the road ahead or falls into step beside the protagonist. The Wanderer asks for nothing and offers nothing directly, but the Wanderer's presence changes the conditions of the journey, and the protagonist finds that the road that seemed dangerous before the Wanderer appeared becomes safe.
+
+The tale of the Wanderer on the North Road, which is preserved in the oral traditions of Nordhaven, describes a merchant who was travelling alone through the forests of the northern frontier when the Wanderer appeared at his side. The merchant was afraid, for the forest was known to be haunted by bandits, but the Wanderer walked beside him in silence, and when the bandits appeared on the road ahead, the Wanderer spoke a single word that the merchant could not understand, and the bandits fled in terror. The Wanderer departed at the edge of the forest, and the merchant completed his journey in safety.
+
+The tale of the Wanderer in the Desert, which is preserved among the Kharesh Tribes, describes a caravan master who had lost the way in a sandstorm and whose party was dying of thirst. The Wanderer appeared out of the storm, a figure in a light robe who gestured for the caravan to follow. The caravan followed the Wanderer through the storm, and when the storm cleared, the caravan was at the edge of an oasis that the caravan master had never seen before. The Wanderer was gone, and the oasis was the salvation of the party.
+
+## The Wanderer at the Hearth
+
+The tales of the Wanderer at the hearth describe encounters that occur when the protagonist is at home, and the Wanderer appears at the door seeking shelter. The tales are similar to the parables of the Still Flame, which teach that the stranger at the door may be the bearer of a gift or the instrument of a test. The householder who welcomes the stranger receives the blessing that the Wanderer brings, while the householder who turns the stranger away is left with the emptiness that the rejection brings.
+
+The tale of the Wanderer at the Winter Hearth, which is preserved in the hearth-halls of the Still Flame, describes a family that was struggling through a harsh winter and that had little food to share. The Wanderer appeared at the door on the longest night of the year, and the family welcomed the Wanderer and shared the little that they had. The Wanderer stayed through the night, and in the morning the family found that their stores had been replenished and that the winter was breaking. The family did not see the Wanderer depart, but they knew that the Wanderer had been the source of the blessing that they had received.
+
+The tale of the Wanderer at the Smithy, which is preserved among the dwarves of the Stoneheim Holds, describes a smith who was struggling with a work that would not take shape. The Wanderer appeared at the door of the smithy and asked to warm the hands at the forge, and the smith welcomed the stranger and allowed the stranger to work the bellows while the smith shaped the metal. The Wanderer's rhythm at the bellows was the rhythm that the metal required, and the work was completed to the smith's satisfaction. The Wanderer departed without a word, and the smith understood that the Wanderer had been the source of the rhythm that had been lacking.
+
+## The Wanderer in the Crowd
+
+The tales of the Wanderer in the crowd describe encounters that occur in the midst of great events, when the Wanderer appears among the people who are gathered for a festival or a battle or a ceremony. The Wanderer is not noticed at first, for the crowd is large and the Wanderer is unremarkable, but after the event the people who were present recall that there had been a stranger among them, and they remember the words that the stranger spoke and the actions that the stranger performed.
+
+The tale of the Wanderer at the Battle of the Stoneheim Pass, which is preserved in the chronicles of the Stoneheim Holds, describes a figure who appeared among the defenders of the pass and who fought with a skill that the defenders had never seen. The figure was not recognised by any of the defenders, and the figure vanished after the battle, leaving no trace except the bodies of the enemies that the figure had slain. The defenders believed that the Wanderer had been sent to aid them in their time of need.
+
+The tale of the Wanderer at the Festival of the First Grain, which is preserved among the halfling communities of the Amber Vale, describes a stranger who appeared at the feast and who taught the halflings a new song that they had never heard. The song became one of the most beloved of the halfling harvest songs, and the halflings sang it at every festival thereafter. The stranger was not seen again, and the halflings believed that the Wanderer had been one of the hidden folk who had come to share the joy of the festival.
+
+## The Meaning of the Wanderer
+
+The scholars of the Cloisters of Reading have debated the meaning of the Wanderer tales for many generations, and they have advanced a number of interpretations of the figure that the tales describe. Some scholars maintain that the Wanderer is a spirit of the roads, a being of the liminal spaces that is encountered by those who are in transition from one state to another. Other scholars maintain that the Wanderer is a manifestation of the divine, a form that the gods take when they choose to walk among the people. Still other scholars maintain that the Wanderer is a psychological phenomenon, a projection of the human mind that appears in times of stress and that represents the wisdom that the protagonist carries within.
+
+The people who tell the Wanderer tales do not concern themselves with the scholarly interpretations, for the tales are true in the way that the people need them to be true. The Wanderer appears when the need is greatest, the people say, and the aid that the Wanderer brings is the aid that the situation requires. The people do not need to know who the Wanderer is or where the Wanderer comes from; the people need only to know that the Wanderer has come and that the aid has been given.

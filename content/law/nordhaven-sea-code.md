@@ -1,0 +1,62 @@
+---
+layout: default
+title: "Nordhaven Sea Code"
+---
+
+## The Maritime Law of the Stormfall Sea
+
+The Nordhaven Sea Code is the body of maritime law that governs the shipping lanes, harbours, and coastal waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), administered by the [Nordhaven](/content/government/national/nordhaven) crown and enforced by the port councils of the kingdom's settlements. The code is not a single enactment but a collection of royal decrees, port regulations, customs of the sea, and decisions of the admiralty court that have accumulated over the centuries of Nordhaven's existence as a maritime power. The code is known and respected throughout the Stormfall Sea, and its provisions have been adopted by many of the ports and settlements that trade along the [Morvind](/content/location/natural/continent/morvind) coast.
+
+The code originated in the customs of the seafaring communities of the Morvind coast, the fishermen, traders, and shipmasters whose livelihood depends upon the sea. These customs were first written down by the port councils of the coastal settlements and later consolidated by the crown as the kingdom grew in power and reach. The code is kept in the great hall of the Nordhaven port council, and additions to the code require the assent of the king or the king's appointed admiral. The code is divided into chapters dealing with distinct areas of maritime law, and each chapter is further divided into sections that organise the provisions by topic.
+
+## Salvage Rights and Obligations
+
+One of the most important chapters of the code governs salvage, the right of those who recover a vessel or its cargo from peril to receive a reward proportional to the value of the property saved and the risk incurred in saving it. The code recognises that the prospect of reward is necessary to encourage mariners to risk their lives and vessels in the rescue of ships in distress, and it establishes clear rules for the determination of salvage awards.
+
+The code defines a salvage situation as any circumstance in which a vessel or its cargo is in peril of loss or damage and assistance is rendered by persons who are under no pre-existing duty to render such assistance. The peril may arise from storm, grounding, collision, fire, piracy, or any other cause that threatens the safety of the vessel or its cargo. The salvage award is calculated as a percentage of the value of the property saved, with the percentage determined by the degree of peril, the skill and effort of the salvors, the value of the property risked by the salvors, and the success of the salvage operation.
+
+The code distinguishes between voluntary salvors, who render assistance without being asked, and contract salvors, who render assistance under an agreement with the master or owner of the vessel in distress. Voluntary salvors are entitled to a higher award than contract salvors, for the voluntary salvor assumes the risk of rendering assistance without any assurance of reward, while the contract salvor has the protection of the agreement. The code also distinguishes between salvors who save the vessel itself and salvors who save only the cargo, with the award for saving the vessel being higher because of the greater value and the greater difficulty of saving the vessel.
+
+The code requires that salvors who have brought a vessel or cargo to a place of safety must give notice of the salvage to the nearest port council within a specified period. The port council then determines the salvage award according to the provisions of the code, and the award is binding on the salvors and the owners of the property saved. The code also provides for the appointment of a salvage commissioner by the port council when the value of the property saved exceeds a specified amount, and the commissioner is responsible for determining the award and supervising the distribution of the proceeds.
+
+## Collision Liability and the Division of Fault
+
+Another significant chapter of the code governs liability for collisions between vessels at sea. The code establishes the principle that liability for damage arising from a collision is determined by fault, and that each vessel that is at fault bears a share of the liability proportional to its degree of fault. If both vessels are at fault, the liability is divided according to the relative degrees of fault, and if it is impossible to determine the relative degrees of fault, the liability is divided equally.
+
+The code sets out the rules of navigation that vessels are required to follow to avoid collisions. These rules include the requirement that vessels keep to the right when approaching each other head-on, that a vessel overtaking another must keep clear of the vessel being overtaken, and that a vessel sailing close to the wind must keep clear of a vessel sailing before the wind. The rules also require that vessels display lights at night in specified positions and colours, and that vessels sound signals in fog or other conditions of reduced visibility.
+
+The code also governs the liability of pilots who are licensed by the port councils of Nordhaven to guide vessels through the approaches to harbours and along the coastal routes. A pilot who is in charge of a vessel at the time of a collision is liable for damage caused by the pilot's negligence, but the liability of the pilot is limited by the code to a specified amount. The owner of the vessel is not relieved of liability by the presence of a pilot, but the owner may seek indemnity from the pilot if the collision was caused by the pilot's negligence.
+
+The code requires that the master of a vessel involved in a collision remain at the scene and render assistance to the other vessel and its crew. A master who leaves the scene of a collision without rendering assistance is subject to criminal penalties, including imprisonment and the forfeiture of the vessel. The code also requires that the master report the collision to the nearest port council at the first opportunity, and that the master provide a full account of the circumstances of the collision for the determination of liability.
+
+## Shipwreck, Wreckage, and the Rights of the Crown
+
+The code governs the treatment of shipwrecks and wreckage that are found on the shores of the kingdom or in the coastal waters. The code establishes the principle that the crown has the right to all wreckage that is not claimed by the owner within a specified period, but that the crown also has the duty to make reasonable efforts to notify the owner of the wreckage and to preserve the wreckage for the owner's benefit.
+
+A person who finds wreckage on the shore or in the coastal waters is required by the code to report the finding to the nearest port council within a specified period. The finder who reports the wreckage is entitled to a salvage award if the wreckage is claimed by the owner, and the finder who fails to report the wreckage is liable to the crown for the value of the wreckage and may be subject to criminal penalties. The code also provides for the appointment of wreck commissioners by the port councils to supervise the recovery and preservation of wreckage.
+
+The code requires that the bodies of persons who die in shipwrecks be treated with respect and be given a proper burial. The code also requires that the personal effects of the deceased be preserved and delivered to the deceased's family or, if the family cannot be found, to the crown for safekeeping. The code prohibits the plundering of shipwrecks and the taking of property from the bodies of the dead, and it imposes severe penalties on those who violate this prohibition.
+
+## Treatment of Shipwrecked Mariners
+
+The code establishes the obligation of the coastal communities of the kingdom to provide assistance and hospitality to mariners who are cast ashore from a shipwreck. The code requires that the coastal communities provide food, shelter, and clothing to shipwrecked mariners, and that the communities provide the mariners with the means to travel to the nearest port where they may obtain passage to their home ports.
+
+The code also requires that the coastal communities provide medical care to shipwrecked mariners who are injured or ill, and that the communities make reasonable efforts to identify the mariners and to notify their families and employers of their survival. The crown reimburses the coastal communities for the expenses incurred in providing assistance to shipwrecked mariners, and the code establishes a fund maintained by the crown for this purpose.
+
+The code prohibits the enslavement or detention of shipwrecked mariners, and it imposes severe penalties on those who violate this prohibition. The code also prohibits the taking of shipwrecked mariners as prisoners for ransom or for any other purpose, and it requires that shipwrecked mariners be treated with the same respect and consideration that the kingdom would expect for its own mariners who might be cast ashore in foreign lands.
+
+## The Admiralty Court of Nordhaven
+
+The code is administered by the admiralty court of Nordhaven, which sits in the port council hall of the capital under the presidency of a judge appointed by the king. The admiralty court has jurisdiction over all matters arising under the code, including salvage claims, collision disputes, shipwreck proceedings, and disputes between the owners, masters, and crews of vessels. The court also has jurisdiction over disputes arising from maritime contracts, including charter parties and contracts of carriage.
+
+The procedure of the admiralty court is designed to be swift and efficient, for the needs of maritime commerce require that disputes be resolved without unnecessary delay. The court sits at regular intervals throughout the year, and it may also sit in special session to address urgent matters such as the determination of salvage awards. The court applies the provisions of the code to the matters before it, but it also has the authority to apply the customs of the sea, the decisions of other admiralty courts, and the principles of equity and good conscience.
+
+The decisions of the admiralty court are binding on the parties and may be enforced by the port councils of the kingdom. The decisions may be appealed to the king, who has the power to confirm, modify, or overturn the decision of the admiralty court. The king's decision on appeal is final and may not be further appealed.
+
+## The Code and the Wider Maritime World
+
+The influence of the Nordhaven Sea Code extends beyond the borders of the kingdom. The code has been adopted or adapted by many of the ports and settlements of the Stormfall Sea, and its provisions have influenced the development of maritime law in the ports of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and the [Greyring Ocean](/content/location/natural/feature/greyring-ocean). The admiralty court of Nordhaven is recognised as a leading authority on maritime law, and its decisions are cited as precedent in maritime courts throughout the known world.
+
+The code has also influenced the development of maritime law in the [Thessaran League](/content/government/national/thessaran-league) and the [Northern Coast League](/content/government/national/northern-coast-league). The principles of salvage, collision liability, and the treatment of shipwrecked mariners that are established in the code have been incorporated into the maritime law of these leagues, and the influence of the code is apparent in the decisions of their admiralty courts.
+
+The enduring significance of the Nordhaven Sea Code lies in its practical effectiveness. The code was developed by seafarers for seafarers, and its provisions reflect the hard-won experience of generations of mariners who have navigated the treacherous waters of the Stormfall Sea. The code provides the legal certainty that maritime commerce requires, and it ensures that those who risk their lives and property in the service of the sea are treated fairly and justly. The code is a testament to the maritime traditions of the people of Nordhaven and to their understanding that the law of the sea must serve the needs of those who depend upon the sea for their livelihood.

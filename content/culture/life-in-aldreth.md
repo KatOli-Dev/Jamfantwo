@@ -1,0 +1,56 @@
+---
+layout: default
+title: Life in Aldreth
+---
+
+## The Commercial Port and Its Peoples
+
+Aldreth is the principal port city of the eastern coast of [Aethelar](/content/location/natural/continent/aethelar), a sprawling urban centre built at the mouth of the [Greywash River](/content/location/natural/feature/greywash-river) where it empties into the [Velden Strait](/content/location/natural/feature/strait-of-velden). The city is the commercial capital of the kingdom of [Aldreth](/content/government/national/aldreth), a realm that has grown wealthy on the trade that passes through its harbour. Life in Aldreth is defined by the sea and the market, the two forces that give the city its character and sustain its population of humans, [halflings](/content/species/sapient/halflings), and the many travellers from distant lands who make the city their temporary or permanent home. The city is also home to a substantial population of [gnomes](/content/species/sapient/gnomes) who work as clerks and accountants in the counting houses of the merchant guilds and to a smaller but influential community of [dwarves](/content/species/sapient/dwarves) who manage the trade in metals and stone goods from the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands).
+
+The city is divided into three principal districts. The Lower City occupies the flat ground along the harbour, a dense warren of warehouses, taverns, and market stalls that is the domain of the merchants and the sailors. The Upper City is built on the rising ground to the east, home to the administrative buildings, the temples, and the residences of the wealthy merchant families. The third district is the River Ward, a long strip of settlement along the Greywash that serves as the terminus of the inland trade, where the riverboats unload their cargoes of grain and timber from the interior.
+
+## The Harbour and the Ships
+
+The harbour of Aldreth is the largest and busiest port on the eastern coast, protected by a long stone breakwater that extends into the strait and provides shelter for vessels of every size. The harbour is divided into the inner and outer basins, the inner reserved for the trading vessels of the established merchants and the outer for the fishing fleet and the smaller coastal traders. The harbour is alive from before dawn until after dusk, the air filled with the cries of the dockworkers, the creaking of the ships at anchor, and the calls of the merchants bidding for the cargoes as they are unloaded.
+
+The working day of the harbour begins in the darkness before dawn, when the dockworkers assemble at the harbour master's office to be assigned to the ships that have arrived on the night tide. The unloading of a ship is a carefully coordinated operation, directed by the ship's master and the harbour master's agents, who supervise the transfer of the cargo from the ship's hold to the warehouses of the quay. The principal goods that pass through the harbour include timber from the northern forests, grain from the Vael valley, metals and stone from the dwarven holds of Morvind, and the luxury goods of the southern lands that arrive on the ships of the [Sahrani](/content/language/spoken/sahrani) merchants.
+
+## The Market Squares and the Counting Houses
+
+The markets of Aldreth are the heart of the city's commercial life, occupying several squares in the Lower City and spilling into the streets that connect them. The principal market is the Great Square, a broad open space dominated by the merchants' exchange, a building of stone and timber where the wholesale trade is conducted. The square is surrounded by the counting houses of the merchant families, each identified by the sign of its house, where the merchants keep their accounts and conduct their correspondence.
+
+The market operates on a cycle determined by the arrival and departure of the ships. The morning market is the principal occasion for the wholesale trade, when the merchants bid for the cargoes that have been unloaded from the ships and negotiate the prices of the goods that will be loaded for the return voyage. The afternoon market is the retail trade, when the city's inhabitants come to purchase the goods they need for their households. The evening market is a smaller affair, conducted by lamplight, when the taverns and the cookshops do their busiest trade.
+
+## The Counting House and the Merchant Household
+
+The merchant households of Aldreth are the principal social units of the city's ruling class, families of human and halfling descent who have accumulated wealth and influence through generations of trade. The household is headed by the senior merchant, who manages the family's commercial interests and represents the family in the councils of the city. The household includes the extended family, the clerks and agents who manage the counting house, and the servants and labourers who maintain the household's properties.
+
+The counting house is the centre of the merchant household's operations, a building separate from the family residence where the accounts are kept and the business is conducted. The counting house is staffed by clerks trained in the art of accounting, a profession that commands considerable respect in the commercial culture of Aldreth. The clerks are typically younger sons of merchant families or talented individuals from the lower orders who have been taken on as apprentices. The counting house is also the place where the household's correspondence is conducted, a voluminous exchange of letters and bills of exchange that connects Aldreth to every port of the known world.
+
+## The Temple of the Still Flame and Other Faiths
+
+The Still Flame is the state religion of the Aldreth, and its principal temple in the Upper City is one of the largest and wealthiest in Aethelar. The temple is a substantial building of white stone, its interior dominated by the eternal flame that burns on the altar at the eastern end. The temple is staffed by a full complement of deacons, priests, and a bishop who oversees the spiritual life of the city and the surrounding region. The daily routine of the temple includes the kindling ceremony at dawn and the evening prayers at sunset, attended by the faithful who come to offer their devotions at the appropriate hour.
+
+The city is also home to adherents of other faiths, who maintain their places of worship in the more tolerant atmosphere of the commercial port. The [Sky Walkers' Way](/content/culture/sky-walkers-way) retains a temple in the Lower City, serving the needs of the sailors and merchants who come from the central lowlands. The [Sea Mother's Court](/content/religion/sea-mothers-court) has a shrine at the harbour, attended by the mariners who acknowledge the sea mother as the patron of their voyages. The dwarven community maintains a private shrine dedicated to the ancestors, not open to the other inhabitants of the city but recognised as a legitimate place of worship under the laws of the Aldreth.
+
+## The Guilds and the Crafts
+
+The crafts of Aldreth are organised into guilds, each of which regulates the practice of its trade and maintains the quality of the goods produced. The guilds are chartered by the crown of the Aldreth and operate under the authority of the [Guild Charters](/content/law/guild-charters), which specify the rights and responsibilities of the guild members. The most important guilds are those of the shipwrights, the smiths, the weavers, and the coopers, each of which maintains a guild hall in the Lower City where the masters meet to conduct the business of the craft.
+
+The apprenticeship system is the foundation of the guilds, transmitting the skills of the craft from master to apprentice over a period of seven to ten years. The apprentice lives in the master's household, learning the craft through direct participation in the work and receiving instruction in the principles of the trade. The apprentice is also required to attend the guild school, where the elementary skills of reading, writing, and arithmetic are taught alongside the technical knowledge of the craft.
+
+## The Harbour Taverns and the Sailors' Quarter
+
+The sailors' quarter of Aldreth is a district of taverns, lodging houses, and establishments of less reputable character that line the streets behind the harbour. The quarter is the domain of the sailors who come ashore after the long voyages, seeking the pleasures and diversions that the city offers. The quarter is also home to a substantial population of porters, labourers, and casual workers who depend on the harbour for their livelihood.
+
+The taverns of the sailors' quarter are notorious for their noise and their disorder, but they serve an essential function in the commercial life of the port. It is in the taverns that the shipmasters recruit their crews, that the merchants find the agents who will carry their goods to distant ports, and that the news of the wider world is exchanged. The taverns are a place where the strict social hierarchies of the city are relaxed, and the merchant and the sailor, the clerk and the labourer, sit at the same tables and drink the same ale.
+
+## The Rich and the Poor
+
+The wealth of Aldreth is distributed unevenly, and the city is marked by a sharp division between the rich merchant families of the Upper City and the labouring population of the Lower City and the River Ward. The merchant families live in substantial stone houses, furnished with goods imported from every corner of the known world, attended by servants and clerks who manage the household and the counting house. The labouring population lives in timber and wattle houses, crowded into the narrow streets behind the harbour, where the conditions are cramped and the sanitation is poor.
+
+The gap between rich and poor is a matter of continuing concern for the city's rulers, who have attempted to address it through the charitable institutions of the temple and the guilds. The temple of the Still Flame maintains a poor house and a hospital, providing shelter and care for those who have fallen into destitution. The guilds maintain funds for the relief of their members who have been injured or who have fallen on hard times. Yet the fundamental inequality of the city persists, a condition that the people of Aldreth accept as the natural order of a commercial society.
+
+## The Eternal Commerce
+
+Life in Aldreth is life in the service of commerce, a condition that the city's inhabitants accept with a mixture of pride and resignation. The city is the gateway through which the goods of the interior reach the wider world, and the prosperity of Aldreth depends on the uninterrupted flow of trade through its harbour. The inhabitants of Aldreth are a practical people, given to calculation and the careful management of resources. They are also a cosmopolitan people, accustomed to the presence of foreigners and the exchange of ideas across cultural boundaries. Life in Aldreth is defined by the market and the sea, the two forces that have made the city what it is and that will continue to shape its future.
