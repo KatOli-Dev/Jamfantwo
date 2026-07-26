@@ -76,6 +76,7 @@ end
 
 @failures = []
 @warnings = []
+@total_words = 0
 
 def fail(file, line, msg)
   rel = file.relative_path_from(ROOT).to_s
@@ -262,6 +263,7 @@ def check_file(file)
   body_prose = strip_link_destinations(body_no_code)
   body_prose = strip_html_comments(body_prose)
   words = count_words(body_prose)
+  @total_words += words
   if words < MIN_WORDS
     fail(file, 1, "body has #{words} words; minimum is #{MIN_WORDS}")
   end
@@ -367,7 +369,7 @@ unless @warnings.empty?
 end
 
 if @failures.empty?
-  puts "All checks passed."
+  puts "All checks passed (#{@total_words} words total)."
   exit 0
 else
   exit 1
