@@ -33,6 +33,7 @@ LINK_TEXT_EXCEPTION_PATTERNS = (VALIDATOR_CONFIG.dig('link_text_exceptions', 'un
 # in sync with the include.
 INDEX_TITLE_RULES = %w[geography population].freeze
 INDEX_PATH_RULES = [
+  'content/economy/',
   'deity',
   'ideology',
   'religion/monotheist',

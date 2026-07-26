@@ -42,3 +42,5 @@ link_text_exceptions:
       note: 'singular "orc" accepted for the plural "Orcs" page'
     - pattern: 'Storm-Petrel'
       note: 'hyphenated compound accepted alongside the space-separated "The Storm Petrel"'
+    - pattern: '\Amoney-changers\z'
+      note: 'colloquial term for the dealers in currency and exchange'
