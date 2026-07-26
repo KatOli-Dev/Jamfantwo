@@ -7,7 +7,7 @@ title: Settlement of the Auric Isles
 
 The settlement of the Auric Isles was one of the great maritime enterprises of the present age, a prolonged endeavour by which the peoples of Aethelar established a permanent presence upon the chain of islands that lies in the eastern [Auric Ocean](/content/location/natural/feature/auric-ocean). The isles were known to the pilots of the warm coast for many years before the first permanent settlement was established, but their distance from the continent and their exposure to the storms of the ocean made them difficult to reach and hazardous to inhabit.
 
-The Auric Isles are a chain of volcanic islands that stretch across the eastern Auric Ocean, from the [Cape of the First Light](/content/location/natural/feature/cape-of-the-first-light) in the west to the [Drowned Isles](/content/location/natural/feature/drowned-isles) in the east. The isles are fertile and well-watered, with a mild climate that supports a dense forest and a rich variety of plant and animal life. The waters around the isles are abundant with fish, and the harbours are numerous and well-sheltered.
+The Auric Isles are a chain of volcanic islands that stretch across the eastern Auric Ocean, from the [First-Light Cape](/content/location/natural/feature/cape-of-the-first-light) in the west to the [Drowned Isles](/content/location/natural/feature/drowned-isles) in the east. The isles are fertile and well-watered, with a mild climate that supports a dense forest and a rich variety of plant and animal life. The waters around the isles are abundant with fish, and the harbours are numerous and well-sheltered.
 
 ## The First Sightings and Visits
 

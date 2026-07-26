@@ -19,7 +19,7 @@ The restriction of the franchise to the spice-trading families has been a subjec
 
 ## The Presiding Officer and Administration
 
-The senate elects from among its members a presiding officer, known as the First Merchant, who serves for a term of two years and is responsible for the conduct of the senate's business and the implementation of its decisions. The First Merchant is chosen by a majority vote of the senators, and the office rotates among the members to ensure that no single family dominates the governance of the republic. The First Merchant is assisted by a body of officials who manage the day-to-day affairs of the republic.
+The senate elects from among its members a presiding officer, known as the First Merchant, who serves for a term of two years and is responsible for the conduct of the senate's business and the carrying out of its decisions. The First Merchant is chosen by a majority vote of the senators, and the office rotates among the members to ensure that no single family dominates the governance of the republic. The First Merchant is assisted by a body of officials who manage the day-to-day affairs of the republic.
 
 The chief official of the republic is the Chancellor, who is appointed by the senate and serves at its pleasure. The Chancellor oversees the administration of the city, the collection of taxes and harbour dues, and the maintenance of the public works. The Chancellor also serves as the principal representative of the republic in dealings with external powers and the [Northern Coast League](/content/government/national/northern-coast-league). The Chancellor is assisted by a staff of clerks, accountants, and inspectors who manage the records, finances, and regulatory functions of the republic.
 

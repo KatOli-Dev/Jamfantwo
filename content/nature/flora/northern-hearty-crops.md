@@ -25,7 +25,7 @@ The rye of the north is ground into a dark flour that is used in the baking of t
 
 The rye is also used in the distillation of a spirit that is the strongest alcoholic beverage produced in the northern regions. The distilleries of the dwarven holds of the [Stoneheim Holds](/content/government/national/stoneheim-holds) produce a rye spirit that is consumed in the feasts of the northern peoples and exported to the markets of the south.
 
-## The Potato of the New World
+## The Potato of the Present Age
 
 The potato was introduced to the known world in recent centuries and has become a staple crop in the northern regions where the cultivation of the grain crops is difficult and uncertain. The potato is a tuber that grows beneath the ground, and the plant produces a crop in the cool and wet conditions that are the characteristic climate of the northern growing season.
 
@@ -45,7 +45,7 @@ The cabbage of the north is the most important of the leafy vegetables, and the 
 
 ## The Berries of the Northern Wilds
 
-The berries that grow in the wilds of the north are not cultivated in the fields and the gardens, but the berries are gathered by the northern peoples in the autumn and preserved for the winter. The cloudberry is the most valued of the northern berries, a golden fruit that grows in the bogs and the wet meadows of the north. The cloudberry is rich in vitamin C, and the consumption of the cloudberry prevents the scurvy that afflicts the peoples who subsist on the preserved and the dried foods of the winter.
+The berries that grow in the wilds of the north are not cultivated in the fields and the gardens, but the berries are gathered by the northern peoples in the autumn and preserved for the winter. The cloudberry is the most valued of the northern berries, a golden fruit that grows in the bogs and the wet meadows of the north. The cloudberry prevents the scurvy that afflicts the peoples who subsist on the preserved and the dried foods of the winter.
 
 The bilberry and the lingonberry grow on the open slopes of the uplands and in the clearings of the forests, and the berries are gathered by the women and the children of the northern settlements in the late summer and the early autumn. The berries are preserved as jams and as jellies, and the berries are also stored in barrels of water that keep the berries fresh for months.
 

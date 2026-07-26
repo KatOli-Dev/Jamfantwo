@@ -21,7 +21,7 @@ The quality of the ale is determined by the quality of the grain, the skill of t
 
 ## The Brewing of the Hops and the Herbs
 
-The use of hops in the brewing of ale is the practice that distinguishes the modern ale from the older forms of the beverage. The hop is a climbing plant that is cultivated in the hop gardens of the temperate regions, and the flowers of the hop are dried and added to the wort in the boiling. The hop imparts a bitterness that balances the sweetness of the malt and a flavour and an aroma that are distinctive to the variety of the hop that is used.
+The use of hops in the brewing of ale is the practice that distinguishes the ale of the present age from the older forms of the beverage. The hop is a climbing plant that is cultivated in the hop gardens of the temperate regions, and the flowers of the hop are dried and added to the wort in the boiling. The hop imparts a bitterness that balances the sweetness of the malt and a flavour and an aroma that are distinctive to the variety of the hop that is used.
 
 The hop is also a preservative, and the ale that is hopped will keep for longer than the ale that is brewed without the hop. The hop is the principal ingredient that makes the export of ale possible, for the unhopped ale would spoil before it could be transported from the region of the brewing to the distant markets.
 

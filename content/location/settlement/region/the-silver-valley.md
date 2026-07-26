@@ -11,9 +11,9 @@ The valley is not a single political unit but a collection of mining settlements
 
 ## The Mountain Spine and the Geological Formations
 
-The mountain spine of Aethelar is a chain of peaks and ridges that runs from the northern coast to the southern highlands, forming the watershed that divides the continent. The spine is composed of ancient rock that has been folded and faulted over geological time, and the formations that it contains are rich in mineral deposits. The silver deposits of the Silver Valley are among the richest in the spine, and the veins of ore that run through the rock have attracted miners and prospectors to the region for centuries.
+The mountain spine of Aethelar is a chain of peaks and ridges that runs from the northern coast to the southern highlands, forming the watershed that divides the continent. The spine is composed of ancient rock that has been folded and faulted over ancient ages, and the formations that it contains are rich in mineral deposits. The silver deposits of the Silver Valley are among the richest in the spine, and the veins of ore that run through the rock have attracted miners and prospectors to the region for centuries.
 
-The geological formations of the Silver Valley are complex, with multiple layers of rock that have been exposed by the erosion of the valley walls. The silver ore is found in veins that run through the darker rock, and the veins can be traced for considerable distances through the peaks. The ore is of high quality, and the silver that is extracted from it is pure and malleable, prized by the silversmiths of the cities.
+The formations of rock of the Silver Valley are complex, with multiple layers of rock that have been exposed by the erosion of the valley walls. The silver ore is found in veins that run through the darker rock, and the veins can be traced for considerable distances through the peaks. The ore is of high quality, and the silver that is extracted from it is pure and malleable, prized by the silversmiths of the cities.
 
 ## The Mines and the Settlements of the Valley
 

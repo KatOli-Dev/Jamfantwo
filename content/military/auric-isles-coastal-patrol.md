@@ -125,7 +125,7 @@ particularly devastating pirate raid that destroyed three settlements and
 carried away over two hundred captives. The island communities realised that
 they could not depend on the navies of the larger realms to protect them, and
 they pooled their resources to create a force of their own. The patrol has
-grown and evolved since then, but its mission has remained the same: to protect
+grown and changed since then, but its mission has remained the same: to protect
 the people of the Auric Isles from the dangers of the sea.
 
 The patrol has been tested many times over the centuries. It has fought off

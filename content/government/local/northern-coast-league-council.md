@@ -19,7 +19,7 @@ The methods of selection of representatives vary among the member cities accordi
 
 ## The Presiding Officer and Administration
 
-The council elects from among its members a presiding officer, known as the Warden of the Coast, who serves for a term of two years and is responsible for the conduct of the council's business and the implementation of its decisions. The Warden is chosen from among the representatives by a majority vote, and the office rotates among the member cities to ensure that no single city dominates the governance of the league. The rotation follows a fixed schedule, and each member city holds the office for a single term before passing it to the next city.
+The council elects from among its members a presiding officer, known as the Warden of the Coast, who serves for a term of two years and is responsible for the conduct of the council's business and the carrying out of its decisions. The Warden is chosen from among the representatives by a majority vote, and the office rotates among the member cities to ensure that no single city dominates the governance of the league. The rotation follows a fixed schedule, and each member city holds the office for a single term before passing it to the next city.
 
 The Warden is assisted by a body of administrators who manage the day-to-day affairs of the league. The chief administrator is the Clerk of the League, who maintains the records of the council's proceedings, the registers of members and contributions, and the archives of the league. The Clerk is appointed by the council and serves for a term of five years. The Clerk is assisted by a staff of scribes, accountants, and messengers who manage the correspondence, accounts, and communications of the league.
 

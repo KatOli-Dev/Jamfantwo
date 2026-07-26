@@ -13,9 +13,9 @@ make them specialised instruments of naval combat. These vessels fall into two
 broad categories: the war galley, built for speed and ramming, and the troop
 transport, built for capacity and endurance.
 
-The design of war galleys and transports has evolved over centuries of
+The design of war galleys and transports has developed over centuries of
 experience, and the ships that sail in the present age are the products of that
-evolution. The shipwrights of [Aldreth](/content/government/national/aldreth),
+development. The shipwrights of [Aldreth](/content/government/national/aldreth),
 [Nordhaven](/content/government/national/nordhaven), the [Thessaran
 League](/content/government/national/thessaran-league), and the [Northern Coast
 League](/content/government/northern-coast-league) each have their own
@@ -93,7 +93,7 @@ soldiers who can fight if the ship is boarded.
 
 The design of transports has been improved significantly since the
 [Twin-Reaches Wars](/content/history/twin-reaches-wars), when inadequate
-transports contributed to the loss of an entire army. Modern transports are
+transports contributed to the loss of an entire army. Transports of the present age are
 built with stronger hulls, better ventilation for the horses, and improved
 facilities for the storage of provisions.
 

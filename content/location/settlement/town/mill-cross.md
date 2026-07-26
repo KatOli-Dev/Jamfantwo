@@ -19,7 +19,7 @@ The ford at Mill Cross has been improved over the centuries by the addition of s
 
 The mill that gives the town its name stands on the eastern bank of the river, immediately above the ford. The mill is a substantial structure of stone and timber, built in a design that has been common in the region for centuries. The mill is powered by an undershot water wheel that draws its power from the flow of the river, and the millstones that grind the grain are driven through a system of gears and shafts that transmit the power of the wheel to the millstones.
 
-The mill is the principal industrial establishment of Mill Cross and the source of the towns prosperity. The millers of Mill Cross are among the most skilled in the Greywash valley, and the flour produced by the mill is prized for its quality throughout the region. The mill operates throughout the year, grinding the grain brought by the farmers of the surrounding country and producing the flour that is the staple of the local diet.
+The mill is the principal industrial establishment of Mill Cross and the source of the town's prosperity. The millers of Mill Cross are among the most skilled in the Greywash valley, and the flour produced by the mill is prized for its quality throughout the region. The mill operates throughout the year, grinding the grain brought by the farmers of the surrounding country and producing the flour that is the staple of the local diet.
 
 ## The Weekly Market and the Seasonal Fairs
 
@@ -47,4 +47,4 @@ The miller holds a position of particular importance in the governance of Mill C
 
 ## Mill Cross as the Heart of the River Valley
 
-Mill Cross is the heart of the River Mill valley and the principal market of the surrounding farming communities. The towns position at the crossing of the river and at the convergence of the roads from the lowlands and the hills has made it a natural centre for the trade of the region. The mill that gives the town its name is the symbol of Mill Cross, and the flour produced by the mill is the foundation of the towns prosperity. The craftsmen and farmers of Mill Cross are among the most hardworking and reliable in the Greywash valley, and the town they have built at the crossing of the River Mill is a settlement of modest but enduring prosperity.
+Mill Cross is the heart of the River Mill valley and the principal market of the surrounding farming communities. The town's position at the crossing of the river and at the convergence of the roads from the lowlands and the hills has made it a natural centre for the trade of the region. The mill that gives the town its name is the symbol of Mill Cross, and the flour produced by the mill is the foundation of the town's prosperity. The craftsmen and farmers of Mill Cross are among the most hardworking and reliable in the Greywash valley, and the town they have built at the crossing of the River Mill is a settlement of modest but enduring prosperity.

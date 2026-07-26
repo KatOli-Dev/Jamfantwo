@@ -29,7 +29,7 @@ The strategy that Brynja has pursued in the defence of the interior is based on 
 
 ## The Council of the Clan Chiefs
 
-The governance of the Frostwall Clans is based on the council of the clan chiefs, which meets at Grimhold to deliberate on matters that affect the whole confederation. Brynja, as the chieftain, presides over the council and is responsible for the implementation of its decisions.
+The governance of the Frostwall Clans is based on the council of the clan chiefs, which meets at Grimhold to deliberate on matters that affect the whole confederation. Brynja, as the chieftain, presides over the council and is responsible for the execution of its decisions.
 
 The council meets at intervals determined by the needs of the confederation, and the sessions are occasions of ceremony and deliberation. The chiefs who attend are the leaders of the individual clans, and they bring to the council the concerns and the perspectives of their communities.
 

@@ -33,7 +33,7 @@ The duration of a ward depends on the depth of the attunement and the skill of t
 
 A shield is a protective working that is established around a person rather than around a place. The shield is a pattern that the practitioner establishes in the space around the person, and the pattern is designed to resist the entry of influences that would harm the person.
 
-The establishment of a shield is more demanding than the establishment of a ward, for the person who is to be protected is a living pattern that resists the working. The practitioner who would establish a shield around a person must read the pattern of the person, attune to the person through the path of [resonance](/content/magic/law/source), and establish the shield in harmony with the person's pattern rather than against it.
+The establishment of a shield is more demanding than the establishment of a ward, for the person who is to be protected is a living pattern that resists the working. The practitioner who would establish a shield around a person must read the pattern of the person, attune to the person through the path of [Source](/content/magic/law/source), and establish the shield in harmony with the person's pattern rather than against it.
 
 The [Khalisar Council](/content/government/local/khalisar-council) has developed the most extensive body of shield practice of any tradition, for the Council's practitioners are frequently called upon to protect the merchants and magistrates of the cities from the attention of other practitioners. The Council's shields are designed to resist the reading of the person's pattern as well as the entry of harmful influences, and the Council's methods are among the most effective of any tradition.
 

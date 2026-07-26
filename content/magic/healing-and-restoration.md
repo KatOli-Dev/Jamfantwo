@@ -11,7 +11,7 @@ This page describes the practice of healing and restoration as it is performed a
 
 ## The Principles of Healing
 
-The healing of a living thing is a reshaping of the pattern of the thing from an injured or diseased configuration to a healthier one. The practitioner who would heal must first read the pattern of the subject thoroughly, perceiving the configuration of the injury or disease in all of its aspects, and must then attune to the subject through the path of [resonance](/content/magic/law/source) before attempting the reshaping.
+The healing of a living thing is a reshaping of the pattern of the thing from an injured or diseased configuration to a healthier one. The practitioner who would heal must first read the pattern of the subject thoroughly, perceiving the configuration of the injury or disease in all of its aspects, and must then attune to the subject through the path of [Source](/content/magic/law/source) before attempting the reshaping.
 
 The [Sylvan Court](/content/government/local/sylvan-court) has developed the most extensive body of healing practice of any tradition, for the Court's practitioners spend their lives in the forest and have long studied the patterns of health and disease in the trees, the creatures, and themselves. The Court holds that healing is not the imposition of a new pattern upon the subject but the restoration of a pattern that has been disturbed. The practitioner who heals does not create health but rather removes the obstacles that prevent the natural pattern from returning to its healthy configuration.
 

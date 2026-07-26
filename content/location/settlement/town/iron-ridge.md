@@ -11,7 +11,7 @@ The position of Iron Ridge on the iron-rich ridge has determined the character a
 
 ## The Iron Ridge and the Ore Deposits
 
-The ridge that gives the town its name is a geological feature of the Stoneheim Highlands, a formation of iron-rich rock that rises some hundreds of feet above the surrounding valleys. The ridge is composed of a hard, dark stone that contains iron ore in bands and nodules, and the ore is accessible through mines that have been driven into the ridge at several points. The iron ore of the ridge is of high quality, and the metal produced from it is prized for its strength and purity.
+The ridge that gives the town its name is a prominent feature of the Stoneheim Highlands, a formation of iron-rich rock that rises some hundreds of feet above the surrounding valleys. The ridge is composed of a hard, dark stone that contains iron ore in bands and nodules, and the ore is accessible through mines that have been driven into the ridge at several points. The iron ore of the ridge is of high quality, and the metal produced from it is prized for its strength and purity.
 
 The ore deposits of the ridge have been worked for centuries, and the mines of Iron Ridge are among the oldest continuously operating mines in the Stoneheim Highlands. The veins of ore that run through the ridge are extensive, and the miners of the town have developed techniques for extracting the ore efficiently and safely. The mines are ventilated by shafts that connect the workings to the surface, and the tunnels are supported by timber and stone to prevent collapse.
 
@@ -23,7 +23,7 @@ The growth of Iron Ridge followed the expansion of the mining operations. As the
 
 ## The Mines, the Smelters, and the Forges
 
-The mines of Iron Ridge are the principal source of employment in the town, and the work of extracting the ore is the most important activity of the community. The mines are worked by teams of miners who drill and blast the rock, extracting the ore and transporting it to the surface through a network of tunnels and shafts. The miners of Iron Ridge are among the most skilled in the Stoneheim Highlands, and the techniques they have developed for working the iron-rich rock are the foundation of the towns prosperity.
+The mines of Iron Ridge are the principal source of employment in the town, and the work of extracting the ore is the most important activity of the community. The mines are worked by teams of miners who drill and blast the rock, extracting the ore and transporting it to the surface through a network of tunnels and shafts. The miners of Iron Ridge are among the most skilled in the Stoneheim Highlands, and the techniques they have developed for working the iron-rich rock are the foundation of the town's prosperity.
 
 The smelters of Iron Ridge process the ore extracted from the mines, separating the metal from the rock and producing the raw iron that is the product of the town. The smelters are situated at the foot of the ridge, where the furnaces are fuelled by charcoal brought from the forests of the lower valleys. The smelters operate throughout the year, and the glow of the furnaces is a constant presence in the town.
 
@@ -43,7 +43,7 @@ The mining guild of Iron Ridge is one of the smaller guilds of the Stoneheim Hol
 
 ## The Miners and the Smiths of Iron Ridge
 
-The miners of Iron Ridge are the labour force that sustains the town, and their work in the mines is the foundation of the prosperity of the community. The miners are skilled workers who understand the geology of the ridge and the techniques of extraction that are appropriate to the conditions of the mines. The miners of Iron Ridge are among the hardiest and most reliable workers in the Stoneheim Highlands, and their contribution to the economy of the realm is valued by the guild and the community.
+The miners of Iron Ridge are the labour force that sustains the town, and their work in the mines is the foundation of the prosperity of the community. The miners are skilled workers who understand the rock of the ridge and the techniques of extraction that are appropriate to the conditions of the mines. The miners of Iron Ridge are among the hardiest and most reliable workers in the Stoneheim Highlands, and their contribution to the economy of the realm is valued by the guild and the community.
 
 The smiths of Iron Ridge are the craftsmen who transform the raw iron into the products that are exported to the markets of the highlands. The smiths are skilled in the working of iron, and the tools, weapons, and machinery they produce are among the finest in the Stoneheim realm. The smiths of Iron Ridge are independent craftsmen who lease their forges from the guild, and the quality of their work is regulated by the guild to ensure that the products of the town meet the standards of the market.
 

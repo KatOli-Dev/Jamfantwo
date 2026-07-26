@@ -11,7 +11,7 @@ The Ashen Heath is a landscape shaped by the volcanic activity that occurred in 
 
 ## The Ashen Heath and the Volcanic Soils
 
-The Ashen Heath extends across a broad area of the eastern interior, covering the lower slopes of the Crown Range and the plains that lie at their foot. The heath takes its name from the volcanic ash that covers the ground, a fine, pale grey material that gives the landscape an otherworldly appearance. The ash was deposited by the eruption of a chain of volcanoes in the Crown Range in a distant geological age, and the deposits are deep enough to cover the underlying rock in many places.
+The Ashen Heath extends across a broad area of the eastern interior, covering the lower slopes of the Crown Range and the plains that lie at their foot. The heath takes its name from the volcanic ash that covers the ground, a fine, pale grey material that gives the landscape an otherworldly appearance. The ash was deposited by the eruption of a chain of volcanoes in the Crown Range in a distant age, and the deposits are deep enough to cover the underlying rock in many places.
 
 The volcanic soils of the Ashen Heath are light and porous, draining rapidly after rain and warming quickly in the sun. The soils are rich in the minerals that plants require for growth, and the fields that have been cleared and cultivated in the Ashen Heath are among the most productive in the eastern interior. The cultivation of the volcanic soils requires careful management, for the soils are easily eroded by wind and water, and the farmers of Ash Vale have developed techniques of terracing and drainage that protect the fields from loss.
 
@@ -39,7 +39,7 @@ The trade of Ash Vale is conducted through the weekly market held in the market 
 
 The architecture of Ash Vale is adapted to the conditions of the Ashen Heath. The buildings of the city are constructed of stone from the Crown Range, the same grey volcanic stone that underlies the soils of the heath. The houses are built with thick walls and small windows, providing shelter from the wind and the sun. The roofs are covered with stone tiles, heavy enough to resist the strong winds that sweep across the heath.
 
-The streets of Ash Vale are broad and straight, laid out in a grid pattern that reflects the planned character of the settlement. The city was rebuilt after a destructive fire in a century past, and the opportunity was taken to lay out the streets in a regular pattern that would facilitate the movement of traffic and the access of fire crews. The market square occupies the centre of the grid, with the principal public buildings of the city arranged around it.
+The streets of Ash Vale are broad and straight, laid out in a grid pattern that reflects the planned character of the settlement. The city was rebuilt after a destructive fire in a century past, and the opportunity was taken to lay out the streets in a regular pattern that would ease the movement of traffic and the access of fire crews. The market square occupies the centre of the grid, with the principal public buildings of the city arranged around it.
 
 ## The Council of the Heath and the Governance of Ash Vale
 
@@ -49,4 +49,4 @@ The governance of the Ashen Heath beyond the city is the responsibility of the w
 
 ## Ash Vale as the Heart of the Ashen Heath
 
-Ash Vale is the heart of the Ashen Heath and the principal settlement of the eastern interior. The citys position in the fertile valley of the heath and its role as the centre of trade and administration for the surrounding region have made it a settlement of considerable importance in the eastern districts of Aethelar. The farmers and merchants of Ash Vale have adapted to the demanding conditions of the Ashen Heath and have built a prosperous settlement in a landscape that many would consider inhospitable. The city stands as a testament to the capacity of determined people to transform a harsh environment into a productive and sustaining home.
+Ash Vale is the heart of the Ashen Heath and the principal settlement of the eastern interior. The city's position in the fertile valley of the heath and its role as the centre of trade and administration for the surrounding region have made it a settlement of considerable importance in the eastern districts of Aethelar. The farmers and merchants of Ash Vale have adapted to the demanding conditions of the Ashen Heath and have built a prosperous settlement in a landscape that many would consider inhospitable. The city stands as a testament to the capacity of determined people to transform a harsh environment into a productive and sustaining home.

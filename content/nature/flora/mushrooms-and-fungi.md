@@ -15,7 +15,7 @@ The [dwarves](/content/species/sapient/dwarves) of the [Morvind Uplands](/conten
 
 The principal cultivated fungus of the dwarven halls is the stone fungus, a large and meaty species that grows in the beds of composted plant material that the dwarves prepare in the passages. The stone fungus has a texture that resembles the meat of the pig, and the flavour is earthy and rich. The fungus is harvested at the stage when the caps have opened but before the spores have been released, and the harvested fungi are consumed fresh or dried for storage.
 
-The second fungus of the dwarven halls is the glow fungus, a species that produces a faint bioluminescence that illuminates the passages with a pale green light. The glow fungus is not eaten, for the flavour is bitter and the texture is tough, but the fungus is cultivated for the light that it provides and for the medicinal properties that the healers of the dwarven holds attribute to it. The glow fungus is dried and ground into a powder that is used in the treatment of the wounds that are slow to heal.
+The second fungus of the dwarven halls is the glow fungus, a species that produces a faint inner light that illuminates the passages with a pale green glow. The glow fungus is not eaten, for the flavour is bitter and the texture is tough, but the fungus is cultivated for the light that it provides and for the medicinal properties that the healers of the dwarven holds attribute to it. The glow fungus is dried and ground into a powder that is used in the treatment of the wounds that are slow to heal.
 
 ## The Mushroom Forests of the Aethelar Heartwood
 

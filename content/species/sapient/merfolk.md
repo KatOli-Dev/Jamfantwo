@@ -31,7 +31,7 @@ The merfolk of different regions are distinct in their appearance and customs, s
 
 ## Fish, Shellfish, and Seaweed Cultivation
 
-The merfolk diet consists chiefly of fish, shellfish, and other marine creatures, gathered and hunted from the waters around their settlements. Merfolk are skilled hunters, working together to drive fish into shallows or nets, and they are accomplished gatherers, collecting shellfish, crustaceans, and edible seaweeds from the seabed. Their digestion is adapted to a diet of raw marine foods, and they do not cook, as fire is unavailable in their environment. Some merfolk communities cultivate beds of edible seaweed and shellfish near their settlements, a form of aquaculture that provides a reliable supplement to the catch.
+The merfolk diet consists chiefly of fish, shellfish, and other marine creatures, gathered and hunted from the waters around their settlements. Merfolk are skilled hunters, working together to drive fish into shallows or nets, and they are accomplished gatherers, collecting shellfish, shelled creatures, and edible seaweeds from the seabed. Their digestion is adapted to a diet of raw marine foods, and they do not cook, as fire is unavailable in their environment. Some merfolk communities cultivate beds of edible seaweed and shellfish near their settlements, a form of aquaculture that provides a reliable supplement to the catch.
 
 ## Stewards of the Reef and Shallows
 

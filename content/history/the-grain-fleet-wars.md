@@ -19,7 +19,7 @@ The grain trade was also a source of tension between the Northern Coast League a
 
 ## The Outbreak of the First War
 
-The first of the Grain Fleet Wars broke out in the late fourth century, when the Thessaran League imposed a new tax upon the grain vessels passing through the [Strait of Velden](/content/location/natural/feature/strait-of-velden), the narrow passage that connected the eastern waters to the open sea. The tax was substantial, and the Northern Coast League refused to pay it. The Thessaran League responded by seizing a grain vessel that was passing through the strait and holding it for ransom.
+The first of the Grain Fleet Wars broke out in the late fourth century, when the Thessaran League imposed a new tax upon the grain vessels passing through the [Velden Strait](/content/location/natural/feature/strait-of-velden), the narrow passage that connected the eastern waters to the open sea. The tax was substantial, and the Northern Coast League refused to pay it. The Thessaran League responded by seizing a grain vessel that was passing through the strait and holding it for ransom.
 
 The Northern Coast League dispatched a fleet to recover the vessel and to protect the grain shipments. The fleet met the Thessaran fleet in the waters of the strait, and a naval battle was fought that lasted for two days. The battle was indecisive, with both fleets sustaining heavy losses and neither able to claim a clear victory. The grain vessel was eventually released through the mediation of the [Amurra Republic](/content/government/national/amurra-republic), but the underlying dispute remained unresolved.
 

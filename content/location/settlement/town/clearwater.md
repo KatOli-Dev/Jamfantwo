@@ -23,7 +23,7 @@ The grant of a market charter to Clearwater was the turning point in the growth 
 
 ## The Fields of Grain and the Pastures of the Valley
 
-The fields of grain that surround Clearwater are the foundation of the towns prosperity. The soils of the Clearwater valley are deep and fertile, and the climate is well suited to the cultivation of wheat and barley, the principal crops of the region. The fields are divided among the farming families of the valley, and each family works its own land, bringing the harvest to the market at Clearwater for sale.
+The fields of grain that surround Clearwater are the foundation of the town's prosperity. The soils of the Clearwater valley are deep and fertile, and the climate is well suited to the cultivation of wheat and barley, the principal crops of the region. The fields are divided among the farming families of the valley, and each family works its own land, bringing the harvest to the market at Clearwater for sale.
 
 The pastures of the valley provide grazing for the cattle and sheep that are the livestock of the region. The cattle are raised for meat and milk, and the dairy products of the Clearwater valley are sold at the market and exported to the cities of the Vael. The sheep are raised for wool and meat, and the cloth of the Clearwater valley is valued for its quality and durability.
 

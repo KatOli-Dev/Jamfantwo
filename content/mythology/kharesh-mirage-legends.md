@@ -15,7 +15,7 @@ The first and most common of the true mirages is the Mirror of the Past, a visio
 
 The Mirror of the Past is regarded as a gift by the desert peoples, a reminder that the harsh conditions of the present are not the only reality and that the desert was not always the place of hardship that it is now. The vision is bittersweet, the legend says, for it shows a world that can never be recovered, but it also carries the promise that the desert is capable of change and that the future may be different from the present.
 
-The scholars of the Cloisters of Reading have debated whether the Mirror of the Past mirages preserve a genuine memory of the ancient landscape or whether they are purely psychological phenomena, projections of the human mind that reflect the stories that the travellers have heard about the desert's past. The debate is unresolved, but the travellers who have seen the Mirror of the Past describe the vision in terms that are remarkably consistent, and the details of the landscape that they describe correspond to the geological evidence of the desert's ancient climate.
+The scholars of the Cloisters of Reading have debated whether the Mirror of the Past mirages preserve a genuine memory of the ancient landscape or whether they are purely psychological phenomena, projections of the human mind that reflect the stories that the travellers have heard about the desert's past. The debate is unresolved, but the travellers who have seen the Mirror of the Past describe the vision in terms that are remarkably consistent, and the details of the landscape that they describe correspond to the evidence of the rock of the desert's ancient climate.
 
 ## The Veil of the Future
 

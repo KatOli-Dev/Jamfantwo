@@ -15,7 +15,7 @@ Elves are a tall and slender people, typically standing several inches above the
 
 Elven senses are the keenest of any people. Their eyes are large and well suited to the shifting light of forests, performing well in both the dappled brightness of the canopy and the deep shade beneath it. Their colour vision is remarkably acute, and they are said to perceive hues that other peoples cannot distinguish, a gift that serves them well in reading the subtle signs of plant life and forest health. Their hearing extends into registers higher than those audible to humans or dwarves, and they can detect faint sounds at a distance that seems improbable to other peoples. The pointed ears of an elf are not merely ornamental, for they are mobile and capable of subtle adjustment, turning toward the source of a sound to aid in locating it.
 
-Elven skin is generally fair, varying from pale in the deep-forest folk to more tanned among the upland populations of [Morvind](/content/location/natural/continent/morvind). Hair is typically fine and straight, most commonly dark, though lighter shades are found among some northern groups. Elves move with a fluidity that other peoples find remarkable, and their reflexes are quick, qualities that reflect a body evolved for a complex and three-dimensional environment.
+Elven skin is generally fair, varying from pale in the deep-forest folk to more tanned among the upland populations of [Morvind](/content/location/natural/continent/morvind). Hair is typically fine and straight, most commonly dark, though lighter shades are found among some northern groups. Elves move with a fluidity that other peoples find remarkable, and their reflexes are quick, qualities that reflect a body shaped for a complex and three-dimensional environment.
 
 ## Centuries of Life, Infrequent Birth
 
@@ -31,7 +31,7 @@ Smaller populations are found in the temperate uplands of Morvind, where elves s
 
 ## Forest Fruits and Plant-Based Sustenance
 
-The elven diet is chiefly of plants, reflecting both the forest they inhabit and the nature of their digestion, which is less capable of processing heavy animal flesh than those of humans or dwarves. Fruits, nuts, seeds, and leaves form the greater part of what elves eat, supplemented by fungi, roots, and small amounts of fish or game in some communities. Many plants that elves consume with impunity are mildly poisonous to other peoples, a tolerance that speaks to a long acquaintance between the elven body and the flora of the deep forest. Elven metabolism is slow and efficient, suited to a steady intake of varied plant foods and capable of sustaining long periods of quiet activity.
+The elven diet is chiefly of plants, reflecting both the forest they inhabit and the nature of their digestion, which is less capable of processing heavy animal flesh than those of humans or dwarves. Fruits, nuts, seeds, and leaves form the greater part of what elves eat, supplemented by fungi, roots, and small amounts of fish or game in some communities. Many plants that elves consume with impunity are mildly poisonous to other peoples, a tolerance that speaks to a long acquaintance between the elven body and the flora of the deep forest. Elven constitution is slow and efficient, suited to a steady intake of varied plant foods and capable of sustaining long periods of quiet activity.
 
 ## Long-Lived Stewards of the Woodland
 

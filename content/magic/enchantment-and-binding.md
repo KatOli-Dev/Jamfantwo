@@ -11,7 +11,7 @@ This page describes the practice of enchantment and binding as it is performed a
 
 ## The Principles of Enchantment
 
-Enchantment is a working in which the practitioner fixes the pattern of an object in a particular configuration, reducing the effect of [reverberation](/content/magic/law/cost) that would otherwise tend to return the pattern to its original state. The fixing is achieved through a binding that the practitioner establishes between the pattern and the object, and the strength of the binding depends on the depth of the attunement and the skill of the practitioner.
+Enchantment is a working in which the practitioner fixes the pattern of an object in a particular configuration, reducing the effect of [Cost](/content/magic/law/cost) that would otherwise tend to return the pattern to its original state. The fixing is achieved through a binding that the practitioner establishes between the pattern and the object, and the strength of the binding depends on the depth of the attunement and the skill of the practitioner.
 
 The [Sylvan Court](/content/government/local/sylvan-court) has developed the most extensive body of enchantment practice of any tradition, for the Court's practitioners have long studied the methods by which patterns may be fixed in objects that endure through the seasons. The Court holds that enchantment is not the imposition of a new pattern upon an object but the deepening of the object's existing pattern, so that the object becomes more itself rather than something else.
 
@@ -23,7 +23,7 @@ The [Khalisar Council](/content/government/local/khalisar-council) approaches en
 
 The process of enchantment begins with the reading of the object's pattern. The practitioner must perceive the configuration of the object in all of its aspects, including the structure of the material, the traces of previous workings, and the natural pattern of the object that the enchantment will deepen.
 
-The practitioner then attunes to the object through the path of [resonance](/content/magic/law/source), bringing the practitioner's pattern into sympathy with the object's pattern. The attunement must be deep, for the binding that follows will draw upon the sympathy between practitioner and object, and a shallow attunement will produce a weak binding.
+The practitioner then attunes to the object through the path of [Source](/content/magic/law/source), bringing the practitioner's pattern into sympathy with the object's pattern. The attunement must be deep, for the binding that follows will draw upon the sympathy between practitioner and object, and a shallow attunement will produce a weak binding.
 
 The binding itself is performed through an act of will that fixes the pattern in the desired configuration. The practitioner does not impose the configuration from outside but rather guides the object's pattern into the configuration through the path of resonance. The binding is achieved when the object's pattern holds the configuration without the practitioner's continued attention, and the strength of the binding depends on the depth of the attunement and the skill of the practitioner.
 

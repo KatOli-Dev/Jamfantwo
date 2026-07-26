@@ -23,7 +23,7 @@ The myths of the sunken lands describe continents that once rose above the ocean
 
 The most famous of the sunken lands is called Aurath in the traditions of the eastern peoples, a continent that is said to have lain beyond the rising sun and that was the home of the first human civilisation. Aurath was a land of great cities and great learning, the myths say, and the people of Aurath mastered the arts of magic and technology long before the peoples of the known world had emerged from their primitive state. The people of Aurath became arrogant, the myths continue, and they attempted to challenge the powers that governed the world, and the powers destroyed Aurath, sinking the entire continent beneath the ocean in a single night.
 
-The myth of Aurath is preserved in the libraries of the Cloisters of Reading, where the scholars have debated whether the myth preserves a memory of an actual historical event. The geological evidence does not support the existence of a sunken continent in the eastern ocean, the scholars note, but the consistency of the myth across the different cultures of the eastern lands suggests that the myth has a basis in some actual event that the memory has transformed over time.
+The myth of Aurath is preserved in the libraries of the Cloisters of Reading, where the scholars have debated whether the myth preserves a memory of an actual historical event. The stone itself does not support the existence of a sunken continent in the eastern ocean, the scholars note, but the consistency of the myth across the different cultures of the eastern lands suggests that the myth has a basis in some actual event that the memory has transformed over time.
 
 ## The Land of the Giants
 

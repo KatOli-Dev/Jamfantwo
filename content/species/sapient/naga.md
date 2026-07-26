@@ -29,7 +29,7 @@ Smaller populations are found on the warm coasts of southern [Aethelar](/content
 
 ## Fish, Cultivation, and Shared Meals
 
-The naga diet is dominated by fish and aquatic creatures. Naga are skilled hunters in the water, pursuing and catching fish with speed and precision that no land-dwelling people can match, and their catches include larger species of rivers and coasts, as well as crustaceans, shellfish, and waterfowl. The hunt is conducted both individually and collectively, and naga drive fish into shallows and nets in a manner that recalls the techniques of the merfolk.
+The naga diet is dominated by fish and aquatic creatures. Naga are skilled hunters in the water, pursuing and catching fish with speed and precision that no land-dwelling people can match, and their catches include larger species of rivers and coasts, as well as shelled creatures, shellfish, and waterfowl. The hunt is conducted both individually and collectively, and naga drive fish into shallows and nets in a manner that recalls the techniques of the merfolk.
 
 Plant foods form a significant part of the diet. Naga cultivate rice, fruits, and vegetables in the fertile lands along rivers and coasts, supplementing the catch with produce of careful cultivation. Meals are occasions for gathering of the kindred and sharing of news, and the naga palate is discerning and varied. Spices and herbs are used freely, and the naga reputation for cookery is recognised throughout the regions where they are known.
 

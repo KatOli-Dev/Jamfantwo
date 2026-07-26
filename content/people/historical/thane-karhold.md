@@ -39,7 +39,7 @@ The final battle of the campaign was fought at the entrance of the deep passages
 
 ## The Founding of the Realm
 
-The success of the campaign gave Thane the authority to implement the permanent institutions that he had envisioned. The compact that had been negotiated as a temporary measure was made permanent, and the institutions of the realm were established. The great hall of Karhold was built at the site where the compact had been signed, and Thane was installed as the first Deep King of the Karhold Realm.
+The success of the campaign gave Thane the authority to establish the permanent institutions that he had envisioned. The compact that had been negotiated as a temporary measure was made permanent, and the institutions of the realm were established. The great hall of Karhold was built at the site where the compact had been signed, and Thane was installed as the first Deep King of the Karhold Realm.
 
 The title of Deep King was chosen to distinguish the ruler of the underground realm from the kings of the surface nations, and the authority that Thane claimed was modelled on the authority he had exercised during the campaign: supreme command of the military forces of the realm, final authority in matters of external relations, and the power to resolve disputes between the clans. The authority was not absolute, for the compact established that the Deep King's decisions could be reviewed by the council of elders and that certain matters, including the succession and the amendment of the compact, required the consent of the clans.
 

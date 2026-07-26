@@ -19,7 +19,7 @@ The heads of the faculties and the senior scholars serve on the council for life
 
 ## The Presiding Officer and Administration
 
-The academy council elects from among its members a presiding officer, known as the Chancellor of the Southern Reach, who serves for a term of seven years and is responsible for the conduct of the council's business and the implementation of its decisions. The Chancellor is chosen by a majority vote of the council, and the office is open to any member of the council who has served for at least five years.
+The academy council elects from among its members a presiding officer, known as the Chancellor of the Southern Reach, who serves for a term of seven years and is responsible for the conduct of the council's business and the carrying out of its decisions. The Chancellor is chosen by a majority vote of the council, and the office is open to any member of the council who has served for at least five years.
 
 The Chancellor is assisted by a body of administrators who manage the day-to-day affairs of the academies. The chief administrator is the Master of the Academy, who oversees the operation of the Great Academy at Vereth and coordinates the activities of the smaller academies. The Master is appointed by the Chancellor and confirmed by the council, and the Master serves for a term of five years.
 

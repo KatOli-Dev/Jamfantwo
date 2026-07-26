@@ -29,7 +29,7 @@ Smaller populations are found in the warm wetlands of southern [Aethelar](/conte
 
 ## Aquatic Ambush and Patient Hunting
 
-The lacertian diet is dominated by aquatic and semi-aquatic prey. Fish, crustaceans, amphibians, and water birds form the staple, hunted in the water and along the margins of the swamp. Lacertians are patient methodical hunters, capable of lying submerged for long periods while waiting for prey to come within range, and their speed and power in the water make them formidable predators in their element. They are also skilled foragers, collecting edible plants, roots, and fruits that grow in and around the wetlands, and their knowledge of the swamp's resources is extensive.
+The lacertian diet is dominated by aquatic and semi-aquatic prey. Fish, shelled creatures, amphibians, and water birds form the staple, hunted in the water and along the margins of the swamp. Lacertians are patient methodical hunters, capable of lying submerged for long periods while waiting for prey to come within range, and their speed and power in the water make them formidable predators in their element. They are also skilled foragers, collecting edible plants, roots, and fruits that grow in and around the wetlands, and their knowledge of the swamp's resources is extensive.
 
 Lacertians do not practise agriculture, as the swamp provides abundantly without cultivation. They consume food raw or lightly cooked over driftwood fires, and their robust digestion is well adapted to a diet of raw aquatic foods. The lacertian tolerance for spoiled and partially decomposed food is notable, as their digestive system can process materials that would make a human ill, a gift of the warm organic environment in which they live.
 

@@ -39,7 +39,7 @@ The sea eagles of the [Greyring Ocean](/content/location/natural/feature/greyrin
 
 The training of the raptors for the falconry is the skill that is passed from the master to the apprentice in the guilds of the falconers, and the training is the process that requires the patience and the understanding of the nature of the bird. The raptor is carried on the fist of the falconer, and the raptor is hooded to keep the bird calm in the presence of the distractions.
 
-The feeding of the raptor is the careful matter, for the bird must be kept in the condition that is suitable for the hunting. The raptor is fed on the meat of the game that the bird catches, and the diet of the raptor is supplemented with the vitamins and the minerals that the bird requires for the health.
+The feeding of the raptor is the careful matter, for the bird must be kept in the condition that is suitable for the hunting. The raptor is fed on the meat of the game that the bird catches, and the diet of the raptor is supplemented with the nutrients that the bird requires for the health.
 
 ## The Regulation of the Falconry
 

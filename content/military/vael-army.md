@@ -13,7 +13,7 @@ to control its length and defend its settlements. Before Halric's reforms, the
 kingdom relied on noble levies and hired mercenaries, a system that proved
 unreliable during the early stages of the [Three-Banners
 War](/content/history/three-banners-war). The army that exists in the present
-age traces its foundation to that period of crisis and has evolved continuously
+age traces its foundation to that period of crisis and has changed continuously
 since.
 
 The strategic position of Vael demands a force capable of rapid movement along

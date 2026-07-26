@@ -95,7 +95,7 @@ by commanders who need to field large numbers of missile troops quickly.
 
 ## Armour
 
-Body armour has evolved in response to the weapons it must resist. The simplest
+Body armour has developed in response to the weapons it must resist. The simplest
 form is the padded jack, a garment of multiple layers of cloth or leather that
 provides protection against cuts and bludgeons. The jack is worn by levy
 soldiers who cannot afford better, and it is often used as padding under mail

@@ -21,7 +21,7 @@ The appointment of Pavo as the presiding representative of the confederation was
 
 ## The Governance of the Confederation
 
-The governance of the Auric Isles is based on the council of representatives from the member islands, which meets regularly at Tidesmeet to coordinate trade, navigation, and mutual support. Pavo, as the presiding representative, chairs the meetings of the council and is responsible for the implementation of its decisions.
+The governance of the Auric Isles is based on the council of representatives from the member islands, which meets regularly at Tidesmeet to coordinate trade, navigation, and mutual support. Pavo, as the presiding representative, chairs the meetings of the council and is responsible for the execution of its decisions.
 
 The style of leadership that Pavo has adopted is one of consultation and consensus. He seeks the advice of the other representatives before making decisions, and he works to build the agreements that the confederation requires to function effectively. The approach has been effective in maintaining the cohesion of the confederation during a period when the competing interests of the member islands could have led to fragmentation.
 

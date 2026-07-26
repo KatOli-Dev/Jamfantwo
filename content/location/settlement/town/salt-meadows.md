@@ -5,7 +5,7 @@ title: "Salt Meadows"
 
 ## A Salt-Producing Coastal Town
 
-Salt Meadows is a coastal town of [Aethelar](/content/location/natural/continent/aethelar) situated on the low-lying shores of the [Auric Ocean](/content/location/natural/feature/auric-ocean), at the mouth of a small river that flows through a broad expanse of salt marsh. The town takes its name from the salt meadows that surround it, where the salt-tolerant grasses that grow on the margins of the marsh provide grazing for sheep and the pans in which the sea water is evaporated produce the salt that is the foundation of the towns prosperity. Salt Meadows is a settlement of modest size but considerable importance in the local economy, serving as the principal source of salt for the surrounding region.
+Salt Meadows is a coastal town of [Aethelar](/content/location/natural/continent/aethelar) situated on the low-lying shores of the [Auric Ocean](/content/location/natural/feature/auric-ocean), at the mouth of a small river that flows through a broad expanse of salt marsh. The town takes its name from the salt meadows that surround it, where the salt-tolerant grasses that grow on the margins of the marsh provide grazing for sheep and the pans in which the sea water is evaporated produce the salt that is the foundation of the town's prosperity. Salt Meadows is a settlement of modest size but considerable importance in the local economy, serving as the principal source of salt for the surrounding region.
 
 The position of Salt Meadows at the mouth of the river and the edge of the salt marsh has determined the character and the economy of the town. The salt marsh provides the conditions necessary for the production of salt by solar evaporation, and the meadows provide grazing for the sheep whose wool and meat are the secondary products of the local economy. The town is built on the higher ground at the edge of the marsh, protected from the highest tides by a low embankment that has been maintained since the earliest period of settlement.
 
@@ -31,7 +31,7 @@ The salt harvested from the pans is not ready for immediate use. The salt must b
 
 ## The Sheep of the Salt Meadows
 
-The sheep that graze on the salt meadows are the secondary foundation of the towns economy. The salt-tolerant grasses of the marsh provide grazing that is rich in the minerals that sheep require, and the meat and wool of the sheep of Salt Meadows are prized for their quality. The flocks of the town are owned by the families that have held the grazing rights to the meadows for generations, and the management of the flocks is a seasonal activity that occupies the farmers of the town during the months when the salt pans are idle.
+The sheep that graze on the salt meadows are the secondary foundation of the town's economy. The salt-tolerant grasses of the marsh provide grazing that is rich in the minerals that sheep require, and the meat and wool of the sheep of Salt Meadows are prized for their quality. The flocks of the town are owned by the families that have held the grazing rights to the meadows for generations, and the management of the flocks is a seasonal activity that occupies the farmers of the town during the months when the salt pans are idle.
 
 The wool of the Salt Meadows sheep is used for the production of cloth and garments that are sold at the market and exported to the cities of the interior. The meat of the sheep is consumed locally and traded at the market, and the salted mutton produced in the town is a valued commodity in the diet of the coastal region.
 

@@ -47,7 +47,7 @@ The guild of the river pilots is the institution that maintains the standards of
 
 The vessels that Lian has piloted are as varied as the river itself. The barges of the middle river are the workhorses of the trade, carrying the grain, metal, and other goods that are the foundation of the economy of the region. The vessels of the lower river are larger, carrying the cargoes that are transferred to the ocean-going ships that visit the estuary.
 
-The design of the river vessels has evolved over the centuries, adapting to the conditions of the river and the requirements of the trade. Lian has observed the evolution of the design, and his advice has been sought by the shipbuilders who construct the vessels. The understanding of the river that he has accumulated has contributed to the improvement of the design, and the vessels that navigate the Greywash in the present age are safer and more efficient than those of earlier generations.
+The design of the river vessels has developed over the centuries, adapting to the conditions of the river and the requirements of the trade. Lian has observed the development of the design, and his advice has been sought by the shipbuilders who construct the vessels. The understanding of the river that he has accumulated has contributed to the improvement of the design, and the vessels that navigate the Greywash in the present age are safer and more efficient than those of earlier generations.
 
 ## The Reputation of the Pilot
 

@@ -9,9 +9,9 @@ The Iron Hills are a region of [Aethelar](/content/location/natural/continent/ae
 
 The Iron Hills are not a single range but a series of low ridges and rounded hills that extend across a broad area of the eastern foothills. The hills are covered with grass and heath, with stands of oak and birch in the valleys, and the landscape is one of open, rolling country punctuated by the workings of the mines and the settlements of the miners.
 
-## The Geology of the Iron Hills
+## The Rock of the Iron Hills
 
-The geology of the Iron Hills is the foundation of the regions prosperity. The hills are composed of sedimentary rock that has been folded and faulted over geological time, and the iron ore is found in seams and nodules that run through the rock at accessible depths. The ore is of high quality, with a high iron content and low levels of the impurities that can make smelting difficult.
+The rock of the Iron Hills is the foundation of the region's prosperity. The hills are composed of sedimentary rock that has been folded and faulted over ancient ages, and the iron ore is found in seams and nodules that run through the rock at accessible depths. The ore is of high quality, with a high iron content and low levels of the impurities that can make smelting difficult.
 
 The iron ore of the hills is found in several different formations, each with its own characteristics. The most important of these formations is the vein of hematite that runs through the central ridge of the hills, a deposit of exceptional richness that has been worked for many centuries. The hematite of the Iron Hills is prized for the quality of the iron that can be smelted from it, and the metal produced from the ore is used for the forging of tools, weapons, and the components of machinery.
 
@@ -25,7 +25,7 @@ The mining settlements of the Iron Hills are small towns and villages that have 
 
 The smelters of the Iron Hills are the sites where the ore extracted from the mines is processed to produce iron. The smelters are situated in the lower parts of the hills, where the furnaces are fuelled by charcoal brought from the forests of the lower slopes. The smelters operate throughout the year, and the iron that they produce is cast into ingots for transport to the forges and the markets of the lowlands.
 
-The forges of the Iron Hills are the establishments where the iron is worked into the products that are the foundation of the regions trade. The forges are staffed by skilled smiths who produce tools, weapons, and the components of machinery that are required by the industries of the eastern districts. The ironwork of the Iron Hills is known for its strength and durability, and the products of the forges are in demand across Aethelar.
+The forges of the Iron Hills are the establishments where the iron is worked into the products that are the foundation of the region's trade. The forges are staffed by skilled smiths who produce tools, weapons, and the components of machinery that are required by the industries of the eastern districts. The ironwork of the Iron Hills is known for its strength and durability, and the products of the forges are in demand across Aethelar.
 
 ## The Transport of the Iron and the Trade Routes
 

@@ -5,7 +5,7 @@ title: Skaldshavn
 
 ## A Fishing and Trading Port on the Remote Southern Morvind Coast
 
-Skaldshavn is a fishing and trading port on the southern coast of [Morvind](/content/location/natural/continent/morvind), situated on a stretch of coast where the mountains descend almost to the water's edge and the harbours are few and difficult of access. The town stands on a narrow shelf of land between the cliffs and the sea, and its harbour is a deep, sheltered inlet carved into the rock of the coast by the same geological forces that built the mountains above. Skaldshavn is smaller than [Nordhaven](/content/location/settlement/city/nordhaven) but is a thriving and self-sufficient community, and its fishing fleet and trading vessels are among the most seaworthy in Morvind.
+Skaldshavn is a fishing and trading port on the southern coast of [Morvind](/content/location/natural/continent/morvind), situated on a stretch of coast where the mountains descend almost to the water's edge and the harbours are few and difficult of access. The town stands on a narrow shelf of land between the cliffs and the sea, and its harbour is a deep, sheltered inlet carved into the rock of the coast by the same ancient forces that built the mountains above. Skaldshavn is smaller than [Nordhaven](/content/location/settlement/city/nordhaven) but is a thriving and self-sufficient community, and its fishing fleet and trading vessels are among the most seaworthy in Morvind.
 
 ## The Constricted Inlet and the Abundant Shoals
 

@@ -25,7 +25,7 @@ The principal towns of the Greywash are [Khalisar](/content/location/settlement/
 
 The [Greywash Compact](/content/history/greywash-compact) is the agreement that the magistrates of the principal towns along the river signed in the middle of the [Long Peace](/content/history/long-peace) for the management of the river, the protection of the fisheries, and the regulation of the navigation. The compact was negotiated over the course of several years through the mediators of the academies. The negotiation was a model of patient and careful diplomacy, and the compact is recorded in the chronicles of the academies as the most comprehensive of the river agreements of the present age.
 
-The treaty took its name from the river at whose confluence the magistrates convened to sign it, and the name has since passed into the general usage of the river towns. The treaty established the office of the river warden, appointed by the magistrates of the principal towns to oversee the implementation of the treaty's terms. The office of the river warden has been the foundation of the success of the treaty, and the river warden is held in high esteem by the magistrates and merchants of the river towns.
+The treaty took its name from the river at whose confluence the magistrates convened to sign it, and the name has since passed into the general usage of the river towns. The treaty established the office of the river warden, appointed by the magistrates of the principal towns to oversee the carrying out of the treaty's terms. The office of the river warden has been the foundation of the success of the treaty, and the river warden is held in high esteem by the magistrates and merchants of the river towns.
 
 ## Rapids and the Mills at the Descent
 

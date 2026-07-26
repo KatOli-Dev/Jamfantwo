@@ -11,7 +11,7 @@ This page describes the principal types of workings that the traditions have rec
 
 ## Shaping
 
-Shaping is the most common type of working, in which the practitioner reshapes the pattern of a subject to a more desirable configuration. The reshaping is always partial and always within the [limits](/content/magic/law/limit) that the order of the world imposes. The practitioner does not impose a new pattern upon the subject from outside but reaches through the path of [resonance](/content/magic/law/source) and adjusts the configuration from within.
+Shaping is the most common type of working, in which the practitioner reshapes the pattern of a subject to a more desirable configuration. The reshaping is always partial and always within the [limits](/content/magic/law/limit) that the order of the world imposes. The practitioner does not impose a new pattern upon the subject from outside but reaches through the path of [Source](/content/magic/law/source) and adjusts the configuration from within.
 
 The shaping of dead matter is the simplest form and the first that apprentices learn. A stone may be shaped to a more useful form, a piece of wood may be shaped to a smoother surface, and a quantity of metal may be shaped to a sharper edge. The [Khalisar Council](/content/government/local/khalisar-council) has recorded more than two hundred distinct shapings of dead matter, each with its own name and its own conditions of performance.
 
@@ -21,7 +21,7 @@ The shaping of places is the most demanding of the shaping disciplines, for the 
 
 ## Binding
 
-Binding is a working in which the practitioner fixes a pattern in a particular configuration, reducing the tendency of the pattern to settle back toward its old shape. Binding is often performed after shaping, for a shaped pattern left unbound will eventually return to its original configuration through the effect of [reverberation](/content/magic/law/cost).
+Binding is a working in which the practitioner fixes a pattern in a particular configuration, reducing the tendency of the pattern to settle back toward its old shape. Binding is often performed after shaping, for a shaped pattern left unbound will eventually return to its original configuration through the effect of [Cost](/content/magic/law/cost).
 
 The binding of a pattern requires that the practitioner attune to the subject and fix the new configuration through an act of will that is sustained over a period of time. The duration of the binding depends on the complexity of the pattern and the depth of the attunement. A simple binding of a stone may last for years, while a binding of a living thing may last for only a season.
 

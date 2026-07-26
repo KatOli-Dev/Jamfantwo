@@ -39,7 +39,7 @@ The academies of the [Southern Reach](/content/government/national/southern-reac
 
 ## The Middle Years: Attunement and Vocabulary
 
-The second phase of apprenticeship is devoted to attunement, the process by which the practitioner brings the pattern into sympathy with the subject. Attunement is taught through exercises that vary by tradition, and the apprentice who has learned to read a pattern must now learn to reach it through the paths of [resonance](/content/magic/law/source).
+The second phase of apprenticeship is devoted to attunement, the process by which the practitioner brings the pattern into sympathy with the subject. Attunement is taught through exercises that vary by tradition, and the apprentice who has learned to read a pattern must now learn to reach it through the paths of [Source](/content/magic/law/source).
 
 The [Sylvan Court](/content/government/local/sylvan-court) teaches attunement through exercises in which the apprentice walks the forest until the pattern of the trees, the soil, and the creatures within it are felt as a single configuration. The apprentice learns to follow the paths of sympathy that connect one pattern to another, and the master tests the apprentice's attunement by observing which patterns the apprentice can reach without effort.
 

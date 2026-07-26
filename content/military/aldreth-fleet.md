@@ -118,7 +118,7 @@ During the [Three-Banners War](/content/history/three-banners-war), the Aldreth
 Fleet suffered its greatest defeat when a squadron was caught in a storm off
 the coast of [Khalisar](/content/location/settlement/city/khalisar) and lost
 seven ships with all hands. The disaster led to significant reforms in ship
-design and navigation, and the modern fleet is built to higher standards of
+design and navigation, and the current fleet is built to higher standards of
 seaworthiness than any of its predecessors. The lessons of that storm have been
 passed down through generations of shipwrights and captains, and the fleet has
 not suffered a similar catastrophe since.

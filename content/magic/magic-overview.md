@@ -7,7 +7,7 @@ title: Magic Overview
 
 The Art, as it is called in the academies and the chronicles of the [Vael](/content/government/national/vael) and the surrounding realms, is the working of resonance upon pattern. It is not a substance drawn from a place outside the world, nor the gift of any god, nor the property of any chosen people. The Art is a property of the order of things, and the practitioner is one who has learned to read the order and to reshape it within the bounds that the order itself permits. The traditions treat the Art as a discipline rather than a faith, studied as one would study any other exacting craft, with masters and apprentices and a long memory of successes and failures.
 
-The pages collected here describe the Art as a set of regularities, [limits](/content/magic/law/limit), and [costs](/content/magic/law/cost) that practitioners have learned to navigate. They do not adjudicate the disputes between the traditions of practice, nor do they provide instruction. The aim is to present what is known, what is disputed, and what remains uncertain, in a form that an informed reader may weigh for themselves.
+The pages collected here describe the Art as a set of regularities, [limits](/content/magic/law/limit), and [costs](/content/magic/law/cost) that practitioners have learned to navigate. They do not adjudicate the disputes between the traditions of practice, nor do they provide instruction. The aim is to present what is known, what is disputed, and what remains uncertain, in a form that may be weighed by any informed person.
 
 ## Four Principles That Govern Every Tradition
 

@@ -45,7 +45,7 @@ The guilds maintain the standards of the quality that the goods must meet, the c
 
 The currency of the known world is based on the coinage of the principal kingdoms, the silver and the copper coins that are stamped with the marks of the issuing authority. The most widely accepted coin is the silver crown of Aldreth, which serves as the standard of the value for the trade across the continent. The other kingdoms issue their own coins, and the exchange between the currencies is conducted at the rates that the merchants of the principal markets establish.
 
-The use of the credit and the bill of exchange is common in the larger commercial centres, where the merchants maintain the accounts of the credit and the debit and settle the balances at the appointed intervals. The [Banking and Credit](/content/economy/banking-and-credit) institutions of the known world are concentrated in the principal ports, where the merchants and the bankers have developed the systems of the credit that facilitate the trade across the distances.
+The use of the credit and the bill of exchange is common in the larger commercial centres, where the merchants maintain the accounts of the credit and the debit and settle the balances at the appointed intervals. The [Banking and Credit](/content/economy/banking-and-credit) institutions of the known world are concentrated in the principal ports, where the merchants and the bankers have developed the systems of the credit that aid the trade across the distances.
 
 ## The Customs of the Commerce
 

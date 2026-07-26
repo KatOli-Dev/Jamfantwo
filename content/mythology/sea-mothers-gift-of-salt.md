@@ -39,7 +39,7 @@ The myth of the Sea Mother's gift of salt is preserved in different forms among 
 
 The communities of the southern coast, who are closest to the Kharesh and who trade most extensively with the interior, preserve a version of the myth that emphasises the journey of the salt from the coast to the desert. In this version, the salt caravan is itself a sacred journey, and the salt-gatherers and the caravan masters and the desert traders are all participants in a ritual that connects the Sea Mother to the peoples of the interior. The southern version of the myth is the most elaborate and the most detailed of the known versions, and it includes descriptions of the rites that the caravaners perform at each stage of the journey.
 
-## The Sea Mother in the Modern World
+## The Sea Mother in the Present Age
 
 The Sea Mother's Court in Khalisar is the principal temple of the Sea Mother in the known world, and the gift of salt is the central teaching of the faith. The priests of the Court maintain the salt flats and conduct the rites that ensure the continued abundance of the harvest, and they teach the tradition of the gift to the novices and to the faithful who come to the temple seeking instruction. The Sea Mother's Court is the most visible institution of the maritime faith, but every coastal community maintains its own smaller temple or shrine where the Sea Mother is honoured and the gift of salt is remembered.
 

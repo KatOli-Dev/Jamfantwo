@@ -31,7 +31,7 @@ Smaller populations are found in the wooded uplands of [Morvind](/content/locati
 
 The lepidian diet changes dramatically over the life cycle. Larvae are herbivorous, feeding on the leaves of host plants and consuming large quantities of foliage almost continuously until they enter the pupal stage. Adults feed on nectar, tree sap, and the fluids of overripe fruit; their mouthparts are adapted to a liquid diet, with a long coiled proboscis used to draw fluids from flowers and wounds in bark.
 
-Adult lepidians consume relatively little, as metabolism is slow and energy needs are met largely by reserves built up during the larval stage. They do not cook or prepare food in any manner, and their diet is entirely raw and liquid. Water is obtained from dew on leaves and from moisture in the nectar and fruit they consume. Feeding is simple and individual, as each lepidian feeds itself and sharing of meals is unknown among adults, though larvae feed communally upon the host plant.
+Adult lepidians consume relatively little, as their bodily pace is slow and energy needs are met largely by reserves built up during the larval stage. They do not cook or prepare food in any manner, and their diet is entirely raw and liquid. Water is obtained from dew on leaves and from moisture in the nectar and fruit they consume. Feeding is simple and individual, as each lepidian feeds itself and sharing of meals is unknown among adults, though larvae feed communally upon the host plant.
 
 ## Nocturnal Pollinators of the Woodland
 

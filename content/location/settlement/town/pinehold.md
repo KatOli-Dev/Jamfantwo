@@ -7,7 +7,7 @@ title: "Pinehold"
 
 Pinehold is a timber town of [Aethelar](/content/location/natural/continent/aethelar) situated at the edge of the Aethelar Heartwood, the great forest that covers the central highlands of the continent. The town stands where the forest meets the farmlands of the river valleys, and its position at the boundary of woodland and open country has made it a centre for the timber trade and the woodworking crafts. Pinehold is a settlement of modest size but considerable importance in the economy of the Heartwood region, serving as the principal point of exchange between the forest and the settled lands.
 
-The Heartwood is the largest forest in central Aethelar, covering many thousands of square miles of the central highlands. The forest is composed chiefly of pine and spruce, with stands of oak and beech in the lower valleys, and the timber that it produces is among the finest in the continent. The management of the forest and the regulation of the timber trade are the principal concerns of the town of Pinehold, and the knowledge and experience of the towns people are essential to the sustainable use of the woodland.
+The Heartwood is the largest forest in central Aethelar, covering many thousands of square miles of the central highlands. The forest is composed chiefly of pine and spruce, with stands of oak and beech in the lower valleys, and the timber that it produces is among the finest in the continent. The management of the forest and the regulation of the timber trade are the principal concerns of the town of Pinehold, and the knowledge and experience of the town's people are essential to the sustainable use of the woodland.
 
 ## The Aethelar Heartwood and the Pine Stands
 
@@ -25,7 +25,7 @@ The grant of a market charter to Pinehold was the turning point in the growth of
 
 The economy of Pinehold is dominated by the timber trade, and the industries that process the timber are the principal sources of employment in the town. The sawmills of Pinehold are situated at the edge of the forest, where the logs are brought from the felling sites and cut into planks and beams. The sawmills are powered by water from the streams that descend from the highlands, and the sound of the saws is a constant presence in the town.
 
-The timber yards of Pinehold are extensive, covering many acres on the outskirts of the town. The yards are filled with stacks of logs, planks, and beams, sorted by size and quality, waiting to be sold to the merchants who come from the southern cities and the coastal ports. The timber yards are the centre of the commercial life of Pinehold, and the transactions conducted there are the foundation of the towns prosperity.
+The timber yards of Pinehold are extensive, covering many acres on the outskirts of the town. The yards are filled with stacks of logs, planks, and beams, sorted by size and quality, waiting to be sold to the merchants who come from the southern cities and the coastal ports. The timber yards are the centre of the commercial life of Pinehold, and the transactions conducted there are the foundation of the town's prosperity.
 
 The woodworkers quarter of Pinehold is the district where the craftsmen of the town produce the finished products of the timber trade. The quarter is lined with the workshops of carpenters, joiners, and cabinet-makers, each producing the goods that are sold at the market and exported to the cities. The furniture of Pinehold is noted for its quality and craftsmanship, and the carved objects produced by the woodcarvers of the town are prized by collectors across Aethelar.
 
@@ -33,7 +33,7 @@ The woodworkers quarter of Pinehold is the district where the craftsmen of the t
 
 The weekly market of Pinehold is held in the market square, a broad open space at the centre of the town. The square is surrounded by the principal buildings of the settlement, including the market hall, the guild hall, and the houses of the principal merchants. The stalls and booths erected on market day offer the products of the forest and the crafts of the town, including timber, furniture, and the smaller goods that the woodworkers produce.
 
-The annual timber fair of Pinehold is the most important event of the commercial calendar, drawing timber merchants and buyers from across Aethelar to the town. The fair is held in the autumn, after the logging season has ended, and the best of the years timber is offered for sale. The fair lasts for several days, and the merchants of Pinehold compete for the attention of the buyers, offering the finest timber that the Heartwood can produce.
+The annual timber fair of Pinehold is the most important event of the commercial calendar, drawing timber merchants and buyers from across Aethelar to the town. The fair is held in the autumn, after the logging season has ended, and the best of the year's timber is offered for sale. The fair lasts for several days, and the merchants of Pinehold compete for the attention of the buyers, offering the finest timber that the Heartwood can produce.
 
 ## The Master Loggers, the Foresters, and the Council of Pinehold
 
@@ -49,4 +49,4 @@ The relationship between the loggers and the foresters is a carefully balanced o
 
 ## Pinehold as the Gateway to the Heartwood
 
-Pinehold is the gateway to the Aethelar Heartwood and the principal centre of the timber trade in central Aethelar. The towns position at the edge of the great forest and its long history of managing and processing the timber of the Heartwood have made it the natural centre of the trade that is the foundation of the economy of the region. The sawmills and timber yards of Pinehold are among the most productive in the continent, and the woodworkers of the town are known for the quality of their craftsmanship. The town stands at the boundary of forest and field, a settlement that has grown in harmony with the woodland that surrounds it.
+Pinehold is the gateway to the Aethelar Heartwood and the principal centre of the timber trade in central Aethelar. The town's position at the edge of the great forest and its long history of managing and processing the timber of the Heartwood have made it the natural centre of the trade that is the foundation of the economy of the region. The sawmills and timber yards of Pinehold are among the most productive in the continent, and the woodworkers of the town are known for the quality of their craftsmanship. The town stands at the boundary of forest and field, a settlement that has grown in harmony with the woodland that surrounds it.

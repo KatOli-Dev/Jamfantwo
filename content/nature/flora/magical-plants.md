@@ -27,7 +27,7 @@ The trade in the sunvine sap is regulated by the [Vashari Pact](/content/governm
 
 ## The Shadow Moss of the Deep Caves
 
-The shadow moss that grows in the deepest caves of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) and the [Crown Range](/content/location/natural/feature/crown-range) is a plant that has adapted to the conditions of the complete darkness. The shadow moss does not photosynthesize, for there is no light in the depths where the moss grows, and the moss derives its energy from the minerals that are dissolved in the water that seeps through the rock.
+The shadow moss that grows in the deepest caves of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) and the [Crown Range](/content/location/natural/feature/crown-range) is a plant that has adapted to the conditions of the complete darkness. The shadow moss does not draw energy from the light, for there is no light in the depths where the moss grows, and the moss derives its energy from the minerals that are dissolved in the water that seeps through the rock.
 
 The shadow moss is used in the preparation of the darkness-based spells of the Art, and the moss is also used in the construction of the foci that conceal the presence of the mage from the perception of the enemies. The moss is harvested by the dwarven miners who work in the deep levels of the holds, and the moss is traded to the mages of the northern cities.
 

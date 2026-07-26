@@ -37,7 +37,7 @@ The dockyards also served as a training ground for the shipwrights and sailors w
 
 ## The Expansion of the Northern Fleet
 
-The vessels built in the dockyards were allocated to the Northern Fleet, the naval force that protected the kingdom's trade routes and coastal waters. The expansion of the fleet was accompanied by a modernisation of its organisation and command structure. The fleet was divided into squadrons, each responsible for a section of the coast or a particular trade route, and the squadrons were commanded by captains who answered to the lord high admiral, an officer appointed by the crown.
+The vessels built in the dockyards were allocated to the Northern Fleet, the naval force that protected the kingdom's trade routes and coastal waters. The expansion of the fleet was accompanied by a reform of its organisation and command structure. The fleet was divided into squadrons, each responsible for a section of the coast or a particular trade route, and the squadrons were commanded by captains who answered to the lord high admiral, an officer appointed by the crown.
 
 The fleet's primary function was the protection of the trade routes connecting Nordhaven to the ports of the Stormfall Sea and the Auric Ocean. The vessels of the fleet escorted the merchant convoys that carried the metalwork and stone of Morvind to the markets of the south, and they patrolled the coastal waters to deter the pirates and raiders who preyed on the trade. The fleet also served a diplomatic function, projecting the power of Nordhaven across the sea and demonstrating the kingdom's capacity to protect its interests.
 

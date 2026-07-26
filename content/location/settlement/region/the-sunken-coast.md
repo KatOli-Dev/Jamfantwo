@@ -11,7 +11,7 @@ The Sunken Coast extends for many miles along the southern shore, from the mouth
 
 ## The Subsidence and the Rising Waters
 
-The low elevation of the Sunken Coast is the result of geological processes that have caused the land to sink relative to the sea over a long period. The subsidence of the coast has been gradual, but the effects are visible in the landscape: the drowned valleys that form the estuaries, the salt marshes that have replaced the former farmlands, and the villages that have been abandoned as the water has advanced.
+The low elevation of the Sunken Coast is the result of natural processes that have caused the land to sink relative to the sea over a long period. The subsidence of the coast has been gradual, but the effects are visible in the landscape: the drowned valleys that form the estuaries, the salt marshes that have replaced the former farmlands, and the villages that have been abandoned as the water has advanced.
 
 The rising waters of the Auric Ocean have added to the effects of the subsidence, and the coast is now more vulnerable to flooding than it was in earlier centuries. The highest tides and the storm surges that accompany the great storms of the autumn and winter can inundate large areas of the coast, and the communities of the region have developed techniques for living with the water, including the construction of embankments and the raising of houses on stilts.
 

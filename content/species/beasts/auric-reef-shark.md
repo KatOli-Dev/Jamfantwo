@@ -21,7 +21,7 @@ The shark is most active in the warm months of late spring and summer, when the 
 
 ## Opportunistic Predator of the Reef
 
-The reef shark is an opportunistic predator, feeding upon fish of the reef, squid and octopus that haunt the rocky bottom, and crustaceans found among the crevices. It hunts by a combination of stealth and speed, approaching prey from the cover of the reef and accelerating with a sudden burst that takes the prey before it can escape. The shark is also a scavenger, visiting the carcasses of larger animals that have died upon the reef and driving off smaller scavengers.
+The reef shark is an opportunistic predator, feeding upon fish of the reef, squid and octopus that haunt the rocky bottom, and shelled creatures found among the crevices. It hunts by a combination of stealth and speed, approaching prey from the cover of the reef and accelerating with a sudden burst that takes the prey before it can escape. The shark is also a scavenger, visiting the carcasses of larger animals that have died upon the reef and driving off smaller scavengers.
 
 The shark does not ordinarily attack [humans](/content/species/sapient/humans), though fishermen of the coastal towns report occasional encounters with sharks that have been provoked or attracted by the blood of the catch. The pearl divers of the strait are the most exposed of the maritime communities to the danger; the traditions of the diving guilds include a number of practices designed to reduce risk. The divers are careful to work in pairs and refrain from diving when the water is warm and the sharks are unusually active. The guilds maintain a careful record of shark sightings near the pearl beds.
 

@@ -21,7 +21,7 @@ The whale is most numerous in the vicinity of upwellings that bring small creatu
 
 ## Filtering Krill from the Grey Water
 
-The Greyring whale is a filter feeder, taking small creatures of the sea from the water drawn into the mouth. The principal prey is krill, the small crustaceans that swarm in the cold waters of the Greyring in incredible numbers; the whale also takes small fish found in the same waters. It feeds by taking a great gulp of water into the mouth and forcing it out through the plates of baleen, trapping small creatures upon the inner surface and swallowing them with the tongue.
+The Greyring whale is a filter feeder, taking small creatures of the sea from the water drawn into the mouth. The principal prey is krill, the small shelled creatures that swarm in the cold waters of the Greyring in vast numbers; the whale also takes small fish found in the same waters. It feeds by taking a great gulp of water into the mouth and forcing it out through the plates of baleen, trapping small creatures upon the inner surface and swallowing them with the tongue.
 
 Feeding is most active during the summer months when the whale is upon the feeding grounds of the polar latitudes; it lays down the fat that will sustain it through the lean months of the breeding season. Feeding is conducted at all hours, for the prey is uniformly distributed through the surface waters, and the whale may rise to breathe every few minutes during active feeding. The whale does not feed to any substantial degree during the migrations, drawing upon the fat laid down during the summer for the energy of the long passage.
 
