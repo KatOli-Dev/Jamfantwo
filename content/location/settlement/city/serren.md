@@ -5,7 +5,7 @@ title: Serren
 
 ## A City of the Inland Valleys
 
-Serren is a city of the inland valleys, founded upon a fertile plain where the rivers that descend from the eastern flank of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) converge before turning west toward the [Greywash](/content/location/natural/feature/mouths-of-the-greywash). The plain is one of the most productive of the inland valleys, and the city has been the principal market for the grain and cattle of the surrounding farms since the [Founding Era](/content/history/founding-era). Serren takes its name from the Sky Walkers' Way deity of the harvest. The city is the seat of the magistrates who govern the region of the inland valleys and is home to the farmers and merchants who conduct the trade of the plain. It ranks among the larger towns of the inland valleys.
+Serren is a city of the inland valleys, founded upon a fertile plain where the rivers that descend from the eastern flank of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) converge before turning west toward the [Greywash](/content/location/natural/feature/mouths-of-the-greywash). The plain is one of the most productive of the inland valleys, and the city has been the principal market for the grain and cattle of the surrounding farms since the [Founding Era](/content/history/founding-era). Serren takes its name from [the Sky Walkers' Way](/content/culture/sky-walkers-way) deity of the harvest. The city is the seat of the magistrates who govern the region of the inland valleys and is home to the farmers and merchants who conduct the trade of the plain. It ranks among the larger towns of the inland valleys.
 
 ## The Farmers' Settlement on the Plain
 

@@ -21,7 +21,7 @@ The three continents are separated by deep waters, yet each has served as a brid
 
 ### Sahrana
 
-[Sahrana](/content/location/natural/continent/sahrana) is the southernmost continent, lying across the [Auric Ocean](/content/location/natural/feature/auric-ocean) from Aethelar. Much of its interior is covered by the [Kharesh](/content/location/natural/feature/kharesh), a vast desert punctuated by rocky uplands and seasonal river systems. Warm currents wash the northern coast, supporting a chain of fertile regions known as the Green Crescent, where prosperous city-states have arisen. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare spices and dyes are among the most valuable in the known world. The desert interior is crossed by ancient caravan routes and inhabited by nomadic and settled peoples alike.
+[Sahrana](/content/location/natural/continent/sahrana) is the southernmost continent, lying across the [Auric Ocean](/content/location/natural/feature/auric-ocean) from Aethelar. Much of its interior is covered by the [Kharesh](/content/location/natural/feature/kharesh), a vast desert punctuated by rocky uplands and seasonal river systems. Warm currents wash the northern coast, supporting a chain of fertile regions known as [the Green Crescent](/content/location/natural/ecosystem/green-crescent), where prosperous city-states have arisen. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare spices and dyes are among the most valuable in the known world. The desert interior is crossed by ancient caravan routes and inhabited by nomadic and settled peoples alike.
 
 ## The Two Great Bodies of Water
 
