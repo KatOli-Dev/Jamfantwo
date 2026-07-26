@@ -3,11 +3,11 @@ layout: default
 title: Nessara
 ---
 
-## Overview
+## A Coastal City-State at the Edge of the Fertile Strip
 
 Nessara is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), situated at the edge of the fertile strip where coastal agriculture gives way to the drier country of the western coast. The city is the northernmost of the major [Sahrani](/content/language/spoken/sahrani) city-states, and its position at the boundary of fertile and arid coast gives it a character distinct from the other cities of the northern coast. Its prosperity is built upon the agriculture of the surrounding country and the trade that flows through its harbour.
 
-## The Coast and the Agriculture
+## Vineyards and Olive Groves of the Northern Coast
 
 The coast around Nessara is the northernmost portion of the fertile strip that supports Sahrani coastal agriculture, and the land here is less productive than the regions to the south, with lower rainfall and thinner soil. The agriculture of the region focuses on hardy crops that tolerate drier conditions: the grains, olives, and vines that are staples of the northern Sahrani diet. The farms surrounding the city produce enough to sustain the community and provide a surplus for export. The vineyards of Nessara are among the most valued in Sahrana, and the wine produced here is noted for its quality and distinctive character. The vines are adapted to lower rainfall and cooler nights, producing smaller, more concentrated grapes that yield a deeper, more robust wine.
 
@@ -15,18 +15,18 @@ The position of Nessara at the edge of the fertile strip gives the city strategi
 
 The olive groves of Nessara are another significant element of the agricultural economy, and the oil pressed from the region's olives is a valued export prized for its flavour and quality. The olive harvest is the second most important event of the agricultural calendar after the grape harvest, and the pressing of the olives is a communal activity involving the families of the surrounding farms and the workers of the city. The oil is stored in large clay vessels produced by the potters of Nessara, and these vessels are a distinctive feature of the warehouses that line the waterfront.
 
-## The Harbour and the Trade
+## The Natural Anchorage and the Caravan Exchange
 
 The harbour of Nessara is a natural anchorage sheltered by a small island that lies offshore, and the approach is straightforward in most weather. The quays line the inner shore of the bay, and the warehouses and trading houses that serve the coastal trade are situated along the waterfront. The trade of Nessara combines the agricultural products of the surrounding country with goods imported from other regions of the coast and the northern continents. Wine, oil, and grain are the primary exports, while the return cargo includes spices and dyes from the southern coast and manufactured goods from the north.
 
 The population of Nessara is chiefly [human](/content/species/sapient/humans), with a small community of traders from the other Sahrani cities and the northern continents. The [tortolans](/content/species/sapient/tortolans) of the warm coasts are occasional visitors to the harbour, and the trade between the coastal humans and the tortolan communities of the islands is a minor but valued part of the city's commerce. The tortolans bring the products of the island communities, including the shells and the exotic materials that are prized in the markets of the coast, and they take in return the wine and oil that the Nessaran merchants export to the island markets.
 
-## The City
+## Light-Coloured Stone, Gardens, and Fortifications
 
 Nessara is well-built and prosperous, its architecture reflecting the character of the northern coast with buildings of light-coloured stone, shaded courtyards, and the gardens and fountains that are the hallmark of the Sahrani architectural tradition. The gardens here are smaller and more modest than those of the southern cities, for water is less abundant. The streets are broad and well-paved, and the public buildings are substantial and well-maintained. The city is walled, for the arid country to the west is a source of occasional trouble, and the fortifications are maintained in good order. The walls are of substantial height and thickness, fitted with towers that allow the garrison to observe approaches from land and sea, and the gates are guarded at all hours.
 
 The governance of Nessara is managed by a council of prominent citizens, including landowners, merchants, and the commanders of the garrison. The council oversees the administration of the city, the regulation of trade, and the maintenance of the fortifications. It meets in the civic hall that stands in the central square, a building of considerable size and dignity with a colonnaded front characteristic of Sahrani civic architecture. The council is concerned chiefly with the management of trade and the defence of the frontier. The decisions made by the council affect not only the city itself but also the surrounding agricultural communities and the caravans that travel the coast road. The council meets regularly to review the state of the harbour, the condition of the walls, and the volume of trade passing through the city, and its members are accountable to the citizens for the proper management of public funds.
 
-## Significance
+## Strategic Gateway Between Fertile and Arid Sahrana
 
 Nessara is the northernmost of the major Sahrani city-states, and its position at the edge of the fertile strip gives it a strategic and commercial significance disproportionate to its moderate size. The city is a member of the [Northern Coast League](/content/government/national/northern-coast-league), and its agriculture and trade are a valued contribution to the economy of the Sahrani coast. The wine and oil produced at Nessara are recognised throughout Sahrana for their quality, and the city's role as the gateway between the fertile and arid regions ensures that its prosperity is sustained by the trade that flows through its gates.

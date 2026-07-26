@@ -3,13 +3,13 @@ layout: default
 title: Sunken Crown
 ---
 
-## Overview
+## Principal Range of the Warm Continent
 
 The Sunken Crown is the principal mountain range of [Ashara](/content/location/natural/continent/ashara), a long and ancient highland whose weathered ridges occupy the entire western half of the warm continent. The range is not a single wall but a broad and broken chain of uplifts whose outer slopes have been worn over countless ages into stepped terraces and whose upper crests are still high enough to draw rain from the warm sea winds. The mountains are the source of the silt that has built the lowland basins, the home of the oldest forests on the continent, and the watershed from which the great rivers descend to the eastern lowlands. The Sunken Crown is the spine of Ashara in the same measure that the [Crown Range](/content/location/natural/feature/crown-range) is the spine of [Thessara](/content/location/natural/continent/thessara), though the two ranges, sharing a name and an orientation, are wholly distinct in climate, geology, and the peoples who inhabit their slopes.
 
 The range is sometimes confused in foreign accounts with the Crown Range of Thessara, and the two are indeed so similar in their east-west sweep that the older records occasionally treat them as a single feature. They are not. The Sunken Crown is older, lower, and warmer than its Thessaran counterpart, and the conditions of its slopes are governed by the wet season and the dry season rather than by snow and high meadow. A traveller crossing both ranges in succession will recognise a kinship in their form but a difference in every other respect, and the customs of the two highland peoples are as distinct as the climates that have shaped them.
 
-## Ridges and Terraces
+## The Great Staircase and the Cloud Forest
 
 The outer slopes of the Sunken Crown are the most distinctive feature of the range, worn into broad steps described as a stairway from the lowland to the cloud forest. The lower steps are wide enough to contain villages and terraced fields, the middle steps support the hardwood forests, and the upper steps are the platform of the cloud forest and the high grassland. The stone of the steps is the dark volcanic and metamorphic rock of the ancient range, broken by countless seasons of rain and sun into ledges that retain the moisture of the wet season long after the rains have passed.
 
@@ -17,7 +17,7 @@ The terraces are not the work of any single generation. They are the cumulative 
 
 The upper ridges of the range are covered by the cloud forest, a high and misty woodland drawing its moisture from the warm sea winds and the cool air of the highest crests. The trees of the cloud forest are shorter than the giants of the lower slopes, for the wind and cold of the upper ridges check their growth, but the mosses, orchids, and ferns are larger and more abundant than anywhere else in Ashara. The forest is the home of birds and small mammals found in the lowlands only as occasional visitors, and the streams descending from it carry a steady supply of clean water to the lower slopes through every month of the year.
 
-## Forests and Woodlands
+## Sailwood, Rain Cedar, and the Controlled Burns
 
 The hardwood forests of the lower and middle slopes of the Sunken Crown are among the most diverse in the known world. Tall sailwood, rain cedar, and black mahogany form the upper canopy, while broad-leaved palms and flowering shrubs fill the middle levels, and vines and epiphytes gather moisture from the air and create deep soils around the roots of the largest trees. The forests have been inhabited for many generations by the [elves](/content/species/sapient/elves) of [Ashara](/content/location/natural/continent/ashara), whose small garden settlements lie beneath the canopy in places that an outsider might pass without recognising them as habitations. The elves cultivate medicinal plants without clearing the surrounding woodland, and their knowledge of tree diseases is valued by the human farmers and shipwrights of the lowland rivers.
 
@@ -25,7 +25,7 @@ The high grassland of the upper slopes is the domain of the shepherds and herder
 
 The forests and grasslands are joined by a transitional zone where the trees thin and the grass begins to dominate, and this zone is the principal site of the controlled burning that the highland communities practise to maintain the open ground. The burning is conducted in the late dry season, when the undergrowth is driest and the fire can be contained within established boundaries. The practice has been refined over many generations into a system of fire management recorded as one of the most successful examples of communal land management on the continent.
 
-## Rivers and Water
+## The Three Rivers and the Customary Allocations
 
 The rivers descending from the Sunken Crown are the arteries of [Ashara](/content/location/natural/continent/ashara), and the continent is shaped by its water in a manner that no other landmass quite matches. The rivers begin in the cloud forest and the high grassland, where the rain is abundant, and descend through the hardwood forests and cultivated terraces in falls and rapids that are gathered for irrigation before they reach the lower basins. The water is dependable because the headwaters receive rain at every elevation, and the rivers flowing out of the range are not subject to the violent floods that afflict rivers whose sources lie in snowmelt alone.
 
@@ -33,7 +33,7 @@ The principal rivers of the range are three, each gathering its waters from a di
 
 The water rights of the rivers are among the most carefully managed in the known world, and the river clerks travelling between the settlements before the rains keep a record of the customary allocations governing the use of the water. The rights are measured by household, by field, and by boat, and a single family may hold different rights over each use. The system has its disputes, as any system of common management must, but these are settled through the river councils and the customary law of the water rather than through the intervention of any distant authority.
 
-## Mines and Minerals
+## Iron, Tin, and the Amber Deposits
 
 The Sunken Crown is rich in minerals, and the mines opened in the weathered rock of the outer slopes are among the most productive in [Ashara](/content/location/natural/continent/ashara). The principal metals are iron and tin, both found in veins lying close to the surface of the weathered stone, and the coloured stone that the craftsmen of the lowland cities value for building and inlay work. The mines are generally shallow, for the richest veins lie near the surface where rainwater has carried the lighter minerals away and concentrated the heavier ones in pockets easily reached. This shallowness has made the mines more accessible to small communities than the deeper workings of the colder ranges, and the mining of the Sunken Crown has remained a craft of families and villages rather than of great companies.
 
@@ -41,7 +41,7 @@ The deposits of amber resin are a particular feature of the range, for the resin
 
 The mines and amber works are connected to the lowland markets by the [Amber Pass](/content/location/natural/feature/amber-pass), the principal crossing of the range and the route by which highland minerals reach the rivers and ports. The pass is not the highest of the crossings, but its stone floor drains well, its springs remain available through the dry season, and its approaches are gentle enough that laden animals can traverse them in safety. The pass has been a highway for so long that the wear of wheels and hooves is visible in the surface of the stone, and the road is one of the oldest in Ashara.
 
-## Settlements and the Highland Communities
+## Terraced Villages and the Mountain Councils
 
 The highland communities of the Sunken Crown are distributed across the slopes according to elevation and the resources that each section provides. The villages of the cultivated terraces are the most numerous, clustering around the springs and streams descending from the upper ridges. The settlements of the hardwood forest are fewer and more widely spaced, for the elves of the forest prefer to live in small garden communities scattered through the trees rather than in the larger villages of the terraces. The shepherds of the high grassland maintain no permanent settlement at all, but they return to the same grounds season after season, marked by the small shrines and boundary stones that the customary law requires.
 
@@ -49,6 +49,6 @@ The architecture of the highland villages reflects the conditions of the range. 
 
 The relationship between the highland communities and the lowland farmers is governed by agreements renewed at the customary gatherings of the mountain councils. The highland communities provide metal, amber, wool, and the dried herbs of the upper slopes, while the lowland farmers provide grain, salt fish, and manufactured goods that the high country cannot produce. The exchanges are conducted at the markets held at the foot of the Amber Pass, the principal occasions of meeting between the highland and lowland peoples. These meetings have been conducted without serious interruption for many generations, and the trust between the two communities is the foundation of the prosperity of the range.
 
-## Significance
+## Spine of Ashara
 
 The Sunken Crown is the principal mountain range of [Ashara](/content/location/natural/continent/ashara), and its weathered slopes, cloud forests, rivers, and mines are the inheritance that the continent has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of metal and a foundation of the customary law governing the use of the rivers and terraces. The prosperity of the continent is bound up with the health of the range, and the maintenance of the terraces, forests, rivers, and mines is a duty shared by every people whose lands depend upon the water and stone that the highland provides. The Sunken Crown endures as the spine of [Ashara](/content/location/natural/continent/ashara) and as the inheritance of those whose work and life are bound up with the ancient mountains of the warm continent.

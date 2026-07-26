@@ -3,13 +3,13 @@ layout: default
 title: Magic Overview
 ---
 
-## Overview
+## The Art as Discipline, Not Faith
 
 The Art, as it is called in the academies and the chronicles of the [Vael](/content/government/national/vael) and the surrounding realms, is the working of resonance upon pattern. It is not a substance drawn from a place outside the world, nor the gift of any god, nor the property of any chosen people. The Art is a property of the order of things, and the practitioner is one who has learned to read the order and to reshape it within the bounds that the order itself permits. The traditions treat the Art as a discipline rather than a faith, studied as one would study any other exacting craft, with masters and apprentices and a long memory of successes and failures.
 
 The pages collected here describe the Art as a set of regularities, [limits](/content/magic/law/limit), and [costs](/content/magic/law/cost) that practitioners have learned to navigate. They do not adjudicate the disputes between the traditions of practice, nor do they provide instruction. The aim is to present what is known, what is disputed, and what remains uncertain, in a form that an informed reader may weigh for themselves.
 
-## The Laws
+## Four Principles That Govern Every Tradition
 
 The Art is governed by four principles that hold across every tradition, however much the traditions disagree about their meaning. The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) first set these principles down in their present form, though the principles themselves are older than any court. They are treated under four headings, each in its own page.
 
@@ -20,7 +20,7 @@ The Art is governed by four principles that hold across every tradition, however
 
 These are presented as the laws are commonly stated, not as any one tradition states them. Where the schools differ, the differences are noted in the relevant pages. The four laws are interrelated: the source provides the means by which the Art operates, the medium is what the Art operates upon, the limits define the boundaries of possible operation, and the costs are the prices exacted by any operation. No tradition disputes the existence of these four categories, though the relative weight assigned to each varies considerably.
 
-## The Traditions
+## Distinct Bodies of Practice and Attunement
 
 A tradition is a body of practice built around a particular reading of the laws. The traditions disagree, sometimes sharply, about which of the laws are fundamental, which are derivative, and which can be bent. Some accept the four laws as equal; others treat one or another as a counsel of prudence rather than a true limit. A tradition is identified less by its effects than by its discipline: the order in which a practitioner reads, attunes, and reshapes. The effects of two traditions may overlap while their disciplines may differ entirely.
 
@@ -28,19 +28,19 @@ The diversity of traditions reflects the diversity of the patterns to which they
 
 The principal traditions whose disciplines have been recorded are the Sylvan Court, the Heartwood Fellowship, the Khalisar Council, the Velden Compact, and the academies of the Southern Reach. Each maintains its own lineage of instruction, its own body of recorded workings, and its own understanding of the limits and costs of the Art. The traditions are described in their own pages, with the discipline of each, the central dispute each carries with its neighbours, and the workings each has made its own.
 
-## The Workings
+## Named Acts of Reshaping
 
 A working is a single, named act of the Art: a particular reshaping performed upon a particular pattern in a particular way. The same effect may be achieved by workings of different traditions, and a single tradition may produce effects that resemble the workings of another. The working is therefore described as the practitioners describe it, with the pattern and the discipline named together.
 
 Some workings are widely shared among the traditions, while others are held by a single tradition or by a single lineage within a tradition. A few workings are recorded only in the relics of the Art, their practitioners long dispersed. Each working is given its own page with the conditions of its performance, the pattern it is read against, and the limits it is known to observe. Workings are categorised by the nature of the reshaping they perform, the complexity of the pattern they address, and the duration of their effect. Some workings produce immediate and visible changes; others operate slowly over extended periods and are only detectable by their accumulated effects.
 
-## The Relics
+## Objects That Have Become Workings
 
 A relic is an object whose pattern has been so deeply reshaped, or has so absorbed the resonance of repeated workings, that it has become a working in itself. The boundary between a relic and a working is not always sharp: a practitioner may carry a working in the head or fix a working in a vessel, and the vessel becomes a relic by degrees.
 
 The relics collected here are those of historical or scholarly note. Some are kept by their traditions under guardianship; some are kept in the libraries of [Avaros](/content/location/settlement/city/avaros) and the academies of the [Southern Reach](/content/government/national/southern-reach). Others have passed into the hands of collectors or lie in the ruins of places that no longer have practitioners to tend them. Each relic is described together with the working that produced it, where that working is known, and the pattern it bears. Among the most notable relics are the [Known-World Codex](/content/magic/relic/codex-of-the-known-world), the [Letters on Pattern](/content/magic/relic/letters-on-pattern), the [Eldreth Library](/content/magic/relic/library-of-eldreth), and the [Star-Seeker](/content/magic/relic/star-seeker).
 
-## Sources and Authorities
+## Where the Present Account Draws From
 
 Where a page cites a particular tradition or practitioner, the citation is given in the body of the page rather than in a separate apparatus. The principal secondary sources are the chronicles of the [Sylvan Court](/content/government/local/sylvan-court), the records of the [Khalisar Council](/content/government/local/khalisar-council), and the disputed but widely-circulated [Letters on Pattern](/content/magic/relic/letters-on-pattern) attributed to the practitioners of the [Heartwood Fellowship](/content/government/local/heartwood-fellowship). Where a tradition has produced its own account of itself, that account is set down in the page for the tradition, with the title given in the original phrasing where recoverable.
 

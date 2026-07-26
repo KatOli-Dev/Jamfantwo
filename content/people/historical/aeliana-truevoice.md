@@ -3,13 +3,13 @@ layout: default
 title: Aeliana Truevoice
 ---
 
-## Overview
+## The Oracle of Nessara
 
-Aeliana Truevoice is the most enigmatic figure in the history of the [Sahrani](/content/language/spoken/sahrani) coast, a prophet of obscure origin whose utterances shaped the destiny of the city-states of the northern littoral for more than a century. The Oracle was not a single individual but a succession of seers who spoke from the sanctuary of the temple upon the headland overlooking the harbour of [Nessara](/content/location/settlement/city/nessara). The prophecies delivered from the sanctuary influenced the decisions of rulers, the movements of armies, and the beliefs of peoples across the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The nature of the Oracle's power is a matter of enduring debate. Sceptical scholars of the present age have proposed explanations ranging from political manipulation to the systematic exploitation of maritime intelligence, but the influence of the prophecies upon the history of the region is beyond dispute.
+Aeliana Truevoice is the most enigmatic figure in the history of the [Sahrani](/content/language/spoken/sahrani) coast, a prophet of obscure origin whose utterances shaped the history of the city-states of the northern littoral for more than a century. The Oracle was not a single individual but a succession of seers who spoke from the sanctuary of the temple upon the headland overlooking the harbour of [Nessara](/content/location/settlement/city/nessara). The prophecies delivered from the sanctuary influenced the decisions of rulers, the movements of armies, and the beliefs of peoples across the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The nature of the Oracle's power is a matter of enduring debate. Sceptical scholars of the present age have proposed explanations ranging from political manipulation to the systematic exploitation of maritime intelligence, but the influence of the prophecies upon the history of the region is beyond dispute.
 
 The first Oracle appeared in the two hundred and sixth year of the [Northern Coast League](/content/government/national/northern-coast-league), a period when the Sahrani coast was divided among competing city-states engaged in a cycle of warfare and alliance that threatened the stability of the entire region. Nessara at that time was a modest port, less wealthy than [Amurra](/content/location/settlement/city/amurra) to the east and less fortified than the southern cities of the coast. Its position at the edge of the fertile strip made it vulnerable to incursions by the [Kharesh Tribes](/content/government/national/kharesh-tribes) from the interior and raids by corsairs from the harbours of the western coast.
 
-## The Prophecies
+## The First Prophecy and Its Fulfilment
 
 The first prophecy of the Oracle was delivered in the marketplace of Nessara on a day recorded with unusual precision, for the event marked the beginning of the Oracle's influence over the affairs of the coast. A woman of indeterminate age and origin, dressed in white robes that would become the characteristic garment of the Oracle's successors, appeared at the height of the trading day. She climbed onto the steps of the fountain in the centre of the square and spoke in a voice that carried across the noise of the market, declaring that Nessara would be attacked within the month by a fleet from the western coast, and that the attack would come from the direction of the setting sun on the night of the new moon.
 
@@ -25,7 +25,7 @@ Subsequent prophecies were recorded by the scribes of the temple. The collection
 
 The second notable Oracle delivered a prophecy that warned the [Amurra Republic](/content/government/national/amurra-republic) of a conspiracy among the merchants of the spice trade, a warning that allowed the republic to uncover a plot to adulterate the spice shipments that were the foundation of the city's commerce. The third Oracle predicted a drought affecting the interior of Sahrana three years before it began, allowing the city-states to stockpile grain that sustained the population through the period of scarcity. The fourth Oracle was consulted by emissaries of the [Kharesh Tribes](/content/government/national/kharesh-tribes), who had travelled to Nessara seeking guidance on the caravan routes that crossed the desert; the prophecy they received led to the discovery of a new water source in the interior, opening a previously impassable route to the southern coast.
 
-## Influence
+## Shaping the Politics of the Coast
 
 The influence of Aeliana Truevoice extended far beyond the immediate predictions delivered from the temple on the headland. The sanctuary became a centre of pilgrimage for the peoples of the Sahrani coast, and the offerings brought by pilgrims provided resources that supported the maintenance of the temple and the training of successors. The temple developed into an institution of considerable wealth and influence; the oracles delivered from the sanctuary were treated with the same respect that the rulers of the coast accorded to the pronouncements of the most powerful kingdoms.
 
@@ -33,7 +33,7 @@ Political influence was exercised through advice given to rulers and councils of
 
 The relationship between the Oracle and the government of Nessara was one of mutual benefit. The prestige that the Oracle brought to the city attracted pilgrims and traders who contributed to the prosperity of the port, and the protection the city provided to the temple ensured the security of the institution that was the source of the Oracle's authority. The council of Nessara consulted the Oracle on matters of policy, and the oracles delivered from the temple were taken into account in decisions that shaped the development of the city.
 
-## Legacy
+## The Temple and the Tradition of Prophecy
 
 The legacy of Aeliana Truevoice is the tradition of prophecy that has persisted on the Sahrani coast for more than four centuries, a tradition that has shaped the political and commercial development of the region and contributed to the stability that has allowed the city-states of the coast to prosper. The temple that the first Oracle established on the headland of Nessara is still maintained by the successors of the original seer, and the oracles delivered from the sanctuary are still consulted by rulers and merchants seeking guidance on matters that affect the fortunes of the coast.
 

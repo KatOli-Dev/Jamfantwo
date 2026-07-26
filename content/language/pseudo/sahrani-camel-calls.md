@@ -3,39 +3,39 @@ layout: default
 title: Sahrani Camel Calls
 ---
 
-## Overview
+## Directing the Caravan
 
 The [Sahrani](/content/language/spoken/sahrani) Camel Calls are the system of vocal and percussive signals used by the camel drivers and the [salawa](/content/species/sapient/salawa) guides of the inland caravan routes of [Sahrana](/content/location/natural/continent/sahrana) to direct the conduct of the camels that carry goods across the [Kharesh](/content/location/natural/feature/kharesh). It is a code of sounds, produced by the voice and by the striking of customary implements, that conveys information to the camels and to the other drivers of the caravan. Camel drivers, salawa guides, and merchants who oversee the caravans at inland stops use the system, and its signals are understood by every camel and every driver who travels the desert trade. The camels that have completed training are capable of distinguishing the calls of their own driver from those of a stranger, a measure of the bond established between camel and driver through years of work together.
 
-## The Nature of the Calls
+## Driver's Vocal Signals
 
 The calls are produced by the voice and by the striking of the customary stick every driver carries. They are distinguished by pitch, duration, and rhythm. A single low note, sustained for a count of three and drawn out at the close, is the call to rise, instructing the camel to lift its load at the commencement of the day's march. A pair of short notes, rising in pitch and repeated at intervals, is the call to kneel, instructing the camel to lower itself at the customary halt. A rapid series of short notes descending in pitch, struck with the stick upon the saddle, is the call to halt, instructing the camel to stop and wait for the next word. A long sustained note, unbroken and unwavering, is the call to advance, instructing the camel to move forward at the customary pace until the next call. A pair of notes, the first low and the second high, is the call to turn, instructing the camel to change direction by the customary angle. The calls are not loud; the camels are trained to attend to the voice of the nearest driver, and the calls are pitched at a level that carries to the customary distance without disturbing neighbouring animals.
 
-## The Sounds of the Stick
+## Strikes and Their Meanings
 
 The sounds of the stick are a second element of the system, produced by striking the customary implement against the saddle, the ground, or the body of the camel. Striking the stick against the saddle is a signal of attention, calling the camel to attend to the voice about to give the next call. Striking the stick against the ground is a signal of urgency, requiring immediate compliance without customary delays. Striking the stick against the body of the camel is a signal of correction, applied when the camel has failed to observe the previous call. The sounds are distinguished by the surface against which the stick is struck and the force of the striking. A light strike against the saddle signals attention; a heavy strike signals correction. The driver is instructed in the customary use of the stick during the long apprenticeship the camel trade requires.
 
-## The Calls of the Salawa
+## Salawa Supplementary Code
 
 The [salawa](/content/species/sapient/salawa) guides who conduct the principal caravans across the [Kharesh](/content/location/natural/feature/kharesh) employ a supplementary code of calls understood by every camel and driver of the desert interior. The salawa calls are distinguished from the driver's calls by the higher pitch at which they are sounded, allowing the salawa to direct the attention of the entire caravan when direction must be changed. The salawa calls are addressed to the drivers of the camels, not directly to the camels, and the drivers translate them into the driver's calls the camels understand. The salawa calls include the call to water, sounded when the next oasis is at hand and watering preparations must be made; the call to the storm, sounded when the signs of approaching sand storms are observed and dispositions of the caravan must be taken; and the call to the stranger, sounded when a caravan or party is observed upon the route and identification measures must be observed. The salawa calls are a distinctive feature of the desert trade, a measure of the salawa capacity to coordinate the movements of caravans across the featureless deep desert.
 
-## The Training of the Camels
+## Teaching the Animals
 
 The training of camels to attend to the calls occupies the first several years of the animal's life, conducted by drivers in cooperation with the breeders who raise the animals. The training begins with the customary calls, repeated at customary intervals until the camel learns to associate the call with the required action. The training is reinforced by the customary discipline of the stick when the camel fails to observe a call. Camels that have completed training understand the customary calls without supplementary signals of voice or hand and are the foundation of the reliability the desert trade depends upon.
 
-## The Customs of the Caravan
+## Caravan Discipline
 
 The customs of the caravan are the forms in which the calls are employed, observed by every driver and merchant who travels the desert trade. The customs include the order in which the calls are sounded — the call to rise first in the morning, the call to advance throughout the day's march, and the call to kneel at the customary halt — and the intervals at which the calls are repeated to ensure the camels maintain the pace and do not stray from the line of march. The customs also include the responses drivers give to the salawa calls, acknowledging them by the customary sounds of the stick and repetition of the call. The customs are a sophisticated code of conduct developed over centuries, one of the principal assurances of the smooth operation of caravans crossing the [Kharesh](/content/location/natural/feature/kharesh).
 
-## Centres of Use
+## Caravan Routes of Sahrana
 
 The camel calls are most extensively used along the principal caravan routes of [Sahrana](/content/location/natural/continent/sahrana), including the [Kharesh Caravan Way](/content/location/route/trade/kharesh-caravan-way) connecting inland cities to the coast. The principal routes are travelled by the great caravans of the [Vashari Pact](/content/government/national/vashari-pact) and by smaller caravans of independent merchants operating from the inland oases. The drivers serving upon the routes are trained in the customary use of the calls during long apprenticeship. The system is also used at the inland stops where caravans gather for the customary night halt, employed for the direction of camels being watered or unloaded. The settled peoples of the coastal cities who deal with the caravans are generally aware of the calls but few have learned to sound them with customary precision, and they rely upon drivers and salawa for the direction of camels they employ.
 
-## Relation to Other Desert Systems
+## Camel Calls and Other Desert Codes
 
 The camel calls are distinct from the [Kharesh Trail Markers](/content/language/pseudo/kharesh-trail-markers) employed for marking routes, though the two systems are used in combination at principal caravan stops. The trail markers are the code of the route, enduring from one season to the next; the camel calls are the code of the caravan, sounded for the moment and repeated each time direction is required. The camel calls are also distinct from the [Khareshi](/content/language/pseudo/khareshi) whistled signals employed for short-range communication across the open desert. The whistled signals are a code of human communication across open wastes, while the camel calls are a code of animal direction operating at the customary distance between driver and camel. The two systems are complementary; a driver skilled in both may coordinate movements of camels and other drivers in a single operation.
 
-## Significance
+## Voice of the Driver
 
 The Sahrani Camel Calls are the voice of the driver in the desert caravan, the means by which the camel drivers and salawa guides of [Sahrana](/content/location/natural/continent/sahrana) direct the conduct of the camels carrying the goods of the trade across the [Kharesh](/content/location/natural/feature/kharesh). Without the camel calls, the direction of the camels would be far more difficult and uncertain, dependent upon uncertain hand signals and unreliable responses to unaccustomed voices. The system is a practical invention born of the necessities of the caravan trade, a measure of the ingenuity by which the desert peoples have mastered the animals upon which the trade depends. In the silence of the open desert where the traveller hears only the wind and the pad of the camels' feet, the driver sounds the customary calls, and the calls carry the direction of the caravan from the front of the line to the rear.
 

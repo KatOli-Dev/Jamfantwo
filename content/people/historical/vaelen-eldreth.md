@@ -3,11 +3,11 @@ layout: default
 title: Vaelen Eldreth
 ---
 
-## Overview
+## The High Chronicler of the Natural World
 
 Vaelen Eldreth is the most revered of the ancient scholars of [Aethelar](/content/location/natural/continent/aethelar), the compiler of the first comprehensive natural history of the known world and the founder of the method of systematic observation that the natural sciences of the present age still employ. His great work, the [Known-World Codex](/content/magic/relic/codex-of-the-known-world), was completed after more than three decades of travel and study and remains the single most influential work of natural philosophy in the history of the continents. The chronicles of Vaelen Eldreth's life are better preserved than those of most figures of his age, for his own writings contain many references to his travels and methods, and the institutions that his work inspired have maintained his records with scrupulous care. He was born in the city of [Eldreth](/content/location/settlement/city/eldreth) in the latter half of the second age, and his lifespan of one hundred and four years was devoted with singular purpose to the observation and classification of the natural world.
 
-## The Great Chronicle
+## Thirty-Three Years of Travel and Observation
 
 The Known-World Codex, the work upon which Vaelen Eldreth's reputation rests, was begun in his thirty-fifth year and completed in his sixty-eighth, a span of thirty-three years during which he travelled to every continent and region of the known world accessible to a solitary scholar of modest means. The Codex is divided into seven books, each treating a different aspect of the natural order: the first describes the geography and climate of the continents, the second the flora of the known world, the third the fauna, the fourth the sapient peoples, the fifth the minerals and metals, the sixth the waters and currents, and the seventh the heavens and the measurement of time.
 
@@ -19,7 +19,7 @@ The book on the geography of the continents contains the earliest surviving desc
 
 The greatest difficulty that Vaelen Eldreth faced in the compilation of the Codex was the sheer scale of the task. The known world of his age was far larger and more diverse than the chroniclers of the previous century had supposed, and every journey he undertook revealed new species, new peoples, and new phenomena demanding inclusion. He revised the text of the Codex three times before he was satisfied with its completeness; the final revision required the copying of the entire work by a team of scribes who worked under his supervision for five years.
 
-## Scholarship
+## Classification, Climate, and the Boundaries of Knowledge
 
 Vaelen Eldreth was not merely a compiler of observations but a theorist of the natural order. The Codex contains the first systematic attempt to classify the living things of the known world according to their shared characteristics. The system he developed grouped organisms by the structure of their bodies, the manner of their reproduction, and the environments in which they were found. The categories he established have been refined by naturalists of the later age but not fundamentally altered. The naturalists of the present age still use the Vaelenic classification, and the names he assigned to the major groups of plants and animals are the standard terms of the natural sciences.
 
@@ -29,7 +29,7 @@ Vaelen Eldreth established the library of Eldreth as the principal repository of
 
 The influence of Vaelen Eldreth's scholarship extended beyond the natural sciences into history and geography. The Codex contains the earliest systematic description of the political boundaries of the known world, including the [Aldreth](/content/government/national/aldreth), the [Vael](/content/government/national/vael), the [Amurra Republic](/content/government/national/amurra-republic), the [Auric Isles](/content/government/national/auric-isles), the [Kharesh Tribes](/content/government/national/kharesh-tribes), the [Plains Confederation](/content/government/national/plains-confederation), and the other realms and leagues that divided the continents among them. The account of the governments and peoples of the known world that he included in his work is the most comprehensive that has survived from the age and is the primary source for the study of the political history of the period.
 
-## Influence
+## The Codex as the Foundation of Science
 
 The influence of Vaelen Eldreth on the intellectual life of the known world is difficult to overstate. The Known-World Codex was copied and recopied in every centre of learning. The copies carried to the libraries of the [Thessaran League](/content/government/national/thessaran-league), the [Vashari Pact](/content/government/national/vashari-pact), the [Karhold Realm](/content/government/national/karhold-realm), and the [Stoneheim Holds](/content/government/national/stoneheim-holds) became the foundation of the natural sciences in those regions. The method of systematic observation that he established was adopted by scholars of every continent, and the principles of careful recording and clear distinction between observation and inference became the standard of the natural sciences.
 

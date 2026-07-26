@@ -3,52 +3,52 @@ layout: default
 title: Crown Range
 ---
 
-## Overview
+## The Crescent Highlands of Thessara
 
 The Crown Range is the set of highlands whose ridges form a broad crescent around the central valleys of [Thessara](/content/location/natural/continent/thessara), serving as the spine and the watershed of the continent. The mountains are not continuous walls but open into passes, stair-stepped plateaus, and high meadows, allowing roads to cross the continent while still dividing its waters. The range is at once a barrier and a corridor, for the same openings that allow the passage of roads also divide the rivers that descend to the two coasts. The Crown Range must not be confused with the [Sunken Crown](/content/location/natural/feature/sunken-crown) of [Ashara](/content/location/natural/continent/ashara), a separate highland of the warm continent to the south, distinguished by climate, geology, and the peoples who inhabit their slopes.
 
-## Ridges and Highlands
+## Arc of Summits, High Meadows, and the Shepherds' Domain
 
 The ridges of the Crown Range rise in a broad arc from the northern capes of Thessara to the southern hills, and the central peaks are high enough to retain snow through much of the warm season. The summits are bare and wind-scoured, and the snowfields feed the rivers descending to the two coasts. The high meadows below the snowline are the domain of the shepherds of the range, who move their flocks between summer pasture on the open grass and winter shelter in the sheltered valleys. The Thessaran Highlands begin above the last orchards and extend across the upper valleys, where thin soils and strong winds favour grasses, juniper, and low flowering shrubs that complete their bloom before the grazing herds arrive.
 
 The lower slopes are covered in pine and cedar, thinning with altitude until they give way to open meadows and bare rock on the highest crests. The range is crossed by many valleys, but the great majority are too steep or too narrow for roads, and the routes that caravans and merchants follow are confined to the few passes that have been recorded with care. The stair-stepped plateaus that interrupt the descent from the summits to the lower slopes are a peculiar feature of the range, serving as sites for highland villages and summer pastures that sustain the communities of the upper valleys.
 
-## The Western Slope
+## Short, Swift Rivers and the Elven Cedar Woods
 
 The western slope of the Crown Range is steep and wet, for the prevailing weather of Thessara drives the rains against the western face. The rivers descending from the highland snows are short, swift, and full through most of the year, cutting through dark stone in narrow gorges that open at the coast into narrow estuaries bordered by marsh and reed beds. These estuaries are difficult to navigate, and the harbours of the western coast are few and small, set in the mouths of larger rivers where the water is deep enough to shelter a vessel of moderate draught.
 
 The forests of the western slope are dense, and the lower valleys are the home of [elves](/content/species/sapient/elves) who inhabit the northern cedar woods and the high valleys where streams remain cool throughout the summer. The elven settlements are small and widely spaced, and their forest management favours mixed stands rather than a single useful tree, for the elven principle is to take without diminishing the woodland. The elven presence upon the western slope is among the most ancient in Thessara, and the elves of the range are held in particular respect by the highland communities for their knowledge of the weather and the water.
 
-## The Eastern Slope
+## Gentler Drier Valleys and the Alluvial Terraces
 
 The eastern slope of the Crown Range is gentler and drier than the western, for the rains have already fallen upon the western face, and the air that descends to the east is comparatively warm and dry. The rivers are longer and slower, crossing broad terraces and long alluvial fans before reaching the eastern coast. The terraces are the most densely settled lands of Thessara, and the villages that occupy them grow grain, olives, and fruit upon the deep soils that the rivers have laid down over the centuries. The alluvial fans at the mouths of the highland valleys are the richest of the eastern farmlands, and the orchards planted upon them produce figs, grapes, and olives that are among the most valued products of the continent.
 
 The human population of the eastern slope is the largest in Thessara, and the villages are arranged around communal wells and along the roads that follow the terraces. The architecture reflects the climate, with low buildings of stone, broad eaves, and shaded courtyards that catch the breeze in the summer heat. The terraces require constant maintenance, for the rivers that built them are capable of taking them away, and the terrace walls are rebuilt and strengthened after every flood that summer storms bring down from the highland valleys.
 
-## The Central Basin and the Roads
+## The Limestone Basin and the Ancient Road
 
 Between the two slopes of the Crown Range lies a basin of pale limestone, honey-coloured in the afternoon light, whose level floor and gentle gradient have served as the principal route across the continent since the first settled communities appeared. The basin is not a single valley but a chain of linked plains, each separated from the next by a low ridge of harder stone, and the roads that follow it connect the eastern and western coasts by way of the passes descending from the highland meadows. The basin has been a highway for so long that the wear of wheels and hooves is visible in the surface of the limestone, and the road is one of the oldest in Thessara.
 
 The towns of the basin are staging points for caravans crossing the range, and their merchants maintain the inns, warehouses, and workshops that the road requires. The [gnomes](/content/species/sapient/gnomes) of the lower passes have established workshops in the basin towns, producing survey instruments, glazed pottery, and small water devices for the farmers of the terraces and the highland meadows. The basin is the most cosmopolitan part of the range, for the road brings together highland shepherds, eastern farmers, western fishermen, and merchants of the coastal cities, and the markets of the basin towns are among the most varied in Thessara.
 
-## The Passes
+## The Openings Through the Highlands
 
 The passes of the Crown Range are the openings that allow the road across the continent to follow its course. The most reliable of the central passes is the [Amber Pass](/content/location/natural/feature/amber-pass), whose road is closed only during the worst winter storms. The Amber Pass is not the highest of the central crossings, but its stone floor drains well, its springs remain available through the dry season, and its approaches are gentle enough that laden animals can traverse them in safety. The other passes of the range are more difficult, and several are open only during the warmest weeks of summer, when the snow has retreated from the high meadows and the rivers crossing the roads are low enough to be forded.
 
 The passes are maintained by the highland communities that inhabit the approaches, a communal obligation that the [Thessaran League](/content/government/national/thessaran-league) has recorded as a foundation of the trust between the highland and lowland peoples. Refuge halls are maintained at the highest points of the principal passes, stocked with dried meat, peat, and spare timber for travellers caught by the weather. The highland wardens keep the roads clear of snow during the weeks when the crossings are open. The loss of a pass is a disaster for communities on both sides of the range, and the maintenance of the crossings is a duty not neglected in any season.
 
-## Mineral Wealth and the Dwarven Works
+## Iron, Tin, and the Underground Galleries
 
 The Crown Range is rich in iron, tin, and coloured stone that the craftsmen of the continent value, and the mines opened in the highland valleys are among the most productive in Thessara. The [dwarves](/content/species/sapient/dwarves) of the range have worked the veins of metal and stone for many generations, and their galleries and shafts form a network of passages extending beneath several of the principal ridges. The dwarf miners have also driven drainage galleries and built cisterns beneath the highland meadows, and the water they collect feeds the streams that supply the headwaters of the eastern rivers. The dwarven works are among the most extensive in the continent, and the miners of the range are held in particular respect for the skill and patience that their craft requires.
 
 The metals and stone that the dwarves extract are transported down the eastern slope to the coastal cities, where they are exchanged for grain, cloth, and manufactured goods that the highland mines cannot produce. The caravans carrying metal and stone are among the heaviest that travel the roads of Thessara, and the drovers who handle them are a distinct and valued body of craftsmen. The dwarven metalwork of the Crown Range is of a quality recognised throughout the continent, and the iron and tin of the range are the foundation of the tool-making and metalwork of the eastern cities.
 
-## The Agreement with the Valleys
+## The Water-Sharing Compacts
 
 The drainage galleries and cisterns built beneath the Crown Range are subject to agreements that keep the underground channels open to the downstream villages of the eastern valleys. The agreements were drawn up in the early years of the Thessaran League and are renewed at regular meetings of the highland wardens and the valley councils. The terms require that the dwarven works do not divert water from the channels supplying the villages, and that the galleries are kept open so that water not entering the dwarven workings continues to flow to the streams that farmers depend upon. The agreements have been observed without serious interruption for many generations, and the trust between highland miners and lowland farmers is a foundation of the prosperity of the continent.
 
 The agreement is administered by panels composed of representatives from upstream and downstream communities, meeting each year to review the state of the water and the state of the galleries. The agreement is the model for other arrangements that the league maintains between highland and lowland communities, and the observation of the terms is regarded as a measure of the public spirit of the parties. The dwarves accept the limits upon their works because the works cannot be maintained without the goodwill of the farmers, and the farmers accept the presence of the works because the metal and stone of the range are resources they themselves require.
 
-## Significance
+## Spine, Watershed, and Inheritance
 
 The Crown Range is the spine and the watershed of Thessara, and its ridges, passes, meadows, and mines are the inheritance that the continent has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of metal and a foundation of agreement. The prosperity of the continent is bound up with the health of the range, and the maintenance of the passes, drainage, and mining works is a duty shared by every people whose lands depend upon the water and stone that the highland provides.

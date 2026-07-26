@@ -3,11 +3,11 @@ layout: default
 title: Plains Confederation
 ---
 
-## Overview
+## Alliance of Grassland Cities and Centaur Kindreds
 
 The Plains Confederation is an alliance of the central grassland cities and the pastoral peoples of [Aethelar](/content/location/natural/continent/aethelar), united by their common interest in the management of the grasslands and the trade that flows across them. The confederation is not a kingdom but a co-operative association, and its members include both the settled cities of the plains and the nomadic [centaur](/content/species/sapient/centaurs) kindreds that range across the open grass. The Plains Confederation is the primary political entity of the central grasslands, and its influence extends across the full extent of the plains, from the foothills of the mountain spine to the river valleys of the east.
 
-## The Member Cities and the Centaurs
+## Settled Towns and Nomadic Riders
 
 The Plains Confederation includes the principal cities of the central grasslands, drawn from the settlements that share in the agricultural and pastoral economy of the plains. [Avaros](/content/location/settlement/city/avaros) is the largest and most influential member, and its granaries and market are the primary institutions of the grassland economy. [Goldmeadow](/content/location/settlement/city/goldmeadow) is a valued member, commanding the meeting of river and road at the centre of the plains. [Stagford](/content/location/settlement/city/stagford) is a significant member, controlling the primary river crossing of the central grasslands. [Sunmere](/content/location/settlement/city/sunmere) is the largest city of the southern plains. [Dustford](/content/location/settlement/town/dustford) and [Redhollow](/content/location/settlement/town/redhollow) are the frontier members, marking the southern edge of the confederation's territory.
 
@@ -15,37 +15,37 @@ The centaur kindreds of the grasslands are full members of the confederation, an
 
 The centaur kindreds that are members include the principal kindreds of the central grasslands, and the elders of each kindred serve as representatives on the council. The kindreds are nomadic, and their movements across the plains are governed by the seasons and the availability of grazing, but the elders gather for council meetings at designated meeting places at the crossroads of the grassland routes. The meeting places are marked by stone circles that the centaurs have built at traditional gathering points, and the stone circles are the most distinctive monuments of the plains.
 
-## Governance and the Council
+## Three Annual Councils and Representation
 
 The Plains Confederation is governed by a council of representatives from each member city and each centaur kindred. The representatives of the settled cities are chosen by popular vote of all free adults in each community who have reached the age of majority, regardless of species, gender, or wealth. Among the centaur kindreds, the elders who serve as representatives must command the consent of their kindreds to hold their seats, and a kindred that loses confidence in its elder may set aside that elder at any gathering and choose another. The franchise among the nomadic peoples is exercised through open deliberation at the kindred fires, where every adult member of the kindred may speak and vote. The council meets regularly to co-ordinate trade, agriculture, and defence of the grasslands. Its decisions are binding on all members, and the confederation has the power to levy contributions, negotiate treaties, and dispatch a collective force in times of need. The governance of the confederation is a model of co-operation between settled and nomadic peoples, and the council is among the most inclusive political institutions in Aethelar.
 
 The council meets three times each year at meeting places situated at the crossroads of the grassland routes. The spring council is the most important, for it is the occasion at which plans for the coming season are made and arrangements for grazing and planting are agreed. The summer council is a shorter affair, concerned with the management of trade and resolution of any disputes arising during the season. The autumn council is the occasion at which the harvest is assessed, contributions are levied, and preparations for winter are co-ordinated.
 
-## The Open Grass Assembly
+## Open Deliberation and Citizen Voice
 
 Alongside the council of representatives, each council meeting is preceded by an Open Grass Assembly, a gathering open to any member of the confederation who wishes to attend. At the Open Grass Assembly, any citizen of the confederation may bring a concern before the gathered communities, propose a course of action, or speak against a council decision. The Assembly has no formal authority to overrule the council, but its deliberations carry weight, and a council that ignores a clear consensus of the Assembly risks unrest and, in extreme cases, the withdrawal of member communities. The Assembly is the means by which the ordinary people of the plains the farmers, herders, traders, and craftworkers make their voices heard in the affairs of the confederation.
 
 The Open Grass Assembly gathers in a great circle at the edge of the council meeting place, with the representatives seated in the centre and any citizen who wishes to speak standing in the open space before them. Speakers are heard in order of request, and the council is expected to respond to each concern before proceeding to its own business. The Assembly is also the occasion at which representatives are held to account: any citizen may question a representative about decisions taken at the previous council or about the conduct of the representative since the last meeting. A representative who cannot satisfy the Assembly may face a motion of recall, which, if carried by a majority of those present, triggers a new election in the representative's home community.
 
-## The Rights of the Plains
+## Principles That No Council May Set Aside
 
 The confederation is founded upon a set of principles known as the Rights of the Plains, which no council may set aside. These include the right of every free adult to speak at the Open Grass Assembly, the right of every community to choose its own representative by whatever method it prefers, the right of petition by which any citizen may submit a written concern to the council, and the right of recall by which a community may replace a representative who has lost its trust. The Rights of the Plains are recited at the opening of every council session, and any council decision found to violate them may be challenged before a panel of elders drawn from communities not party to the dispute. The Rights were established gradually over the history of the confederation, with each addition arising from a specific dispute or grievance that the confederation resolved by extending rather than restricting the voice of its members.
 
-## Trade and the Grasslands
+## Grain, Wool, and the Grassland Economy
 
 The trade of the Plains Confederation is dominated by the agricultural products of the grasslands. Grain, wool, and leather produced on the plains are exported to the markets of the coast and interior through the river and road network that connects the confederation to the rest of the continent. The confederation co-ordinates the management of grazing lands and agricultural land, ensuring that the plains are used sustainably and that the interests of settled and nomadic peoples are balanced. The confederation also maintains the roads and bridges that are the arteries of grassland trade, and tolls on these routes are a significant source of revenue.
 
-## History and Foundation
+## The Founding Accord of 340
 
 The founding of the Plains Confederation is dated to the year 340, when the cities of the central grasslands and the centaur kindreds first agreed to co-operative management of the grasslands and the trade flowing across them. The founding was a response to pressures arising from unregulated expansion of settled agriculture and unmanaged grazing of nomadic herds. The agreement that established the confederation was a compromise that balanced the interests of settled and nomadic peoples. The founding council consisted of representatives of the principal cities and elders of the principal kindreds, and the council has met regularly since that first gathering.
 
 The history of the confederation is one of gradual expansion. The alliance has grown over the centuries as additional cities and kindreds joined the council. The admission of Sunmere in the year 412 was a significant event, for inclusion of the largest city of the southern plains extended the influence of the confederation to the full extent of the grasslands. The admission of the frontier members, Dustford and Redhollow, in the following century extended the territory to the southern edge of the plains. The confederation now encompasses the full extent of the central grasslands from the foothills of the mountain spine to the river valleys of the east.
 
-## Significance
+## Inclusiveness Across Ways of Life
 
 The Plains Confederation is the primary political entity of the central grasslands, and its co-operation between settled cities and nomadic centaurs is a model of accommodation that has shaped the culture and economy of the plains. The confederation's agricultural wealth and management of the grasslands are a significant component of the economy of Aethelar, and its trade connects the interior of the continent to the markets of the coast. The significance of the Plains Confederation lies in its inclusiveness, its democratic principles, and its capacity for co-operation between peoples of different ways of life. The confederation symbolises the balance between settled and nomadic peoples characteristic of the central grasslands and stands as the most broadly participatory political order in the known world.
 
-## The Roads and Trade Routes
+## Arteries of the Plains Commerce
 
 The roads and bridges that the confederation maintains are the arteries of grassland trade. The network of routes connecting member cities and centaur kindreds is the most extensive and best-maintained in the interior of Aethelar. The roads are built and maintained by contributions of the member cities and labour of the centaur kindreds, and tolls collected on the routes are a significant source of revenue for the confederation. The roads are broad and well-paved, for the traffic that uses them is heavy and constant. Caravans travelling the routes carry grain, wool, and leather to the markets of the coast and interior.
 

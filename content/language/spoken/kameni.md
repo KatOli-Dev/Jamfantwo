@@ -3,37 +3,37 @@ layout: default
 title: Kameni
 ---
 
-## Overview
+## About Kameni
 
 Kameni is the speech of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), used in the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) and the trade towns that lie at the foot of the passes. The language is most closely associated with the dwarven halls that occupy the high country. Kameni is spoken as a first language by the human populations of the highland valleys and as a second language by the elven communities of the wooded foothills and by every merchant who requires a working knowledge of the mountain trade. The name is taken from the old word for stone in the speech of the highland smiths, and the language is sometimes called the stonemason's tongue by the lowland traders who employ it for negotiation of contracts and settlement of weights and prices.
 
 The origins of Kameni lie in the speech of the earliest dwarf communities of the mountain spine. The language has grown over the centuries through contact with the [Aethelari](/content/language/spoken/aethelari) of the heartland and the [Morvindi](/content/language/spoken/morvindi) traders who cross the [Velden Strait](/content/location/natural/feature/strait-of-velden) to reach the southern markets. Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that highland speakers no longer recognise as foreign. The result is a language of considerable precision, suited to the description of metals, stones, and the patient business of the workshop, and capable of adaptation to the specialised vocabularies of the mine, the forge, and the counting house of the highland guilds.
 
-## Sounds
+## Sound and Script
 
 Kameni is spoken in a register that is sharper and more clipped than the common speech of the heartland. Lowland visitors often remark upon the distinctness of every syllable and the absence of the soft linking sounds that mark the [Aethelari](/content/language/spoken/aethelari) of the central plains. The consonants are numerous, and the language distinguishes several sounds the lowland speech has merged, particularly in the cluster of unvoiced stops occurring at the beginning of many highland words. The vowels are fewer than in the lowland speech. Highland singers use the consonantal range to produce the striking percussive effects that mark the music of the mountain halls. Pitch is a matter of custom rather than meaning; highland speakers tend to speak with a flatter pitch than lowland speakers, in unconscious imitation of the working register of the smith and the mason.
 
 The script of Kameni is alphabetic, with thirty-one marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the angular signs that dwarven stonemasons cut into the lintels of the highland halls, with borrowings from the elven tree script in the marks used for sounds the older dwarven script did not distinguish. The marks are incised into stone or metal for records of the highland guilds, and painted or printed upon parchment for correspondence of the trade towns. Writing is taught in schools of the larger highland settlements to children of every species who require it for the business of the mountain trade.
 
-## Vocabulary and Borrowing
+## Stone Words and Loanwords
 
 The vocabulary of Kameni is rich in words for metals, stones, ores, tools, and the procedures of the workshop. The language has more words for the grades of iron, the kinds of stone, the kinds of joint, and the stages of the smith's work than any of the languages of the lowlands. The vocabulary is also rich in words for the relations of the workshop, the ranks of the guild, and the customary obligations of apprentice, journeyman, and master, for the highland halls have long been governed by a customary law of the craft requiring precise language for the conduct of guild business. Highland compounds are formed by joining two or more simple words, used in the formal speech of the guilds and the councils of the highland halls.
 
 Kameni has borrowed from the [Aethelari](/content/language/spoken/aethelari) of the lowland heartland a set of words for the cultivated land, the seasons, and the relations of neighbourhood required for trade with lowland towns. These borrowings are recognised as belonging to the trade of the merchant rather than the craft of the smith, and highland speakers are careful to use the lowland word in the lowland context and the highland word in the highland context. A small number of words have also been borrowed from the elven [Quessan](/content/language/spoken/quessan) of the wooded foothills, chiefly the names of trees, birds, and small creatures of the lower slopes required for describing materials of the craft.
 
-## Speech
+## Registers of the Language
 
 Kameni is the language of the highland guilds, conducted in a register that is precise and technical, suited to the careful description of work and the patient negotiation of contracts governing the highland trade. The guild register uses a set of fixed phrases for the opening of a contract, the testing of a piece of work, and the closing of a bargain, known to every master of the highland halls. These phrases are intelligible to apprentices of fourteen or fifteen years who have served the customary term, a measure of the care with which the forms are transmitted from master to apprentice in the workshops.
 
 Kameni is also the language of the highland councils, conducted in a more formal register preserved by the elders of the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the principal trade towns of the mountain spine. The formal register is used for public announcements of highland magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Kameni who has had a customary education in the workshop. The formal register borrows a small number of phrases from the older speech of the highland halls, treated as marks of dignity and authority.
 
-## Relations
+## Kameni and Neighbouring Tongues
 
 Kameni stands in a complex relation to the languages of the regions surrounding the mountain spine. It is intelligible, with some adjustment, to speakers of the lowland [Aethelari](/content/language/spoken/aethelari) of the heartland, and intelligibility is greater in border towns than in the deeper interior of either tongue. The relationship between Kameni and the [Karathi](/content/language/spoken/karathi) of the [Morvind](/content/location/natural/continent/morvind) interior is closer still, for the two languages share a long history of contact across the [Velden Strait](/content/location/natural/feature/strait-of-velden), and speakers of one are commonly able to follow the speech of the other after a short period of adjustment. Highland smiths note that the Morvindi speech lacks the precision of the highland tongue in describing metals and stones.
 
 The relation of Kameni to the elven [Quessan](/content/language/spoken/quessan) is the subject of scholarly dispute, for the two languages have borrowed vocabulary from one another over the centuries. Highland speakers tend to treat Quessan as a learned accomplishment rather than a working language, and elven communities of the foothills treat Kameni as the necessary medium of the mountain trade. The relation of Kameni to the dwarven speech of [Morvind](/content/location/natural/continent/morvind) is disputed among scholars of the highland halls, who remark that the question is not one the highland people are inclined to answer.
 
-## Significance
+## Stonemason's Tongue of the Spine
 
 Kameni is the speech of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), the language of the highland guilds and councils, the medium of the mountain trade, and the first or second language of nearly every speaker of every species who dwells or trades among the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands). It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of highland craftsmen and the patient correction of the workshops. It is one of the most precise of the languages of the known world, a measure of the central place the highland halls have held in the metalwork and stonework of the continent since the earliest dwarven settlements were established along the mountain spine.
 

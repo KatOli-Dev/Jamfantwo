@@ -3,11 +3,11 @@ layout: default
 title: Avaros
 ---
 
-## Overview
+## Agricultural Heart of the Central Grasslands
 
 Avaros is a great agricultural city of the central grasslands of [Aethelar](/content/location/natural/continent/aethelar), situated in the heart of the most productive farming region of the continent. The city stands on a low rise in the middle of the open plain, where grassland stretches in every direction to the horizon. Its position at the centre of the grasslands has made it the primary market and principal depot for the grain, livestock, and other products of the region. Avaros is a large, prosperous city whose wealth is built upon the fertility of the soil and the industry of the farmers who work it.
 
-## The Grasslands and the Agriculture
+## Deep Soil, the Granaries, and the Centaur Pastoralism
 
 The central grasslands of Aethelar are among the most productive agricultural regions in the known world, and the land around Avaros is the richest portion of the grasslands. The soil is deep and dark, formed over centuries from the decay of prairie grasses, and it produces grain in abundance along with other crops grown in the region. The agriculture of the grasslands is a mixture of large-scale grain production and the pastoralism of the [centaur](/content/species/sapient/centaurs) kindreds, and the two systems coexist in a relationship that is generally beneficial to both.
 
@@ -15,7 +15,7 @@ The grain produced on the farms around Avaros is the primary export of the city.
 
 The pastoralism of the centaur kindreds is the other pillar of the agricultural economy. The herds of horses and cattle tended on the open plain form a significant part of the region's output. The centaurs are nomadic, their movements across the grasslands governed by the seasons and the availability of pasture. The relationship between the settled farmers and the nomadic herders is governed by a body of custom that has developed over centuries, and the rights of pasture, water, and passage are regulated by agreements renegotiated each year at the market of Avaros. The system is not without tensions, but the mutual benefit of the trade has sustained a working relationship that is among the most successful examples of co-operation between the settled and nomadic peoples of the continent. The annual renegotiation is presided over by a mediator chosen alternately from the human and centaur communities, a practice that has prevented the breakdown of talks in times of dispute.
 
-## The City
+## Broad Streets, Silos, and the Vast Market Square
 
 Avaros is a large, open city whose architecture reflects the character of the grasslands. Broad streets, low buildings, and wide-open spaces accommodate the market, the granaries, and the stockyards that are the primary institutions of the settlement. The buildings are constructed of light-coloured stone quarried from the occasional outcrops that rise from the plain, and the roofs are pitched to shed the rain that comes in sudden, heavy storms during the summer months. The granaries are the most prominent structures in the city, their great silos rising above the rooftops, visible for miles across the flat expanse of the plain. The walls of the granaries are thick and sealed against damp, and the interiors are ventilated by a system of channels that allow air to circulate and keep the grain dry.
 
@@ -23,11 +23,11 @@ The stockyards of Avaros are the other great institution of the city. The pens a
 
 The market square of Avaros is one of the largest in the known world. The market held there is the primary point of exchange for the agricultural products of the grasslands and the manufactured goods imported from the coast and the interior. The [centaurs](/content/species/sapient/centaurs) of the surrounding plains are regular visitors, and the trade between settled humans and nomadic centaurs is the lifeblood of the city's commerce. The market is held each week, and the crowds that gather include farmers, traders, craftsmen, and centaur herders who come to buy and sell, exchange news, and settle the business of the plains.
 
-## Significance
+## Breadbasket of the Continent
 
 Avaros is the agricultural heart of Aethelar. The grain produced, stored, and traded in the city feeds a significant portion of the continent. Avaros is the largest and most prosperous settlement of the central grasslands and the primary member of the [Plains Confederation](/content/government/national/plains-confederation), the alliance of grassland cities and pastoral peoples. The prosperity of Avaros is a direct consequence of the fertility of the land and the industry of its people, and the city stands as a symbol of the agricultural wealth that is the foundation of the economy of Aethelar.
 
-## History
+## Farming Village to the Seat of the Confederation
 
 Avaros was founded in the early centuries of human settlement in the central grasslands. The site was chosen for the low rise that provided a defensible position in the open plain and for its proximity to the river that watered the surrounding fields. The earliest settlement was a farming village, and the fertility of the soil encouraged the growth of the community. The granaries were built as the surplus of the harvest grew beyond the needs of the local population, and the grain trade that developed around them transformed the village into a town and then a city.
 

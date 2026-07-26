@@ -3,11 +3,11 @@ layout: default
 title: Grimhold
 ---
 
-## Overview
+## Dwarven Fortress-City in the Deep Interior
 
 Grimhold is a [dwarven](/content/species/sapient/dwarves) fortress-city in the deep interior of [Morvind](/content/location/natural/continent/morvind), situated in a region where the mountain ranges are at their most rugged and the passes at their most difficult. The city is carved into the rock of a great peak that dominates the surrounding ranges, and its fortifications are among the most extensive and impressive of any dwarven settlement. Grimhold is both a city and a fortress, and its primary function is the defence of the deep interior and the maintenance of the routes connecting the interior ranges to the coast.
 
-## The Fortress
+## Walls Carved from Living Rock and the Deep Forges
 
 The fortress of Grimhold is the dominant feature of the city. Its walls and towers are carved from the living rock of the peak, rising from the mountainside in a series of terraces and battlements that command every approach. The gates of Grimhold are cut through the rock of the mountain, and the passages leading to them are narrow and easily defended, for the city was built in an age when the interior was less secure and the threat of attack from the wild peoples of the deep interior was a constant concern. The fortifications have been maintained and reinforced over the centuries, and the garrison of Grimhold is among the largest and most professional in the dwarven world. The outer walls are fitted with devices that dwarven engineers have developed for the defence of a mountain fortress, including channels that direct boiling water and heated oil onto the approaches and mechanisms that can seal the gates with blocks of stone lowered from above.
 
@@ -15,18 +15,18 @@ The halls of Grimhold are carved into the interior of the peak. The dwellings, f
 
 The deep forges of Grimhold are fed by veins of iron and coal that run through the mountain. The smiths of the city produce weapons and armour of a quality noted throughout the dwarven world. The armourers of Grimhold are skilled in the forging of the heavy plate worn by dwarven warriors of the interior, and the blades produced in the deep forges are tempered to a hardness rivalled only by the finest work of the dwarven smiths of [Karhold](/content/location/settlement/city/karhold). The production of the forges is reserved chiefly for the garrison and the clans of the interior, and the surplus is traded through the routes that connect the deep interior to the coast.
 
-## The Deep Interior
+## The Frostwall Clans and the Remote Ranges
 
 The deep interior of Morvind is the most remote and rugged region of the continent. The [Frostwall Clans](/content/government/national/frostwall-clans), the dwarven clans that inhabit this region, serve as its guardians. Grimhold is the principal fortress of the Frostwall Clans, serving as the base for the defence of the interior and the maintenance of the routes that connect the interior ranges to the coast. The routes passing through the deep interior are few and difficult, but they are the only overland connections between the eastern and western portions of the Morvind ranges, and their maintenance is a vital function of the Grimhold garrison.
 
 The wild peoples of the deep interior, including the [orcs](/content/species/sapient/orcs) and [lupines](/content/species/sapient/lupines) of the cold steppes, are a constant presence in the region. The relationship between the dwarves and the wild peoples is one of mutual wariness. The fortress of Grimhold serves as a deterrent against any threat from the interior, and the garrison is prepared to defend the passes and routes that are the lifelines of the dwarven interior.
 
-## The City and the Clans
+## Council of Clan Chiefs and the Garrison Rhythm
 
 Grimhold is the capital of the [Frostwall Clans](/content/government/national/frostwall-clans) and the seat of the council of clan chiefs that govern the deep interior. The population is entirely [dwarven](/content/species/sapient/dwarves), and the community is oriented toward the military function that is the reason for the city's existence. The dwarves of Grimhold are among the hardiest and most martial in Morvind, for the deep interior is a demanding environment and the defence of the region is a constant responsibility. The council of clan chiefs meets in the great hall, and the chiefs are the hereditary leaders of the families that have inhabited the deep interior for centuries, each responsible for the welfare and conduct of the members of the clan.
 
 Daily life in Grimhold is organised around the rhythm of the garrison and the forges. The dwarves follow a schedule dictated by the demands of defence and production. The warriors of the garrison train in the passages and courtyards carved into the mountain, and training is continuous, for the readiness of the garrison is the foundation of the security of the deep interior. The smiths work in shifts that keep the forges burning through day and night, and the output of the forges is distributed according to the needs of the garrison and the clans.
 
-## Significance
+## Guardian of the Interior Routes
 
 Grimhold is the principal fortress of the deep interior of Morvind, and its garrison is the guardian of the routes that connect the interior ranges to the coast. The city is the capital of the [Frostwall Clans](/content/government/national/frostwall-clans), and its military function is the foundation of its significance. The fortress of Grimhold is a symbol of the dwarven commitment to the defence of the interior, and the city is a testament to the capacity of the dwarven people to establish and maintain secure settlements in the most remote and demanding environments. The presence of Grimhold ensures that the deep interior of Morvind remains accessible and that the routes through the mountains are kept open, and the city's contribution to the security of the continent is far greater than its remote location would suggest.

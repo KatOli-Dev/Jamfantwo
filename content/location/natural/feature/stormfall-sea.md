@@ -3,23 +3,23 @@ layout: default
 title: Stormfall Sea
 ---
 
-## Overview
+## The Sea That Separates Morvind from Aethelar
 
 The [Stormfall](/content/location/natural/continent/stormfall) Sea separates [Morvind](/content/location/natural/continent/morvind) from [Aethelar](/content/location/natural/continent/aethelar). It is named for the spirited weather systems that move across it, particularly during the autumn and winter months, when the clash of cold air from the north and warmer air from the south produces gales of considerable ferocity. Despite its reputation, the Stormfall Sea is a vital passage for the movement of goods and people between the two continents, and its crossing has been mastered by generations of skilled northern mariners who have learned to read its moods and to time their voyages to the rhythm of its seasons.
 
-## Conditions and Navigation
+## Shallow Waters, Treacherous Shoals, and the Safe Channels
 
 The sea is relatively shallow compared to the great oceans, and its floor is marked by rocky shoals and submerged ridges that keep pilots on their guard. The shallowness contributes to the violence of its storms, for the waves build quickly over the shallow bottom and reach heights that would be impossible in deeper water. Shipwrecks are not uncommon on the Stormfall, and the coastlines of both continents are littered with the bones of vessels caught by the weather or driven aground by the treacherous currents swirling around the shoals.
 
 Experienced sailors from both coasts have charted safe passages and passed this knowledge from one generation to the next. These charts are closely guarded family secrets in some communities, and the pilots who hold them are among the most respected members of the maritime community. The safe routes thread between the shoals and ridges, following channels deep enough for safe passage but narrow enough that a miscalculation can be disastrous. During the calmer months of late spring and early summer, the Stormfall takes on a stillness that belies its name, and the crossing can be made in fair weather under clear skies. These calm seasons are when the majority of trade between the northern and central continents takes place, and the ports on either side fill with merchants and travellers.
 
-## Trade and Significance
+## Principal Route Between the Northern Continents
 
 The Stormfall Sea is the principal route for trade between Morvind and Aethelar. The mineral wealth and crafted metalwork of Morvind travels south across the sea, while grain, cloth, and other goods of Aethelar travel north in return. The volume of this trade is great, for the products of each continent are complementary, and the economies of both have grown to depend upon the exchange. The ports on either side of the Stormfall are among the busiest in the northern world during the trading season, and the mariners who work the crossing are the backbone of a trade network extending southward through the [Velden Strait](/content/location/natural/feature/strait-of-velden) to the [Auric Ocean](/content/location/natural/feature/auric-ocean) and beyond.
 
 At its southeastern reach, the Stormfall Sea connects to the Auric Ocean through the Velden Strait, and goods bound for [Sahrana](/content/location/natural/continent/sahrana) or the eastern coast of Aethelar must pass through this narrow channel. The Stormfall is thus not merely a route between two continents but a link in a longer chain of trade connecting all three, and the nations that border it have profited from their position as intermediaries in the flow of goods between north and south.
 
-## Coastal Communities
+## Shared Dialects, Customs, and Maritime Heritage
 
 The peoples of the Stormfall coast are united by the sea itself, and the fishing and trading communities on both shores share more in common with one another than with the inland populations of their respective continents. Dialects, customs, and even cuisines cross the sea more readily than they cross the mountain ranges separating the coast from the interior, and the maritime culture of the Stormfall is a distinct and cohesive tradition transcending the political boundaries of the nations on either shore. Marriages between families on opposite shores are common enough to be unremarkable, and the kinship networks spanning the sea are a source of both commercial advantage and social cohesion, binding the two coasts together in a web of mutual obligation that no political arrangement could replicate.
 
@@ -27,6 +27,6 @@ The coastal towns are sturdy and practical, built to withstand the weather that 
 
 The fishing grounds of the sea are productive, supporting communities that have harvested the same shoals for centuries. The catch includes a variety of fish peculiar to the Stormfall, adapted to its shallow waters and variable temperature, and the dried and salted fish of the coast is a trade good reaching the inland markets of both Aethelar and Morvind. The shellfish beds lying among the shoals are also a valued resource, and the gathering of shellfish sustains the smaller coastal communities through the lean months of the storm season when fishing from boats becomes impossible and only the shore-based harvest can keep the larders full.
 
-## Peoples
+## Mariners, Boatbuilders, and the Dwarven Trade
 
 [Humans](/content/species/sapient/humans) dominate the coastal settlements on both sides, and the mariners of the Stormfall are renowned for their skill in navigating the difficult waters. The boatbuilders of the Stormfall coast produce vessels uniquely suited to the conditions of the sea, with shallow draughts clearing the shoals and sturdy construction weathering the sudden storms of the crossing, and their designs have been refined over centuries of hard experience. [Dwarves](/content/species/sapient/dwarves) are seldom seen upon the Stormfall, as their heavy bodies and poor buoyancy make them unsuited to the sea, but their goods are carried across it in great quantities, and the dwarven metalwork reaching the markets of Aethelar by this route is the foundation of much of the continent's trade in iron and copper. The sea lanes of the Stormfall have thus shaped the economic relations of three continents, binding them together in a network of exchange that no single power controls.

@@ -3,11 +3,11 @@ layout: default
 title: Frostbeak
 ---
 
-## Overview
+## A Settlement on a High Plateau of the Morvind Interior
 
 Frostbeak is a settlement on a high plateau in the interior of [Morvind](/content/location/natural/continent/morvind), situated at an altitude where the air is thin and the cold is intense for much of the year. The settlement is one of the highest permanent communities in the known world, and its people are among the most adapted to the conditions of the high interior. Frostbeak is a small, self-sufficient community whose primary function is the management of the highland pastures surrounding the plateau and the maintenance of the passes connecting the plateau to the lower regions of the interior.
 
-## The Plateau and the Pastures
+## The Broad Plateau and the Mountain Sheep
 
 The plateau on which Frostbeak stands is a broad, flat expanse of grassland surrounded by the higher peaks of the interior ranges. The pastures covering the plateau are among the most productive in the high interior, for the grass is hardy and nutritious, and the livestock raised on the plateau is valued for its resilience and quality. The pastures are grazed by flocks of mountain sheep and herds of hardy cattle that are the primary resource of the settlement; the wool, meat, and leather produced from these animals are the main exports of Frostbeak. The mountain sheep of the plateau are a breed unique to the high interior, with a fleece longer and denser than that of lowland breeds; the wool sheared from these sheep is the finest produced in Morvind, prized for its warmth and softness.
 
@@ -15,13 +15,13 @@ The altitude of the plateau is the defining feature of the settlement. The air i
 
 The livestock is brought into sheltered valleys lying to the lee of the surrounding peaks during the winter months, for the exposed pastures are too cold for animals to remain outdoors. The valleys are used as winter grazing; the herders who tend the flocks during summer move with the animals to the valleys when snow begins to fall. The transhumance between the plateau and the valleys is the annual cycle governing the pastoral economy of Frostbeak; the herders who manage the movement are the most skilled and experienced members of the community.
 
-## The Passes and the Trade
+## The Highland Passes and the Wool Trade
 
 The passes connecting Frostbeak to the lower regions of the interior are the lifelines of the settlement; their maintenance is a primary concern of the community. The passes are navigable only during the summer months, when snow retreats and the ground becomes firm enough for the passage of animals and wagons. The trade flowing through the passes is modest but vital, for the settlement depends on importing goods it cannot produce for itself, including metalwork, cloth, and manufactured goods produced in the lower regions and the coast.
 
 The wool and leather produced on the plateau are exported through the passes to the markets of the interior and the coast. The quality of Frostbeak wool is recognised throughout Morvind, for the mountain sheep that produce it are among the hardiest in the known world, and the wool is exceptionally warm and durable. The trade in wool and leather is the primary source of the settlement's income; the merchants who manage the trade are the most influential members of the community.
 
-## The Settlement
+## Stone Quarries, Ice Houses, and the Council of Households
 
 Frostbeak is a small, compact settlement whose buildings are constructed of stone quarried from the surrounding peaks, with thick walls and roofs weighted with stone to resist wind and snow. The buildings are low and close-set; the streets are narrow and sheltered, for the wind on the plateau is fierce and the cold intense. The population is chiefly [human](/content/species/sapient/humans), with a small community of [dwarves](/content/species/sapient/dwarves) involved in the management of the passes and the maintenance of the settlement. The dwarves of Frostbeak are skilled in the construction of stone shelters and ice houses that are distinctive features of the settlement; their knowledge of the mountain and its resources is a valuable contribution to the welfare of the community.
 
@@ -29,6 +29,6 @@ The community is organised around the pastoral economy; the herders and shepherd
 
 The life of Frostbeak is governed by the seasons and the movement of the livestock. The spring is the time of lambing and calving, when the herders are occupied with the care of the newborn animals. The summer is the season of the high pastures, when the flocks and herds are taken to the upper slopes of the plateau to graze on the rich grass that grows during the brief warmth. The autumn is the time of the shearing and the slaughter, when the wool is harvested and the animals that will not be kept through the winter are butchered and preserved. The winter is the season of confinement, when the community retreats to the insulated dwellings and lives on the stores that have been laid by during the warmer months. The rhythm of the year is the rhythm of the pastoral life, and the people of Frostbeak are attuned to the demands of the animals and the land that sustain them.
 
-## Significance
+## The Highest Permanent Settlement in Morvind
 
 Frostbeak is the highest permanent settlement in Morvind, and its people are among the most adapted to the extreme conditions of the high interior. The settlement is a dependency of the [Valdmark](/content/government/national/valdmark), the human realm of the interior river valley, and its wool and leather are a valued contribution to the economy of the interior. The significance of Frostbeak lies in its survival and productivity in an environment that is among the most demanding in the known world; the settlement is a testament to the adaptability and resilience of the human people of Morvind. The wool produced on the plateau is traded as far as the coast, and garments made from Frostbeak wool are among the warmest and most durable available in the markets of the continent.

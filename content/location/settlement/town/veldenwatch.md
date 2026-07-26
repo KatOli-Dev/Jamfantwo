@@ -3,11 +3,11 @@ layout: default
 title: Veldenwatch
 ---
 
-## Overview
+## The Morvind-Side Town of the Velden Strait
 
 Veldenwatch is the [Morvind](/content/location/natural/continent/morvind)-side town of the [Velden Strait](/content/location/natural/feature/strait-of-velden), situated on the northern shore of the strait where it connects the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean). The town is one of the two principal settlements that govern the strait, and its position on the Morvind shore gives it a strategic and commercial significance disproportionate to its modest size. Veldenwatch is the primary point of Morvind-side pilotage and toll collection, and its harbour is the first or last port of call for vessels navigating the strait.
 
-## The Strait and the Pilotage
+## The Treacherous Passage and the Pilotage Guild School
 
 The strait that Veldenwatch commands is the only passage between the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the waters flowing through it are among the most treacherous in the known world. The currents are strong and unpredictable, the channel is narrow, and the tidal range is considerable. The pilots of Veldenwatch are specialists trained from youth in the particular conditions of the strait. The pilotage service is the primary function of the town, and the pilots are organised into a guild that regulates training, sets fees, and maintains the standards of the profession. The guild maintains a school where young pilots learn the currents, rocks, and eddies of the strait; the training period lasts several years before a pilot is permitted to guide a vessel through the passage alone.
 
@@ -15,13 +15,13 @@ The harbour of Veldenwatch is a deep, sheltered cove cut into the rocky shore of
 
 The strait is at its most dangerous during the winter months, when storms sweeping across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) drive strong winds and heavy seas through the channel. The pilots are reluctant to take a vessel through the strait during the worst weather, and the harbour serves as a refuge for vessels unwilling to risk the passage until conditions improve. The winter months are a quieter period for the town, but income accumulated during the trading season is sufficient to sustain the community through the leaner months.
 
-## Trade and the Compact
+## Tolls, Repair Yards, and the Dwarven Counting Houses
 
 Veldenwatch's trade is dominated by the tolls and pilotage fees collected from vessels passing through the strait. The town is a principal beneficiary of the [Velden Compact](/content/government/local/velden-compact), the joint governance of the strait towns that regulates passage and divides revenue between the two shores. The compact is the foundation of the town's prosperity, and the governance of the strait is the primary occupation of the officials and merchants of Veldenwatch.
 
 The town is also a centre for the repair and supply of vessels that have navigated the strait. The shipyards and chandleries lining the harbour are a significant part of the local economy. Vessels passing through the strait are often in need of repair, and the shipwrights of Veldenwatch are skilled in the rapid and reliable maintenance the strait trade demands. The [dwarves](/content/species/sapient/dwarves) of the Morvind interior maintain agents in Veldenwatch to manage the flow of metalwork through the strait; their counting houses are among the most substantial buildings on the waterfront.
 
-## The Town
+## Substantial Stone, Fortifications, and the Pilot Families
 
 Veldenwatch is a compact, well-built town whose architecture reflects the wealth the strait trade has brought: substantial buildings of stone, well-paved streets, and a commercial district oriented toward the harbour. Buildings rise three and four storeys high, their upper floors projecting over narrow streets to maximise space within the confined walls. The population is chiefly [human](/content/species/sapient/humans), and the people identify more closely with the strait and its trade than with the interior of Morvind; their loyalties are shaped by the sea and the commerce it brings. The town is walled, and the fortifications are maintained by the compact, for the strait is a point of strategic importance and the defence of the passage is a responsibility the member towns share.
 
@@ -29,6 +29,6 @@ The social life of Veldenwatch is dominated by the pilotage guild and the mercha
 
 The population of Veldenwatch includes a significant number of mariners who work on the vessels that pass through the strait. These sailors are a transient population, but they contribute to the character of the town, filling the taverns and inns during the busy season. The town also has a community of shipwrights and chandlers who maintain and supply the vessels; their workshops are situated along the waterfront, where the sounds of hammering and the smell of pitch are a constant presence. The fortifications of Veldenwatch are maintained by the compact and manned by a garrison that is drawn from the member towns. The garrison is not large, but it is well trained and equipped, for the defence of the strait is a matter of strategic importance to the whole region.
 
-## Significance
+## The Primary Morvind-Side Settlement of the Strait
 
 Veldenwatch is the primary Morvind-side settlement of the [Velden Strait](/content/location/natural/feature/strait-of-velden), and its role in the pilotage and toll collection of the strait trade is a significant component of the economy of the strait region. The town is a member of the [Velden Compact](/content/government/local/velden-compact), and its position on the northern shore of the strait gives it a strategic and commercial importance disproportionate to its modest size. The prosperity of Veldenwatch is built upon the trade flowing through the strait, and the town is a key point in the trade network connecting Morvind to the wider world. The pilots of Veldenwatch are among the most skilled mariners in the known world, and their expertise is a resource that cannot be replaced, for the strait is a passage that no vessel can navigate safely without their guidance.

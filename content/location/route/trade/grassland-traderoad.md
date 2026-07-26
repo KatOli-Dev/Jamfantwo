@@ -3,11 +3,11 @@ layout: default
 title: Grassland Traderoad
 ---
 
-## Overview
+## Routes Across the Open Grass
 
 The Grassland Traderoad is the network of overland routes crossing the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) of central [Aethelar](/content/location/natural/continent/aethelar), connecting the settled cities of the [Plains Confederation](/content/government/national/plains-confederation) to one another and to the markets of the eastern coast and the southern frontier. The traderoad is not a single paved highway but a system of routes shifting with the seasons, the condition of the ground, and the movements of the herds that are the foundation of the plains economy. The routes follow the lines of rivers and ridges, crossing the open grass where the ground is firmest and water most accessible, and the traffic moving along them is a constant procession of merchants, herders, travellers, and the [centaur](/content/species/sapient/centaurs) kindreds whose way of life is inseparable from the open country.
 
-## The Geography of the Traderoad
+## Stagford, Goldmeadow, and the Southern Extension
 
 The Grassland Traderoad is woven into the geography of the plains, following the natural lines of communication that the land provides and the peoples have used for centuries. The principal route runs from east to west, connecting the eastern cities at the edge of the plains with the interior settlements scattered across the open grass. The eastern terminus is at [Stagford](/content/location/settlement/city/stagford), a city commanding the primary river crossing of the central grasslands and controlling the flow of traffic between the plains and the eastern coast. From Stagford, the route strikes westward across the open grass, following the line of the river that gives the city its name and crossing the plains through the most productive and densely settled part of the grassland region.
 
@@ -15,20 +15,20 @@ The central hub is [Goldmeadow](/content/location/settlement/city/goldmeadow), a
 
 The southern extension runs from Goldmeadow through [Sunmere](/content/location/settlement/city/sunmere), the largest city of the southern plains, and continues southward to the frontier at Dustford, where the grasslands give way to the warm, dry country of the far south. This southern route is the most important for long-distance trade, connecting the Plains Confederation to the markets of the south and the caravans crossing the country beyond the grasslands.
 
-## The Goods of the Traderoad
+## Grain, Horses, and the Plains Products
 
 The cargoes moving along the Grassland Traderoad are the products of the plains themselves, and the trade reflects the agricultural and pastoral economy of the grassland region. The eastward traffic carries grain grown in the fertile soil of the plains, wool and leather from the herds, and livestock driven to the slaughterhouses and markets of the coastal cities. The grain of the plains is the most important of these exports, for the fertility of the grassland soil is the foundation of the agricultural wealth of the interior, and the grain carried eastward feeds the populations of coastal cities that cannot grow enough for themselves.
 
 The westward traffic carries cloth and metal goods manufactured in the eastern cities, salt harvested from coastal pans, and exotic goods arriving from [Sahrana](/content/location/natural/continent/sahrana) and [Morvind](/content/location/natural/continent/morvind) through the eastern ports. The trade in horses of the plains is a distinctive feature, for the horses that range wild upon the grass are the finest in the known world, sought after by every nation that can afford them. The caravans carrying them eastward are among the most valuable and most carefully guarded of the traderoad traffic.
 
-## The Peoples of the Traderoad
+## Centaur Guides and the Merchant Houses
 
 The merchants organising the caravans are based chiefly in the cities of the Plains Confederation, with counting houses and warehouses concentrated at Stagford, Goldmeadow, and Sunmere. These merchants are drawn from the settled [human](/content/species/sapient/humans) population of the plains. The centaur kindreds of the plains are the other great population moving along the traderoad. Their movements across the plains follow the same routes, and their knowledge of the country is the most comprehensive of any people who live upon the grass. The centaurs are the guardians of the traderoad, knowing the condition of river crossings, the location of springs and watering holes, and the state of the grass the caravans must cross. The relationship between the centaurs and human merchants is one of mutual benefit: the centaurs provide knowledge and guidance, while the humans provide goods and markets the centaurs cannot obtain from the plains alone. The [halflings](/content/species/sapient/halflings) of the river valleys contribute as innkeepers, ferrymen, and provisioners, their settlements lining the watercourses the route follows.
 
-## The Hazards of the Traderoad
+## Lightning, Blizzards, and the Plains Bandits
 
 The weather of the plains is the most immediate and constant hazard. Summer storms bring lightning and hail that can kill livestock and travellers caught in the open, while winter blizzards can strand a caravan for days. The caravans are equipped for the extremes of plains weather, and knowledge of the signs preceding storms is among the most valued skills of the guides and centaur kindreds. The predators of the plains include packs of grey plains wolf that threaten livestock, and the plains lion is a less common but more fearsome threat. The bandits of the plains are the third great hazard, operating from hidden camps in river valleys and groves of windbreak trees. The Plains Confederation maintains a force of road guards who patrol the traderoad, reducing the threat but not eliminating it entirely.
 
-## Economic and Cultural Significance
+## Economic Backbone of the Plains Confederation
 
 The Grassland Traderoad is the economic backbone of the Plains Confederation. The trade flowing along the route is the foundation of the prosperity of the confederation's member cities, and the revenue generated by tolls and commerce sustains the administration and defence of the alliance. The route is also a channel for exchange of culture and ideas between the settled and nomadic peoples of the plains, and the movement of centaur kindreds and human merchants has shaped the traditions of both populations. The routes crossing the grass are the threads binding the diverse communities of the interior into a single civilisation.

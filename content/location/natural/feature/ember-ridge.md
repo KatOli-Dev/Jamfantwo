@@ -3,13 +3,13 @@ layout: default
 title: Ember Ridge
 ---
 
-## Overview
+## The Broken Backbone of Kharos
 
 The Ember Ridge is the broken volcanic range that traverses the continent of [Kharos](/content/location/natural/continent/kharos) from the northwestern headlands to the southeastern coast, a chain of ridges, vents, and hot springs that has shaped the climate, the rivers, and the customs of every people who dwell within sight of its smoke. The range is not high throughout its length, and several of its lower passes can be crossed without great difficulty, but it is among the most troublesome ranges to traverse as a whole, for the ridges are separated by dry gorges and shelves of loose stone that frustrate the traveller at every stage. The Ember Ridge is the spine of [Kharos](/content/location/natural/continent/kharos) in a practical sense, for the few rivers that the highlands send down to the eastern plains are the principal sources of water for the broad basins, and the springs of the range sustain a settled life that would be impossible in their absence.
 
 The range takes its name from the vents and hot springs that mark its length, and the steam rising from these openings is visible from the coast on the clearest mornings. The native chroniclers of [Kharos](/content/location/natural/continent/kharos) prefer an older name that translates as the broken backbone, used in the formal records of the mountain councils, but the name Ember Ridge has entered the common speech of the traders and mariners who visit the eastern ports. The range is sometimes confused in foreign accounts with the volcanic ranges of the far south, but the Ember Ridge is wholly distinct, and a traveller who has crossed the range will recognise it at a glance from any other highland.
 
-## Ridges and Vents
+## Gorges, Vents, and the Ringing Volcanic Stone
 
 The ridges of the Ember Ridge are not continuous. They are broken by gorges, shelves of dark volcanic rock, and the vents that mark the course of the range from end to end. Several of the highest peaks retain snow until late in the warm season, and the meltwater descending from these summits feeds the rivers running to the eastern plains. The lower ridges are dry and dusty, and the loose stone covering them shifts underfoot, so that a path clear in the morning may be buried by the afternoon. The range is crossed by few roads, and those that exist are maintained by the communities of the high valleys rather than by any central authority.
 
@@ -17,7 +17,7 @@ The vents of the range are of two kinds. Some are quiet, releasing a steady plum
 
 The dark volcanic rock covering the shelves is the most distinctive feature of the highland, giving the Ember Ridge its character. The stone is black or deep grey, often veined with red or yellow where minerals have settled in the cracks, and the surfaces of the larger shelves ring underfoot like iron. The stone splits readily into flat plates that the highland communities use for paving and for the walls of more substantial buildings, and the plates are exported down the eastern slope as a building material valued for its fire-resistant qualities. The volcanic stone of the Ember Ridge is among the most durable in the known world, and the buildings of the high valleys have outlasted the generations that raised them.
 
-## Climate and Seasons
+## Three Seasons and the Storms from the Basin
 
 The Ember Ridge divides the climate of [Kharos](/content/location/natural/continent/kharos) more sharply than its modest height would suggest, for the range lies across the path of the seasonal sea winds and forces them to rise against the western slopes. The western rivers are short and swift, for the rain falling upon the outer face of the range reaches the coast before it can gather into a substantial stream, and many smaller channels disappear beneath the gravel before they reach the sea. The eastern rivers are longer and slower, descending through the sheltered valleys to the broad basins opening to the eastern plains, carrying the water that sustains the settlements of the interior.
 
@@ -25,7 +25,7 @@ The climate of the range is governed by three seasons rather than four. The wet 
 
 The three-season cycle of [Kharos](/content/location/natural/continent/kharos) is more reliable than the four-season cycle of the colder continents, for the transitions between seasons are governed by the position of the sun and the direction of the prevailing winds, and the highland communities have marked the dates of the transitions with stones and cairns that survive the generations. The shepherds of the high valleys move their flocks between the open grass of the upper slopes and the sheltered meadows of the lower valleys according to the season, and the timing of the movements is fixed by the customary law of the mountain councils.
 
-## The Glass Groves of the Southern Face
+## Silica Bark and the Harvested Glass Plates
 
 The [Kharesh](/content/location/natural/feature/kharesh) Glass Groves occupy a series of basins along the southern face of the Ember Ridge, among the most remarkable woodlands in the known world. The trees of the groves have fibrous trunks that harden into translucent plates as they mature, producing a woodland that glitters in the morning and becomes almost invisible at dusk. The trees are living organisms rather than mineral growths, though their bark contains silica and other substances giving it unusual strength, and the groves are a living forest adapted to the dry conditions of the southern slope in a manner that no other tree is known to match.
 
@@ -33,7 +33,7 @@ The roots of the glass trees spread close to the surface, forming a woven mat th
 
 The groves are harvested carefully. Fallen plates are collected for windows, lantern covers, and the coloured inlay used by [Kharoshi](/content/language/spoken/kharoshi) artisans, while living trunks are rarely cut. The grove communities maintain boundary stones and seasonal paths that distinguish gathering grounds from protected stands, and the oldest agreements limit felling and require that every damaged stand be replanted with cuttings taken from mature trees. The groves are not a limitless resource, and the communities that have observed the customary limits have maintained the productivity of the groves over many generations, while those that have exceeded them have seen the basins exposed to erosion and the springs reduced to a trickle.
 
-## Rivers and Coasts
+## Western Gorges and Eastern Braided Channels
 
 The rivers descending from the Ember Ridge are of two principal kinds, and the distinction is the foundation of the economy of the continent. The western rivers are short and swift, fed by the rain falling upon the outer face of the range, cutting through dark stone in narrow gorges before reaching the coast. The gorges open into small bays of shingle and pebble, and the harbours of the western coast are few and difficult of access, set in the mouths of larger rivers where the water is deep enough to shelter a vessel of moderate draught. The western rivers are unsuitable for navigation beyond the first few miles, and the communities of the western coast rely upon the sea for the bulk of their long-distance transport.
 
@@ -41,7 +41,7 @@ The eastern rivers are longer and slower, descending from the highland valleys t
 
 The coast of [Kharos](/content/location/natural/continent/kharos) is shaped by the rivers and currents that the Ember Ridge determines. The western coast supports kelp beds, seals, shore crabs, and long-bodied fish that follow the cold current along the continental shelf. The eastern waters are warmer, and the sheltered bays contain coral shelves of considerable extent. [Merfolk](/content/species/sapient/merfolk) communities are present in both regions, though their customs differ according to the temperature and depth of the water. The rocky headlands are home to [cancrids](/content/species/sapient/cancrids), whose tidal settlements are built into the crevices above the reach of the largest waves. The Kharoshi fishers trade with both peoples, and the oldest coastal agreements establish the seasons when nets are forbidden in the breeding grounds shared by land and sea dwellers.
 
-## Settlements and Peoples
+## Springs, Villages, and the Mountain Councils
 
 The settlements of the Ember Ridge are built near the springs, for the water that the range provides is the foundation of every community dwelling within sight of the smoke. The villages of the high valleys are small and self-reliant, their houses of stone and timber set upon sheltered shelves where the steam from the vents warms the air through the cold months. The gardens of the villages are planted with the hardy crops that the long bright season ripens, and the orchards produce fruit that is exchanged with the lowland communities for the grain and cloth that the high country cannot supply. The villages are spaced at the distance of a day's walk, and the customary hospitality of the highland communities ensures that a traveller arriving at any village before nightfall will find shelter and a meal.
 
@@ -49,6 +49,6 @@ The settlements of the Ember Ridge are built near the springs, for the water tha
 
 The highland communities maintain their own councils and their own customary law, among the most practical of any in the known world. The councils meet in the bright season, when the passes are open and the communities can send their representatives to the appointed places. The decisions of the councils are recorded in small books kept by the elders, consulted whenever a dispute arises concerning the use of the springs, grazing grounds, or passes. The councils have settled their disputes without the intervention of any distant authority, and the system has endured for many generations.
 
-## Significance
+## The Living Backbone of Kharos
 
 The Ember Ridge is the spine of [Kharos](/content/location/natural/continent/kharos), and its broken ridges, hot springs, glass groves, and rivers are the inheritance that the continent has received from the volcanic highland. The range is at once a barrier and a watershed, a source of water and a source of the dark stone that the builders of the lowland value. The prosperity of the continent is bound up with the health of the range, and the maintenance of the springs, groves, rivers, and the customary law that governs them is a duty shared by every people whose lands depend upon the water and stone that the highland provides. The Ember Ridge endures as the living backbone of [Kharos](/content/location/natural/continent/kharos) and as the inheritance of those whose work and life are bound up with the ancient heat of the western continent.

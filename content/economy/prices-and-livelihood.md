@@ -3,11 +3,11 @@ layout: default
 title: Prices and Livelihood
 ---
 
-## Overview
+## The Cost of Living across the Continents
 
-The prices of goods and the wages of labour vary across the known world as widely as the climates and the customs of the regions. A loaf of bread that costs a penny in the grain-growing plains of [Aethelar](/content/location/natural/continent/aethelar) may cost three pennies in the mining towns of the mountains and four or more in the desert interior of [Sahrana](/content/location/natural/continent/sahrana). The cost of living is the measure of these differences, and the patterns of prices and wages reflect the underlying realities of production, transport, and trade that shape the economic life of each region. The [weights and measures](/content/belief/science/physical/weights-and-measures) that the magistrates and the guilds maintain provide the common language by which prices are compared across the regions, and the [currency](/content/economy/currency) that circulates in the markets provides the medium in which values are expressed.
+The prices of goods and the wages of labour vary across the known world as widely as the climates and the customs of the regions. A loaf of bread that costs a penny in the grain-growing plains of [Aethelar](/content/location/natural/continent/aethelar) may cost three pennies in the mining towns of the mountains and four or more in the desert interior of [Sahrana](/content/location/natural/continent/sahrana). The cost of living is the measure of these differences, and the patterns of prices and wages reflect the underlying realities of production, transport, and trade that shape the economic life of each region. The weights and measures that the magistrates and the guilds maintain provide the common language by which prices are compared across the regions, and the [currency](/content/economy/currency) that circulates in the markets provides the medium in which values are expressed.
 
-## The Cost of Food
+## Grain, Bread, and Ale Prices by Region
 
 Food is the largest expense of the common household in every region of the known world, absorbing the greater part of the income of the labourer, the craftsman, and the small merchant. The cost of food is determined by the fertility of the soil, the reliability of the harvest, and the distance that the food must be transported from the place of production to the place of consumption. In the grain-growing regions of the [Plains Confederation](/content/government/national/plains-confederation), where the soil is fertile and the harvests are dependable, a copper penny buys a loaf of bread of the standard weight of one pound, a measure of ale of the standard volume of a quart, or a portion of cheese or dried meat sufficient for a single meal. The prices are lowest in [Goldmeadow](/content/location/settlement/city/goldmeadow) and the interior cities, where the harvests are brought in from the surrounding fields and the cost of transport is negligible.
 
@@ -17,7 +17,7 @@ The cost of food in the mining towns of the mountains is the highest in Aethelar
 
 The cost of food in the cities of the Sahrani coast is comparable to the cost in Eldreth, for the coast imports grain from Aethelar and the price reflects the cost of transport across the [Auric Passage](/content/location/route/trade/auric-passage). A loaf of bread in [Khalisar](/content/location/settlement/city/khalisar) costs two pennies in the season of the harvest and three in the months before the new grain arrives. The spices that are the great export of the Sahrani coast do not enter into the diet of the common people, for they are too expensive and they are reserved for the tables of the wealthy and the merchants who trade in them.
 
-## The Cost of Goods Other Than Food
+## Metalwork, Cloth, and Salt
 
 The cost of goods other than food follows the same patterns as the cost of food, with the greatest variation among the regions occurring in the goods that must be transported over long distances. The metal goods of the Stoneheim Holds are the most widely distributed manufactured products in the known world, and the price of a dwarven-forged knife or tool varies with the distance from the source. In the towns of Morvind, a dwarven knife of the standard quality costs five silver marks, while in the markets of Khalisar the same knife costs eight or nine marks, the difference reflecting the cost of transport by sea and the tariffs imposed by the ports along the route.
 
@@ -25,7 +25,7 @@ The cloth of Aethelar is the most widely traded textile, and the price of a leng
 
 The salt of the [Sahrani Coast](/content/location/natural/ecosystem/sahrani-coastal-strip), regulated by the [Sahrani Salt Court](/content/government/local/sahrani-salt-court), is a necessity for every household in the known world, and the price of salt is one of the most closely watched indicators of the cost of living in every region. A basket of salt of the standard weight of fifty pounds costs one silver mark in the markets of Khalisar, two silver marks in the inland towns of the [Vashari Pact](/content/government/national/vashari-pact), and three silver marks in the mountain towns of Aethelar. The price of salt is a significant component of the cost of preserving food for the winter, and the families of the poor feel the rise in the price of salt more keenly than any other increase.
 
-## The Wages of Labour
+## Earnings by Occupation and Region
 
 The wages of labour vary even more widely than the prices of goods, for the value of labour is determined by the demand for it in each region and the supply of workers who are available to perform it. The labourer who works in the fields of the Plains Confederation earns two copper pennies a day in the season of the harvest and one penny a day in the winter months when there is less work to be done. The labourer's wages are sufficient to buy food for the day and a small surplus for the other necessities of life, but they leave little for savings and nothing for the purchase of the goods that the labourer cannot produce for himself.
 
@@ -33,13 +33,13 @@ The labourer who works in the mint of Eldreth or the harbour of Khalisar earns a
 
 The wages of the miners and the metalworkers of the mountains are the highest of any labourers in the known world, reflecting the danger and the difficulty of the work and the demand for the metals that the mines produce. The miner of [Stoneheim](/content/location/settlement/city/stoneheim) earns a silver mark every five days, and the skilled smith who works in the forges of [Stoneheim](/content/location/settlement/city/stoneheim) earns two or three marks in the same period. The high wages of the mining towns are offset by the high cost of living, and the miner who earns a silver mark every five days finds that his standard of living is comparable to that of the labourer of Eldreth who earns a silver mark every ten days.
 
-## The Cost of Shelter and Fuel
+## Rent, Firewood, and the Northern Winter
 
 The cost of shelter varies with the density of the population and the availability of building materials. In the villages and the towns of the Plains Confederation, a family may build a house of timber and thatch at a cost of a few silver marks, and the house will last for a generation with regular maintenance. In the crowded cities of the coast, where land is scarce and the population is dense, a room in a tenement building costs a silver mark a month in rent, and a house of the standard size in a respectable neighbourhood costs ten or twelve silver marks a year.
 
 The cost of fuel in the cold regions of Morvind and the mountains of Aethelar is a significant burden on the household budget, for the winter is long and the cold is severe. A bundle of firewood of the standard size costs two copper pennies in the towns of Morvind, and a family that burns a bundle a day for the five months of winter spends a substantial portion of its income on fuel alone. The families of the poor in the northern towns gather what fuel they can from the forests and the commons, but the supply is never sufficient and the purchase of firewood is a constant drain on the household resources.
 
-## The Distribution of Wealth
+## Concentrations of Silver across Society
 
 The wealth of the known world is distributed unevenly across the regions and the populations. The greatest concentration of wealth is in the counting houses of the merchant families of Eldreth and Khalisar, where the silver of the intercontinental trade accumulates in vaults that hold more silver than the treasuries of many kingdoms. The merchant families of Eldreth, who have controlled the grain trade and the cloth trade and the traffic of the harbour for generations, are the wealthiest of the wealthy, and the scale of their fortunes is difficult for the common person to imagine.
 
@@ -47,18 +47,24 @@ The wealth of the guilds is the second great concentration, held in the vaults o
 
 The wealth of the common people is modest by any measure. The labourer of the plains or the coast who works a lifetime of sixty or seventy years may accumulate a small hoard of silver by the end of the working years, enough to support the household in the time of illness or old age, but the hoard is rarely large enough to pass to the children after the labourer's death. The craftsman of the workshop who rises to the rank of master may accumulate a larger hoard, enough to buy a house and to set up the children in the trade, but the wealth of the master is modest compared to the wealth of the merchant houses.
 
-## The Poor and the Relief of Poverty
+## Charity, Guild Funds, and Rural Hardship
 
 The poor are a presence in every city of the known world, and the problem of poverty is a concern of every sovereign and every council. The poor of the cities include the labourers who cannot find work, the widows and the orphans who have no one to support them, and the migrants who have come to the city in search of opportunity and have found only hardship. The poor of the countryside include the families whose harvest has failed and the labourers who have been displaced by the changes in the practices of agriculture.
 
-The relief of poverty in the cities is provided by the guilds and the religious institutions, which distribute food and clothing and small sums of silver to the poor who present themselves at the gates of the guild hall or the house of worship. The guilds of the merchants maintain funds for the relief of their own members who have fallen into poverty, and the [Silver Mark](/content/belief/religion/monotheist/silver-mark) tradition teaches that the relief of the poor is a form of witness to the Truemarker. The distribution of relief is not systematic, and the poor who do not belong to a guild or a religious community must rely on the charity of their neighbours and the mercy of the wealthy.
+The relief of poverty in the cities is provided by the guilds and the religious institutions, which distribute food and clothing and small sums of silver to the poor who present themselves at the gates of the guild hall or the house of worship. The guilds of the merchants maintain funds for the relief of their own members who have fallen into poverty, and the Silver Mark tradition teaches that the relief of the poor is a form of witness to the Truemarker. The distribution of relief is not systematic, and the poor who do not belong to a guild or a religious community must rely on the charity of their neighbours and the mercy of the wealthy.
 
 The poor of the countryside are more isolated and more vulnerable, for the guilds and the religious institutions of the cities do not reach into the villages and the farms. The families of the poor in the countryside survive by the charity of their neighbours and the resources of the commons, gathering fuel and wild foods and fishing in the rivers and the streams. The harvest is the critical time, and the family whose harvest fails in a bad year may be reduced to begging or starvation before the next harvest comes.
 
-## The Standard of Living in the Cities and the Countryside
+## Urban Opportunity versus Rural Independence
 
 The standard of living in the cities of the known world is higher than the standard in the countryside, for the cities offer more opportunities for employment and more access to the goods that the trade of the world provides. The labourer of Eldreth or Khalisar lives in a room that is crowded but warm, eats bread and ale and meat and vegetables in a diet that is varied if not abundant, and wears clothing that is made of cloth of a quality that the country labourer cannot afford. The labourer of the city has access to the markets and the fairs and the entertainments that the city provides, and the labourer's children may attend the schools that the guilds maintain for the children of their members.
 
 The standard of living in the countryside is lower but more secure in its own way. The labourer of the plains lives in a house of timber and thatch that the labourer built with his own hands, eats the food that the labourer grew in his own garden or raised in his own fields, and wears clothing that the labourer's wife wove from the wool of the labourer's own sheep. The country labourer has less silver and fewer possessions than the city labourer, but the country labourer has land and livestock and the independence that comes from owning the means of one's own subsistence.
 
 The balance between the city and the countryside is one of the enduring features of the economic life of the known world, and the movement of people from the countryside to the city and from the city to the countryside is a constant process that shapes the population and the economy of every region. The young people of the villages who seek their fortune in the city are the source of the labour that fuels the growth of the cities, and the old people of the city who return to the countryside in their later years are the carriers of the skills and the knowledge that the city has given them.
+
+Related topics:
+- [banking and credit](/content/economy/banking-and-credit)
+- [currency](/content/economy/currency)
+- [guilds](/content/economy/guilds)
+- [trade and tariffs](/content/economy/trade-and-tariffs)

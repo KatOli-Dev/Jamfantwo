@@ -3,37 +3,37 @@ layout: default
 title: Nordhal
 ---
 
-## Overview
+## Nordhal Outlined
 
 Nordhal is the common tongue of the southern coast of [Nordheim](/content/location/natural/continent/nordheim), the northernmost of the great settled landmasses, spoken in the fishing villages, trading towns, and sheltered bays that line the cold sea of long swells and shifting fog. The language is most closely associated with the human population of the southern belt. Nordhal is spoken as a first language by the [dwarf](/content/species/sapient/dwarves) communities of the lowland foothill settlements and as a second language by the [halfling](/content/species/sapient/halflings) communities of the warmer river margins and by every merchant who requires a working knowledge of the northern sea trade. The name is taken from an old coastal word for the northern home, and the language is sometimes called the southern speech by the tundra communities of the interior.
 
 The origins of Nordhal lie in the speech of the earliest human fishing communities of the southern shore. The language has grown over the centuries through contact with the dwarven speech of the [Whitewall Range](/content/location/natural/feature/whitewall-range) foothills, the halfling speech of the river margins, and the trade tongues that arrive by sea from [Morvind](/content/location/natural/continent/morvind) across the cold northern waters. Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that coastal speakers no longer recognise as foreign. The result is a language of considerable directness, suited to the description of the sea, the weather, the fish, the timber, and the patient business of the northern harbours, and capable of adaptation to the specialised vocabularies of the boat, the net, and the counting house of the southern towns.
 
-## Sounds
+## Pronunciation and Writing
 
 Nordhal is spoken in a register that is sharper and more clipped than the common speech of the central continents. Southern visitors often remark upon the brevity of coastal sentences and the willingness of coastal speakers to leave unsaid what the southern custom would require to be set out at length. The consonants are numerous, and the language distinguishes several sounds the southern speech has merged, particularly in the cluster of unvoiced stops occurring at the beginning of many coastal words. The vowels are fewer than in the southern speech. Coastal singers use the consonantal range to produce the striking rhythmic effects that mark the songs of the fishing fleets, one of the most distinctive cultural expressions of the southern communities. Pitch is a matter of custom rather than meaning; coastal speakers tend to speak with a flatter pitch than tundra speakers, in unconscious imitation of the working register of the boat and the net.
 
 The script of Nordhal is runic, with twenty-four marks representing not single sounds but the consonant clusters and vowel groups that are the basic units of the spoken language. The script is read from left to right in horizontal lines. It is descended from the marks the earliest human chroniclers of the southern coast cut into the soft wood of drift logs cast upon the shore, with borrowings from the dwarven script of the foothills in the marks for sounds the older coastal script did not distinguish. The marks are incised into wood, bone, or stone for records of the coastal communities, and painted or printed upon parchment for correspondence of the larger towns. Writing is taught in schools of the principal harbours to children of every species who require it for the ordinary business of life.
 
-## Vocabulary and Borrowing
+## Harbour Words and Loans
 
 The vocabulary of Nordhal is rich in words for the sea, the weather, the fish, the boats, the timber, and the patient business of the northern harbours. The language has more words for the kinds of fish, the kinds of weather, the kinds of timber, and the stages of the boat-builder's art than any of the languages of the central continents. The vocabulary is also rich in words for the family, the household, and the customary relations of the fishing village, for the coastal communities place great weight upon the succession of the boats and the long memory of the harbour. Coastal compounds are formed by joining two or more simple words, used in the formal speech of harbour councils and the songs of winter festivals.
 
 Nordhal has borrowed from the dwarven speech of the [Whitewall Range](/content/location/natural/feature/whitewall-range) foothills a set of words for metals, stones, and tools of the workshop required for the repair of boats and construction of harbour works. These borrowings are recognised as belonging to the trade of the smith rather than the craft of the fisherman, and coastal speakers are careful to use the foothill word in the foothill context and the coastal word in the coastal context. A small number of words have also been borrowed from the [Morvindi](/content/language/spoken/morvindi) trade tongue through ships crossing the cold northern waters, chiefly the names of southern goods, customs, and offices.
 
-## Speech
+## Registers of Nordhal
 
 Nordhal is the language of the great harbours of the southern coast, conducted in a register that is brisk and practical, suited to the rapid discharge of boats and the negotiation of the prices of the catch. The harbour register uses a set of fixed phrases for the opening of a bargain, the testing of a cargo, and the closing of a sale, known to every merchant of the principal harbours. These phrases are intelligible to children of ten or eleven years brought up in the harbour towns.
 
 Nordhal is also the language of the long-night councils of the coastal communities, conducted in a more formal register preserved by the elders of the larger towns and principal fishing villages. The formal register is used for public announcements of village magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Nordhal who has had a customary education in the boat or counting house. The formal register borrows a small number of phrases from the older speech of the southern coast, treated as marks of dignity and authority.
 
-## Relations
+## Nordhal and Other Tongues
 
 Nordhal stands in a complex relation to the languages of the regions surrounding the southern coast of [Nordheim](/content/location/natural/continent/nordheim). It is intelligible, with some adjustment, to speakers of the tundra [Frostic](/content/language/spoken/frostic) of the interior, and intelligibility is greater in foothill towns than in the deeper interior of either tongue. The relationship between Nordhal and the [Morvindi](/content/language/spoken/morvindi) of the coast of [Morvind](/content/location/natural/continent/morvind) is more distant, for the two languages have had less contact over the centuries, and speakers of one are not commonly able to follow the speech of the other without a period of study. Merchants of the principal harbours are commonly able to make themselves understood after a few weeks at sea.
 
 The relation of Nordhal to the dwarven speech of the foothills is of scholarly interest, for the two languages have borrowed vocabulary from one another over the centuries. Coastal speakers tend to treat the dwarven speech as a learned accomplishment rather than a working language, and dwarven communities of the foothills treat Nordhal as the necessary medium of the harbour trade. The relation of Nordhal to the halfling speech of the warmer river margins is closer in vocabulary than in grammar; halfling communities maintain their speech is a separate language, though speakers of Nordhal are commonly able to follow it after a short period of adjustment.
 
-## Significance
+## Harbour Speech of the South
 
 Nordhal is the common tongue of the southern coast of [Nordheim](/content/location/natural/continent/nordheim), the language of the great harbours and the long-night councils, the medium of the northern sea trade, and the first or second language of nearly every speaker of every species who dwells or trades among the fishing villages and trading towns of the southern belt. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of coastal fishermen and the patient correction of the schools. It is one of the most direct of the languages of the known world, a measure of the central place the southern coast has held in the sea trade and fishing customs of the northern continent since the earliest human settlements were established along the cold shore.
 

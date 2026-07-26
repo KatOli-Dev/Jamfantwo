@@ -3,36 +3,36 @@ layout: default
 title: Velden Strait Run
 ---
 
-## Overview
+## The Only Passage Between Auric and Stormfall
 
 The [Velden](/content/location/settlement/city/velden) Strait Run is the maritime passage through the [Velden Strait](/content/location/natural/feature/strait-of-velden), the narrow channel connecting the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and separating [Aethelar](/content/location/natural/continent/aethelar) from [Morvind](/content/location/natural/continent/morvind). The run is the only navigable passage between the two great bodies of water on either side of the central continent, and every vessel travelling between the northern and southern seas must pass through its narrow and demanding waters. The strait is a point of concentration for the maritime traffic of three continents, and the wealth passing through its channel is beyond easy calculation. The towns lining its shores, including [Veldenwatch](/content/location/settlement/town/veldenwatch) on the Morvind side and [Southport](/content/location/settlement/town/southport) on the Aethelaran side, have grown prosperous from the services they provide to vessels navigating the passage.
 
-## The Geography and the Conditions
+## Twisting Channel and the Reversing Tides
 
 The Velden Strait is a narrow and twisting channel running between steep shores, its width varying from as little as two miles at the narrowest point to something more generous where the channel opens into broader waters at either end. The passage runs roughly north-east to south-west, connecting the warmer and calmer waters of the Auric Ocean to the colder and more turbulent waters of the Stormfall Sea. The meeting of these two bodies of water at the narrowest point produces conditions among the most challenging for mariners anywhere in the known world. The warm current of the Auric presses northward against the cooler and more variable waters of the Stormfall, creating eddies and tide-rips that can spin a vessel around and hold it against the current for hours at a time. The tidal range is considerable, and the direction and strength of the current reverse with each tide, so that a vessel entering at the wrong moment may find itself unable to make headway against the flow.
 
 The shores are steep and rocky on both sides. The Morvind shore rises sharply from the water in a series of cliffs and headlands casting long shadows across the channel. The Aethelaran shore is gentler, with low cliffs and sheltered coves providing anchorages for vessels waiting for the tide, but submerged rocks and shoals have wrecked many vessels here over the centuries.
 
-## The Towns and the Governance
+## Veldenwatch, Southport, and the Joint Compact
 
 Veldenwatch is the older and more substantial of the two primary towns, its stone buildings rising from the rocky Morvind shore in a compact mass reflecting the wealth the strait trade has brought. The town is the seat of the pilotage guild of the northern shore. Southport is its counterpart on the Aethelaran shore. The two towns together administer the [Velden Compact](/content/government/local/velden-compact), the joint governance regulating passage through the strait and dividing revenue from tolls and pilotage fees.
 
 The Velden Compact has sustained the strait trade for more than a century. Its provisions govern every aspect of the passage, from training and licensing of pilots to collection and distribution of tolls. The compact is administered by a joint council meeting alternately in Veldenwatch and Southport, composed of representatives of the pilotage guilds, merchant communities, and civic authorities of both towns.
 
-## The Goods of the Run
+## Dwarven Steel and the Three-Continent Cargoes
 
 Vessels approaching from the south carry the products of [Sahrana](/content/location/natural/continent/sahrana) and eastern Aethelar: spices, dyes, precious stones, grain, cloth, and manufactured goods. Vessels approaching from the north carry metalwork and minerals of the Morvind interior and fish, timber, and furs of the northern kingdoms. The most valuable single cargo is the dwarf-forged metalwork of the [Stoneheim Holds](/content/government/national/stoneheim-holds). The smiths of Stoneheim, [Khazgar](/content/location/settlement/city/khazgar), and the lesser holds produce the finest steel in the known world, and the dwarves maintain agents in Veldenwatch and Southport overseeing the shipment of their goods through the strait.
 
-## The Peoples of the Run
+## Pilot Guilds and the Gnomish Instrument-Makers
 
 The pilots of Veldenwatch and Southport are organised into guilds among the oldest and most powerful institutions in the strait towns. Their skills are passed from parent to child, refined by each generation's experience of the changing conditions of the passage. The merchants trading through the strait represent the trading houses of every nation with an interest in intercontinental commerce. The [gnomes](/content/species/sapient/gnomes) of the strait towns produce fine instruments and navigational tools essential to vessels navigating the passage.
 
-## The Hazards of the Run
+## Currents, Storms, and the Hidden Coves
 
 Natural hazards are dominated by currents and weather. The combination of strong tidal flows and the narrow channel can produce conditions testing even the most experienced pilots. Storms sweeping across the Stormfall Sea can drive waves and winds through the strait making passage impossible. The winter months are the most dangerous period. Pirates and raiders are the other great hazard, using hidden coves for ambush. The joint naval patrols of the [Velden Compact](/content/government/local/velden-compact) and the navies of [Nordhaven](/content/government/national/nordhaven) and the [Aldreth](/content/government/national/aldreth) maintain a constant presence.
 
 The vessels that pass through the strait carry not only goods but also the crews, merchants, and passengers from every corner of the known world. The languages heard in the markets of Veldenwatch and Southport include the dialects of Aethelar, Morvind, and Sahrana, and the goods displayed on the quays come from three continents. The revenue generated by the tolls and the services of the strait is a significant component of the wealth of the [Nordhaven](/content/government/national/nordhaven) and the [Aldreth](/content/government/national/aldreth), and the strait towns themselves are among the most prosperous communities of their respective continents.
 
-## Economic and Cultural Significance
+## Chokepoint of Intercontinental Trade
 
 The Velden Strait Run is one of the most significant trade routes in the known world. The passage is the chokepoint through which trade between the northern and southern seas must flow, and control of the strait is a matter of strategic interest to every nation participating in maritime commerce. The channel is the meeting point of the peoples and traditions of three continents, and the mingling of these traditions has produced a culture distinct from any single source. The strait towns are known for their tolerance and openness, qualities born of the diversity of traffic passing through their harbours, and the exchange of ideas and customs that takes place along the run has enriched the cultures of every nation that borders the waters the strait connects.

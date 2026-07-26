@@ -3,11 +3,11 @@ layout: default
 title: Ursines
 ---
 
-## Origins
+## Bear-Like People of the Northern Forests
 
 Ursines are a bear-like people found in the northern forests of [Aethelar](/content/location/natural/continent/aethelar) and the coniferous woodlands of [Morvind](/content/location/natural/continent/morvind), combining a humanoid body with the fur, head, and physical power of a large bear. Their body bears the mark of a people shaped by cold, by dense woodland, and by the demands of a large powerful frame in a seasonal environment. Some naturalists propose a kinship between ursines and [lupines](/content/species/sapient/lupines), citing the northern habitat, cold-weather adaptation, and partly animal form shared by both peoples, though ursines are far larger and more broadly built than the lean swift lupines. Others argue for a connection to [minotaurs](/content/species/sapient/minotaurs), pointing to the great size and strength shared by both, but the differences in form and habitat are too great. Ursines have inhabited the northern forests for as long as any people can account for, and their presence in these woodlands is attested in the oldest elven and human records. The ursines and the [elves](/content/species/sapient/elves) have coexisted in the northern forests for centuries, their relationship shaped by the overlap in their range and the difference in their size and habits.
 
-## Anatomy and Physiology
+## Thick Fur, Great Strength, Keen Smell
 
 Ursines stand taller than [orcs](/content/species/sapient/orcs) and are comparable in height to [ogres](/content/species/sapient/ogres), with a massive broadly built frame. Their bones are thick and heavy, and musculature is enormous, built for raw strength and sustained effort rather than speed or agility. An ursine can match an ogre in brute force, and the ursine body is more heavily insulated and more resistant to cold than that of any other people save the [giants](/content/species/sapient/giants). Their movements are heavy and deliberate, but they are capable of sudden explosive bursts of speed startling in a creature of their size.
 
@@ -17,25 +17,25 @@ Ursine hands are large and strong, with thick calloused fingers and heavy claws 
 
 The ursine sense of smell is the keenest of any sapient people, surpassing even that of the [lupines](/content/species/sapient/lupines), and they detect food, other creatures, and changes in weather by scent alone at extraordinary distances. Vision is adequate but not exceptional, as the ursine relies more upon smell than sight, and their eyes are small and colour vision limited. Hearing is competent, and sense of touch is moderate, as thick fur and calloused skin reduce sensitivity of the extremities.
 
-## Life Cycle
+## Slow Growth and Long Maternal Bonds
 
 Ursines live one hundred to one hundred and fifty years under favourable conditions. They mature slowly, reaching full stature and physical adulthood by their late twenties. Ursine women carry their young for approximately eight months before giving birth, and births are usually single, though twins are not uncommon. The infant is small relative to adult size, helpless at birth, requiring many months of constant care before capable of walking. The young grow slowly, not reaching full size until their second decade, and remain with the mother for many years before becoming independent.
 
 Ursine populations grow slowly, as births are infrequent and young require long periods of care, but longevity and resilience of adults ensure the population remains stable over long periods. The ursine community is small and widely dispersed, as the northern forest can support only a limited number of such large individuals, and the territories of ursine families may span many square miles of woodland. The bonds between mother and young are the strongest in ursine life, persisting for many years after the young reaches independence, maintained through shared territory and occasional contact.
 
-## Habitat and Distribution
+## Northern Forests of Aethelar and Morvind
 
 Ursines are found chiefly in the northern forests of [Aethelar](/content/location/natural/continent/aethelar), where trees are large, winters are long, and undergrowth is thick. They favour mature woodland with a mix of coniferous and deciduous trees, where canopy is dense and ground is soft, and streams and rivers provide water and fishing that supplements their diet. Their settlements are typically small and solitary, established in sheltered locations within the forest, and an ursine family may range across a wide territory rather than remaining in a single location.
 
 In [Morvind](/content/location/natural/continent/morvind), ursines are found in coniferous forests of the lower slopes, where trees are hardy and cold is intense, and the ursines of Morvind are the most heavily built and cold-tolerant of their kind. Smaller populations are reported in the wooded highlands of the mountain spine, where forests are thinner but terrain is remote. The [geography](/content/geography) of each region determines the distribution of ursine populations, and they are absent from open plains, mountains above the treeline, and warm regions, as their bodies are adapted to cold and forest.
 
-## Diet
+## Salmon, Berries, and Forest Foraging
 
 The ursine diet is the most varied of any of the larger peoples. Ursines are opportunistic omnivores making use of a wide range of foods the northern forest provides. Fish is the staple, caught from streams and rivers by a patient powerful technique relying on great strength and sharp eyes for movement in the water, and the salmon runs of northern rivers are the most important seasonal event in the ursine year. Berries, nuts, roots, and honey are gathered from the forest floor and understorey, and their keen sense of smell is well suited to finding these foods.
 
 Meat from land animals is a secondary part of the diet, taken from hunting of large mammals of the forest including elk, boar, and smaller game sharing the ursine habitat. Ursines are capable predators when opportunity arises, but they are not dedicated hunters, preferring patient fishing and leisurely foraging that suit their deliberate pace. Their digestion is robust and well adapted to a mixed diet, and their metabolism builds large fat reserves that sustain them through the lean winter months when food is scarce and the forest is deep in snow.
 
-## Ecology
+## Large Omnivores of the Northern Woodland
 
 Ursines occupy the niche of a large-bodied omnivore in northern forest ecosystems. Their impact on surroundings is considerable where present, as they consume a great deal and alter vegetation and wildlife of their territory through foraging, fishing, and occasional hunting of large game. The ursine presence in a forest is generally associated with a healthy diverse ecosystem, as they take from the forest what they need and the forest sustains them in return, the balance between the two maintained over many centuries.
 

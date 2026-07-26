@@ -3,11 +3,11 @@ layout: default
 title: Goldmeadow
 ---
 
-## Overview
+## Central Trade Hub at the Confluence
 
 Goldmeadow is a central trade hub of [Aethelar](/content/location/natural/continent/aethelar) situated at the meeting of river and road in the heart of the central grasslands. The city stands at the confluence of two of the principal rivers of the plain, where the roads that cross the grasslands from north, south, east, and west converge on a single point. The position of Goldmeadow at the intersection of the major routes of the central grasslands has made it the primary hub of inland trade in the region, and the goods that pass through its markets come from every corner of the continent.
 
-## The Rivers and the Roads
+## Two Rivers, the Wharves, and the Dwarven Bridge
 
 The two rivers that meet at Goldmeadow are navigable for much of their length, and the confluence is a natural point for the transfer of goods between river traffic and road traffic crossing the grasslands. The rivers connect Goldmeadow to the agricultural regions of the plain, the mountain passes of the spine, and the coast, and the roads connect the city to the overland routes running in every direction. The combination of river and road access makes Goldmeadow the most connected settlement in the central grasslands, and the trade flowing through the city is the most diverse of any inland settlement in Aethelar. The rivers are also a source of food, for the waters of the confluence are rich in fish, and the fishermen of Goldmeadow supply the markets with a steady catch of freshwater species that supplement the diet of the city.
 
@@ -15,18 +15,18 @@ The wharves and quays of Goldmeadow line both banks of the two rivers above the 
 
 The bridges of Goldmeadow are among the finest engineering works in the central grasslands and are a source of pride for the city. The great bridge spanning the larger of the two rivers is a stone arch of considerable span, built by dwarven engineers resident in the city. The bridge is wide enough for two wagons to pass abreast, and the parapets are decorated with carved figures that are a feature of dwarven stonework. The maintenance of the bridges is a responsibility of the city government, and the funds allocated to this purpose are among the largest items in the municipal budget. The smaller bridge over the tributary river is a plainer structure but is reinforced with iron braces that were forged in the dwarven quarter and are replaced every decade as a matter of routine.
 
-## Trade and the Market
+## Daily Market and the Financial Services
 
 The trade of Goldmeadow is the most diverse of any inland city. The city stands at the meeting point of the river and road networks of the central grasslands, and the goods passing through its markets include the agricultural products of the plain, the timber and metalwork of the mountains, the manufactured goods of the coast, and the exotic products of the [Auric Ocean](/content/location/natural/feature/auric-ocean) trade. The market square of Goldmeadow is one of the busiest in the known world, and the market held there is a daily affair, as the constant traffic of the rivers and roads ensures a steady flow of goods and customers. The market is organised by commodity, with the grain merchants occupying the eastern side of the square, the livestock traders the western side, and the dealers in imported goods the central section nearest the river.
 
 The city is also a centre for the financial services that support the trade of the grasslands. The bankers and money-changers of Goldmeadow are among the most influential in the inland economy. The city's position at the hub of the trade network makes it a natural centre for the exchange of currencies, the extension of credit, and the settlement of debts, and the financial institutions of Goldmeadow are a significant part of its commerce.
 
-## The City
+## Both Banks, the Bridges, and the Dwarven Quarter
 
 Goldmeadow is a large, bustling city whose architecture reflects its function as a trade hub. Broad streets, substantial buildings, and a commercial district dominate the city centre. The city is built on both banks of the two rivers, connected by bridges that are among the finest in the grasslands, and the waterfront is the busiest part of the city, with wharves, warehouses, and the offices of trading houses lining the rivers. The population is chiefly [human](/content/species/sapient/humans), with a significant community of [dwarves](/content/species/sapient/dwarves) involved in the metal trade and the maintenance of the bridges and roads. The dwarven quarter is situated near the great bridge, and the workshops and forges of the dwarven community are a distinctive feature of the district, with the sound of hammering and the glow of furnaces a constant presence.
 
 The governance of Goldmeadow is managed by a council of prominent merchants and guild masters, meeting in the municipal hall in the market square. The council oversees the collection of tolls and taxes, the maintenance of roads and bridges, and the administration of justice. The officials of the city government are drawn from the merchant and craft communities. The city is a member of the [Plains Confederation](/content/government/national/plains-confederation), and the representatives of Goldmeadow are among the most influential voices in the councils of the confederation, for the trade flowing through the city is a vital component of the economy of the grasslands.
 
-## Significance
+## Most Connected Settlement in the Grasslands
 
 Goldmeadow is the primary hub of inland trade in the central grasslands, and its position at the meeting of river and road makes it the most connected settlement in the region. The city is a key member of the [Plains Confederation](/content/government/national/plains-confederation), and its trade and financial services are a significant component of the economy of the grasslands and the continent as a whole. The prosperity of Goldmeadow is a direct consequence of its position, and the city has grown and thrived on the trade that flows through its streets and over its bridges. The influence of Goldmeadow extends far across the grasslands, and the city's markets set the prices that govern the trade of the entire central plain, for the volume of goods passing through the city is sufficient to determine the value of the commodities bought and sold across the region.

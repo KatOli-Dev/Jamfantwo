@@ -3,11 +3,11 @@ layout: default
 title: Frostwall Clans
 ---
 
-## Overview
+## Dwarven Confederation of the Deep Interior
 
 The Frostwall Clans are the [dwarven](/content/species/sapient/dwarves) clans of the deep interior of [Morvind](/content/location/natural/continent/morvind), encompassing the remote mountain settlements and fortress-cities situated in the most rugged and inaccessible region of the continent. The clans are not a unified kingdom but a confederation of independent dwarf clans united by their common interest in the defence of the deep interior and the maintenance of routes connecting the interior ranges to the coast. The Frostwall Clans are the guardians of the most remote and demanding region of Morvind, and their hardihood and martial tradition are the foundation of their significance.
 
-## The Deep Interior and the Clans
+## Territory and Clan Structure
 
 The deep interior of Morvind is the most remote and rugged region of the continent. The Frostwall Clans are the dwarven communities that inhabit this region. Their territory encompasses the highest peaks, deepest valleys, and most isolated plateaus of the interior ranges, and their settlements are situated in locations too remote or difficult for any other people to claim. [Grimhold](/content/location/settlement/city/grimhold) is the principal fortress-city of the clans, and [Ravenscrag](/content/location/settlement/village/ravenscrag) is the most remote of the clan settlements, located in a far valley of the interior where the approaches are most difficult.
 
@@ -15,7 +15,7 @@ The clans are organised by family and territory. Each clan is a self-governing e
 
 Individual clans are identified by the names of their founding families and the territories they inhabit. Members of each clan are bound by ties of kinship and shared responsibility for the defence of the clan's territory. The clans maintain their own fortifications, mines, and forges, and the self-sufficiency of each clan is valued as highly as collective defence. The clans are known by distinctive patterns and devices on their shields and banners, and identification of a dwarf by clan is the first and most important fact of dwarven social life in the interior.
 
-## The Fortress and Defence
+## Grimhold and the Defence of the Passes
 
 Defence of the deep interior is the primary concern of the Frostwall Clans, and the fortress of Grimhold is the principal instrument of this defence. The fortress is carved into the rock of a great peak that dominates the surrounding ranges, and its walls and towers command every approach to the deep interior. The garrison of Grimhold is among the largest and most professional in the dwarven world, and the soldiers of the fortress are the guardians of the routes connecting the interior to the coast. The wild peoples of the deep interior, including the [orcs](/content/species/sapient/orcs) and [lupines](/content/species/sapient/lupines) of the cold steppes, are a constant presence in the region, and the relationship between the dwarves and the wild peoples is one of mutual wariness.
 
@@ -23,7 +23,7 @@ The routes that pass through the deep interior are the only overland connections
 
 The martial tradition of the Frostwall Clans is the most developed of any dwarven people, for the demands of the deep interior require a level of military readiness unnecessary in the more settled regions of Morvind. Every dwarf of the clans is trained in the use of arms from an early age, and the militia of each clan is a standing force that can be mobilised at short notice. The soldiers are equipped with weapons and armour produced in the forges of the interior, and the quality of dwarven metalwork is a significant advantage in the defence of passes and valleys.
 
-## Governance and the Council
+## Council of Clan Chiefs
 
 The Frostwall Clans are governed by a council of clan chiefs that meets at Grimhold, the primary political institution of the deep interior. The council reaches decisions by consensus, and governance is based on the accumulated wisdom of the chiefs and the martial tradition that is the heritage of the dwarven people of the interior. The council co-ordinates the defence of the interior, the maintenance of the routes, and the management of the mining operations that are the economic foundation of the clans.
 
@@ -31,13 +31,13 @@ The council convenes at regular intervals, and the chiefs travel to Grimhold for
 
 The Frostwall Clans combine hereditary chieftainship with consensus governance, a mixture that places them in the middle of the spectrum: the chiefs inherit their positions by birth, yet no decision of significance may be taken without the agreement of all. A chief who cannot command the consent of their own clan may find that clan's voice absent from the council, and a chief who persistently blocks consensus may be set aside by their elders and replaced with a more accommodating kinsman. The clans are thus more constraining of their leaders than the dwarf kingdoms to the east, where the king's word is law, yet less systematic in their participation than the confederations of the south, where representatives are chosen by popular vote.
 
-## Economy and Mining
+## Mineral Wealth and Forge Trade
 
 The economy of the Frostwall Clans is based on mining the minerals found in the interior ranges. The ores extracted from the deep veins of the mountains include iron, copper, silver, and the rarer metals valued by the smiths of the dwarven world. Mining operations are conducted by individual clans on their own territories, and the ores are transported to the forges of the interior, where they are worked into weapons, tools, and other products used by the clans and traded to the coast.
 
 Trade between the Frostwall Clans and the coast is managed through the routes connecting the interior to the coastal settlements. The metalwork and stone of the interior are exchanged for grain, cloth, and manufactured goods that the clans cannot produce for themselves. The trade is conducted during the summer months when the passes are open, and the caravans that travel the routes are guarded by clan soldiers, for the wild peoples of the mountains are a constant threat to the traffic.
 
-## Significance
+## Guardians of Morvind's Interior
 
 The Frostwall Clans are the guardians of the deep interior of Morvind. Their defence of the routes and passes connecting the interior to the coast is a critical function that has sustained the dwarven presence in the most remote region of the continent for centuries. The clans' martial tradition and hardihood are the foundation of their significance, and their fortress at Grimhold is a symbol of the dwarven commitment to the defence of the interior. The significance of the Frostwall Clans lies in their endurance and resilience in the most demanding environment in Morvind, and they are a testament to the capacity of the dwarven people to establish and maintain secure settlements in the most remote and difficult regions of the known world.
 

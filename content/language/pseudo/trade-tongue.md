@@ -3,11 +3,11 @@ layout: default
 title: Trade Tongue
 ---
 
-## Overview
+## Hand Signals of the Marketplace
 
 The Trade Tongue is the name given to the system of hand signals used by the merchants and factors of the great trading routes to communicate across the noise and distance of crowded marketplaces and busy harbours of the known world. It is a code of gestures, finger positions, and hand movements that conveys the essential information of commerce across the crowded spaces of ports and bazaars. Traders of the [Amurra Republic](/content/government/national/amurra-republic), caravan masters of the [Vashari Pact](/content/government/national/vashari-pact), factors of the [Northern Coast League](/content/government/national/northern-coast-league), and agents of the [Auric Isles](/content/government/national/auric-isles) use the system, and its signals are understood by every merchant who deals in the long-distance trade, whatever the language of his native speech. A negotiation conducted in the Trade Tongue can move from offer to acceptance or refusal in a matter of moments.
 
-## The Nature of the Signals
+## Hand Positions and Movements
 
 The signals are produced by the hands and fingers, distinguished by the position of the hand, the number of fingers extended, and the movement made. The closed fist raised to the level of the chest is a signal of inquiry, asking whether the other party wishes to deal. The open hand with the palm turned outward is a signal of refusal, indicating the merchant is not interested in the offer made. The hand held at the side with a single finger extended indicates a price of one unit of the local currency; the number of fingers extended indicates the number of units proposed. The hand moved in a circular motion with the palm turned downward is a signal of negotiation, indicating the merchant is willing to adjust his price. A quick tap of the fingers against the opposite palm signals acceptance, while a sharp downward cut of the hand signals final refusal and the end of discussion.
 
@@ -15,15 +15,15 @@ The signals are exchanged in a rapid, practised sequence. The system allows merc
 
 Because the code is limited, prudent merchants use it to establish quantities and immediate intent rather than to settle every obligation of a bargain. Quality, delivery, credit, penalties, and guarantees are transferred to speech or writing once the initial terms have been understood. Each major market appoints recognised factors who teach the standard forms and resolve disputes over ambiguous gestures. Local variations exist, especially in signs for measures and coinage, but a trader is expected to state the unit visibly before naming a number, preventing a familiar sign from concealing an unfamiliar value. An experienced trader can conduct a complete negotiation without speaking a word.
 
-## Centres of Use
+## Marketplaces of the World
 
 The Trade Tongue is most extensively used in the great marketplaces of the trading cities, where merchants of many peoples gather to exchange the goods of the known world. A single market may host merchants speaking a dozen different tongues, and the Trade Tongue provides the only common medium for bargaining. The markets of Amurra are the principal centres, for Amurran traders are among the most active users of the hand signals, and the marketplace of the city is where the conventions are most fully developed. The harbours of the [Velden Strait](/content/location/natural/feature/strait-of-velden) are another centre, for the strait is the meeting point of eastern and western trade, and ships passing through the narrows bring merchants from all three continents who must communicate across the barriers of language and custom. The caravan stops of the [Kharesh](/content/location/natural/feature/kharesh) are also places where the Trade Tongue is used, for caravans crossing the desert bring traders from coastal cities and interior settlements who must negotiate terms of passage and exchange of goods. The signal system is well suited to the conditions of the caravan stop, where the noise of animals and the bustle of the camp make the spoken voice difficult to hear.
 
-## Relation to the Spoken Languages
+## Trade Signs and Spoken Tongues
 
 The Trade Tongue is distinct from the spoken languages of the trading peoples. The spoken tongues are true languages with grammar and vocabulary, used for the ordinary commerce of life and for the preservation of traditions and histories. The hand signals, by contrast, are a code of limited scope, capable of conveying only the information relevant to the negotiation of a trade — quantities, prices, acceptance, and refusal — used only for the specific purposes of bargaining and exchange. Merchants who use the Trade Tongue also speak the languages of their own peoples, using the spoken word for conversations that go beyond the terms of the trade. The same hand signal may mean different quantities in different ports — a finger in Amurra may represent a silver piece while in the Northern Coast it represents a copper — so the prudent trader begins by establishing the unit through a separate gesture before naming the number.
 
-## Significance
+## Hand of the Merchant
 
 The Trade Tongue is the hand of the merchant in the crowded marketplaces of the known world, the means by which traders of many peoples conduct the business of commerce across the barriers of language and the noise of the market. Without the hand signals, the negotiations of the great trading routes would be far slower and far more difficult, dependent upon the uncertain translation of interpreters and the delays of the written word. The system is a practical invention born of the necessities of the marketplace, a measure of the ingenuity by which the trading peoples of the world have overcome the barriers that separate them. In the noise and bustle of the harbour where the traveller hears only the confusion of many tongues, the merchant sees the passing of the Trade Tongue, the silent signs that move the goods of the known world from one shore to the next.
 

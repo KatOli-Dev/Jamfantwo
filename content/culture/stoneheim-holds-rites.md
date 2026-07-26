@@ -3,58 +3,58 @@ layout: default
 title: Stoneheim Holds Rites
 ---
 
-## Overview
+## The Dwarven Seasonal Cycle
 
 The Rites of the [Stoneheim](/content/location/settlement/city/stoneheim) Holds are the principal seasonal observances of the dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds), the federation of mountain holds that occupies the eastern ranges of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands). The rites are not a single ceremony but a cycle of observances extending across the turning of the underground year, marking the principal events of the life of the mountain and the work of the holds. The rites are observed in every hold of the federation, from the great central halls of [Stoneheim](/content/location/settlement/city/stoneheim) to the most remote of the workings in the high country, though customs vary from one hold to another. The rites express the bond between the dwarven people and the mountain that is their home, and the rituals acknowledge the gifts the mountain provides.
 
-## Origins and the Mountain
+## The Mining Year Gives Shape to Tradition
 
 The origins of the rites lie in the practical necessities of the dwarven mining life. Early clans inhabiting the mountains of the [Morvind](/content/location/natural/continent/morvind) ranges developed a cycle of observances to mark the principal events of the mining year: the opening of new workings in the spring, the descent into deeper galleries in the summer, the consolidation of props and supports in the autumn, and the sealing of the upper workings against the winter storms. These observances were refined over generations into the tradition observed in the present age, acquiring a meaning independent of their practical purposes. The tradition is not confined to the holds of the eastern ranges; the dwarven communities of the [Karhold Realm](/content/government/national/karhold-realm) across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) observe a parallel cycle with recognisably similar rhythms, the product of a shared dwarven tradition adapted to the geology of each range.
 
 The rites are conducted in the principal chamber of each hold, the great hall that occupies the centre of the settlement and serves as the meeting place of the elders and craftsmen. The great hall is illuminated by great lamps burning with a steady flame fed by oil produced from the minerals of the deep galleries. The elder of the hold presides over the rites, assisted by the masters of the principal crafts and the representatives of the families whose members work the galleries.
 
-## The Rite of the Opening
+## Spring: Striking the Hammer for New Workings
 
 The Rite of the Opening is the first principal observance of the cycle, conducted in the spring at the moment when the snow on the high passes begins to break and the workings of the new season may safely be opened. The rite is observed in the great hall, attended by the elders, craftsmen, and families whose members will descend into the new workings in the weeks that follow. The elder addresses the customary invocation to the mountain, a formal request for the mountain to permit the opening of the new season's workings and to grant the safety of the galleries to the miners who will work them.
 
 The elder strikes the floor of the great hall with the ceremonial hammer the hold maintains for the purpose, and the striking is the signal for the commencement of the new season. The hammer is a tool of considerable antiquity preserved in the hold from one generation to the next, struck only at the principal observances of the cycle. The striking is answered by the working hammers of the craftsmen standing in the gallery that surrounds the hall, the answer being the formal acknowledgement of the community that the new season has begun. The Rite of the Opening is one of the most solemn observances of the cycle, marked by a stillness in the galleries that the customary discipline of the hold requires.
 
-## The Rite of the Vein
+## Summer: Thanks for the Mineral Seam
 
 The Rite of the Vein is the second principal observance, conducted in the early summer at the moment when the principal vein of the new season has been reached by the workings of the miners. The rite is observed at the face of the vein, attended by the elder, the master of the mining craft, and the miners whose work opened the vein. The elder conducts a customary examination of the stone broken from the face, the formal recognition that the vein is of the quality the customary standards of the hold require.
 
 The elder offers customary thanks to the mountain for the gift of the vein by laying a small portion of the broken stone upon an altar of dressed stone erected at the face of the working. The altar is a temporary construction assembled for the occasion and taken down at the conclusion of the rite. The elder pronounces customary words acknowledging the bounty of the mountain and praying for the continuance of the bounty in the workings to follow. The rite is concluded by a customary feast the hold provides at the face of the working, the occasion for the breaking of bread and the sharing of ale carried to the gallery.
 
-## The Rite of the Props
+## Late Summer: Renewing the Gallery Supports
 
 The Rite of the Props is the third principal observance, conducted in the late summer at the moment when the props and supports of the principal galleries must be renewed in preparation for the stresses the autumn rains bring to the mountain. The rite is observed in the chosen gallery, attended by the elder, the master of the carpentry craft, and the carpenters whose work will renew the supports. The elder conducts a customary examination of the props presently in place, the formal recognition of the props that must be replaced and those that may stand for another season.
 
 The carpenters erect the new props in the positions the elder has indicated, conducted with the customary forms the carpentry craft has established. The master of the craft sets the first prop in place, accompanied by customary words invoking the strength of the mountain and praying for the endurance of the prop through the coming season. The setting of the first prop is the formal moment of the observance, marked by the striking of the working hammers of the carpenters standing in the gallery. The Rite of the Props is an observance of great practical importance, for the safety of the workings through the winter depends upon the props the rite consecrates.
 
-## The Rite of the Sealing
+## Autumn: Closing the Upper Workings
 
 The Rite of the Sealing is the fourth principal observance, conducted in the autumn at the moment when the upper workings of the hold are sealed against the winter storms. The rite is observed at the mouth of the upper gallery chosen for the sealing, attended by the elder, the masters of the principal crafts, and the miners who will conduct the sealing. The community conducts a customary procession from the great hall to the mouth of the gallery, accompanied by customary songs the hold maintains for the occasion.
 
 The masons of the build the wall of dressed stone that will close the mouth of the gallery against the winter weather. The elder lays the first stone, accompanied by customary words commending the gallery to the care of the mountain until the opening of the next season, recognising that the workings of the upper levels may not be safely reopened until the spring. The laying of the first stone is the formal moment of the observance, marked by the customary answer of the masons striking their hammers upon the dressed stone. The sealing of the upper workings is a melancholy occasion, for the galleries that are sealed contain the places where many miners laboured through the season, and the sealing acknowledges that the work of those galleries is concluded for the year.
 
-## The Rite of the Deep
+## Winter: Gathering in the Lowest Hall
 
 The Rite of the Deep is the fifth principal observance, conducted in the winter at the moment when the community gathers in the deepest chambers of the hold to mark the turning of the year. The rite is observed in the lowest of the great halls of the hold, far beneath the surface of the mountain and far from the upper workings sealed against the storms. The elders, craftsmen, and families of the hold attend, making this one of the largest gatherings of the underground year.
 
 The rite begins with the lighting of the great lamps the chamber maintains, the formal signal that the observance has commenced. The elder addresses the assembly upon the events of the year that is ending, including the customary recounting of the principal achievements of the hold and the remembrance of the miners who have died in the workings through the year. The remembrance is marked by the striking of the ceremonial hammer upon the floor of the chamber, answered by the striking of the working hammers of the craftsmen in the gallery. The rite is concluded by a customary feast in the great hall, the occasion for sharing the food the hold has stored against the winter.
 
-## The Rite of the Forge
+## Late Winter: Rekindling the Smithy Fire
 
 The Rite of the Forge is the sixth principal observance, conducted in the late winter at the moment when the forges of the hold are rekindled after the customary suspension of work during the darkest weeks of the year. The rite is observed at the principal forge of the hold, attended by the elder, the master of the smithing craft, and the smiths whose work will resume. The elder conducts a customary examination of the forge and the tools laid aside during the suspension, the formal recognition that the forge is in a condition to resume work.
 
 The master of the craft kindles the fire of the forge from the embers preserved through the suspension, accompanied by customary words invoking the heat of the mountain and praying for the strength of the smiths whose work the forge will support through the coming year. The kindling of the fire is the formal moment of the observance, marked by the customary answer of the smiths striking their hammers upon the anvils. The Rite of the Forge is one of the most joyful observances of the cycle, for the rekindling of the forge signals that the dark weeks of the suspension are at an end and the customary work of the hold may resume.
 
-## The Role of the Deep Speech
+## Rhythms Struck through the Living Stone
 
 The [Deep Speech](/content/language/pseudo/deep-speech) plays an important part in the observances of the cycle. The deep rhythms of the stone are used to mark the principal moments of each rite. The elder strikes the floor of the great hall or the wall of the gallery with the ceremonial hammer, and the striking is answered by the working hammers of the craftsmen in the galleries surrounding the place of observance. The answer travels through the stone of the mountain and is heard in the distant workings as clearly as in the place of observance itself. The deep rhythms are a distinctive feature of the rites, understood by every dwarf who works the stone of the mountain.
 
 The deep rhythms also co-ordinate the observances of the different holds of the federation. A striking at the great hall of [Stoneheim](/content/location/settlement/city/stoneheim) is answered by the striking of the principal holds in a sequence established by the customs of the cycle. The sequence measures the unity of the federation, and the deep rhythms are among the most distinctive of dwarven customs, a reminder that the holds of the federation are bound together by the stone that is the common foundation of their life.
 
-## Significance
+## The Rites as Expression of Dwarven Life
 
 The Stoneheim Holds Rites are the principal seasonal observances of the dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds), observed in every hold of the federation from the great central halls of [Stoneheim](/content/location/settlement/city/stoneheim) to the most remote of the workings in the high country. The rites express the bond between the dwarven people and the mountain that is their home, and the rituals acknowledge the gifts the mountain provides. The rites hold both civic and religious significance, recognised by the council of the federation and by the elders of the individual holds, and they are one of the customary acts of the community at the turning of the underground year. The rites endure as a celebration of the bond between the people and the mountain, affirming that the stone that shelters the dwarven communities is the stone they work, and that the work is the foundation of the life the mountain sustains.

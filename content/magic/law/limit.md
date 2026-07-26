@@ -3,13 +3,13 @@ layout: default
 title: Limit
 ---
 
-## Overview
+## The Boundaries the Art Cannot Cross
 
 The Art is bounded by limits that no tradition has been able to exceed, observed with a consistency remarked upon by scholars of every age. The limits are not imposed by any authority nor are they the consequence of any failure of skill. They are properties of the order of the world, and the practitioner of the Art is one who has learned to work within them. The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) state the limits in the most widely cited form, treated here under three headings.
 
 This page sets down the three limits as commonly stated, with the principal variants and disputes among the traditions. It also notes cases in which the limits have been tested and cases in which they have been reported, by the traditions or by their critics, to have been exceeded.
 
-## The First Limit: Like Affects Like
+## Resonance Requires Sympathy
 
 The first limit is the principle that resonance acts only between like things. A practitioner may only reach a subject through a [path of the Source](/content/magic/law/source) of sympathy, and the path exists only between the pattern of the practitioner and the pattern of the subject. The closer the pattern of the practitioner is to the pattern of the subject, the more direct the path and the more readily the practitioner may reshape the subject. The more distant the patterns, the weaker the path and the less the practitioner may accomplish.
 
@@ -17,7 +17,7 @@ This limit is observed in every working of the Art and is the foundation of the 
 
 The limit is the source of the specialisation of the traditions. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) is closely attuned to the patterns of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), and the [Sylvan Court](/content/government/local/sylvan-court) to forests more generally. The practitioners of the academies of the [Southern Reach](/content/government/national/southern-reach) are attuned to the patterns of the mountains and the seas, and those of [Khalisar](/content/government/local/khalisar-council) to the inland cities and the routes of trade. Attunement is part of the long apprenticeship the traditions require and is one of the principal reasons practitioners of one tradition are not readily interchangeable with practitioners of another.
 
-## The Second Limit: Pattern Is Conserved
+## The Total of Pattern Remains Constant
 
 The second limit is the principle that the total of pattern in the world is conserved. A practitioner may reshape a pattern but may not create a pattern from nothing nor destroy a pattern entirely. Reshaping is a redistribution constrained by the conservation of the total. The [Sylvan Court](/content/government/local/sylvan-court) has likened the total of pattern to the weight in a balance, an analogy taken up by several of the academies.
 
@@ -25,7 +25,7 @@ This limit is the source of the [costs](/content/magic/law/cost) of the Art. A p
 
 The limit is also the source of relic-making. A relic is an object into which a practitioner has poured a portion of pattern, a concentration of pattern at the expense of the practitioner's own. The relics of the [Sylvan Court](/content/government/local/sylvan-court) and the [Heartwood Fellowship](/content/government/local/heartwood-fellowship) are among the most concentrated relics of the Art and are valued for the discipline that produced them and for the burden the producing practitioner bore.
 
-## The Third Limit: The Living Resist
+## Living Patterns Resist Reading and Reshaping
 
 The third limit is the principle that the patterns of living things resist reading and reshaping with a vigour that the patterns of dead matter do not. A practitioner may read a stone with comparative ease and may reshape a stone within the bounds of the first two limits with little difficulty. A practitioner who attempts to read or reshape a [pattern of the medium](/content/magic/law/medium) of a living thing encounters a resistance not found in dead matter, greater the more complex the living thing and the more vigorous its will.
 
@@ -33,7 +33,7 @@ This limit is the source of the particular care the traditions take when the sub
 
 The resistance of the living is not a moral limit nor is it imposed by any authority. It is a property of the order of the world, observed in every case in which a living pattern is read or reshaped. The [Velden Compact](/content/government/local/velden-compact) has published an account attributed to a practitioner of the academies of the [Southern Reach](/content/government/national/southern-reach) who claimed to have reshaped the pattern of a person without consent. This account is disputed by the academies and received by the traditions with caution.
 
-## Edge Cases and Disputes
+## Where the Traditions Disagree on the Limits
 
 The traditions agree on the three limits as stated above and agree that the limits are not to be exceeded. They disagree about the edges of the limits and about the cases in which the limits are said to have been approached. The [Sylvan Court](/content/government/local/sylvan-court) holds that the first limit may be deepened by long practice, allowing a practitioner of sufficient skill to reach patterns that an untutored practitioner cannot. The [Khalisar Council](/content/government/local/khalisar-council) holds that the first limit is fixed and that the practitioner may only follow paths that already exist.
 

@@ -3,17 +3,17 @@ layout: default
 title: Northern Fleet
 ---
 
-## Overview
+## The Standing Fleet of the Nordhaven Kingdom
 
 The Northern Fleet is the standing fleet of the [Nordhaven](/content/government/national/nordhaven), the principal naval force of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the guardian of the maritime trade that connects the mineral wealth and crafted metalwork of [Morvind](/content/location/natural/continent/morvind) to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond. The Fleet was established by [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) in the year the chronicles of the kingdom record as the seven hundred and seventy-ninth year of the kingdom, and it has been maintained at the strength the campaigns against the corsairs demonstrated to be necessary. The Fleet is composed of warships of the line, patrol vessels, and smaller craft serving as messengers and scouts, commanded by an admiral appointed by the king upon the recommendation of the council of captains. The Fleet is the most formidable naval force the northern waters have known and is the foundation of the maritime security of the Stormfall Sea.
 
-## Establishment and the Admiral
+## Thessa Nordhaven and the First Campaign
 
 The Northern Fleet was established in the year the chronicles of the [Nordhaven](/content/government/national/nordhaven) record as the seven hundred and seventy-ninth year of the kingdom, a period when corsair raids upon the coastal communities of the southern shore of [Morvind](/content/location/natural/continent/morvind) had reached a severity the existing patrol vessels could no longer contain. The decision to establish a standing fleet was taken by the council of the kingdom upon the recommendation of the captains of the patrol vessels, supported by the testimony of the coastal communities that had suffered most from the raids. The council appointed [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) to command of the new fleet, the first occasion upon which a woman had held the rank of admiral in the service of the kingdom. The appointment was contested by several of the senior captains of the patrol service and confirmed only after the council had heard the testimony of the merchants and fishermen of the coastal towns.
 
 The fleet Thessa was given to command was modest at its establishment, consisting of no more than twenty vessels of war and a number of smaller craft serving as messengers and scouts. The vessels were built in the yards of [Nordhaven](/content/location/settlement/city/nordhaven) under Thessa's supervision, designed to the specifications her experience of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) had led her to prefer. The vessels were of shallow draught and high freeboard, suited to the conditions of the sea that the corsair vessels favoured, and were manned by crews Thessa had selected from the experienced fishermen of the coastal towns. The fleet was the most formidable force the kingdom had ever assembled upon the water and was the foundation of the campaigns that established Thessa's reputation throughout the known world.
 
-## Composition and the Vessels
+## Warships of the Line, Patrol Vessels, and Messengers
 
 The Northern Fleet is composed of warships of the line, patrol vessels, and smaller craft serving as messengers and scouts. The warships of the line are the principal vessels of the Fleet, employed in major engagements. They are built in the yards of [Nordhaven](/content/location/settlement/city/nordhaven) and [Skaldshavn](/content/location/settlement/town/skaldshavn) to the design [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) established and are among the most capable vessels sailing the waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The warships are distinguished by their shallow draught and high freeboard, qualities giving them stability in the rough water of the Stormfall and speed in the light air that deeper-draughted vessels of southern ports do not possess.
 
@@ -21,7 +21,7 @@ The patrol vessels are the second component, employed in the routine patrol of c
 
 The smaller craft serve the Fleet as messengers and scouts, carrying the signals and intelligence the Fleet requires. Built for speed, they are manned by the most experienced sailors of the Fleet and stationed at the principal harbours of the coast. These craft are the foundation of the rapid communication the Fleet maintains with the coastal towns and the court at [Nordhaven](/content/location/settlement/city/nordhaven). They have been the foundation of the success of the Fleet in its campaigns and the foundation of its reputation for speed of response.
 
-## The Bases and the Yards
+## Nordhaven, Skaldshavn, and the Shipyards
 
 The Northern Fleet maintains its principal base at the harbour of [Nordhaven](/content/location/settlement/city/nordhaven), the headquarters of the admiral and the senior officers of the Fleet. The harbour is one of the finest on the coast of [Morvind](/content/location/natural/continent/morvind), fitted with the docks, warehouses, and repair yards the Fleet requires. The harbour of Nordhaven has been the foundation of the maritime power of the kingdom and the foundation of the Fleet's reputation as the principal naval force of the Stormfall.
 
@@ -29,7 +29,7 @@ The secondary bases are the harbours of [Skaldshavn](/content/location/settlemen
 
 The shipyards of the Fleet at [Nordhaven](/content/location/settlement/city/nordhaven) and [Skaldshavn](/content/location/settlement/town/skaldshavn) are the source of the vessels the Fleet has maintained since the days of [Thessa Nordhaven](/content/people/historical/thessa-nordhaven). The yards are staffed by shipwrights who have inherited the tradition of careful construction the kingdom has maintained, and they are the foundation of the quality of the vessels of the Fleet. The yards are the source of vessels not only of the Fleet but also of the merchant marine of the kingdom.
 
-## The Customs of the Service
+## The Inherited Customs from the Admiral's Era
 
 The Northern Fleet maintains a set of customs established by [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) in the campaigns against the corsairs, the foundation of the discipline of the Fleet. The customs include the regular inspection of vessels, the maintenance of customary signals, and the conduct of patrols according to patterns the admiral established. These customs have been observed without interruption since the establishment of the Fleet.
 
@@ -37,18 +37,18 @@ The inspection of vessels is conducted by senior officers at customary intervals
 
 The customary signals are the signals exchanged with coastal towns and with one another, the foundation of the communication the Fleet maintains. The signals include day signals and night signals established by the admiral, the formal vocabulary of the Fleet. The signals are the most carefully maintained of any maritime institution in the known world and the foundation of the Fleet's reputation for rapid communication.
 
-## Patrols and the Coastal Defence
+## The Continuous Watch and the Harbour Reserve
 
 The Northern Fleet conducts a continuous patrol of the waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the coastal waters of the [Nordhaven](/content/government/national/nordhaven), the foundation of the security of the maritime trade. Patrol vessels are stationed at the principal points of trade and keep a steady watch for any sign of disturbance. The patrol is conducted both by day and by night, and the vessels are equipped with the arms and provisions the conditions of the Stormfall require. The patrol is the most visible sign of the Fleet's presence upon the waters.
 
 The Fleet is also responsible for the defence of the coast in the event of an attack, maintaining a reserve of warships at the harbour of [Nordhaven](/content/location/settlement/city/nordhaven) that may be dispatched to the relief of any coastal town threatened. The reserve is composed of the most experienced crews of the Fleet, equipped with the arms and provisions a campaign upon the Stormfall would require. The reserve has been called upon on several occasions during the long history of the Fleet and has been the foundation of the defence of the coast in the most serious crises the kingdom has faced.
 
-## The Stormfall Tradition
+## The Custodian of the Stormfall Maritime Knowledge
 
 The Northern Fleet is the principal naval force of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the foundation of the maritime tradition of that sea. The Stormfall is a difficult water, and the ships that sail it must be built to withstand the spirited weather systems that move across the sea in the autumn and winter months. The Fleet is the custodian of the knowledge of the Stormfall that [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) established and the foundation of the reputation of the kingdom as a maritime power. The Stormfall tradition is one of the most distinctive maritime traditions of the known world, the foundation of the security of the trade that connects the two continents the Stormfall separates.
 
 The Fleet maintains close co-operation with the maritime communities of the coast, the foundation of the security of the trade. The fishermen of [Skaldshavn](/content/location/settlement/town/skaldshavn) and the merchants of [Nordhaven](/content/location/settlement/city/nordhaven) are the principal collaborators of the Fleet, and this collaboration is the foundation of the intelligence the Fleet employs in the conduct of its patrols. This co-operation is one of the most distinctive features of the institution and the foundation of the Fleet's reputation as a force rooted in the maritime communities of the coast.
 
-## Significance
+## The Living Inheritance of the Stormfall Sea
 
 The Northern Fleet is the standing fleet of the [Nordhaven](/content/government/national/nordhaven), the principal naval force of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). Established by [Thessa Nordhaven](/content/people/historical/thessa-nordhaven) in the late maritime age, the Fleet has been maintained at the strength the campaigns against the corsairs demonstrated to be necessary. The Fleet is the foundation of the maritime security of the kingdom and the foundation of the prosperity of the trade the kingdom conducts with the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond. The Northern Fleet is among the most capable naval forces of the known world, maintained not by a ruling house or a priesthood but by the steady discipline of the officers and crews who have continued the work of the admiral through the centuries. The Fleet endures, in the harbours and upon the waters, as the living inheritance of those whose work and life are bound up with the maritime trade of the Stormfall.

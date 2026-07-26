@@ -3,33 +3,33 @@ layout: default
 title: Aldreth
 ---
 
-## Overview
+## A Realm of Eastern Commerce
 
 Aldreth is a human kingdom on the eastern coast of [Aethelar](/content/location/natural/continent/aethelar), centred on the city of [Eldreth](/content/location/settlement/city/eldreth), the wealthiest port on the continent. The kingdom occupies the eastern coast from the northern temperate zone to the margins of the warm plains in the south, and its territory includes some of the most productive and densely settled land in Aethelar. Aldreth competes with [Vael](/content/government/national/vael) for dominance of eastern coast trade, and its commercial power and political influence rank among the greatest of any realm on the continent.
 
-## The Coast and Trade
+## Harbours and the Auric Trade
 
 The eastern coast of Aethelar is the continent's most commercially productive region, and Aldreth controls the largest and most valuable portion of it. The harbour of [Eldreth](/content/location/settlement/city/eldreth) handles more trade than any other port in the known world, with goods arriving from every continent and island. Crown revenue derives primarily from tolls and taxes on this commerce, funding the fleet, public works, and the defence of the realm. The customs houses of Eldreth alone generate more revenue than the entire tax base of many smaller realms, and their officials are among the most experienced and carefully supervised in the kingdom.
 
 Aldreth is a major maritime power. Its fleet is among the largest and most capable in Aethelar, protecting the trade routes of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and the coast. The shipyards of [Caerwyn](/content/location/settlement/city/caerwyn), a member of the [Thessaran League](/content/government/national/thessaran-league), supply many of the kingdom's vessels, and the relationship between Aldreth and the league is one of mutual benefit and occasional tension. The fleet is divided into two squadrons: the northern squadron patrols the kingdom's coastal waters, while the southern squadron escorts merchant convoys on the longer routes to the [Auric Isles](/content/government/national/auric-isles) and the distant ports of the southern seas.
 
-## The City and Court
+## The Royal Seat at Eldreth
 
 The capital, [Eldreth](/content/location/settlement/city/eldreth), is the seat of the king and court. The king is the supreme authority, and the court is the centre of the kingdom's political and social life. The nobility consists of merchants and landowners of the coast, whose wealth derives from the trade flowing through the realm's harbours. Administration operates through a network of officials and local councils that collect taxes, maintain the fleet and fortifications, and administer justice. The local councils are administrative bodies whose authority derives from the crown and may be altered or dissolved by royal decree. The court is known for its patronage of the arts and sciences, and the royal library at Eldreth is among the finest collections on the continent, though it does not rival the great libraries of [Taretha](/content/location/settlement/city/taretha) in [Sahrana](/content/location/natural/continent/sahrana).
 
 The kings of Aldreth have governed the realm for many generations, and the succession has been stable and orderly for most of the kingdom's history. The present dynasty traces its line to the lords of Eldreth who first consolidated the coastal towns under a single crown. The court is composed of the great merchants, senior officials, and military commanders. The king's council meets regularly to advise on matters of state, trade, and defence, but its members are appointed by the king and serve at his pleasure. The council's advice is heard and considered, yet the king alone decides. The concentration of authority in the Aldreth crown is exceeded only by the dwarven kings of Stoneheim, for no institution of the realm may overrule a royal decision and no official holds office except by the king's appointment.
 
-## People and Defence
+## Inhabitants and Armed Forces
 
 The population of Aldreth is chiefly [human](/content/species/sapient/humans), and the people of the coast are among the most cosmopolitan and prosperous in Aethelar. [Elves](/content/species/sapient/elves), [dwarves](/content/species/sapient/dwarves), and [gnomes](/content/species/sapient/gnomes) are present in significant numbers, attracted by the trade and the kingdom's relative tolerance. The streets and markets of the realm are a meeting point of peoples from every continent. [Centaurs](/content/species/sapient/centaurs) of the warm plains are occasional visitors to the southern portions of the kingdom, and trade between the settled humans and the nomadic centaurs is a valued part of the kingdom's commerce.
 
 The kingdom maintains its defence through the fleet and a standing army funded by the treasury. The fortifications of Eldreth and the other coastal cities are kept in good order. Aldreth has been at peace with its neighbours for many generations, but its rivalry with Vael and occasional tensions with the Thessaran League require a credible military force. A network of watchtowers lines the shore, manned by the kingdom's soldiers to provide warning of any threat from the sea.
 
-## The Southern Borders
+## Boundary with the Warm Plains
 
 The southern portion of Aldreth extends to the margins of the warm plains, where the settled lands meet the open country of the [centaurs](/content/species/sapient/centaurs). This border region is a zone of mixed settlement and trade. The towns and markets of the south are points of contact between the kingdom and the nomadic peoples of the plains. Trade in horses, leather, and other products of the plains is a valued part of southern commerce. The fairs held at border towns during the summer months are among the most colourful and diverse gatherings in the kingdom. A special official appointed by the king oversees relations with the centaur kindreds and ensures the trade flows without disruption.
 
-## Significance
+## Regional Influence and Legacy
 
 Aldreth is the major human kingdom of the eastern coast and one of the most powerful and influential political entities in Aethelar. Its commercial power and maritime strength are the foundation of its significance, and its trade connects the continent to the markets of the wider world. Aldreth symbolises the wealth and cosmopolitanism of the eastern coast, and its long history and stable governance serve as a model of the political order that has sustained the continent for centuries. The kingdom's influence extends far beyond its borders, and its prosperity and stability are matters of concern to every realm that depends upon the commerce of the eastern coast.
 

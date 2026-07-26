@@ -3,11 +3,11 @@ layout: default
 title: Thessaran League
 ---
 
-## Overview
+## Confederation of Eastern Port Cities
 
 The Thessaran League is a confederation of eastern coast port cities of [Aethelar](/content/location/natural/continent/aethelar), united by their common interest in the maritime trade of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and their shared dependence on the sea. The league is not a kingdom but a commercial and defensive alliance, and its member cities retain individual governance while co-operating on matters of trade, navigation, and defence. The Thessaran League is one of the most influential political entities in Aethelar, and its collective power in the maritime trade of the eastern coast rivals that of [Aldreth](/content/government/national/aldreth).
 
-## The Member Cities
+## Eldreth, Caerwyn, and the Eastern Harbours
 
 The Thessaran League includes the principal port cities of the eastern coast, drawn from the settlements that share in the Auric trade. [Eldreth](/content/location/settlement/city/eldreth) is the largest and most influential member, though the city is also the capital of Aldreth, and its dual role as a league member and a kingdom's capital is a source of complexity in eastern coast politics. [Caerwyn](/content/location/settlement/city/caerwyn) is a valued member, renowned for its shipyards and the vessels they produce. [Thornhaven](/content/location/settlement/city/thornhaven) is a significant member, commanding the river and mountain passes of the eastern interior. [Sallowmere](/content/location/settlement/city/sallowmere) is the southernmost member, and its trade with the warm plains and southern regions is a valued component of the league's commerce.
 
@@ -17,17 +17,17 @@ The council elects a presiding officer, known as the Thessar, who serves for a t
 
 The league occupies the middle of the political spectrum: its council is representative and its presiding officer rotates among cities to prevent any single member from dominating, yet the league's authority is limited to maritime and commercial matters, and member cities govern themselves internally by their own arrangements. Some member cities are merchant oligarchies where only property holders vote, while others hold open assemblies, and the league does not prescribe one method over another so long as the shared commercial framework is upheld.
 
-## Trade and Navigation
+## Maritime Coordination and Rivalry with Vael
 
 The trade of the Thessaran League is the collective commerce of its member cities. Goods flowing through the league's harbours include the products of every continent and island. The league co-ordinates maritime trade of the eastern coast, managing lighthouses, pilotage services, and navigation aids essential to the safety and efficiency of the trade routes. The league also maintains a collective fleet that protects the trade routes from pirates and raiders, funded by contributions of the member cities and commanded by an admiral appointed by the council.
 
 The league is a rival of [Vael](/content/government/national/vael) in the trade of the eastern coast, and competition between the league and the kingdom is a driving force in the economy of the continent. The league's control of maritime trade routes and Vael's control of river trade create a balance of power that has prevented either from dominating the eastern coast entirely. The relationship between the two is one of competition and occasional co-operation. The rivalry has been a source of tension at times, but it has also been a spur to enterprise, driving the expansion of trade and improvement of the routes that serve it.
 
-## Significance
+## Collective Action in Eastern Trade
 
 The Thessaran League is the primary confederation of the eastern coast port cities, and its collective power in the maritime trade of the Auric Ocean is among the greatest of any political entity in Aethelar. The league's co-ordination of trade, navigation, and defence of the eastern coast is a model of co-operation among independent cities, and its council is one of the most effective political institutions on the continent. The significance of the league lies in its commercial power and capacity for collective action, and it symbolises the maritime tradition and commercial enterprise that are the hallmarks of the eastern coast.
 
-## History
+## Founding After an Era of Raiding
 
 The Thessaran League was founded in the aftermath of a period of raiding and disorder that threatened the trade of the eastern coast, when the port cities recognised that their individual efforts to protect their commerce were insufficient and that a collective response was required. The founding charter of the league was signed in the great hall of Eldreth, and the original members were the principal port cities of the coast, each contributing a representative to the council established to govern the new alliance.
 

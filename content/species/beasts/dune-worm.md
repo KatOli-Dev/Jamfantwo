@@ -3,34 +3,34 @@ layout: default
 title: Dune Worm
 ---
 
-## Overview
+## The Great Annelid of the Deep Sand
 
 The dune worm is the largest of the invertebrates of the [Kharesh](/content/location/natural/feature/kharesh), a great annelid of considerable length whose range extends across the deep sands of the desert interior of [Sahrana](/content/location/natural/continent/sahrana). It is a creature of the deep erg, rarely encountered by the [humans](/content/species/sapient/humans) and [salawa](/content/species/sapient/salawa) of the caravan routes, but its presence is a familiar feature of the lore of the caravan masters. The dune worm is among the most controversial of the creatures of the desert: scholars of the coastal academies have debated its reality for centuries, and the question of whether the worm is a true animal or a creature of campfire tales has not been settled to the satisfaction of all parties.
 
-## Form and Appearance
+## Segmented Body and Subterranean Form
 
 The dune worm is a segmented creature of considerable length, with a body that may extend for many yards beneath the surface of the sand, composed of a great number of similar segments each bearing a pair of bristles that serve as the principal organs of locomotion. The body is cylindrical and tapering, the anterior end slightly broader than the posterior; the surface is covered by a tough cuticle adapted to the abrasion of the sand. The colour of the cuticle is a pale buff that blends with the desert sand, rendering the worm effectively invisible when it lies just beneath the surface.
 
 The head is a simple structure, lacking the eyes or antennae found upon more familiar invertebrates, for the worm is a creature of the subterranean environment. The mouth is set at the anterior end; the worm draws sand into the mouth and extracts the organic matter it contains, the cleaned sand being passed out at the posterior end. The worm does not possess the powerful jaws of predatory invertebrates and is not dangerous to [humans](/content/species/sapient/humans) or to the larger animals of the desert.
 
-## Habitat and Lair
+## Beneath the Dunes
 
 The dune worm inhabits the deep sands of the [Kharesh](/content/location/natural/feature/kharesh), particularly the regions of great dunes where the sand is deep and the movement of the surface is most pronounced. It lives in a burrow excavated in the sand, extending horizontally beneath the surface for the length of the worm's body and marked at the surface by a low ridge of sand displaced during its progress. The burrow is not a permanent structure; the worm constantly extends it in search of the organic matter upon which it feeds, and it may move many yards in a single night.
 
 The worm is most active in the hours of darkness and the cooler hours of dawn, when the surface is not too hot for it to remain in the upper layers. During the heat of the day it descends to the deeper layers of sand, where the temperature is more moderate and it is safe from the heat of the surface. The worm does not surface voluntarily, for it is not adapted to the conditions of the open air, and it remains beneath the sand throughout its life. It is occasionally exposed by the shifting of dunes; a worm uncovered by the wind is a great and helpless creature upon the surface, its segments contracting and expanding in a vain attempt to return to the sand.
 
-## Diet and Behaviour
+## Nutrient Cycling in the Sand
 
 The dune worm feeds upon the organic matter found in the sand of the desert and is one of the principal agents in the cycling of nutrients that sustain the limited vegetation of the deep erg. It draws sand into the mouth and passes it through the gut, digesting the organic matter and passing the cleaned sand out at the posterior end. The castings are deposited upon the surface and are a familiar feature of the deep desert: small piles of clean sand that mark the route of the worm beneath.
 
 The worm is not social; mature animals are widely dispersed through the sands. They do not appear to communicate with one another, and encounters between two worms within the sand are rare events that scholars have not been able to observe. The worm is long-lived for an invertebrate of its kind; one that escapes the hazards of the deep desert may live for many years, the oldest attaining a size impressive even by the standards of the great invertebrates of the world.
 
-## The Legend of the Worm
+## Campfire Tales and Scholarly Debate
 
 The dune worm occupies a prominent place in the lore of the [Kharesh Tribes](/content/government/national/kharesh-tribes) and is the subject of a substantial body of legend among the desert peoples. The legends are of two principal kinds: the first describes great worms that lie beneath the dunes and occasionally swallow a caravan that camps unwisely upon the shifting sands; the second describes the wisdom of the worms and their role as the keepers of the deep desert. Scholars of the coastal academies have long debated the relation of the legends to reality; the question has not been settled.
 
 The existence of the dune worm is attested by the castings found upon the surface of the deep desert. Scholars of the [Amurra Republic](/content/government/national/amurra-republic) have examined the castings and concluded that they are the product of a creature of considerable size that lives beneath the sand. Naturalists of the [Vashari Pact](/content/government/national/vashari-pact) have observed the worm upon occasions when the shifting of dunes has exposed the creature; the descriptions they have provided are consistent with the creature the legends describe. The legend of the worm that swallows a caravan is regarded with scepticism by scholars of the coastal academies; the question of whether the worm is capable of taking a creature as large as a [human](/content/species/sapient/humans) or a camel remains a matter of debate.
 
-## Significance
+## Inhabitant of the Deep Erg
 
 The dune worm is one of the principal inhabitants of the deep erg of the [Kharesh](/content/location/natural/feature/kharesh), and its role in the cycling of nutrients of the desert sand is of considerable importance to the ecology of the deep desert. It is not a creature of the caravan routes and is not ordinarily encountered by travellers, but its presence in the deep sands is a reminder that even the most inhospitable environments are inhabited by creatures adapted to the conditions. The worm endures in the sands of the deep erg and in the legends of the desert peoples as a symbol of the wildness that persists in the deep desert. The castings of the worm upon the surface of the sand are a reminder that the desert is not empty of life and that the great dunes conceal a community of creatures whose lives are ordered by the rhythms of the sand and the slow passage of the seasons.

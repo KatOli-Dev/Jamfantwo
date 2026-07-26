@@ -3,11 +3,11 @@ layout: default
 title: Deepreach
 ---
 
-## Overview
+## A Dwarven Mining Settlement in the Central Highlands
 
 Deepreach is a [dwarven](/content/species/sapient/dwarves) mining settlement in the central highlands of [Aethelar](/content/location/natural/continent/aethelar), situated in a region where the mountain spine is rich in mineral deposits but too remote for the establishment of a major city. The settlement is smaller and more specialised than [Karhold](/content/location/settlement/city/karhold), and its primary function is the extraction and preliminary processing of ores found in the surrounding mountains. Deepreach is a community of miners and the craftsmen who serve them, and its prosperity is built upon the wealth of the earth and the labour of those who work it.
 
-## The Mines
+## The Mine Entrances and the Distribution of Ores
 
 The mines of Deepreach are the reason for the settlement and the dominant feature of the community. Mine entrances are cut into the sides of the valleys surrounding the settlement, and the tunnels that extend from them follow veins of ore deep into the mountains. The ore extracted from the mines includes iron, copper, and the rarer metals found in the central highlands; the deposits are among the richest in the mountain spine outside of Karhold itself.
 
@@ -15,7 +15,7 @@ Mining operations at Deepreach are conducted on a smaller scale than those of Ka
 
 The ores of Deepreach are not uniform, and the distribution of metals within the mountain determines the pattern of workings. The upper levels yield iron and copper in abundance, the staple of the settlement's output. The deeper levels, more difficult and dangerous to work, produce the rarer metals that are the pride of Deepreach, including tin, lead, and small quantities of silver. The silver veins are the most valued; the families holding rights to the silver workings are among the most influential in the community, though the veins are narrow and unpredictable, and the yield varies from year to year.
 
-## The Settlement
+## The Subterranean Architecture and the Council of Families
 
 Deepreach is a compact, purpose-built settlement whose architecture is entirely subterranean, in the dwarven tradition. The dwellings, workshops, and storehouses are carved into the rock of the mountain, and the settlement is connected to the mine entrances by a network of tunnels allowing miners to move between homes and workings without surfacing. The great hall of Deepreach is smaller than that of Karhold but is the centre of the community; the forges, council chambers, and gathering places are all situated within it.
 
@@ -25,11 +25,11 @@ The community is governed by a council of the senior mining families responsible
 
 The social life of Deepreach is centred on the great hall, where the community gathers for meals, festivals, and the ceremonies that mark important events in the life of the settlement. The forges in the hall are the site of the metalworking that transforms the raw ore into usable ingots and bars; the ringing of hammers is a constant presence in the daily life of the community. The families that work the mines are close-knit, and the bonds between them are reinforced by the shared dangers and rewards of the mining life. The education of children includes the skills of mining and metalwork, and the knowledge of the mineral deposits and the techniques of extraction are passed from the elders to the young.
 
-## Significance
+## The Most Important Mining Settlement of the Central Highlands
 
 Deepreach is the most important mining settlement in the central highlands of Aethelar, and the ore extracted from its mines is a significant contribution to the mineral output of the mountain spine. The settlement is a dependency of the [Karhold Realm](/content/government/national/karhold-realm), and its ore is processed and distributed through the trade network of the realm. The prosperity of Deepreach is built upon the wealth of the surrounding mountains, and the community is a model of dwarven capacity to establish productive settlements in the most remote and demanding environments.
 
-## History
+## The Silver Veins and the Expansion of the Workings
 
 Deepreach was founded in the early centuries of dwarven expansion into the central highlands, when prospectors from Karhold discovered rich ore deposits in the valleys that would become the site of the settlement. The first workings were modest, little more than exploratory adits driven into the hillsides, but the quality and quantity of the ore encouraged the establishment of a permanent community. The founding families of Deepreach are recorded in the chronicles of the Deep Realm, and their names are preserved in inscriptions carved above the entrances to the oldest workings.
 

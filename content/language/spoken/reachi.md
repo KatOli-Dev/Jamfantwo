@@ -3,37 +3,37 @@ layout: default
 title: Reachi
 ---
 
-## Overview
+## Reachi Explained
 
 Reachi is the common tongue of the [Eastern Reach](/content/location/natural/continent/eastern-reach), the long and irregular continent that extends beyond the far side of the [Auric Ocean](/content/location/natural/feature/auric-ocean). The language is most closely associated with the human population of the river plains and the western ports. Reachi is spoken as a first language by the [halfling](/content/species/sapient/halflings) communities of the river margins and as a second language by the [elf](/content/species/sapient/elves) communities of the wooded lowlands and by every merchant who requires a working knowledge of the long eastern maritime trade. The name is taken from the continent itself, and the language is sometimes called the reach speech by the inland communities of the central plains.
 
 The origins of Reachi lie in the speech of the earliest human settlements of the western coast. The language has grown over the centuries through contact with the elven [Quessan](/content/language/spoken/quessan) of the wooded lowlands, the halfling speech of the river margins, and the trade tongues that arrive by sea from the ports of [Aethelar](/content/location/natural/continent/aethelar) across the long ocean routes. Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that coastal speakers no longer recognise as foreign. The result is a language of considerable openness, suited to the description of the rivers, the plains, the salt grass, and the patient business of the long maritime trade, and capable of adaptation to the specialised vocabularies of the pilot, the navigator, and the counting house of the western ports.
 
-## Sounds
+## Sound and Writing
 
 Reachi is spoken in a register that is more clipped and direct than the common speech of the heartland of [Aethelar](/content/location/natural/continent/aethelar). Western visitors often remark upon the brevity of coastal sentences and the willingness of coastal speakers to leave unsaid what the western custom would require to be set out at length. The consonants are sharply distinguished, the vowels are few and clear, and the rhythm of the sentence is carried by the regular accent falling upon the first syllable of most longer words. Coastal singers use the consonantal range to produce the striking rhythmic effects that mark the songs of the river pilots, one of the most distinctive cultural expressions of the coastal communities. Pitch is a matter of custom rather than meaning; coastal speakers tend to speak with a flatter pitch than inland speakers, in unconscious imitation of the working register of the boats and the long shore.
 
 The script of Reachi is alphabetic, with twenty-six marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the marks used by the earliest human chroniclers of the western coast, with borrowings from the elven tree script in the marks used for sounds the older coastal script did not distinguish. The marks are painted or printed upon parchment, paper, or cloth. Writing is taught in schools of the larger coastal towns to children of every species who require it for the ordinary business of life. The script of the principal estuaries is distinguished by contraction marks used by estuary scribes in the records of the river pilots, treated by coastal speakers as a sign of the practicality of the trade.
 
-## Vocabulary and Borrowing
+## Estuary Words and Loans
 
 The vocabulary of Reachi is rich in words for the rivers, the estuaries, the boats, the salt grass, and the patient business of the long maritime trade. The language has more words for the kinds of river, the kinds of estuary, the kinds of boat, and the stages of the pilot's art than any of the languages of the western continents. The vocabulary is also rich in words for the village, the council, and the customary relations of the coastal communities, for these populations place great weight upon the distinctions of the river clans and the long memory of the long shore. Coastal compounds are formed by joining two or more simple words, used in the formal speech of village councils and the songs of spring festivals.
 
 Reachi has borrowed from the elven [Quessan](/content/language/spoken/quessan) of the wooded lowlands a set of words for trees, birds, and small creatures of the forests required for the conduct of the inland trade. These borrowings are recognised as belonging to the trade of the forester rather than the craft of the pilot, and coastal speakers are careful to use the elven word in the elven context and the coastal word in the coastal context. A small number of words have also been borrowed from the [Aethelari](/content/language/spoken/aethelari) trade tongue through the long ocean routes, chiefly the names of western goods, customs, and offices.
 
-## Speech
+## Registers of the Language
 
 Reachi is the language of the great estuaries of the [Eastern Reach](/content/location/natural/continent/eastern-reach), worked in a register that is patient and precise, suited to the long observation of the tides and the careful timing of the sailing seasons. The estuary register uses a set of fixed phrases for the opening of a voyage, the inspection of a cargo, and the closing of a landing, known to every pilot of the principal estuaries. These phrases are intelligible to children of nine or ten years brought up in the pilot families.
 
 Reachi is also the language of the long-shore councils of the coastal communities, conducted in a more formal register preserved by the elders of the larger estuaries and the principal ports of the western coast. The formal register is used for public announcements of village magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Reachi who has had a customary education in the boat or the council. The formal register borrows a small number of phrases from the older speech of the western coast, treated as marks of dignity and authority.
 
-## Relations
+## Reachi and Neighbouring Tongues
 
 Reachi stands in a complex relation to the languages of the regions surrounding the [Eastern Reach](/content/location/natural/continent/eastern-reach). It is intelligible, with some adjustment, to speakers of the halfling speech of the river margins, and intelligibility is greater in river towns than in the deeper interior of either tongue. The relationship between Reachi and the [Aethelari](/content/language/spoken/aethelari) of the heartland of [Aethelar](/content/location/natural/continent/aethelar) is the subject of scholarly dispute, for the two languages have borrowed a small vocabulary from one another through the long ocean routes, a measure of the long coexistence of coastal and western merchants at the far ports.
 
 The relation of Reachi to the elven [Quessan](/content/language/spoken/quessan) of the wooded lowlands is of scholarly interest, for the two languages have borrowed vocabulary from one another over the centuries. Coastal speakers tend to treat Quessan as a learned accomplishment rather than a working language, and elven communities of the wooded lowlands treat Reachi as the necessary medium of the long-shore trade. The relation of Reachi to the inland speech of the central plains is closer in vocabulary than in grammar; inland communities maintain their speech is a separate language, though speakers of Reachi are commonly able to follow it after a short period of adjustment.
 
-## Significance
+## Reach Speech of the East
 
 Reachi is the common tongue of the [Eastern Reach](/content/location/natural/continent/eastern-reach), the language of the great estuaries and the long-shore councils, the medium of the long maritime trade, and the first or second language of nearly every speaker of every species who dwells or trades among the river plains and the western ports of the long continent. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of coastal pilots and the patient correction of village councils. It is one of the most direct of the languages of the known world, a measure of the central place the western coast has held in the boat trade and long-shore customs of the eastern continent since the earliest human settlements were established along the long estuaries of the interior.
 

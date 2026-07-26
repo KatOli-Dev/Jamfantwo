@@ -3,13 +3,13 @@ layout: default
 title: Stonemarch
 ---
 
-## Overview
+## A Frontier Settlement on the Eastern Marches
 
 Stonemarch is a frontier settlement on the eastern marches of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) of [Morvind](/content/location/natural/continent/morvind), situated where the highland valleys open onto the grasslands between the interior ranges and the cold steppes of the far east. The settlement takes its name from the broad stone causeway that the [Stoneheim Holds](/content/government/national/stoneheim-holds) laid across the marches in the early centuries of the dwarven expansion. Stonemarch is one of the most isolated of the surface communities of the highlands, and its people are among the most familiar with the boundary between the dwarven realm and the open country beyond.
 
 The settlement is a dependency of the [Stoneheim Holds](/content/government/national/stoneheim-holds). Its function is the maintenance of the causeway and the watch over the eastern approaches to the dwarven territory. The causeway itself is one of the engineering achievements of the dwarven realm, a paved road of fitted stone crossing the marches and providing a reliable route between the highland halls and the eastern valleys. Stonemarch is the principal waypoint on the causeway; the services it provides to caravans and patrols are the foundation of the local economy.
 
-## The Marches and the Causeway
+## The Transitional Country and the Dwarven Causeway
 
 The marches in which Stonemarch stands are a transitional country between the highland ranges and the open grasslands of the eastern interior. The land is gently rolling, with broad valleys and low, rounded hills clothed in hardy grasses of the high country and stunted shrubs that survive the long winters. The soil is thinner than in the sheltered valleys of the highlands; agricultural produce is limited to hardy crops that can tolerate cold and wind. The pastures covering the hills are grazed by flocks of the settlement and by herds of the [lupines](/content/species/sapient/lupines) ranging across the open country to the east.
 
@@ -17,7 +17,7 @@ The causeway is the most distinctive feature of the marches; its paving stones a
 
 The maintenance of the causeway is the primary responsibility of the settlement; the masons and roadkeepers of Stonemarch are the most experienced in the eastern marches. The settlement maintains a store of dressed stone against the need for repairs; the roadkeepers patrol the causeway at regular intervals to identify sections requiring attention. The work of repair is heaviest in spring, when frost has lifted and the damage of winter can be assessed; the masons are occupied through summer with relaying paving and rebuilding walls.
 
-## Settlements and Population
+## Dwarven and Human Households in the Marches
 
 The population of Stonemarch is a mixture of [dwarves](/content/species/sapient/dwarves) and [humans](/content/species/sapient/humans), with the dwarves the larger group. The dwarves are descended from clans assigned to the maintenance of the causeway and the watch over the eastern approaches; they retain a strong attachment to the halls of [Stoneheim](/content/location/settlement/city/stoneheim) from which their ancestors came. The humans are the descendants of the muleteers and traders who settled in the marches to support the caravans; they have become a permanent community in their own right. The two communities coexist in a relationship of mutual respect and cooperation; the governance of the settlement is shared between them.
 
@@ -25,7 +25,7 @@ The dwarven families maintain the traditions of their highland clans. The forges
 
 The human community is composed of families that have inhabited the marches for several generations; their way of life blends the highland traditions of their dwarven neighbours with practices of the human settlements of the interior. The humans are the farmers and herders of the settlement, managing the flocks and fields that produce the wool, leather, and grain the community requires. The human households are on the western side of the settlement; the common hall where the elders meet is the centre of the human community.
 
-## The Watch and the Eastern Approaches
+## The Signal Towers and the Eastern Patrols
 
 The watch over the eastern approaches is one of the principal functions of Stonemarch. The settlement maintains a garrison of warriors and a network of signal towers commanding views across the marches. The signal towers are built of the same dark stone as the causeway, positioned at intervals of several miles along the eastern horizon. The towers communicate by horn and by shuttered lamps used in dwarven workings; a warning can pass from the most distant tower to Stonemarch and onward to the highland halls within minutes.
 
@@ -33,12 +33,12 @@ The garrison is composed of dwarven warriors serving a tour of duty at the march
 
 The [lupines](/content/species/sapient/lupines) of the cold steppes are the nearest neighbours of Stonemarch. The relationship between the settlement and the lupine kindreds is one of cautious cooperation and occasional trade. The lupines range across the open country to the east of the causeway, following the herds of the steppe and the game the marches provide; their encounters with the settlement are most frequent at the seasonal gatherings held at the edge of the highland territory. The lupines trade the fur and meat of the steppe for the metalwork and grain of the settlement; the exchanges are conducted according to conventions established over many generations.
 
-## Economy and the Caravans
+## The Wayhouse, the Smiths, and the Caravan Rhythm
 
 The economy of Stonemarch is built upon the services the settlement provides to the caravans and the highland halls. The wayhouse of the settlement is the principal stopping point on the causeway; the provisions and shelter it offers are valued by the caravan masters travelling the road. The wool and leather produced in the marches are traded to the caravans in exchange for grain, cloth, and manufactured goods the settlement cannot produce for itself. The metalwork of the dwarven smiths is exported through the caravans to the markets of the interior; the tools they produce are valued by the farmers and herders of the surrounding country.
 
 The caravans travelling the causeway are a familiar sight at Stonemarch during the open season; the rhythm of the settlement is set by their arrival and departure. The wayhouse is busiest in early summer, when the first caravans of the season reach the marches after the long winter, and in late autumn, when the last caravans complete their journeys before the snow returns. The roadkeepers and muleteers accompany the caravans along the causeway; the services they provide are a significant source of income for the community.
 
-## Significance
+## The Causey and the Watch Over the Eastern Approaches
 
 Stonemarch is one of the most isolated of the surface settlements of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands). Its significance lies in the causeway it maintains and the watch it keeps over the eastern approaches. The settlement is not a centre of mining or great metalwork, and it is not the seat of any high authority, but the services it provides are a critical component of the infrastructure connecting the highland halls to the eastern interior. The dwarven causeway is one of the engineering marvels of the [Stoneheim Holds](/content/government/national/stoneheim-holds); the settlement that maintains it is a testament to the dwarven capacity to extend their reach across the difficult country of the marches.

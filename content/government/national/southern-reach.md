@@ -3,11 +3,11 @@ layout: default
 title: Southern Reach
 ---
 
-## Overview
+## Federation of the Far Southern Highlands
 
 The Southern Reach is a political entity of the far southern reaches of [Sahrana](/content/location/natural/continent/sahrana), encompassing the fertile highlands and inland seas that lie beyond the [Kharesh](/content/location/natural/feature/kharesh). Unlike the city-states of the northern coast, the Southern Reach is a federation of settled communities that have grown around the inland waters and temperate uplands of the deep south. Its existence has been confirmed by expeditions and oral traditions that have reached the northern world. The Southern Reach is the most remote of known political entities, and its distance from the northern coast and continents beyond has preserved its isolation while allowing limited trade through the caravan routes of the Kharesh.
 
-## The Far South
+## Inland Seas and Temperate Basin
 
 The far south of Sahrana lies beyond the Kharesh, and its geography is radically different from the desert that precedes it. Travelling south through the deep desert, the dunes gradually give way to rocky plateaus, and the climate becomes cooler and more temperate, until the land rises into a range of highlands that are the gateway to the Southern Reach. The highlands are the first sign of change: their summits are clothed in vegetation and their valleys are watered by streams flowing from the interior, and the contrast with the desert is abrupt and striking.
 
@@ -15,7 +15,7 @@ Beyond the highlands, the land descends into a broad basin dominated by two inla
 
 The inland seas are navigable, and the communities that dot their shores are connected by a network of boat routes that are the primary means of travel and trade within the Southern Reach. The boats are shallow-draught vessels well suited to the calm waters of the inland seas, and the boatmen of the Southern Reach are skilled in navigation of the waters and routes connecting the settlements. The seas are rich in fish, and the fishing fleets of lakeside towns are a significant part of the economy.
 
-## The Federation and Governance
+## Council of Communities at Vereth
 
 The Southern Reach is a federation of settled communities inhabiting the shores of the inland seas and the surrounding highlands. Its governance is based on a council of representatives from each community, chosen by popular vote of all free adults in each settlement. The council meets at [Vereth](/content/location/settlement/town/vereth), the largest settlement, situated on the shore of the [Greater Inland Sea](/content/location/natural/feature/greater-inland-sea), and decisions are made by consensus. Any member of a community may stand for election to the council, and terms are limited to prevent any single representative from accumulating excessive influence. The federation is not a kingdom, for no single ruler holds authority over the whole, but the council co-ordinates the management of water resources, defence of the basin, and trade flowing between the south and the north.
 
@@ -25,13 +25,13 @@ The council of the Southern Reach is composed of representatives chosen by their
 
 The Southern Reach combines popular elections, open council sessions, community ratification, and term limits into a system that is among the most thoroughly democratic in the known world. Its closest parallel is the Plains Confederation, though the Southern Reach's requirement that major decisions be ratified by member communities adds a layer of direct consent that the confederation achieves through its Open Grass Assembly. The Southern Reach is less centralised than the Plains Confederation, for each community retains more autonomy, yet its commitment to popular sovereignty runs as deep.
 
-## Trade and the Caravans
+## Routes Across the Kharesh
 
 Trade between the Southern Reach and the northern world is carried by caravans crossing the Kharesh, and the caravan routes are the only link between south and north. The caravans travelling the southern routes are guided by the [Kharesh Tribes](/content/government/national/kharesh-tribes), whose knowledge of the desert extends to the edges of the southern highlands. The journey from the northern coast to the Southern Reach is the longest and most demanding of any caravan route in Sahrana. The caravans carry goods of the south, including wool and leather of highland herds, preserved fish of the inland seas, and medicinal herbs growing in the temperate uplands, and they bring back grain, cloth, metalwork, and manufactured goods that the south cannot produce for itself.
 
 Trade between the Southern Reach and the north is small in volume but high in value. Goods of the south are rare and prized in northern markets, and goods of the north are equally prized in the south. The [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities at the edge of the Kharesh, is the primary intermediary in this trade, for the caravans travelling the southern routes pass through the Vashari cities on their way to and from the coast. The relationship between the Southern Reach and the Vashari Pact is one of mutual benefit, for the trade flowing through the caravan routes is a source of wealth for both, and co-operation between the two entities is the foundation of commerce between south and north.
 
-## The Peoples
+## Humans, Tortolans, and Salawa Visitors
 
 The population of the Southern Reach is chiefly [human](/content/species/sapient/humans), and the humans of the far south are distinct in appearance from their northern kin, being taller and more slender, with darker skin and dark hair adapted to the sun of southern latitudes. Their civilisation is ancient, though its history is poorly known to northern peoples, and their traditions of agriculture, craftsmanship, and governance are well developed and self-sufficient. The humans of the Southern Reach are settled farmers and fishermen, and their communities are the most permanent and prosperous of any in the far south.
 
@@ -39,11 +39,11 @@ A small population of [tortolans](/content/species/sapient/tortolans) is found o
 
 The [salawa](/content/species/sapient/salawa) of the deep desert are the most frequent visitors to the Southern Reach from the north, and their oral traditions contain the most detailed accounts of the far south that have reached the northern world. The salawa who travel to the edges of the southern highlands are intermediaries between the Southern Reach and the Kharesh Tribes, and their role in trade and communication between south and north is significant. The salawa do not settle in the Southern Reach, for their way of life is bound to the desert, but their visits are a regular and valued feature of life in the southern communities.
 
-## The Settlements
+## Vereth, Ashaar, and Torem
 
 The Southern Reach is home to several settled communities, of which the three principal settlements are [Vereth](/content/location/settlement/town/vereth), [Ashaar](/content/location/settlement/town/ashaar), and [Torem](/content/location/settlement/town/torem). Vereth is the largest and the seat of the council of the federation, situated on the shore of the Greater Inland Sea. Ashaar is the southernmost settlement, situated on the shore of the [Lesser Inland Sea](/content/location/natural/feature/lesser-inland-sea), and it is the centre of fishing and agriculture of the southern basin. Torem is the gateway to the Southern Reach, situated in the highlands at the head of the pass descending from the Kharesh, and it is the first settlement that caravans from the north encounter upon entering the Southern Reach.
 
-## Significance
+## The Southernmost Known Polity
 
 The Southern Reach is the most remote of known political entities, and its significance lies in its existence as a settled, organised civilisation in the far south of Sahrana, beyond the desert long regarded as the boundary of the known world. The federation's trade with the northern world through the caravan routes of the Kharesh is a small but valued component of the economy of Sahrana, and the goods of the south are among the rarest and most prized in northern markets. The Southern Reach demonstrates that the world is larger and more various than northern records can convey, and it symbolises the endurance and adaptability of the settled peoples who have made their home in the most remote corner of the known world.
 

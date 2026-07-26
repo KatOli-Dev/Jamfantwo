@@ -3,17 +3,17 @@ layout: default
 title: Coldmoor
 ---
 
-## Overview
+## A Settlement on the Cold Steppes of Morvind
 
 Coldmoor is a settlement on the cold steppes of the interior of [Morvind](/content/location/natural/continent/morvind), situated on a stretch of open grassland between the interior ranges and the foothills of the far north. The settlement is the only permanent community on the cold steppes, and its people are among the most adapted to the extreme conditions of the interior. Coldmoor is a small, self-sufficient settlement whose primary function is the management of the pastoral economy that sustains the steppe and the maintenance of the routes crossing the open country.
 
-## The Steppes and the Pastures
+## The Hardy Grassland and the Demanding Climate
 
 The cold steppes of the Morvind interior are a vast expanse of open grassland stretching from the interior ranges to the foothills of the north. The grass covering the steppe is among the hardiest in the known world, capable of surviving the deep freezes and short growing seasons that characterise the region. The pastures surrounding Coldmoor are grazed by herds of hardy cattle and flocks of mountain sheep that are the primary resource of the settlement; the wool, meat, and leather produced from these animals are the main exports of the community. The cattle of the cold steppes are a distinctive breed, short-legged and thick-bodied, with a coat that grows dense and long during the winter months; the meat is noted for its richness and flavour.
 
 The climate of the steppe is the most demanding of any inhabited region in Morvind; the temperature can drop to levels that would be fatal to an unprepared person. The people of Coldmoor have adapted over many generations; their clothing, dwellings, and way of life are shaped by the demands of the cold. The steppe is covered in snow for much of the year, and the settlement is isolated during winter when the routes connecting it to the interior are blocked. The winter dwellings are constructed with an inner lining of hides and felt providing additional insulation; the hearths are fed with dried dung of cattle, for firewood is a scarce resource on the treeless steppe.
 
-## The Routes and the Lupines
+## The Summer Routes and the Lupine Kindreds
 
 The routes crossing the cold steppes are the primary connection between the interior ranges and the foothills of the north; the maintenance of these routes is a key function of the Coldmoor community. The routes are navigable only during the summer months, when snow retreats and the ground becomes firm enough for the passage of animals and wagons. The trade flowing through the routes is modest but vital, for the settlement depends on importing goods it cannot produce for itself, including metalwork and manufactured goods produced in the interior ranges and the coast.
 
@@ -21,12 +21,12 @@ The [lupines](/content/species/sapient/lupines) of the cold steppes are the prim
 
 The routes themselves are marked by cairns built by the people of Coldmoor at intervals along the way, for the steppe is a featureless expanse and the traveller who loses the route in a snowstorm or fog is in grave danger. The cairns are maintained by the community; rebuilding cairns damaged by winter weather is one of the first tasks of spring, when the people venture out after the long confinement of the winter months. The routes are also marked by shelters constructed at points where a traveller might need refuge; the shelters are stocked with provisions and fuel by the community, a practice that has saved the lives of many travellers caught on the steppe in unexpected weather.
 
-## The Settlement
+## Stone, Timber, and the Common Hall
 
 Coldmoor is a small, compact settlement whose buildings are constructed of stone gathered from the foothills and timber imported from the interior, with thick walls and roofs weighted with stone and earth to provide insulation against the cold. The buildings are low and close-set; the streets are narrow and sheltered, for the wind on the steppe is fierce and the cold intense. The population is chiefly [human](/content/species/sapient/humans), with a small community of [dwarves](/content/species/sapient/dwarves) involved in the metal trade and the maintenance of the routes. The dwarves of Coldmoor are skilled in the repair of metal tools and implements the settlement depends upon; their forge is one of the few sources of warmth not dependent on burning dung.
 
 The community is organised around the pastoral economy; the herds and flocks are the collective responsibility of the settlement. The grazing lands are divided among the families; the management of the pastures is coordinated by a council of household heads meeting in the common hall that is the centre of the settlement. The common hall is the largest building in Coldmoor, serving as meeting place, storehouse, and refuge during the worst winter storms, when families gather there for warmth and the sharing of provisions laid by for the season.
 
-## Significance
+## The Only Permanent Community on the Cold Steppes
 
 Coldmoor is the only permanent settlement on the cold steppes of the Morvind interior, and its people are the guardians of the routes crossing the open country. The settlement is a dependency of the [Valdmark](/content/government/national/valdmark), and its pastoral products are a valued contribution to the economy of the interior. The significance of Coldmoor lies in its survival and productivity in an environment that is among the most demanding in the known world, and the settlement is a point of contact between the settled peoples of the interior and the nomadic lupines of the steppe. The wool and leather produced at Coldmoor are recognised throughout Morvind for their quality, and the hardy cattle of the steppe are prized as breeding stock by pastoral communities of the lower regions.

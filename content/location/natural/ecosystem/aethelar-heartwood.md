@@ -3,17 +3,17 @@ layout: default
 title: Aethelar Heartwood
 ---
 
-## Overview
+## The Great Temperate Forest of Aethelar
 
 The [Aethelar](/content/location/natural/continent/aethelar) Heartwood is the great temperate forest that occupies the central and northern interior of [Aethelar](/content/location/natural/continent/aethelar), a vast expanse of ancient woodland that has stood since before the earliest records of sapient habitation in the known world. The forest stretches from the foothills of the mountain spine in the west to the river valleys that drain toward the [Auric Ocean](/content/location/natural/feature/auric-ocean) in the east, and it extends northward to the point where the climate becomes too cold for the great deciduous trees that define its character. The Heartwood is the traditional home of the [elves](/content/species/sapient/elves), and their presence has shaped the forest over centuries into an environment that is at once wild and cultivated, a place where the boundaries between the natural and the deliberate are difficult for an outsider to perceive.
 
-## Climate of the Forest
+## Maritime Mildness and the Forest's Own Air
 
 The climate of the Aethelar Heartwood is temperate and maritime, moderated by the influence of the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) to the west and the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the east. Winters are cool and wet, with occasional snowfall that rarely persists for more than a few days on the forest floor, and summers are warm and humid, with regular rainfall that sustains lush growth throughout the growing season. Rainfall is distributed evenly through the year, with no distinct dry season, and the forest is never without moisture in the soil or in the air.
 
 The forest itself creates its own microclimate. The canopy of leaves moderates the temperature beneath it, keeping the forest floor cooler in summer and warmer in winter than the surrounding open country. Humidity beneath the canopy is high, the air is still, and the sounds of the forest are muffled by the mass of vegetation. Light that reaches the forest floor is dappled and shifting, filtered through layers of leaves that reduce the intensity of the sun to a fraction of its strength in the open, and the plants of the understory are adapted to this low and variable light.
 
-## Forest Structure
+## Canopy, Understory, and the Forest Floor
 
 The Aethelar Heartwood is a layered forest, with a structure that provides habitat for a greater diversity of life than any other ecosystem on the continent. The canopy layer is formed by the crowns of the tallest trees, including the great oak, the towering ironwood, and the majestic silver elm, the last of which can reach heights in excess of one hundred and fifty feet and live for many centuries. The canopy is not continuous, for gaps created by the fall of old trees and natural variation in the forest floor create openings that allow light to reach the lower layers, and these gaps are sites of intense biological activity where regeneration of the forest takes place.
 
@@ -21,7 +21,7 @@ Beneath the canopy lies the understory, a layer of smaller trees and large shrub
 
 The shrub layer and the herbaceous layer occupy the space below the understory, close to the forest floor. The shrubs include holly and wild rose, and the herbaceous plants include ferns, mosses, and hundreds of species of flowering plants that carpet the forest floor in spring before the canopy closes above them. The ground layer is the richest in species diversity, and it is here that the most intimate interactions between plants and animals take place.
 
-## Flora of the Heartwood
+## Oak, Ironwood, Silver Elm, and the Spring Ephemerals
 
 The trees of the Aethelar Heartwood are among the most magnificent in the known world, and their variety reflects the age and stability of the forest ecosystem. The great oak is the most widespread of the canopy trees, its broad crown and deep-rooted trunk providing the structural framework of the forest across the greater part of its range. The oak of the Heartwood is long-lived, capable of surviving for five centuries or more, and its acorns are a staple food for the animals of the forest and for the elven communities that gather them in autumn.
 
@@ -31,7 +31,7 @@ The silver elm is the third of the great canopy trees, distinguished by the pale
 
 The understory and ground layer support a flora of extraordinary diversity, with species found nowhere else in the known world. The spring ephemerals, including wood anemone, bluebell, and wild garlic, emerge and flower in the weeks before the canopy closes, carpeting the forest floor in a brief display of colour that fades as the leaves of the trees unfold above them. The ferns of the forest floor are numerous, with broad-shield fern and delicate maidenhair among the most common, and the mosses that cover fallen logs and exposed roots create a green and spongy surface that holds moisture and provides a seedbed for germination.
 
-## Fauna of the Heartwood
+## Red Deer, Timber Wolf, and the Dawn Chorus
 
 The animal life of the Aethelar Heartwood is as diverse as its plant life, and the forest provides habitat for a greater variety of animal species than any other ecosystem in Aethelar. The large herbivores include the red deer and the roe deer, the latter smaller and more secretive than its relative, and the wild boar, which roots through the forest floor in search of acorns, tubers, and small animals. The deer are preyed upon by the timber wolf and the forest cat, the latter being a large and powerful predator that hunts both on the ground and in the trees.
 
@@ -39,7 +39,7 @@ The smaller mammals include the red squirrel, the pine marten, and the badger, t
 
 The birds of the Heartwood are numerous and varied, and the dawn chorus that rises from the forest in spring is one of the most celebrated natural phenomena of Aethelar. The nightingale, the thrush, and the blackcap are among the songbirds whose calls fill the air, and the woodpeckers that drum upon the trunks of dead and dying trees are the architects of cavities that provide nesting sites for a host of other species. Birds of prey include the goshawk, which hunts through the dense canopy with speed and precision that seem impossible given the density of the branches, and the tawny owl, whose call is the most familiar sound of the forest night.
 
-## The Elves and the Heartwood
+## Stewardship and the Invisible Villages
 
 The [elves](/content/species/sapient/elves) of the Aethelar Heartwood are the oldest and most numerous of their kind, and their relationship with the forest is the defining feature of both the elven people and the ecosystem they inhabit. The elves do not build their settlements in clearings cut from the woodland but rather weave their dwellings into the fabric of the forest itself, using living trees as structural elements and shaping their buildings around trunks and branches rather than removing them. An elven village in the Heartwood may be invisible to a traveller who passes within a hundred paces of it, for the dwellings are designed to blend into the forest, their roofs planted with moss and their walls covered in climbing plants that integrate them into the surrounding vegetation.
 
@@ -47,12 +47,12 @@ Elven management of the Heartwood is a form of stewardship that has no precise e
 
 The [Aldreth](/content/government/national/aldreth) and the [Vael](/content/government/national/vael) are the human polities that border the Heartwood, and their relationship with the elven inhabitants is one of cautious coexistence. The humans of the river valleys and cleared lands that fringe the forest trade with the elves for products of the woodland, including rare woods, medicinal herbs, and crafted goods that emerge from the elven settlements. The boundaries between the forest and the cleared land are the places where the two peoples meet and exchange, and the edge of the Heartwood is a zone of cultural and economic interaction that has shaped the history of central Aethelar.
 
-## The Rivers and the Waterways
+## Silverwash, Greenthread, and the Clear Streams
 
 The rivers that flow through the Aethelar Heartwood are among the clearest and most abundant in the known world, their waters filtered by the forest floor and fed by the reliable rainfall that characterises the climate of the region. The streams that rise in the heart of the forest are small and swift, their beds composed of gravel and clean sand, and they support a population of trout and salmon that migrate up from the lower reaches to spawn in the clean and oxygenated waters of the forest headwaters.
 
 The major rivers of the Heartwood, including the Silverwash and the Greenthread, are broad and deep, their courses marked by the presence of the silver elm and the riverside meadows that flood in spring. These rivers are navigable for much of their length, and they provide the principal routes of travel and trade through the forest for both elves and the humans who border the woodland. The waters of the Heartwood are also the source of drinking water for the surrounding lowlands, and the purity of the forest streams is recognised as a resource of value to all the peoples of central Aethelar.
 
-## Significance
+## A Reservoir of Biodiversity
 
 The Aethelar Heartwood is the most extensive and the most ancient temperate forest in the known world, and its ecological significance is matched only by its cultural importance as the traditional home of the elven people. The forest is a reservoir of biodiversity, supporting species of plants and animals found nowhere else, and its influence extends far beyond its boundaries through the rivers that flow from its heart and the air that moves across its canopy. The stewardship of the elves has maintained the health of the forest through centuries that have seen the clearing of the surrounding lowlands and the expansion of human settlement, and the Heartwood stands as a living example of a way of life in which the needs of sapient peoples and the needs of the natural world are held in balance.

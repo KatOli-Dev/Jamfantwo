@@ -3,40 +3,40 @@ layout: default
 title: Sylvan Court
 ---
 
-## Overview
+## The Elven Governance of the Ancient Northern Forests
 
 The [Sylvan](/content/language/pseudo/sylvan) Court is the [elven](/content/species/sapient/elves) governance of the ancient northern forests of [Aethelar](/content/location/natural/continent/aethelar), encompassing the woodland territories inhabited and managed by the elven people of the continent. The court is not a kingdom in the manner of the human realms but a council of elders that governs the forest through consensus and tradition, its authority based not on military power or territorial control but on the deep connection between the elves and the woodland they inhabit. The Sylvan Court is the oldest political entity in Aethelar, and its governance of the ancient forests has sustained the elven people and the woodland for many centuries.
 
-## The Forest and the Territory
+## The Ancient Woodland and the Boundary with the Northern Marches
 
 The territory of the Sylvan Court encompasses the ancient northern forests of Aethelar, the oldest and most extensive woodlands on the continent, where the canopy is so thick that the forest floor is in perpetual shade. The forest is the home of the elven people, and the [elves](/content/species/sapient/elves) have shaped it over centuries in ways often indistinguishable from wild woodland to the untrained eye. The court governs the forest through a system of stewardship based on deep knowledge of the woodland and careful management of its resources, and the elves regard the forest as their charge rather than their possession.
 
 The territory of the court overlaps with the [Northern Marches](/content/government/national/northern-marches), the human frontier principality of the northern forests, and the relationship between the two entities is one of co-operation and mutual respect. The boundary between the elven forest and the settled land is managed by agreement between the Sylvan Court and the Northern Marches, and the co-operation between the two peoples in the management of the forest is a model of the accommodation that has sustained the northern frontier for centuries. The [Eldergrove](/content/location/settlement/city/eldergrove) trade is the primary point of exchange between the court and the human settlements, and the timber and forest products harvested in consultation with the elves are a valued component of the economy of the north.
 
-## Governance and the Council
+## The Council of Elders and the Consensus Tradition
 
 The Sylvan Court is governed by a council of elders drawn from the oldest and most experienced members of the elven communities of the forest. The council meets in a clearing deep within the ancient woodland, the oldest and most sacred site in the elven territory. The decisions of the council are made by consensus, and the governance of the court is based on the accumulated wisdom of the elders and the deep knowledge of the forest that is the heritage of the elven people. The court does not maintain a standing army or a system of fortifications, for the forest itself is the defence of the elven people, and the authority of the court is based on tradition and respect rather than force.
 
 The court's governance extends to the management of the forest, the regulation of hunting and logging conducted within its territory, and the maintenance of relations between the elves and the other peoples of the woodland. The [corvids](/content/species/sapient/corvids) and the [cervines](/content/species/sapient/cervines) of the forest are within the territory of the court, and the relationship between the elves and the other forest peoples is one of coexistence and mutual respect, for each people occupies a different niche within the woodland and the needs of each are accommodated by the governance of the court.
 
-## Trade and the People
+## The Eldergrove Trade and the Forest Products
 
 The trade of the Sylvan Court is modest, for the elves are not a commercial people, and the products of the forest traded to the human settlements are harvested sustainably and in consultation with the court. The timber, game, and forest products exported through the [Eldergrove](/content/location/settlement/city/eldergrove) trade are a valued but limited component of the economy of the north, and the court's regulation of the harvest ensures the forest is not overexploited. The population of the Sylvan Court is entirely [elven](/content/species/sapient/elves), and the people of the court are the oldest and most traditional of the elven communities in Aethelar.
 
 The forest products traded through the Eldergrove include not only timber and game but also the rare herbs and medicinal plants that grow in the deep woodland, and the demand for these products in the human settlements is steady and lucrative. The court regulates the gathering of herbs and plants through a system of permits issued to licensed gatherers, who are required to follow the practices the court has established to ensure the sustainability of the harvest. The herbs and plants of the ancient forest are valued by the physicians and apothecaries of the human settlements, and the trade in these products is a significant source of income for the elven communities.
 
-## The Council Clearing
+## The Sacred Amphitheatre of the Oldest Trees
 
 The clearing where the council of elders meets is the most sacred site in the elven territory, situated at the heart of the ancient forest, where the oldest trees form a natural amphitheatre that has served as the meeting place of the court for as long as the elven people can remember. The clearing is not marked or maintained in the manner of a human meeting place, for the elves do not build structures within the forest, but the trees that surround it are tended and shaped over centuries, and the canopy above the clearing is managed to provide light and shelter for the gatherings. The clearing is approached by paths known only to the elders and the members of the court, and its location is not disclosed to outsiders.
 
 The council of elders is composed of the oldest and most experienced members of the elven communities, membership determined by the recognition of the community rather than by appointment or election. The elders are those who have demonstrated the deepest knowledge of the forest and the greatest commitment to the stewardship of the woodland, their authority based on the respect their wisdom commands. The council meets at the clearing at intervals determined by the needs of the forest and the community, and the meetings may last for many days as the elders deliberate on the matters requiring their attention.
 
-## History
+## From the First Migration to the Present
 
 The Sylvan Court traces its origins to the earliest elven settlements in the ancient forests of [Aethelar](/content/location/natural/continent/aethelar), established during the first migration of the elven people into the continent. The court was founded as a council of the elders of the elven communities, and the tradition of consensus governance and forest stewardship that defines the court was established in the earliest years of the elven presence in the woodland. The court has governed the forest without interruption since its founding and is the oldest continuous political entity in Aethelar, a distinction recognised by the other peoples of the continent.
 
 The history of the Sylvan Court has been marked by a long and peaceful coexistence with the forest and the other peoples of the woodland, and the court has faced few external threats. The greatest challenge has been the gradual expansion of human settlements into the northern forests, which has placed pressure on the boundary between the elven territory and the settled land. The court has met this challenge through the negotiation of agreements with the [Northern Marches](/content/government/national/northern-marches), the human frontier principality, and the co-operation between the two entities in the management of the forest has been a model of accommodation that has sustained the northern frontier for centuries.
 
-## Significance
+## The Oldest Political Entity in Aethelar
 
 The Sylvan Court is the oldest political entity in Aethelar, and its governance of the ancient northern forests has sustained the elven people and the woodland they inhabit for many centuries. The court's model of consensus governance and forest stewardship is a unique political tradition unlike any other in the known world, and its co-operation with the [Northern Marches](/content/government/national/northern-marches) is a model of accommodation between peoples characteristic of the northern frontier. The significance of the Sylvan Court lies in its endurance and its stewardship of the most ancient and most valuable woodland in Aethelar, and it is a symbol of the deep connection between the elven people and the forest that is their home.

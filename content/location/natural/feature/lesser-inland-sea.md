@@ -3,23 +3,23 @@ layout: default
 title: Lesser Inland Sea
 ---
 
-## Overview
+## Smaller, Warmer, More Fertile Sister
 
 South of its larger sister and separated from it by a low saddle of cultivated land, the Lesser Inland Sea is the smaller of the two inland seas of the [Southern Reach](/content/government/national/southern-reach), and the most sheltered, warmest, and most fertile of the deep-south waters. It lies in the far south of [Sahrana](/content/location/natural/continent/sahrana), beyond the [Kharesh](/content/location/natural/feature/kharesh), and its shore is the centre of the agriculture of the southern basin. The Lesser is, in many respects, the better favoured of the two waters, for its smaller size gives it a milder climate, its surrounding lowlands are the most productive in the federation, and the orchards and grain fields ringing its shore are the breadbasket of the lakeside communities.
 
-## The Southern Basin
+## Low, Warm Depression and the Alluvial Fans
 
 The basin of the Lesser Inland Sea is a low, warm depression sheltered from the prevailing winds by the highlands rising on every side, and the resulting climate is the mildest in the far south. The summers are long and the winters are short, and the rainfall is sufficient to sustain agriculture without irrigation through most years. The rivers descending from the surrounding highlands are shorter than those feeding the greater sea to the north, but they are dependable, and the silt they carry has built broad alluvial fans reaching almost to the water's edge. The soil is deep, dark, and rich, and no other shore in the Southern Reach is so well suited to the cultivation of figs, dates, and the citrus fruits that are the most prized produce of the south.
 
 The land rises gradually from the shore to the foothills, climbing in turn to the highlands marking the southern limit of the [Southern Reach](/content/government/national/southern-reach). The lower slopes are clothed in open woodland of evergreen oak, wild olive, and carob, giving way higher up to the open grassland supporting the highland herds. The mosaic of woodland, cultivation, and pasture is the visible sign of the fertility of the basin, and no traveller who has seen the orchards of the southern shore in fruit can doubt that the basin is the most generously endowed of any in the deep south.
 
-## Ashaar and the Lakeside Settlements
+## Ashaar and the Fig and Date Orchards
 
 [Ashaar](/content/location/settlement/town/ashaar) is the principal port of the Lesser Inland Sea and the southernmost settlement of the [Southern Reach](/content/government/national/southern-reach), its harbour a natural anchorage sheltered by a curving headland on the eastern side of the water. The town is the centre of the fishing and agriculture of the southern basin, and the boats moored at its quays are the most numerous of any on the inland seas. The other lakeside settlements are smaller than Ashaar, but several are of considerable age and noted for particular products, whether figs, dates, or the citrus fruits for which the southern shore is famed. The smaller harbours are connected to Ashaar by a network of boat routes that is the principal means of travel around the southern shore.
 
 The fields and orchards surrounding Ashaar are the foundation of the food supply of the basin, cultivated by the farmers of the town and the surrounding villages. The fields are watered by the rivers flowing from the highlands into the sea, and the orchards are planted upon the lower slopes where the soil is deepest and the drainage is best. The agriculture of Ashaar is the most productive in the Southern Reach, and the surplus that the basin produces is traded to the other communities of the federation by boat and by the inland routes connecting the two seas.
 
-## Boats and the Lake Routes
+## Broad Beams, Low Masts, and the Ashaar Guild
 
 The boats travelling the Lesser Inland Sea and the connecting routes to the [Greater Inland Sea](/content/location/natural/feature/greater-inland-sea) are broad and shallow-draught vessels designed for the calm waters and frequent shallows of the lakes. The boats are of a distinctive type, with a low freeboard, a wide beam, and a single mast that can be lowered when entering a narrow channel or passing beneath a low bridge. The boatbuilders of [Ashaar](/content/location/settlement/town/ashaar) are the most skilled in the [Southern Reach](/content/government/national/southern-reach), and their vessels are valued by the communities of both seas for their stability, capacity, and ease of handling in the light breezes of the basin.
 
@@ -31,12 +31,12 @@ The [tortolans](/content/species/sapient/tortolans) of the [Southern Reach](/con
 
 The relationship between the tortolans and the [humans](/content/species/sapient/humans) of the southern shore is one of quiet cooperation, and the two communities have shared the waters and the land for as long as the oldest inhabitants can remember. The tortolans contribute to the fishery with their slow and patient methods, maintaining knowledge of the breeding grounds and seasonal movements of the fish that the human fishers respect. Their elders hold a long perspective on the history of the basin, and the councils of the lakeside communities often call upon the tortolan elders for counsel on matters of water and weather, for the long memory of the tortolans records patterns that the human communities have not had time to observe.
 
-## The Highland Herdsmen
+## Wool and Leather from the Southern Uplands
 
 South of the Lesser Inland Sea, the foothills and highlands marking the southern limit of the [Southern Reach](/content/government/national/southern-reach) are the home of the highland herdsmen, whose flocks of sheep and goats move between winter pasture in the sheltered valleys and summer grazing upon the high meadows. The wool and leather of the highland herds are among the principal products of the southern basin, traded through the lakeside communities and dispatched to the markets of the north by the caravan routes descending from the highlands to the harbour of [Ashaar](/content/location/settlement/town/ashaar).
 
 The herdsmen are a distinct community within the Southern Reach, their way of life shaped by the demands of the terrain and the climate of the uplands. They live in seasonal camps of stone and turf, moving their flocks according to the rhythm of the pastures and the weather. The highland wool is particularly valued in the markets of the north for its softness and strength, and the leather of the highland goats is used by the craftsmen of the federation for the finest bound goods produced in the southern basin. The trade between the herdsmen and the lakeside towns is one of the foundations of the economy of the southern shore, and the goods it produces are a valued component of the commerce flowing northward through the caravan routes.
 
-## Significance
+## Breadbasket of the Federation
 
 The Lesser Inland Sea is the most sheltered and the most productive of the inland waters of the [Southern Reach](/content/government/national/southern-reach), and its shore is the breadbasket of the federation. The orchards and grain fields of the basin are the principal source of food sustaining the lakeside communities, the wool and leather of the highland herds are a valued product of the trade with the north, and the boatbuilders of [Ashaar](/content/location/settlement/town/ashaar) produce the vessels that maintain the connections of the basin. The lesser sea, despite its smaller size, is the most fertile of the two inland waters, and the prosperity of the Southern Reach is founded in no small measure upon the warmth, shelter, and abundance of the southern shore.

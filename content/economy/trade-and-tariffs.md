@@ -3,11 +3,11 @@ layout: default
 title: Trade and Tariffs
 ---
 
-## Overview
+## The Movement of Goods and the Charges upon Them
 
 The trade of the known world flows along the routes that connect the three continents, carrying the produce of each region to the markets where it is needed and returning with the goods that the region cannot produce for itself. The patterns of trade are determined by geography, for the cost of transporting goods over land is many times the cost of transporting them by sea, and the great bulk of the intercontinental commerce passes through the maritime routes that link the coasts. The tariffs and tolls that governments and guilds levy upon this trade are a significant source of revenue for the sovereigns and councils of the trading cities, and the level and incidence of these charges are the subject of constant negotiation and occasional conflict among the commercial powers.
 
-## The Patterns of Continental Trade
+## What Each Continent Exports and Imports
 
 The trade of [Aethelar](/content/location/natural/continent/aethelar) is the largest and most diverse of the three continents, for Aethelar produces grain, cloth, iron, timber, and manufactured goods in quantities that exceed the consumption of its own population, and it imports spices, dyes, precious stones, and luxury goods from [Sahrana](/content/location/natural/continent/sahrana) and metalwork and minerals from [Morvind](/content/location/natural/continent/morvind). The grain of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains), carried eastward along the [Grassland Traderoad](/content/location/route/trade/grassland-traderoad), feeds the populations of the coastal cities that cannot grow enough for themselves, and the manufactured goods of the eastern cities, including cloth, tools, furniture, and glassware, are carried westward in the returning wagons.
 
@@ -15,7 +15,7 @@ The trade of Sahrana is centred on the spices, dyes, and precious stones of the 
 
 The trade of Morvind is dominated by the metalwork and minerals of the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the fish, timber, and furs of the northern kingdoms. The dwarf-forged steel of Stoneheim, carried to the coastal markets along the [Stoneheim Highland Road](/content/location/route/trade/stoneheim-highland-road) and the [Deep Realm Tradeway](/content/location/route/trade/deep-realm-tradeway), is the finest in the known world, and the weapons, tools, and fittings made from it are sought after by every nation that can afford them. The return trade from the south carries grain, salt, cloth, and the luxury goods of the southern continents that the northern peoples desire.
 
-## The Maritime Tariffs
+## Harbour Duties at the Great Ports
 
 The maritime trade passes through a system of tariffs and tolls that vary from port to port and from route to route. The harbour of [Eldreth](/content/location/settlement/city/eldreth), the busiest port in the known world, levies a tariff on every cargo that passes through its quays, assessed at a rate of one part in forty of the value of the goods. The tariff is collected by the officers of the harbour guild, who inspect every cargo and record the value in the register of the harbour. The revenue from the harbour tariff is the largest single source of income for the treasury of the [Aldreth](/content/government/national/aldreth), and the harbour guild is among the most powerful institutions in the city.
 
@@ -23,7 +23,7 @@ The ports of the [Northern Coast League](/content/government/national/northern-c
 
 The ports of Morvind levy the highest tariffs, at a rate of one part in thirty, reflecting the higher cost of maintaining the harbours and the defences of the northern coast in the more severe climate and the more exposed position of the ports. The tariff of [Nordhaven](/content/location/settlement/city/nordhaven), the principal port of Morvind, is the highest of any port in the known world, and merchants who trade with the northern kingdom factor the tariff into their calculations of the profit to be made from the trade.
 
-## The Tolls of the Land Routes
+## Gates, Passes, and the Cost of Overland Travel
 
 The land routes that connect the interior to the coast levy tolls at the gates and passes that control the movement of goods. The tolls of the [Deep Realm Tradeway](/content/location/route/trade/deep-realm-tradeway) are collected at the gates maintained by the [Karhold Realm](/content/government/national/karhold-realm), and the revenue from the tolls is used to maintain the road and the bridges and the tunnels that make the passage through the mountains possible. The toll varies with the weight and value of the cargo, and the rate is set by the king of the Karhold Realm in consultation with the guild of the merchants of the road.
 
@@ -31,19 +31,19 @@ The tolls of the [Velden Strait Run](/content/location/route/trade/velden-strait
 
 The tolls of the [Grassland Traderoad](/content/location/route/trade/grassland-traderoad) are collected at the gates of the cities of the [Plains Confederation](/content/government/national/plains-confederation), and the revenue is used to maintain the road and the bridges and the way stations that provide shelter and water for the caravans. The toll is assessed at a rate of one part in fifty of the value of the goods carried, and the rate is the same in every city of the confederation, reflecting the confederation's policy of uniform treatment for all merchants trading within its borders.
 
-## The Caravan Duties of Sahrana
+## Desert Oases and the Cumulative Burden
 
 The caravan trade of Sahrana is subject to a system of duties that are collected at the oases and the way stations along the [Kharesh Caravan Way](/content/location/route/trade/kharesh-caravan-way) and the [Sahrani Desert Trail](/content/location/route/trade/sahrani-desert-trail). The duties are collected by the [Vashari Pact](/content/government/national/vashari-pact) and the [Kharesh Tribes](/content/government/national/kharesh-tribes) in accordance with agreements between the two powers, and the revenue is used to maintain the wells and the fortified stations that make the crossing of the desert possible. The duty is assessed at a rate of one part in thirty of the value of the goods carried, and the rate is the same for every caravan that passes along the recognised routes.
 
 The duties of the Sahrani interior are higher than the tolls of the Aethelaran routes, reflecting the greater cost of maintaining the wells and the stations in the desert and the greater risk of loss from raiders and bandits. The merchant who brings a cargo of spices from the interior to the coast pays the caravan duty at the oasis of [Dunesend](/content/location/settlement/outpost/dunesend), the tariff of the coastal port at which the cargo is landed, and the harbour tariff of the port of destination if the cargo is shipped onward to another continent. The cumulative burden of the duties and tariffs on a cargo of Sahrani spices is substantial, but the value of the spices is high enough to absorb the cost, and the profit of the trade is sufficient to sustain the caravans and the merchant houses that finance them.
 
-## The Exemptions and the Privileges
+## Favoured Merchants and Reduced Rates
 
 The system of tariffs and tolls is not applied uniformly to all merchants and all goods. The sovereigns and councils of the trading cities grant exemptions and privileges to favoured merchants and to goods that are considered essential to the welfare of the city. The grain that enters Eldreth from the plains is exempt from the harbour tariff, for the city depends upon imported grain to feed its population and the council has determined that the tariff would increase the price of bread to the point of hardship. The metalwork of the Stoneheim Holds enters Nordhaven under a privilege granted by the king of Nordhaven, who has agreed to a reduced rate on dwarven goods in return for a preferential price on the steel that the dwarven smiths produce.
 
 The exemptions and privileges are a subject of constant negotiation among the merchant houses and the sovereigns, and the records of the guilds and the councils are filled with the agreements and the disputes that arise from them. The privilege of a reduced tariff is a valuable asset, and the merchant house that holds it may resell it or pass it to a successor, subject to the approval of the sovereign. The privileges are not always permanent, and the sovereign who granted the privilege may revoke it if the circumstances change or if the merchant house falls out of favour.
 
-## The Customs and the Smugglers
+## Enforcement, Undervaluation, and Hidden Coves
 
 The collection of the tariffs and the tolls depends upon the honesty of the merchants and the vigilance of the officers of the harbour guilds and the gatekeepers of the land routes. The merchant who declares the value of a cargo at less than its true worth is defrauding the sovereign of the revenue that is due, and the practice is widespread enough to be a constant concern of the authorities. The customs officers of Eldreth are among the most experienced in the known world, and they are trained to detect the undervaluation of cargoes and the concealment of goods in the holds of vessels and the wagons of caravans.
 
@@ -51,14 +51,20 @@ The smuggler who evades the tariff entirely is a more serious problem, and the s
 
 The penalty for smuggling is severe in every jurisdiction, for the smuggler is stealing the revenue of the sovereign and undermining the system of tariffs that is the foundation of the public finances of the trading cities. The convicted smuggler in Eldreth is fined three times the value of the smuggled goods and is barred from trading in the harbour for a term of years. The convicted smuggler in Khalisar is subject to the same penalty, and the goods are forfeited to the council. The convicted smuggler in Nordhaven is subject to a penalty of five times the value of the goods and the loss of the vessel or the wagon in which the goods were carried.
 
-## The Trade Wars and the Blockades
+## Escalation of Duties and Naval Embargoes
 
 The tariffs and the tolls are instruments of commercial policy as well as sources of revenue, and the sovereigns and the councils of the trading cities raise and lower the rates in response to the policies of their competitors and their rivals. The reduction of the tariff of Khalisar in the generation before the [Twin-Reaches Wars](/content/history/twin-reaches-wars) diverted a significant portion of the spice trade from the routes of the interior to the routes of the coast, and the response of the [Vashari Pact](/content/government/national/vashari-pact) was to raise the caravan duties on goods passing through its territory. The escalation of the tariffs and the duties contributed to the tensions that led to the war, and the peace that followed established the compromise rates that have governed the trade of Sahrana for the century since.
 
 The blockade is the most extreme instrument of commercial policy, employed by a sovereign who seeks to prevent trade with a rival city or kingdom. The blockade of a port is a declaration of economic war, and the sovereign who imposes it must be prepared to enforce it with naval power. The blockade of [Amurra](/content/location/settlement/city/amurra) during the early years of the [Three-Banners War](/content/history/three-banners-war) was enforced by the fleet of the Aldreth, and the effect on the trade of the city was severe. The merchants of Amurra, cut off from the northern markets, were forced to sell their spices at reduced prices to the merchants of the interior, and the wealth of the [Amurra Republic](/content/government/national/amurra-republic) declined accordingly.
 
-## The Free Ports and the Trading Zones
+## Havens Where Goods Pass Duty-Free
 
 The free ports and the trading zones of the known world are the exceptions to the general system of tariffs and tolls, established by the sovereigns who have determined that the attraction of trade is worth more than the revenue that the tariffs would provide. The free port of [Tidesmeet](/content/location/settlement/village/tidesmeet) in the [Auric Isles](/content/government/national/auric-isles) is the most significant example, a harbour in which goods may be landed and sold and reloaded without the payment of any tariff or toll. The council of the [Auric Isles](/content/government/national/auric-isles) established the free port more than a century ago, and the volume of trade that passes through the harbour has made the islands wealthier than any tariff could have done.
 
 The trading zones of the [Velden Strait Run](/content/location/route/trade/velden-strait-run) are established at the towns of [Veldenwatch](/content/location/settlement/town/veldenwatch) and [Southport](/content/location/settlement/town/southport), where the goods of the northern and southern seas are exchanged under the supervision of the [Velden Compact](/content/government/local/velden-compact). The goods that are traded in the zones are not subject to the toll of the strait, and the merchants who bring goods to the zones may sell them without the payment of the tariff that would be due if the goods were landed at a port. The trading zones are a valuable facility for the merchants who trade between the continents, and the compact has maintained them as a means of attracting trade to the strait.
+
+Related topics:
+- [banking and credit](/content/economy/banking-and-credit)
+- [currency](/content/economy/currency)
+- [guilds](/content/economy/guilds)
+- [prices and livelihood](/content/economy/prices-and-livelihood)

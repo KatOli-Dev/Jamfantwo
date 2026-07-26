@@ -3,17 +3,17 @@ layout: default
 title: Sahrani Coastal Strip
 ---
 
-## Overview
+## Narrow Band Between Sea and Desert
 
 The [Sahrani](/content/language/spoken/sahrani) Coastal Strip is the narrow band of fertile land that lies between the [Auric Ocean](/content/location/natural/feature/auric-ocean) and the great desert of the [Kharesh](/content/location/natural/feature/kharesh) in northern [Sahrana](/content/location/natural/continent/sahrana), a region of warm climate, abundant water, and rich soils that has supported human civilisation since the earliest records were kept. The strip extends along the entire northern coast of the continent, varying in width from as little as a few miles in the steeper sections of the shoreline to as much as fifty miles where river valleys cut deep into the interior, and it is the most densely populated region of Sahrana by a considerable margin. The coastal cities that line this strip, including [Qassir](/content/location/settlement/city/qassir), [Khalisar](/content/location/settlement/city/khalisar), and [Taretha](/content/location/settlement/city/taretha), are among the oldest continuously inhabited settlements in the known world, and their wealth and culture are products of the extraordinary fertility of the coastal lands and the trade that flows through their harbours.
 
-## Climate
+## Great Rains, Little Rains, and the Warm Humid Air
 
 The climate of the Sahrani Coastal Strip is warm and humid throughout the year, moderated by the waters of the Auric Ocean that wash the northern coast with a steady current flowing from the east. Temperature varies little between the seasons, remaining warm enough for cultivation in every month, and the difference between the coolest and warmest times of the year is a matter of a few degrees rather than the dramatic shifts that characterise the climates of the northern continents. Humidity is high, and the air carries the scent of the sea and of the lush vegetation that covers the land from the shoreline to the edge of the desert.
 
 Rainfall is abundant and reliable, falling in two distinct seasons called the great rains and the little rains. The great rains arrive in the winter months, when monsoon winds from the Auric Ocean bring sheets of rain that may continue for days at a time, filling the rivers and flooding low-lying fields with water essential for the cultivation of rice and other moisture-loving crops. The little rains arrive in summer, a briefer and less intense period of precipitation that sustains the second growing season and prevents the land from drying out under the summer sun. Between the two rainy seasons, the weather is warm and clear, and the sun shines from a sky of deep and unbroken blue.
 
-## Flora of the Coastal Strip
+## Sailwood, Mahogany, and the Cultivated Gardens
 
 The natural vegetation of the Sahrani Coastal Strip is a dense and layered woodland that has largely been cleared for agriculture over the centuries of human settlement but still persists in areas too steep or too wet for cultivation. The coastal forest is composed of trees adapted to warm and humid conditions, including the broad-leaved sailwood, whose leaves are large and waxy and whose trunk rises straight and tall, and the iron-red mahogany, whose dense and durable timber is among the most valued in the known world. The canopy of the coastal forest is high and continuous, shading the forest floor so thoroughly that the undergrowth is thin and composed chiefly of shade-tolerant ferns and saplings waiting for the fall of a canopy tree to release them into the light.
 
@@ -21,7 +21,7 @@ The river valleys that cut through the coastal strip are lined with gallery fore
 
 The cultivated plants of the Sahrani Coastal Strip are among the most diverse of any region in the known world, for the warm and reliable climate permits cultivation of crops from every continent. Rice is the staple grain, grown in flooded terraces on the lower slopes and valley floors. Cotton is grown for the production of fine cloth that is one of the principal exports of the coastal cities. Spices are grown in gardens and smallholdings surrounding every settlement, and the saffron, cardamom, and black pepper of Sahrana are prized in the markets of every continent.
 
-## Fauna of the Coastal Strip
+## Golden Langur, River Dolphin, and the Sun Crane
 
 The animal life is as rich and varied as the plant life, reflecting the diversity of habitats within the narrow band between sea and desert. The coastal forest is home to a population of primates, including the golden langur, whose long tail and golden-brown coat make it one of the most conspicuous animals of the canopy, and the small but vocal tree monkey, whose calls echo through the forest at dawn and dusk. The larger mammals include the spotted forest cat, a solitary predator that hunts in trees and on the ground, and the Sahrani bear, a small and timid omnivore seldom seen but whose tracks are a common discovery in the deeper parts of the woodland.
 
@@ -29,7 +29,7 @@ The river systems support a population of aquatic and semi-aquatic animals centr
 
 The birds are abundant and conspicuous, the most notable among them being the sun crane, a tall wading bird with plumage of pure white and a crest of golden feathers that rises from its head. The sun crane is sacred to the peoples of the coastal cities, its image appearing in the art and architecture of every settlement from Qassir to Taretha. Kingfishers of the riverbanks are a flash of colour against the green of the vegetation, and weaver birds hang their intricate nests from the branches of the fan-palm.
 
-## The City-States and Their Ecology
+## City-States, Canals, and the Amurra Republic
 
 The human population of the Sahrani Coastal Strip is concentrated in the city-states that line the coast, each of which has developed in response to the particular conditions of its location and history. The cities are built of local pale limestone that reflects the heat of the sun and keeps the interiors of buildings cool, and their streets are narrow and shaded, designed to channel breezes from the sea through the urban fabric. The gardens of the coastal cities are among the most celebrated features of Sahrani civilisation, and the irrigation systems that sustain them are works of engineering refined over centuries of practice.
 
@@ -37,12 +37,12 @@ The relationship between the cities and the surrounding countryside is one of in
 
 The ecology of the coastal strip has been shaped by human activity over many centuries, and the landscape that exists today is the product of a long and deliberate process of modification. Forests have been cleared and replanted, rivers channelled and diverted, and soils enriched and maintained through compost and crop rotation. The result is a landscape at once natural and artificial, a cultivated garden of extraordinary productivity that has supported a dense human population for longer than any comparable region in the known world.
 
-## Transition to the Desert
+## Acacia, Succulents, and the Caravan Outposts
 
 The southern boundary of the Sahrani Coastal Strip is not a sharp line but a gradual transition from the fertile coastal lands to the arid interior of the Kharesh, and the ecology of this transitional zone is distinct from that of either the coast or the desert proper. Vegetation becomes sparser as rainfall diminishes, and the dense coastal forest gives way to a savanna of scattered trees and drought-resistant shrubs, dotted with thorns of acacia and fleshy leaves of succulents that store water against the long dry season. The soil becomes sandier and more alkaline, and cultivation of rice and cotton gives way to hardier crops of the dryland farmer, including millet, sorghum, and the drought-tolerant date palm.
 
 The settlements of the transitional zone are smaller and more scattered than those of the coast, serving as the interface between the coastal economy and the caravan trade of the desert interior. The outposts of the transition, including [Dunesend](/content/location/settlement/outpost/dunesend) and the villages along the caravan routes, are places where goods of the coast are exchanged for spices, minerals, and precious stones of the Kharesh. The peoples of the transition include the settled farmers of the coast and the nomadic [salawa](/content/species/sapient/salawa) of the desert, and their interactions are governed by agreements of mutual access and shared use of the water sources that sustain both ways of life.
 
-## Significance
+## Most Densely Populated Region of Sahrana
 
 The Sahrani Coastal Strip is the most densely populated and productive region of the entire continent, and its cities and farms have sustained a civilisation that is among the oldest and most cultured in the known world. The trade that flows through the coastal ports connects Sahrana to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind), and the spices, cloth, and crafted goods of the coastal cities are valued throughout the three continents. The coastal strip is also a zone of ecological transition, where the fertile and the arid meet and where the peoples of the two have learned to coexist.

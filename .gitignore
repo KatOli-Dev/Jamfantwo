@@ -2,3 +2,4 @@
 /.jekyll-cache/
 /.jekyll-metadata
 /temp/
+.opencode/node_modules/

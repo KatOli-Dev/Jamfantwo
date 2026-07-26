@@ -3,11 +3,11 @@ layout: default
 title: Thrain Ironbrow
 ---
 
-## Overview
+## The Founding King of the Karhold Realm
 
 Thrain Ironbrow is the founding king of the [Karhold Realm](/content/government/national/karhold-realm), the dwarven sovereign who united the scattered clans of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar) and carved the great halls of Karhold from the living rock. He is reckoned among the greatest of the dwarven kings, and his name is recorded in the inscriptions that line the walls of the deepest chambers of the city he founded. The dwarven records are the primary source for the details of Thrain's life, for the [dwarves](/content/species/sapient/dwarves) are the longest-lived of the sapient peoples and their oral traditions are among the most faithfully preserved of any species. The human chronicles of the [Aldreth](/content/government/national/aldreth) and the [Vael](/content/government/national/vael) corroborate the main events of his reign with independent testimony.
 
-## Early Life
+## Childhood in the Ironbrow Clan
 
 Thrain was born in a clan-hold of the southern range of the mountain spine, a modest settlement of miners and smiths situated in a valley where a vein of iron ore had been worked for several generations before his birth. The year of his birth is recorded in the dwarven inscriptions as the four hundredth and twenty-second year of the reign of the Stone King, a dating system difficult to correlate with the calendars of the [human](/content/species/sapient/humans) chroniclers, but scholars of the present age place his birth in the middle centuries of the second age, when the dwarven clans of the mountain spine were divided among independent holds frequently in conflict over control of the richest veins of ore.
 
@@ -31,7 +31,7 @@ The founding of Karhold attracted the attention of other clans of the mountain s
 
 Thrain did not merely accept the allegiance of smaller clans but actively sought to bring the entire mountain spine under his authority, leading campaigns against holds that resisted his unification of the dwarven peoples. The campaigns were conducted with the same skill and determination that had marked his earlier military efforts. The Greyrock clan, whose raid had destroyed the Ironbrow hold, was the last of the southern clans to fall. Thrain himself led the assault on the Greyrock fortress, breaking through the defences and capturing the Greyrock king in his own hall.
 
-## Legacy
+## The Ironbrow Dynasty and the Deep Realm
 
 The legacy of Thrain Ironbrow is the [Karhold Realm](/content/government/national/karhold-realm), the united dwarven kingdom of the mountain spine of Aethelar, and the city of [Karhold](/content/location/settlement/city/karhold) itself, which grew from a single hall carved into a granite cliff into the greatest dwarven city of the continent. The institutions Thrain established — including the council of clan chieftains that advised the king and the system of mining rights regulating extraction of ore from the veins of the mountain — have endured for centuries, and the laws he enacted remain the foundation of the legal system of the realm.
 

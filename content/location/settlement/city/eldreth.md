@@ -3,11 +3,11 @@ layout: default
 title: Eldreth
 ---
 
-## Overview
+## Wealthiest Port on the Eastern Coast
 
 Eldreth is the wealthiest city of the eastern coast of [Aethelar](/content/location/natural/continent/aethelar) and the principal hub of trade across the [Auric Ocean](/content/location/natural/feature/auric-ocean). It stands on a broad, sheltered harbour at the mouth of a river that connects the coast to the interior. Its position at the meeting of sea and land has made it the most prosperous and cosmopolitan settlement in the known world. The city is the eastern terminus of the overland routes that cross the continent and the northern terminus of the maritime routes that connect [Sahrana](/content/location/natural/continent/sahrana) to the northern continents. The goods that pass through its harbours and warehouses are the foundation of its wealth and influence.
 
-## The Harbour and Trade
+## Natural Anchorage, Quays, and the Banking Houses
 
 The harbour of Eldreth is one of the finest natural anchorages on the eastern coast, a deep, sheltered bay that can accommodate the largest vessels and busiest fleets. The quays extend for nearly a mile along the waterfront and are lined with warehouses, counting houses, and the offices of merchants who manage the flow of goods through the port. The volume of trade passing through Eldreth is greater than that of any other city, and the harbour is seldom quiet, as the ships of Aethelar, Sahrana, and the islands arrive and depart at all hours and in all seasons.
 
@@ -15,17 +15,17 @@ The trade of Eldreth is dominated by the exchange of northern and southern goods
 
 The banking houses of Eldreth are a development of the trade, for the volume and complexity of commerce have required institutions that can manage the credit, insurance, and settlement of accounts that the trade demands. The bankers of Eldreth issue letters of credit accepted in every port of the known world, and merchants trading in the city rely on these instruments to conduct business across the vast distances separating the continents. The banking houses are among the most influential institutions in the city, and their wealth and connections make them a power in the politics of the [Aldreth](/content/government/national/aldreth). The largest banking house, the Golden Table of Eldreth, holds deposits from rulers in three continents and is said to employ more clerks than any other business in the city.
 
-## The City
+## Diverse Population and the Great Library
 
 Eldreth is a large and well-built city whose architecture reflects the wealth that has flowed through it for centuries. The public buildings are constructed of light-coloured stone with tiled roofs and shaded courtyards that provide relief from the summer sun. The streets are broad and paved, laid out in a pattern that reflects the growth of the city from its original harbour-side core to the extensive suburbs that now surround it. The walls of the city are high and well-maintained, for the wealth of Eldreth has attracted hostile powers in the past, and the city has been besieged more than once.
 
 The population of Eldreth is the most diverse of any city in the known world. [Humans](/content/species/sapient/humans) are the majority, but [elves](/content/species/sapient/elves), [dwarves](/content/species/sapient/dwarves), and [gnomes](/content/species/sapient/gnomes) are present in significant numbers, drawn by the opportunities for trade and the relative tolerance of the city. The streets and markets of Eldreth are a meeting point of peoples and traditions from every continent, and the exchange of goods is matched by an exchange of ideas and knowledge that has made the city a centre of learning as well as commerce. The libraries and academies of Eldreth are among the finest in the known world, and the scholars who work there have access to the manuscripts and knowledge that flow through the city alongside the goods. The Great Library of Eldreth is said to hold more than ten thousand scrolls and codices, covering subjects from natural philosophy to the history of every known kingdom.
 
-## Significance
+## Commercial Heart of the Known World
 
 Eldreth is the commercial heart of the known world, and its prosperity is the engine of the economy of Aethelar and beyond. The trade that flows through its harbour connects the three continents and the islands, and the wealth that accumulates in the city funds the construction of roads, the building of ships, and the maintenance of the maritime and overland routes that sustain world commerce. The city is the capital of the [Aldreth](/content/government/national/aldreth), and its influence extends far beyond its walls, shaping the politics and economy of the eastern coast and the continent as a whole.
 
-## History
+## Fishing Village to the Capital of Aldreth
 
 Eldreth was founded as a fishing village on the sheltered bay, and the natural advantages of the harbour attracted the first settlers to the site. The village grew into a town as trade between the northern and southern continents developed, and the position of the harbour at the meeting of overland and maritime routes transformed the town into a city. The earliest records of Eldreth date to the age of the first voyages across the Auric Ocean, when the merchants of the eastern coast began to trade with the ports of Sahrana and the islands, and the sheltered harbour was already recognised as the finest natural anchorage on the coast.
 

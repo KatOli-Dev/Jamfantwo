@@ -3,37 +3,37 @@ layout: default
 title: Vintic
 ---
 
-## Overview
+## Vintic Introduced
 
 Vintic is the speech of the southern heartland of [Aethelar](/content/location/natural/continent/aethelar), used in the [Vintner's Vale](/content/location/natural/ecosystem/vintners-vale), the [Emberlands](/content/location/settlement/region/emberlands), and the river valleys that descend from the central mountain spine toward the southern coast. The language is most closely associated with the vineyards and the orchards of the Vale. Vintic is spoken as a first language by the human populations of the southern towns and as a second language by the [halfling](/content/species/sapient/halflings) communities of the rolling hills and by every merchant who requires a working knowledge of the southern trade. The name is taken from the old word for vine in the speech of the Vale, and the language is sometimes called the vintner's tongue by the northern traders who employ it for negotiation of wine contracts and settlement of tributes due each autumn.
 
 The origins of Vintic lie in the speech of the earliest human settlements of the southern river valleys. The language has grown over the centuries through contact with the [Aethelari](/content/language/spoken/aethelari) of the central plains, the [Kameni](/content/language/spoken/kameni) of the mountain spine, and the trade tongues that arrive overland from the [Sahrani](/content/language/spoken/sahrani) ports. Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that southern speakers no longer recognise as foreign. The result is a language of considerable warmth, suited to the description of the land and the seasons and the patient business of the vineyard, and capable of adaptation to the specialised vocabularies of the press, the cellar, and the counting house of the southern guilds.
 
-## Sounds
+## Sound and Writing
 
 Vintic is spoken in a register that is warmer and more flowing than the common speech of the central plains. Northern visitors often remark upon the music of the southern vowels and the ease with which southern speakers link one syllable to the next. The vowels are full and open, the consonants are few and softly distinguished, and the rhythm of the sentence is carried by the regular accent falling upon the second or third syllable of most longer words. Southern singers use the vowel range to produce the long sustained notes of the harvest songs, one of the most distinctive cultural expressions of the southern communities. Pitch is a matter of custom rather than meaning; southern speakers tend to speak with a higher pitch than northern speakers, in unconscious imitation of the singing register of the vineyard and the festival.
 
 The script of Vintic is alphabetic, with twenty-eight marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the marks used by the earliest human chroniclers of the southern river valleys, with borrowings from the [Aethelari](/content/language/spoken/aethelari) script of the central plains in the marks for sounds the older southern script did not distinguish. The marks are painted or printed upon parchment, paper, or cloth. Writing is taught in schools of the larger southern towns to children of every species who require it for the ordinary business of life. The script of the [Vintner's Vale](/content/location/natural/ecosystem/vintners-vale) is distinguished by ornamental marks added to the headings of harvest tallies, treated by southern speakers as a sign of the pride of the Vale.
 
-## Vocabulary and Borrowing
+## Vine Words and Borrowings
 
 The vocabulary of Vintic is rich in words for the vine, the grape, the soil, the seasons, and the patient business of the vineyard. The language has more words for the varieties of grape, the kinds of soil, the kinds of press, and the stages of the winemaker's art than any of the languages of the known world. The vocabulary is also rich in words for the festivals, the songs, and the customary observances marking the agricultural year, for the southern communities place great weight upon the recurrence of the seasons and the long memory of the harvest. Southern compounds are formed by joining two or more simple words, used in the formal speech of harvest councils and the songs of autumn festivals.
 
 Vintic has borrowed from the [Aethelari](/content/language/spoken/aethelari) of the central plains a set of words for the law, the office, and the customary relations of governance required for the conduct of public business. These borrowings are recognised as belonging to the trade of the magistrate rather than the craft of the vintner, and southern speakers are careful to use the central word in the central context and the southern word in the southern context. A small number of words have also been borrowed from the [Sahrani](/content/language/spoken/sahrani) trade tongue through overland caravan routes, chiefly the names of spices, dried fruits, and preserved goods required for the long preparations of winter stores.
 
-## Speech
+## Registers of the Vale
 
 Vintic is the language of the vineyards of the Vale, tended in a register that is patient and precise, suited to the long observation of the vines and the careful timing of the harvest. The vineyard register uses a set of fixed phrases for the opening of the pruning, the inspection of the fruit, and the closing of the vintage, known to every vintner of the Vale. These phrases are intelligible to children of eight or nine years brought up among the vines.
 
 Vintic is also the language of the harvest councils of the southern communities, conducted in a more formal register preserved by the elders of the [Emberlands](/content/location/settlement/region/emberlands) and the principal towns of the Vale. The formal register is used for public announcements of harvest magistrates, the reading of customary tributes, and the debates of larger assemblies, intelligible to any speaker of Vintic who has had a customary education in the vineyard or the counting house. The formal register borrows a small number of phrases from the older speech of the southern river valleys, treated as marks of dignity and authority.
 
-## Relations
+## Vintic and Other Tongues
 
 Vintic stands in a complex relation to the languages of the regions surrounding the southern heartland. It is intelligible, with some adjustment, to speakers of the central [Aethelari](/content/language/spoken/aethelari) of the heartland, and intelligibility is greater in border towns than in the deeper interior of either tongue. The relationship between Vintic and the highland [Kameni](/content/language/spoken/kameni) of the mountain spine is more distant, for the two languages have had less contact over the centuries, and speakers of one are not commonly able to follow the speech of the other without a period of study.
 
 The relation of Vintic to the [Sahrani](/content/language/spoken/sahrani) trade tongue is of scholarly interest, for the two languages have borrowed a small vocabulary from one another through the caravan routes, a measure of the long coexistence of southern and Sahrani merchants at the desert's edge. Southern speakers tend to treat Sahrani as a learned accomplishment rather than a working language, and Sahrani merchants visiting the southern towns treat Vintic as the necessary medium of the wine trade. The relation of Vintic to the halfling speech of the rolling hills is closer in vocabulary than in grammar; halfling communities maintain their speech is a separate language, though speakers of Vintic are commonly able to follow it after a short period of adjustment.
 
-## Significance
+## Vintner's Speech of the Vale
 
 Vintic is the speech of the southern heartland of [Aethelar](/content/location/natural/continent/aethelar), the language of the vineyards and the harvest councils, the medium of the southern commerce, and the first or second language of nearly every speaker of every species who dwells or trades among the [Vintner's Vale](/content/location/natural/ecosystem/vintners-vale) and the [Emberlands](/content/location/settlement/region/emberlands). It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of southern vintners and the patient correction of the schools. It is one of the most musical of the languages of the known world, a measure of the central place the Vale and the Emberlands have held in the wine trade and harvest customs of the continent since the earliest human settlements were established along the southern river valleys.
 

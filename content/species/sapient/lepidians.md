@@ -3,11 +3,11 @@ layout: default
 title: Lepidians
 ---
 
-## Origins
+## Nocturnal Moth-People of the Forest
 
 Lepidians combine a humanoid form with the wings, antennae, and covering of a large moth, adapted to a nocturnal life in the temperate forests of [Aethelar](/content/location/natural/continent/aethelar). Some naturalists propose a distant kinship between lepidians and [noctules](/content/species/sapient/noctules), citing the capacity for flight and nocturnal habits shared by both peoples, though the differences in form and the nature of their flight are considerable. Others argue for a connection to [harpies](/content/species/sapient/harpies), but the lepidian body is too small and too different in structure for the comparison to be sustained. Lepidians convey their oral traditions through patterns of light and scent rather than speech, unintelligible to other peoples. They have inhabited the temperate forests of Aethelar for as long as any people can account for, and their presence in these woodlands is attested in the oldest elven records. The lepidians and the [elves](/content/species/sapient/elves) have coexisted in the forests for centuries, their relationship shaped by the overlap in their range and the difference in their habits.
 
-## Anatomy and Physiology
+## Scaled Wings and Antennae Senses
 
 Lepidians stand shorter than [humans](/content/species/sapient/humans) but taller than [gnomes](/content/species/sapient/gnomes), with a light slender frame built for flight. Their bones are thin and light, and musculature is lean, concentrated in the thorax where flight muscles are anchored. Two pairs of wings extend from the back, covered in fine powdery scales ranging from pale white to grey, brown, and patterns of striking colour including eyespots and bands. The wings are large relative to the body, and lepidian flight is sustained and silent, markedly different from the swift agile flight of [harpies](/content/species/sapient/harpies) or [noctules](/content/species/sapient/noctules), characterised by a slow deliberate beating that allows precise control and quiet movement.
 
@@ -15,25 +15,25 @@ The lepidian head is humanoid in outline but bears two large compound eyes adapt
 
 The lepidian body is covered in a fine dense coat of scales that provides insulation and protection against moisture, coloured in patterns that serve as camouflage in the dappled light of the forest. Their hands are small and slender, with long fine fingers capable of delicate work, and their feet are less developed, as the body is built for the air rather than the ground. The sense of touch is highly developed, particularly in the tips of the antennae, and lepidians use their antennae to explore surfaces and materials with a precision that rivals the gnomish sense of touch.
 
-## Life Cycle
+## Eggs, Larvae, Pupae, and Transformation
 
 Lepidians live thirty to fifty years under favourable conditions, maturing quickly and reaching full stature and flight capacity within five or six years. Lepidian women lay clutches of fifty to one hundred eggs on the underside of leaves in the forest, and the eggs hatch within weeks into larvae wholly different in form from the adult: soft-bodied, legged, and terrestrial, feeding on the leaves of the host plant. The larvae grow rapidly, passing through several moults over months before entering a pupal stage lasting several weeks, during which the body undergoes a complete transformation into the winged adult form.
 
 The lepidian life cycle is the most complex of any sapient people. The larval and pupal stages differ entirely from the adult in form, habit, and diet, and the transformation between them is a dramatic and sustained process. Mortality among larvae is high, as they are soft-bodied and vulnerable to predation by birds, insects, and other forest creatures, but the extraordinary number of eggs ensures enough survive to sustain the population. Lepidian populations fluctuate with seasons, declining in winter when cold reduces food availability and adults become inactive, and increasing rapidly in spring when the first generation of adults emerges from pupae.
 
-## Habitat and Distribution
+## Temperate Forest Canopies
 
 Lepidians are found chiefly in the temperate forests of [Aethelar](/content/location/natural/continent/aethelar), where trees are large, undergrowth is thick, and nights are long enough to support a nocturnal way of life. They favour mature woodland with a dense canopy and diverse understorey, where host plants for their larvae are abundant and the air is still enough for flight. Lepidian settlements are typically built in the upper canopy, suspended among the branches and leaves, so well concealed that a traveller may pass beneath a lepidian community without knowing it.
 
 Smaller populations are found in the wooded uplands of [Morvind](/content/location/natural/continent/morvind), where coniferous forests of the lower slopes provide a suitable if harsher environment, and in the wooded foothills of the [Sahrana](/content/location/natural/continent/sahrana) northern coast, where warm humid forests support a different variety of lepidian. They are absent from open plains, mountains, and cold regions, as their bodies require the shelter of trees and moderate temperatures of the forest. The [geography](/content/geography) of each region determines the distribution of lepidian populations, and their range is restricted to forested regions where conditions suit them.
 
-## Diet
+## Nectar, Sap, and Larval Foliage
 
 The lepidian diet changes dramatically over the life cycle. Larvae are herbivorous, feeding on the leaves of host plants and consuming large quantities of foliage almost continuously until they enter the pupal stage. Adults feed on nectar, tree sap, and the fluids of overripe fruit; their mouthparts are adapted to a liquid diet, with a long coiled proboscis used to draw fluids from flowers and wounds in bark.
 
 Adult lepidians consume relatively little, as metabolism is slow and energy needs are met largely by reserves built up during the larval stage. They do not cook or prepare food in any manner, and their diet is entirely raw and liquid. Water is obtained from dew on leaves and from moisture in the nectar and fruit they consume. Feeding is simple and individual, as each lepidian feeds itself and sharing of meals is unknown among adults, though larvae feed communally upon the host plant.
 
-## Ecology
+## Nocturnal Pollinators of the Woodland
 
 Lepidians occupy the niche of a small-bodied nocturnal flying forager in temperate forest ecosystems. Their impact on surroundings is modest, as their numbers are small and consumption is light, but their role as pollinators is significant: they are among the primary nocturnal pollinators of the forest, and their movements between flowers transfer pollen that sustains the reproduction of many plant species. The lepidian presence in a forest is generally associated with a healthy and diverse plant community.
 

@@ -3,13 +3,13 @@ layout: default
 title: Known-World Codex
 ---
 
-## Overview
+## The Foundational Work of Natural Philosophy
 
 The Known-World Codex is the foundational work of natural philosophy compiled by [Vaelen Eldreth](/content/people/historical/vaelen-eldreth) in the latter half of the second age, and it remains the single most influential work of natural philosophy in the history of the continents. The work was begun in its author's thirty-fifth year and completed in his sixty-eighth, a span of thirty-three years during which he travelled to every continent and region of the known world accessible to a solitary scholar of modest means. The Codex is divided into seven books, each treating a different aspect of the natural order: the first describes the geography and climate of the continents, the second the flora, the third the fauna, the fourth the sapient peoples, the fifth the minerals and metals, the sixth the waters and currents, and the seventh the heavens and the measurement of time. The method Vaelen Eldreth employed in compilation was unprecedented in its rigour, and the work is the foundation upon which all later natural philosophy in [Aethelar](/content/location/natural/continent/aethelar) and beyond has been built.
 
 The Codex is preserved in its original manuscript in the library of [Eldreth](/content/location/settlement/city/eldreth) that Vaelen Eldreth himself founded. Copies carried to the libraries of the [Thessaran League](/content/government/national/thessaran-league), the [Vashari Pact](/content/government/national/vashari-pact), the [Karhold Realm](/content/government/national/karhold-realm), and the [Stoneheim Holds](/content/government/national/stoneheim-holds) became the foundation of the natural sciences in those regions. The Codex has been copied and recopied in every centre of learning, and the surviving copies are reckoned among the most valuable possessions of the libraries that hold them. Scholars of every academy of the known world are trained in the Vaelenic method that the Codex established.
 
-## The First Book: Geography and Climate
+## Book One: The Continents and Their Weather
 
 The first book describes the geography and climate of the continents and is the earliest surviving systematic account of the three great landmasses in their relation to one another. Vaelen Eldreth set down the relative positions of [Aethelar](/content/location/natural/continent/aethelar), [Morvind](/content/location/natural/continent/morvind), and [Sahrana](/content/location/natural/continent/sahrana) with a precision that later scholars have confirmed in nearly every particular. The maps drawn from his descriptions remained the standard reference for more than two centuries after his death, and the geographical chapters are still cited in the academies as the foundational account of the disposition of the continents.
 
@@ -17,15 +17,15 @@ The book contains the earliest surviving description of the principal oceans and
 
 The first book is also the most practical of the seven. The geographical descriptions have been of immediate use to the mariners and merchants who travel between the continents. The pilots of the [Auric Isles](/content/government/national/auric-isles) and the captains of the [Velden Strait](/content/location/natural/feature/strait-of-velden) have long relied upon the geographical chapters for navigation, and the descriptions have been amended by the observations of mariners but not fundamentally altered.
 
-## The Second and Third Books: Flora and Fauna
+## Books Two and Three: Plants and Animals
 
-The second and third books describe the flora and fauna of the known world and are the earliest systematic accounts of the living things of the continents. Vaelen Eldreth recorded only those species he had observed himself or that had been reported by witnesses whose reliability he had assessed, and he distinguished clearly in his text between what he had seen with his own eyes and what he had been told by others. This practice of distinguishing observation from inference is the foundation of the [Bestiaries and Herbals](/content/belief/science/physical/bestiaries-and-herbals) that scholars continue to employ, and the Vaelenic method remains the standard of the natural sciences.
+The second and third books describe the flora and fauna of the known world and are the earliest systematic accounts of the living things of the continents. Vaelen Eldreth recorded only those species he had observed himself or that had been reported by witnesses whose reliability he had assessed, and he distinguished clearly in his text between what he had seen with his own eyes and what he had been told by others. This practice of distinguishing observation from inference is the foundation of the Bestiaries and Herbals that scholars continue to employ, and the Vaelenic method remains the standard of the natural sciences.
 
 The second book describes the plants of the known world, arranged according to the structure of their bodies, the manner of their reproduction, and the environments in which they are found. The categories that Vaelen Eldreth established have been refined by later naturalists but not fundamentally altered, and the names he assigned to the major groups of plants are the standard terms of the natural sciences. The book contains more than a thousand entries, each with a description of the plant, a note of the local names in the languages of the peoples who use them, and a drawing that would allow a reader in a distant land to identify the subject.
 
 The third book describes the animals of the known world, arranged according to the same principles as the second. It is the most extensive of the seven; Vaelen Eldreth devoted more pages to the description of animals than to any other subject. The great whales of the cold water, the great cats of the grasslands, the serpents of the warm rivers, the birds of the inland forests, and the smaller creatures of the marshes and shores are all described with careful attention. The third book is the foundation of the natural history of animals, and scholars of the present age are trained in the Vaelenic method of description.
 
-## The Fourth Book: The Sapient Peoples
+## Book Four: The Thinking Species of the World
 
 The fourth book describes the sapient peoples of the known world and is the most remarkable of the seven for the impartiality Vaelen Eldreth brought to the study of thinking species. He approached the study with a care rare in his age, describing the customs, languages, and physiologies of each people without the judgements of superiority that coloured the writings of his contemporaries. The work is the first attempt in the known world to describe the full range of sapient life in a single systematic account and is the foundation upon which all later ethnological study has been built.
 
@@ -33,7 +33,7 @@ Vaelen Eldreth recorded the physical characteristics of the [elves](/content/spe
 
 The fourth book is also notable for the care Vaelen Eldreth took to record the local names for each people in their own languages. He spent considerable time learning the languages of the peoples he visited so that he could record the names with accuracy. This practice of recording local names is one of the most distinctive features of the Vaelenic method and has been adopted by every later ethnological scholar working in the Vaelenic tradition.
 
-## The Fifth and Sixth Books: Minerals and Waters
+## Books Five and Six: Metals, Minerals, and Currents
 
 The fifth book describes the minerals and metals of the known world and is the earliest systematic account of the mineral wealth of the continents. Vaelen Eldreth recorded the occurrence of the principal metals and minerals in the regions where they are found, accompanied by the local names in the languages of the peoples who work the mines. He visited the principal mines of [Morvind](/content/location/natural/continent/morvind) and the southern ranges, and his descriptions are the primary source for the study of the mineral wealth of the known world. The fifth book is the foundation of the practical art of mining.
 
@@ -41,23 +41,23 @@ The sixth book describes the waters and currents of the known world and is the m
 
 The fifth and sixth books are the most practical of the seven, for the descriptions of minerals and waters have been of immediate use to miners and mariners. The merchants of [Eldreth](/content/location/settlement/city/eldreth) have long relied upon the geographical chapters for planning their ventures, and the descriptions have been amended by the observations of miners and mariners but not fundamentally altered.
 
-## The Seventh Book: The Heavens and the Measurement of Time
+## Book Seven: Stars, Calendars, and Horology
 
-The seventh book describes the heavens and the measurement of time and is the most theoretical of the seven. Vaelen Eldreth recorded the movements of the sun, the moon, and the principal planets as he had observed them during his travels, accompanied by the local calendars in use among the peoples of the continents. He was the first scholar to recognise that the calendars of different peoples measured the same celestial movements by different conventions, and the seventh book contains the first attempt to set down a unified account of the heavens that all peoples could recognise. The seventh book is the foundation of [Spherical Cartography](/content/belief/science/theoretical/spherical-cartography).
+The seventh book describes the heavens and the measurement of time and is the most theoretical of the seven. Vaelen Eldreth recorded the movements of the sun, the moon, and the principal planets as he had observed them during his travels, accompanied by the local calendars in use among the peoples of the continents. He was the first scholar to recognise that the calendars of different peoples measured the same celestial movements by different conventions, and the seventh book contains the first attempt to set down a unified account of the heavens that all peoples could recognise. The seventh book is the foundation of Spherical Cartography.
 
 The seventh book also contains the first systematic account of the measurement of time by means of the heavens. The descriptions of the sundial, the water clock, and the timed glass are the foundation of the practical art of horology. Vaelen Eldreth observed the instruments of timekeeping in every region he visited, and his descriptions are the primary source for the study of the instruments of the ancient world.
 
 The seventh book is also the most speculative of the seven. The descriptions of the heavens are accompanied by Vaelen Eldreth's own attempts to account for the movements he had observed. These attempts are cautious and clearly marked as speculation; he distinguished carefully in the text between what he had observed and what he had inferred. This practice of distinguishing observation from inference is the foundation of the natural sciences and has been adopted by every later scholar working in the Vaelenic tradition.
 
-## The Method and the Influence
+## The Vaelenic Method and Its Enduring Legacy
 
 The method Vaelen Eldreth employed in compiling the Codex is the foundation of the natural sciences and is the most enduring of his contributions to the learning of the known world. The method consists of careful observation, recording of local names, drawing of subjects, distinguishing observation from inference, and revising the text in the light of new evidence. Vaelen Eldreth revised the text of the Codex three times before he was satisfied with its completeness; the final revision required the copying of the entire work by a team of scribes who worked under his supervision for five years. This practice of revision is the foundation of the scholarly practice of amendment.
 
 The influence of the Codex upon the intellectual life of the known world is difficult to overstate. It was copied and recopied in every centre of learning, and the copies carried to the libraries of the [Thessaran League](/content/government/national/thessaran-league), the [Vashari Pact](/content/government/national/vashari-pact), the [Karhold Realm](/content/government/national/karhold-realm), and the [Stoneheim Holds](/content/government/national/stoneheim-holds) became the foundation of the natural sciences in those regions. The schools of natural philosophy that Vaelen Eldreth inspired have produced generations of scholars who have extended and refined his work, and the discipline he founded remains the most respected of the intellectual pursuits in the academies of the known world.
 
-The Codex is cited as the foundational work of natural philosophy that the [magic](/content/magic/magic-overview) of the present age builds upon. The libraries of [Avaros](/content/location/settlement/city/avaros) and the academies of the [Southern Reach](/content/government/national/southern-reach) hold copies as the foundation of the theoretical sciences. The influence of the Codex extends beyond natural philosophy into the study of the [Bestiaries and Herbals](/content/belief/science/physical/bestiaries-and-herbals), whose practitioners continue to employ the Vaelenic method.
+The Codex is cited as the foundational work of natural philosophy that the [magic](/content/magic/magic-overview) of the present age builds upon. The libraries of [Avaros](/content/location/settlement/city/avaros) and the academies of the [Southern Reach](/content/government/national/southern-reach) hold copies as the foundation of the theoretical sciences. The influence of the Codex extends beyond natural philosophy into the study of the Bestiaries and Herbals, whose practitioners continue to employ the Vaelenic method.
 
-## The Manuscript and the Eldreth Library
+## The Original Vellum and Its Custodians
 
 The original manuscript of the Codex is preserved in the library of [Eldreth](/content/location/settlement/city/eldreth) that Vaelen Eldreth himself founded, and it is the most valuable single document in the natural sciences. The library houses the original manuscript together with the journals, drawings, and specimens that Vaelen Eldreth collected during his travels. The collection has been maintained by a succession of scholars who have continued his work of observation and classification.
 
@@ -65,6 +65,6 @@ The Codex was written upon vellum in the careful hand of its author and is bound
 
 The library of Eldreth is supported by the city of Eldreth and by the merchants who trade in the harbour, and it has been maintained without interruption since its founder's death. The Codex is the foundation of the library's collection, and the scholars who work there are the custodians of the Vaelenic tradition. The library is the most important institution of natural philosophy on the continent.
 
-## Significance
+## The Codex's Place in the Intellectual Tradition
 
 The Known-World Codex is the foundational work of natural philosophy in the history of the continents and the most influential single contribution to the learning of the known world. The seven books describe the geography, flora, fauna, sapient peoples, minerals, waters, and heavens of the three continents, and these descriptions are the foundation upon which every later work of natural philosophy has been built. The careful observation, recording of local names, drawing of subjects, distinguishing of observation from inference, and revision in the light of new evidence are practices that scholars continue to employ, and they are the direct heirs of the Vaelenic method. The name of Vaelen Eldreth is spoken with reverence in every academy of the known world, and the Codex is the book that every scholar of the natural sciences must know, for it is the foundation upon which the entire edifice of natural philosophy is built.

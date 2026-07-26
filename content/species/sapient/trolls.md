@@ -3,11 +3,11 @@ layout: default
 title: Trolls
 ---
 
-## Origins
+## Deep-Bound Denizens of Mountain and Forest
 
 Trolls are the largest of the sapient peoples save for the [giants](/content/species/sapient/giants), their affinity for stone and mountain suggesting a lineage bound to the deep places of the world. Some naturalists propose that trolls share a distant kinship with [dwarves](/content/species/sapient/dwarves), citing their thick hides, preference for subterranean and upland habitats, and remarkable capacity for endurance. Others reject this connection, noting that trolls lack the fine dexterity and instinct for craft that define dwarvenkind, and that their bodies are altogether more primitive in form. The archaeological record shows that trolls have inhabited the mountains and deep forests for as long as any people can account for. Their remains are found in the deepest layers of cave systems in both [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind), often beneath the oldest dwarven workings, suggesting that trolls occupied these places before any other sapient people. Whether this indicates a truly ancient lineage or merely a species that has always favoured remote and sheltered ground is a question no scholar has settled conclusively.
 
-## Anatomy and Physiology
+## Thick Hide and Deliberate Strength
 
 Trolls stand a full head and shoulders above an [orc](/content/species/sapient/orcs) and more than twice the height of a [human](/content/species/sapient/humans). Their frames are massive and broadly built, with thick bones and heavy musculature granting enormous physical strength. Their movements are deliberate and slow, lacking the agility of smaller peoples, but the force they can bring to bear is formidable: a troll can uproot a tree or shatter a stone wall with little apparent effort.
 
@@ -15,25 +15,25 @@ The skin of a troll is its most remarkable feature, thick, tough, and remarkably
 
 Trollish senses are adequate but undistinguished. Vision is keen in darkness, adapted to the caves and deep forests they prefer, though they are uncomfortable in bright sunlight and tend to avoid open ground during the day. Hearing is competent but not especially acute, and sense of smell is moderate. Trolls rely more upon their great strength and resilience than upon any sharpness of sense. One curious feature of trollish physiology is their slow metabolism, allowing them to go for long periods without food with little sign of distress, a quality suited to the sparse environments they favour.
 
-## Life Cycle
+## Birth Centuries Apart, Endless Vigour
 
 Trolls live two hundred to three hundred years under favourable conditions, though reliable data are difficult to obtain as trolls do not keep written records. They grow to maturity very slowly, not reaching full size and strength until their fortieth or fiftieth year, and remain vigorous well into their second century. Trollish women carry their young for approximately two years before giving birth, the longest gestation among the sapient peoples, and births are invariably single. The infant is large and well-developed at birth, capable of walking within hours, though it requires many years of care before fully independent.
 
 Trollish births are very infrequent, and populations grow at a glacial pace even when conditions are favourable. This slow increase is balanced by extraordinary longevity and low death rate among adults, as a fully grown troll has few natural predators and is remarkably resistant to disease. Trollish communities are small and widely dispersed, and the slow pace of their lives is reflected in every aspect of their culture, from patient working of dwellings to unhurried exchange of news between far-flung kindreds. A trollish community may go decades without contact from others of its kind, and such reunions are marked by long deliberate gatherings in which years of accumulated experience are shared.
 
-## Habitat and Distribution
+## Remote Mountains and Deep Forests
 
 Trolls are found in the mountains and deep forests of [Aethelar](/content/location/natural/continent/aethelar) and the more remote highlands of [Morvind](/content/location/natural/continent/morvind), with smaller populations reported in the rocky uplands of [Sahrana](/content/location/natural/continent/sahrana). They favour terrain that is rugged, secluded, and far from settlements of other peoples, where their great size is an advantage rather than a hindrance and sparse resources are sufficient for a people of slow metabolism and small numbers. Trollish dwellings are typically caves or shallow excavations, enlarged and shaped over many years, invariably situated in places difficult to reach.
 
 In Aethelar, trolls are found chiefly in the higher reaches of the mountain spine, above [dwarven](/content/species/sapient/dwarves) settlements and below the snowline, and in the deepest parts of the northern forests where the canopy is so thick that the ground is in perpetual shade. In Morvind, they inhabit the most remote valleys and highest plateaus of the interior, in places even dwarves find too exposed or too barren to claim. The [geography](/content/geography) of each region determines the distribution of trollish populations, and they are absent from lowlands and coasts entirely, as they are uncomfortable in warm, open, or densely settled country.
 
-## Diet
+## Game, Roots, and Patient Fasting
 
 The trollish diet is dominated by what the mountains and forests provide, and trolls are opportunistic omnivores with a strong preference for meat. They hunt large game animals of the uplands and forests, including elk, boar, and mountain goats, and a single troll can consume an extraordinary quantity of food at one sitting before fasting for many days. Plant foods are gathered rather than cultivated, and trolls have no tradition of agriculture, though they possess practical knowledge of edible roots, fungi, and berries of their homelands.
 
 Trollish digestion is robust and unhurried, like the trolls themselves, and they extract nourishment from coarse unappealing foods other peoples would reject. The bark of certain trees, roots of mountain shrubs, and larger fungi of cave systems all contribute when game is scarce. Trolls do not cook with any regularity, preferring food raw, though they will roast meat when a fire is already burning and the occasion warrants it. Their relationship with food is one of patient sufficiency rather than pleasure or refinement; they eat what is available when hungry and think little of it otherwise.
 
-## Ecology
+## Slow Equilibrium in Rugged Terrain
 
 Trolls occupy the niche of a large-bodied slow-breeding omnivore in remote and rugged environments. Their impact on surroundings is considerable where present, as a troll consumes a great deal and alters the landscape through excavation of dwellings and clearing of paths through difficult terrain. Yet their numbers are so few and movements so deliberate that their overall effect on the ecology of a region is modest compared to that of [humans](/content/species/sapient/humans) or orcs. Trollish communities and the wildlife of their territories tend to reach an equilibrium that persists for centuries without significant change.
 

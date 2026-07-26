@@ -3,11 +3,11 @@ layout: default
 title: Thornhaven
 ---
 
-## Overview
+## An Eastern Trade City at the River Mouth
 
 Thornhaven is an eastern trade city of [Aethelar](/content/location/natural/continent/aethelar), situated at the mouth of a great river that descends from the mountain spine and crosses the eastern lowlands before reaching the [Auric Ocean](/content/location/natural/feature/auric-ocean). The city is a major node in the trade network of the eastern coast, for its river connects the coast to the interior highlands and the mountain passes, and the goods travelling its waters pass through Thornhaven on their way to and from the sea. The city is smaller than [Eldreth](/content/location/settlement/city/eldreth) or [Vaelmouth](/content/location/settlement/city/vaelmouth), but its position at the junction of river and mountain gives it a strategic importance that belies its size.
 
-## The River and the Passes
+## The Navigable River and the Mountain Passes
 
 The river that serves Thornhaven is one of the principal waterways of eastern Aethelar, navigable for a considerable distance inland, and its valley forms the most direct route from the coast to the mountain passes connecting the eastern and western halves of the continent. The trade flowing through the river valley is diverse, including the metalwork and stone of [dwarven](/content/species/sapient/dwarves) settlements in the mountains, the wool and leather of the upland pastures, and the grain and timber of the lowland valleys. These goods are gathered at Thornhaven, where they are loaded onto seagoing vessels for transport to the markets of the coast and the wider world.
 
@@ -15,16 +15,16 @@ The mountain passes at the head of the river valley are among the most important
 
 The passes are open for only a few months of the year, for the winter snows close the high routes, and the caravans must time their departure to reach the passes before the first snows or after the spring thaw. The merchants of Thornhaven maintain a network of contacts on the western side of the mountains, and the co-ordination of trade between the two coasts is a skilled and complex business requiring trust, planning, and thorough knowledge of the routes and prevailing conditions.
 
-## The Harbour and the City
+## The Open Roadstead and the Lighthouses
 
 The harbour of Thornhaven is a broad, open roadstead sheltered by a chain of small islands offshore, and the approach is marked by lighthouses that are among the oldest on the eastern coast. The waterfront is lined with the warehouses and offices of the trading houses that manage the city's commerce, and the quays are busy with vessels calling at the port. The provisioning of caravans departing from Thornhaven is a significant business, for the crossing of the mountain spine requires supplies of food, fodder, and equipment assembled in the warehouses and supply yards of the waterfront. The pack animals that carry the caravans are stabled in yards behind the waterfront, and the muleteers and drivers who manage them are a significant part of the workforce.
 
 The city is built on a series of low hills rising above the river mouth, and the older quarters are fortified by a wall dating from an earlier age of conflict. The streets are steep and winding in the older parts, broader and more regular in the newer districts that have grown up along the river and harbour. The population is chiefly [human](/content/species/sapient/humans), with a significant community of [dwarves](/content/species/sapient/dwarves) involved in the trade of metalwork and the management of the mountain routes. The dwarven community of Thornhaven is the link between the city and the dwarven settlements of the mountains, and the dwarven merchants residing in the city are among the most influential figures in the trade crossing the passes. The presence of the dwarven community has shaped the character of the city, and the dwarven quarter is a district of workshops and trading houses that handle the metalwork and stone that flow through the mountain routes.
 
-## Significance
+## Gateway Between Coast and Interior
 
 Thornhaven is the primary gateway between the eastern coast and the interior of Aethelar, and its trade connects the coast to the mountain passes and the western shore beyond. The city is a member of the [Thessaran League](/content/government/national/thessaran-league), and its position in the league is strengthened by its control of the river and the passes, which are the most valuable assets of the city.
 
-## History
+## From River Crossing to Mountain Pass Gateway
 
 Thornhaven was founded as a river crossing and fishing village, and the earliest settlers were drawn by the natural advantages of the harbour and the proximity to the mouth of the river. The village grew into a town as trade between the coast and the interior developed, and the discovery of the mountain passes connecting the eastern and western halves of the continent transformed the town into a city. The old wall fortifying the upper quarters was built in the age of conflict that followed the opening of the passes, when the powers bordering the mountains contested control of the routes. The lighthouses marking the approach to the harbour are among the oldest on the eastern coast, their construction attributed to the early merchants who recognised the need to guide vessels bringing the goods of the interior to the port. Membership in the Thessaran League has been a source of prosperity and protection, and the league's fleet has defended the harbour from raiders who have threatened the eastern coast in ages past. The city's role as a gateway between the coast and the interior has ensured its continued importance in the trade networks of Aethelar, and the merchants of Thornhaven remain key figures in the commerce that crosses the mountain spine and links the eastern and western shores of the continent. The history of Thornhaven is a history of adaptation to the opportunities and challenges presented by its position at the junction of river, coast, and mountain pass.

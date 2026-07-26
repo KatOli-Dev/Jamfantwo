@@ -3,23 +3,23 @@ layout: default
 title: Kharesh Tribes
 ---
 
-## Overview
+## Nomadic Confederation of the Sahrani Desert
 
 The [Kharesh](/content/location/natural/feature/kharesh) Tribes are a confederation of nomadic peoples of the Kharesh, the vast desert interior of [Sahrana](/content/location/natural/continent/sahrana). The confederation is not a kingdom but an alliance of nomadic kindreds and families, united by their common way of life and shared dependence on the desert and its resources. The Kharesh Tribes are the primary inhabitants of the desert interior, and their knowledge of the Kharesh and management of its resources are the foundation of the economy and ecology of the desert. The confederation is the most extensive political entity in Sahrana by territory, for the range of the tribes covers the full extent of the Kharesh, though the population is small and widely dispersed.
 
-## The Desert and the Nomads
+## Life Across the Kharesh Erg
 
 The Kharesh is a desert of many characters, and the nomadic peoples who inhabit it are adapted to its demands in a way that no settled people can match. The tribes follow routes passed down through generations of oral tradition, moving between oases and seasonal grazing lands with a precision born of long acquaintance with the desert. The routes are not fixed paths but a series of waypoints, adjusted according to the condition of water sources, the movement of game, and the shifting of dunes. The tribes travel in family groups, sometimes joining into larger parties for mutual safety when crossing the most exposed sections of the erg.
 
 The [salawa](/content/species/sapient/salawa) are the most numerous of the nomadic peoples of the Kharesh. Their jackal-headed form and keen senses are well suited to the demands of the desert. The [humans](/content/species/sapient/humans) of the Kharesh are the other major component of the confederation, and their nomadic way of life is similar in form but distinct in tradition from that of the salawa. The two peoples coexist within the confederation, each pursuing its own routes and prey, and their co-operation in the management of the desert and its resources is the foundation of the confederation's governance.
 
-## The Caravans and Trade
+## Guiding the Desert Caravans
 
 The Kharesh Tribes are the guardians of the caravan routes that cross the desert, and their knowledge of the routes and water sources is the foundation of the caravan trade connecting the coast to the interior. The caravans that travel the Kharesh are guided by the nomads, who provide the knowledge of the desert that the caravans require. Tolls and fees paid to the tribes for this service are a significant source of income. The tribes also trade with the caravans, exchanging products of the desert, including wool, leather, and meat from nomadic herds, for the grain, cloth, and manufactured goods that the caravans carry.
 
 The relationship between the Kharesh Tribes and the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities, is one of mutual dependence. The caravans that travel the desert routes are the lifeline of the inland cities, and the tribes that guide them are the guardians of the routes. The co-operation between the tribes and the pact is the foundation of the caravan trade, and the two entities work together to maintain the routes, water sources, and shelters that sustain traffic between the coast and the interior.
 
-## Governance and the Council
+## Elders and the Sands' Assembly
 
 The Kharesh Tribes are governed by a council of elders chosen by the consent of their kindreds. No elder may hold a seat on the council unless the adult members of their kindred have affirmed their authority, either by open vote at a kindred gathering or by the absence of sustained objection over the course of a season. The council meets at the oases and upland settlements that serve as gathering points for the nomadic peoples. Decisions are made by consensus, and any elder who dissents may delay a decision until the council finds a resolution acceptable to all. Governance is based on the accumulated wisdom of the elders and the deep knowledge of the desert that is the heritage of the nomadic peoples. The council co-ordinates the management of grazing lands and water sources, the regulation of caravan routes, and the defence of the desert and its peoples.
 
@@ -27,13 +27,13 @@ The council of elders convenes at a gathering known as the [Sands' Assembly](/co
 
 The Kharesh Tribes are among the most broadly participatory of the democratic polities: every adult member of every kindred may speak at the Sands' Assembly, no elder may sit without the consent of their people, and no decision affecting a kindred may be taken in its absence. This depth of participation is matched only by the confederations of the grasslands and the far south, though the nomadic way of life limits the frequency and duration of assemblies compared with the settled communities of the Southern Reach.
 
-## Culture and Traditions
+## Hospitality, Song, and Oral Record
 
 The culture of the Kharesh Tribes is shaped by the demands of the desert and the nomadic way of life, and the traditions of the confederation are distinct from those of the settled peoples of the coast and interior. The most notable of these traditions is the practice of hospitality, a code of conduct that governs the reception of guests and the obligations of the host toward the traveller. The code of hospitality is the foundation of the social order of the desert, for the survival of the traveller depends upon the generosity of the host, and the refusal of hospitality is regarded as the gravest offence. The code extends to the caravans that cross the desert, and the tribes that guide them are bound by the same obligations toward the merchants and drovers who travel under their protection.
 
-The oral traditions of the Kharesh Tribes are among the richest in the known world. The songs and stories of the nomadic peoples record the history of the desert and the peoples who have inhabited it. The traditions include knowledge of routes and water sources, histories of the kindreds and families, and legends of the desert and the [Kharesh Spirits](/content/belief/religion/polytheist/kharesh-spirits). The oral traditions are maintained by elders and storytellers who are the guardians of the knowledge, and transmission of the traditions from one generation to the next is the most important responsibility of the elders. The traditions of the Kharesh Tribes are a living record of the desert and its peoples, a testament to the endurance and adaptability of the nomadic way of life.
+The oral traditions of the Kharesh Tribes are among the richest in the known world. The songs and stories of the nomadic peoples record the history of the desert and the peoples who have inhabited it. The traditions include knowledge of routes and water sources, histories of the kindreds and families, and legends of the desert and the Kharesh Spirits. The oral traditions are maintained by elders and storytellers who are the guardians of the knowledge, and transmission of the traditions from one generation to the next is the most important responsibility of the elders. The traditions of the Kharesh Tribes are a living record of the desert and its peoples, a testament to the endurance and adaptability of the nomadic way of life.
 
-## Significance
+## Masters of the Desert Interior
 
 The Kharesh Tribes are the primary inhabitants of the desert interior of Sahrana, and their knowledge of the Kharesh and management of its resources are the foundation of the economy and ecology of the desert. The confederation's co-operation with the Vashari Pact in the caravan trade is a critical component of the economy of Sahrana, and the tribes' guardianship of the caravan routes is a vital function that sustains commerce between the coast and the interior. The significance of the Kharesh Tribes lies in their endurance and mastery of the most demanding environment in the known world, and the confederation is a symbol of the nomadic tradition and the deep connection between the desert peoples and the land they inhabit.
 

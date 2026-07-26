@@ -3,30 +3,30 @@ layout: default
 title: Dunesend
 ---
 
-## Overview
+## A Caravan Stop at the Edge of the Kharesh
 
 Dunesend is a caravan stop at the edge of the [Kharesh](/content/location/natural/feature/kharesh), situated where the great caravan routes emerge from the desert and meet the foothills of the [Sahrani](/content/language/spoken/sahrani) interior. The settlement is the last outpost before the deep desert, serving the caravans that prepare to enter the Kharesh or that have just emerged from it. Dunesend is small and purpose-built, its prosperity built upon provisioning, shelter, and the exchange of goods between the desert routes and the inland cities.
 
-## The Caravan Stop
+## The Well and the Last Provisions Before the Desert
 
 Dunesend stands where the foothills of the interior highlands give way to the sands of the Kharesh, the last reliable source of water and provisions before caravans enter the deep desert. The water is drawn from a well fed by the same aquifers that supply the oases of the interior, managed carefully to sustain both the community and the passing caravans. The well is the heart of the settlement, and its maintenance is the responsibility of the entire community, for without it Dunesend would have no reason to exist. The caravans preparing for the crossing receive their last provisioning here before reaching the oases of the deep desert, and the merchants who lead them are careful to ensure that their water skins are full, their pack animals are rested, and their guides have confirmed the condition of the wells along the route.
 
 Caravans arriving from the desert are weary and in need of rest. The settlement provides shelter, water, and food for travellers and their animals before they continue to the inland cities. The inns and stables are the primary institutions of the settlement, and the services they provide form the foundation of the local economy. The innkeepers are known for their hospitality and their knowledge of the desert routes, and a caravan master who stops at Dunesend can expect to find clean lodgings, a hot meal, and reliable information about the condition of the roads ahead.
 
-## Trade and the Routes
+## Tolls, Provisions, and the Vashari Pact Waybills
 
 The trade of Dunesend is modest, for the settlement is small and its production limited, but the services provided to caravans are the foundation of its economy. Tolls and fees levied on caravans are a significant source of income, along with the sale of provisions, water, and shelter. Goods passing through include the spices, dyes, and precious stones of the interior carried from the oases and upland settlements to the coast, and the grain, cloth, and manufactured goods carried in the opposite direction. The [salawa](/content/species/sapient/salawa) of the desert are the most frequent visitors, and the relationship between the settlement and the nomadic salawa is one of mutual dependence. The salawa provide the knowledge of the desert that the caravans require, and the settlement provides the water and provisions the salawa need. The salawa are welcomed at Dunesend, and their presence is a familiar and valued part of the life of the community.
 
 The caravans that stop at Dunesend are organised and regulated by the [Vashari Pact](/content/government/national/vashari-pact). Waybills and seals carried by the caravan masters are checked at the settlement before the caravans enter the deep desert, and the agents of the pact stationed at Dunesend collect the tolls and fees. They maintain a register of the caravans passing through, a valuable record of the flow of trade and the conditions of the routes. The register is consulted by merchants and guides when they plan their journeys, for it records the state of the wells, the presence of raiders, and any other information that may affect the safety of the crossing.
 
-## The Settlement
+## Stone, Clay, and the Dusty Market Square
 
 Dunesend is a small, compact settlement. Its buildings are constructed of the stone of the foothills and sun-baked clay from the desert earth, with thick walls and small windows providing insulation against the heat. The streets are broad and dusty, for the caravans require room for their animals and wagons. The market square is the centre of the community, where the caravans gather to trade and to rest. The population is small and chiefly [human](/content/species/sapient/humans), known for hospitality and skill in managing the caravan trade. The inns and stables are the primary institutions. The inns are gathering places where caravan masters, travellers, and salawa guides meet to exchange news, negotiate provisions, and plan crossings of the Kharesh. The stables are well-maintained, and the fodder and water for animals are among the best available at the edge of the desert.
 
-## History
+## From Well to Waypoint on the Caravan Routes
 
 Dunesend was established by caravan masters who recognised the need for a provisioning station at the edge of the Kharesh. The well was the initial attraction, and the presence of a reliable water source at the point where foothills give way to sands was the foundation on which the settlement was built. The first structures were simple shelters of stone and woven palm, but as the volume of caravan trade increased, the inns and stables were expanded to meet the growing demand. The community grew slowly but steadily, and the reputation of the settlement for reliable water and honest dealing spread along the caravan routes. Admission of Dunesend to the [Vashari Pact](/content/government/national/vashari-pact) was a natural development, for the settlement was a critical waypoint on the caravan routes. The pact provides organisation and protection that sustain the trade, and Dunesend provides services and infrastructure that sustain the caravans. The settlement has endured the challenges of the desert environment and the occasional threat of raiders, maintaining its function as the primary caravan stop at the edge of the Kharesh throughout its history.
 
-## Significance
+## The Last Outpost Before the Deep Kharesh
 
 Dunesend is the primary caravan stop at the edge of the [Kharesh](/content/location/natural/feature/kharesh), its services a vital resource for the caravans that cross the desert. The settlement is a dependency of the [Vashari Pact](/content/government/national/vashari-pact) and serves as the last outpost before the deep Kharesh and the first refuge for those who emerge from it. The community is a testament to the endurance and hospitality of the people who live at the desert's edge, and the diversity of those who pass through is a valued feature of its character.

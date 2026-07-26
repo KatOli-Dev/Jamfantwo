@@ -3,11 +3,11 @@ layout: default
 title: Lupines
 ---
 
-## Origins
+## Wolf-Headed People of the Cold Steppe
 
 Lupines are a wolf-headed people found in the cold steppes of [Morvind](/content/location/natural/continent/morvind) and the northern reaches of [Aethelar](/content/location/natural/continent/aethelar), combining a humanoid body with the head, fur, and senses of a wolf. Their body bears the mark of a people shaped by open cold country, by the wind, and by the demands of a nomadic predatory life in a harsh environment. Some naturalists propose a kinship between lupines and [salawa](/content/species/sapient/salawa), citing the canine-headed form and preference for open marginal terrain shared by both peoples, though lupines are larger, more cold-adapted, and more social than the solitary salawa. Others argue for a connection to [ursines](/content/species/sapient/ursines), pointing to the shared northern habitat and partly animal form, but the lupine body is too lean and too different in build for the comparison to be sustained. Lupines have inhabited the cold northern steppes for as long as any people can account for, and their presence is attested in the oldest records of the peoples who border the steppe. The lupines and the [humans](/content/species/sapient/humans) of the Morvind coast have coexisted for centuries, their relationship shaped by the overlap in their range and the difference in their preferred terrain.
 
-## Anatomy and Physiology
+## Thick Fur and Endurance Hunter's Build
 
 Lupines are comparable in height to [humans](/content/species/sapient/humans) or slightly taller, with a lean and wiry frame built for endurance, speed, and the sustained pursuit of prey across open ground. The head is that of a wolf, with a long broad muzzle, a large nose, and sharp forward-facing eyes adapted to the low light of northern latitudes. The ears are large, pointed, and mobile, capable of swivelling toward the source of a sound, and they are covered in short fur ranging from grey to black, white, and combinations of these. The body is humanoid from the neck down, with lean musculature and long limbs, built for the sustained steady effort that the steppe environment demands.
 
@@ -15,25 +15,25 @@ The lupine body is superbly adapted to the cold open environment of the northern
 
 The lupine sense of smell is among the keenest of any sapient people, rivalled only by that of the [ursines](/content/species/sapient/ursines), and they track by scent across the open steppe with a reliability that no other people can match, following a trail that is hours or even days old. Their hearing is acute, and their large mobile ears detect the faintest sound in the still air of the steppe, from the movement of prey at great distance to the approach of weather no eye can see. Vision is keen, particularly in low light, and their eyes are adapted to the long twilights and short days of northern latitudes, performing well in the dim light of winter afternoon.
 
-## Life Cycle
+## Litters and Communal Steppe Upbringing
 
 Lupines live sixty to ninety years under favourable conditions, maturing at a pace comparable to humans and reaching full stature by their late teens. Lupine women carry their young for approximately seven months before giving birth, and births are frequently multiple, with litters of two to four being common. The young are small and helpless at birth, requiring several years of care before they can keep pace with the community, but they grow quickly and reach adolescence within a decade.
 
 Lupine populations grow steadily when prey is abundant and the steppe is at peace, and the frequency of multiple births ensures populations can recover quickly from losses. The community is closely knit and co-operative, and the young are raised by the entire group, with all adults sharing in their care, protection, and training. The elders of a lupine community are those who have maintained their strength and senses into later life, and their knowledge of the steppe, its prey, and its seasonal changes is the foundation of the community's survival.
 
-## Habitat and Distribution
+## Cold Northern Steppes
 
 Lupines are found chiefly in the cold steppes of [Morvind](/content/location/natural/continent/morvind), where the open grassy plains provide the terrain and space their nomadic way of life requires. They are the dominant people of the cold steppe, their communities ranging across the full extent of the interior plains, from the foothills of the coastal ranges to the edges of the deep interior. The [geography](/content/geography) of the steppe, with its open terrain and harsh climate, is well suited to the lupine form, and lupines have shaped the steppe through their movements and management of grazing herds.
 
 Smaller populations are found in the northern reaches of [Aethelar](/content/location/natural/continent/aethelar), where open moorlands and the edges of great forests provide a similar if less extreme environment, and in the cold uplands of the Morvind interior, where terrain is higher and climate is harsher. Lupines are absent from warm regions, forests, and coasts, as their bodies are adapted to cold and open ground, and they are uncomfortable in heat and the close air of woodland. The lupine range is the most northerly of any people save the [goliaths](/content/species/sapient/goliaths) and the [giants](/content/species/sapient/giants), and lupines are the most widely distributed of the cold-steppe peoples.
 
-## Diet
+## Endurance Hunting of Large Grazers
 
 The lupine diet is dominated by meat. Lupines are formidable hunters of the steppe, preying upon the large grazing mammals including wild horses, elk, and reindeer that share their range. Their hunting is characterised by sustained pursuit that is the hallmark of the canine predator. Lupines are endurance hunters, capable of following their quarry for many miles at a steady pace until the prey is exhausted, and the co-ordinated efforts of the community allow them to bring down animals far larger and stronger than any individual lupine.
 
 Plant foods form a minor part of the diet, though lupines eat berries, roots, and occasional fruits that grow along watercourses of the steppe. They do not practise agriculture, and their relationship with food is entirely that of the predator, as their digestion is specialised for a diet of meat and poorly suited to processing large quantities of plant material. Water is obtained from streams and pools of the steppe, and from melting snow during winter months, when liquid water is scarce and lupines obtain moisture from the flesh of their prey.
 
-## Ecology
+## Social Predators of the Northern Plains
 
 Lupines occupy the niche of a medium-bodied social predator in cold steppe ecosystems. They are the primary predators of large grazing mammals, and their hunting regulates the populations of the herds that share the steppe. The lupine management of grazing herds is more deliberate than that of other predators, as they are aware of the relationship between the health of the herds and the survival of their own communities, and their hunting is governed by a practical understanding of the balance between predator and prey.
 

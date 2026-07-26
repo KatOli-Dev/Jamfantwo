@@ -3,37 +3,37 @@ layout: default
 title: Morvindi
 ---
 
-## Overview
+## Morvindi Described
 
 Morvindi is the common tongue of the coastal lowlands of [Morvind](/content/location/natural/continent/morvind), spoken in the fishing villages, the trading towns, and the small harbours that line the cliffs and inlets of the northern continent. The language is most closely associated with the human populations of the coast. Morvindi is spoken as a first language by the [dwarf](/content/species/sapient/dwarves) communities of the lowland foothill settlements and as a second language by the [elf](/content/species/sapient/elves) communities of the sheltered valleys and by every merchant who requires a working knowledge of the northern sea trade. The name is taken from the continent itself, and the language is sometimes called the coast speech by the highland communities of the interior.
 
 The origins of Morvindi lie in the speech of the earliest human fishing communities of the northern shore. The language has grown over the centuries through contact with the dwarven speech of the interior highlands, the elven [Quessan](/content/language/spoken/quessan) of the sheltered valleys, and the trade tongues that arrive by sea from [Aethelar](/content/location/natural/continent/aethelar) across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that coastal speakers no longer recognise as foreign. The result is a language of considerable directness, suited to the description of the sea, the weather, the fish, and the patient business of the harbour, and capable of adaptation to the specialised vocabularies of the boat, the net, and the counting house of the northern merchants.
 
-## Sounds
+## Sound and Script
 
 Morvindi is spoken in a register that is sharper and more clipped than the common speech of the heartland of [Aethelar](/content/location/natural/continent/aethelar). Southern visitors often remark upon the brevity of coastal sentences and the willingness of coastal speakers to leave unsaid what the southern custom would require to be set out at length. The consonants are numerous, and the language distinguishes several sounds the southern speech has merged, particularly in the cluster of unvoiced stops occurring at the beginning of many coastal words. The vowels are fewer than in the southern speech. Coastal singers use the consonantal range to produce the striking rhythmic effects that mark the songs of the fishing fleets. Pitch is a matter of custom rather than meaning; coastal speakers tend to speak with a flatter pitch than highland speakers of the interior, in unconscious imitation of the working register of the boat and the net.
 
 The script of Morvindi is alphabetic, with twenty-nine marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the marks used by the earliest human chroniclers of the northern coast, with borrowings from the dwarven script of the [Karathi](/content/language/spoken/karathi) in the marks used for sounds the older coastal script did not distinguish. The marks are painted or printed upon parchment, paper, or cloth. Writing is taught in schools of the larger coastal towns to children of every species who require it for the ordinary business of life. The script of the principal harbours is distinguished by contraction marks used by harbour scribes in the ledgers of the fishing fleets, treated by coastal speakers as a sign of the practicality of the trade.
 
-## Vocabulary and Borrowing
+## Sea Words and Borrowings
 
 The vocabulary of Morvindi is rich in words for the sea, the weather, the fish, the boats, and the patient business of the harbour. The language has more words for the kinds of fish, the kinds of weather, the kinds of sail, and the stages of the fisherman's art than any of the languages of the southern continent. The vocabulary is also rich in words for the family, the household, and the customary relations of the fishing village, for the coastal communities place great weight upon the succession of the boats and the long memory of the harbour. Coastal compounds are formed by joining two or more simple words, used in the formal speech of harbour councils and the songs of autumn festivals.
 
 Morvindi has borrowed from the dwarven [Karathi](/content/language/spoken/karathi) of the interior highlands a set of words for metals, stones, and tools of the workshop required for the repair of boats and construction of harbour works. These borrowings are recognised as belonging to the trade of the smith rather than the craft of the fisherman, and coastal speakers are careful to use the highland word in the highland context and the coastal word in the coastal context. A small number of words have also been borrowed from the [Aethelari](/content/language/spoken/aethelari) trade tongue through ships crossing the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), chiefly the names of southern goods, customs, and offices.
 
-## Speech
+## Registers of the Coast
 
 Morvindi is the language of the harbours of the northern coast, conducted in a register that is brisk and practical, suited to the rapid discharge of boats and the negotiation of the prices of the catch. The harbour register uses a set of fixed phrases for the opening of a bargain, the testing of a cargo, and the closing of a sale, known to every merchant of the principal harbours. These phrases are intelligible to children of ten or eleven years brought up in the harbour towns.
 
 Morvindi is also the language of the village councils of the coastal communities, conducted in a more formal register preserved by the elders of the larger towns and principal fishing villages. The formal register is used for public announcements of village magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Morvindi who has had a customary education in the boat or counting house. The formal register borrows a small number of phrases from the older speech of the northern coast, treated as marks of dignity and authority. The formal register is used with care in the chambers of the [Northern Coast League](/content/government/national/northern-coast-league).
 
-## Relations
+## Morvindi and Other Languages
 
 Morvindi stands in a complex relation to the languages of the regions surrounding the northern continent. It is intelligible, with some adjustment, to speakers of the highland [Karathi](/content/language/spoken/karathi) of the interior, and intelligibility is greater in foothill towns than in the deeper interior of either tongue. The relationship between Morvindi and the southern [Aethelari](/content/language/spoken/aethelari) of the heartland of [Aethelar](/content/location/natural/continent/aethelar) is more distant, for the two languages have had less contact over the centuries, and speakers of one are not commonly able to follow the speech of the other without a period of study. Merchants of the principal harbours are commonly able to make themselves understood after a few weeks at sea.
 
 The relation of Morvindi to the elven [Quessan](/content/language/spoken/quessan) of the sheltered valleys is of scholarly interest, for the two languages have borrowed vocabulary from one another over the centuries. Coastal speakers tend to treat Quessan as a learned accomplishment rather than a working language, and elven communities of the valleys treat Morvindi as the necessary medium of the sea trade. The relation of Morvindi to the dwarven [Karathi](/content/language/spoken/karathi) is closer in vocabulary than in grammar; highland scholars note that the coastal speech lacks the precision of the highland tongue in describing metals and stones.
 
-## Significance
+## Lowland Speech of the North
 
 Morvindi is the common tongue of the coastal lowlands of [Morvind](/content/location/natural/continent/morvind), the language of the harbours and the village councils, the medium of the northern sea trade, and the first or second language of nearly every speaker of every species who dwells or trades among the fishing villages and trading towns of the northern coast. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of coastal fishermen and the patient correction of the schools. It is one of the most direct of the languages of the known world, a measure of the central place the northern harbours have held in the sea trade and fishing customs of the continent since the earliest human settlements were established along the Stormfall shore.
 

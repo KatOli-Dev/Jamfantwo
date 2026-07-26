@@ -3,43 +3,43 @@ layout: default
 title: Northern Coast Bell Codes
 ---
 
-## Overview
+## Bell Signalling on the Coast
 
 The Northern Coast Bell Codes are the system of bell signals used by the fishing and trading communities of the northern coast of [Sahrana](/content/location/natural/continent/sahrana) to communicate between boats working the coastal waters and the towns lining the shore. It is a code of bell strokes, struck upon the bells that boats and town towers carry, that conveys information across the distances separating fishing grounds from harbour and harbour from open water. Fishermen, harbormasters, and merchants of the [Northern Coast League](/content/government/national/northern-coast-league) use the system, and its signals are understood by every coastal community of the northern shore from the western headlands to the eastern approaches of the strait.
 
-## The Nature of the Bells
+## Boat Bells and Tower Bells
 
 The bells employed are of two principal kinds, distinguished by size and mounting. Boat bells are small bells of bronze or polished iron mounted upon a wooden frame at the bow or stern, sounded by a clapper the crew carries for the purpose. Town bells are large bells of cast bronze mounted in the towers the coastal towns maintain, sounded by a ringing mechanism operated by the tower keeper. The two kinds are tuned to different pitches — the boat bells to a higher, clearer note and the town bells to a deeper, more resonant note — and the difference in pitch allows listeners to distinguish the source of a signal heard upon the water.
 
 The bells are sounded in sequences established by the customs of the coast, distinguished by the number of strokes, the interval between them, and the rhythm. A single clear, sustained stroke is a signal of presence, indicating that the boat or town from which the signal comes is at its customary place and attending to its customary business. A pair of strokes struck in quick succession is a signal of acknowledgment, indicating that the signal has been heard and the customary response will be given. A rapid series of strokes increasing in strength and frequency is a signal of alarm, warning of danger and summoning the customary response of the coastal communities.
 
-## The Calls of the Fishing Boats
+## Signals from the Boats
 
 The calls of the fishing boats are the first principal element of the code, sounded by the crews at the customary moments of the fishing day. The call to the nets is sounded when the boats have reached the customary fishing ground and the nets are to be set: a single stroke of the bell followed by a pause and a second stroke. The call to the catch is sounded when the nets are hauled and the abundance of the catch determined: a pair of strokes followed by a pause and a third stroke. The call to the return is sounded when the boats are making for the harbour at the close of the day's work: three strokes in succession followed by a pause and a fourth stroke.
 
 The calls are heard by the harbormasters of the coastal towns and by other boats working the grounds in the vicinity, serving as the customary means by which boats coordinate their movements upon the fishing grounds. The calls also serve a commercial purpose, informing the merchants of the towns of the size and quality of the catch being brought in, allowing them to make preparations before the boats arrive at the quay. The calls of the fishing boats are among the most familiar sounds of the northern coast, a measure of the activity the fishing grounds sustain through the season.
 
-## The Calls of the Town Towers
+## Signals from the Towers
 
 The calls of the town towers are the second principal element of the code, sounded by the tower keepers at the customary hours and at moments of danger. The call to the morning is sounded at the dawn of the customary fishing day: a single stroke of the great bell followed by a pause and a pair of strokes. The call to the evening is sounded at the close of the day when boats are expected to return: a pair of strokes followed by a pause and a single stroke. The call to the storm is sounded when the customary signs of approaching weather are observed: a rapid, sustained ringing that continues until the danger has passed. The town tower also sounds calls regulating the movement of larger vessels using the harbour, informing masters of the state of the tide and the wind. The call to the flood is sounded when the tide is at the flood and larger vessels may safely enter: three strokes in quick succession followed by a pause and a single stroke. The call to the ebb is sounded when the tide is at the ebb and larger vessels must wait for the next flood: a single stroke followed by a pause and three strokes in succession. The calls of the town tower are the foundation of the orderly conduct of the harbour.
 
-## The Signals of Alarm
+## Emergency Rings
 
 The signals of alarm are a third principal element of the code, sounded at moments when the customary dangers of the coast require immediate response. The signal of the storm is sounded when the winds rise to a violence that may endanger boats still upon the water: a sustained, rapid ringing that continues until the boats have reached safety or the storm has passed. The signal of the raiders is sounded when armed vessels are observed approaching the coast: a series of short, rapid strokes. The signal of the wreck is sounded when a vessel is observed to be in distress: a series of long, sustained strokes alternating with customary silence, summoning the customary rescue parties of the coastal communities, who put out from the shore with the customary boats and equipment. The signals of alarm are observed with great strictness in every town of the [Northern Coast League](/content/government/national/northern-coast-league).
 
-## The Customs of the Bell Keepers
+## Training and Logs
 
 The bell keepers are appointed by the councils of the towns, a position of considerable honour conferred upon persons of recognised standing. They are instructed in the customary use of the bells during a long apprenticeship, the foundation of the reliability upon which the system depends. The bell keepers maintain a log of the signals they sound and hear from boats and neighbouring towers, consulted by the councils when questions arise concerning the conduct of the harbour or the safety of the boats. The log is also the means by which the bell keepers verify the accuracy of the signals they have sounded. The customs of the bell keepers are a sophisticated code of conduct developed over centuries, one of the principal assurances of the system's reliability.
 
-## Centres of Use
+## Towns That Ring the Bells
 
 The bell codes are most extensively used along the northern coast of [Sahrana](/content/location/natural/continent/sahrana), from the western headlands to the eastern approaches of the strait. The principal towns maintain great bells in their towers, and the principal fishing fleets maintain small bells in their boats, coordinated by the customary relationship the league has established. The cities of [Nessara](/content/location/settlement/city/nessara) and [Khalisar](/content/location/settlement/city/khalisar) are the principal centres of the system, with the most experienced bell keepers of the coast. The system is also used at smaller towns and fishing villages, though their bells are typically of more modest construction. The league has established customary standards by which the bells of member cities are tuned and the signals of the bell keepers are coordinated.
 
-## Relation to the Maritime Systems
+## Bell Codes and Maritime Systems
 
 The Northern Coast Bell Codes are distinct from the [Khareshi](/content/language/pseudo/khareshi) whistled signals of the desert interior and from the [Trade Tongue](/content/language/pseudo/trade-tongue) of maritime commerce. The bell codes are a system of auditory signals operating at the customary distances of coastal waters; the Trade Tongue is a system of hand signals operating at the customary distances of the crowded marketplace. The two systems are used in different contexts, and a merchant skilled in both may coordinate the conduct of boats at the quay and trade in the marketplace. The bell codes are also distinct from the spoken languages of the coastal communities, which are true languages with grammar and vocabulary, while the bell codes are a code of limited scope conveying only a fixed set of meanings.
 
-## Significance
+## Voice of the Coast
 
 The Northern Coast Bell Codes are the voice of the coast in the maritime communities of the northern shore of [Sahrana](/content/location/natural/continent/sahrana), the means by which the fishing and trading communities maintain coordination of their boats upon the waters and orderly conduct of their harbours upon the shore. Without the bell codes, the boats working the fishing grounds would have no reliable means of signalling their presence and catch to the towns that depend upon them, and the harbours would have no reliable means of regulating the movement of vessels they serve. The system is a practical invention born of the necessities of coastal life, a measure of the ingenuity by which the maritime communities have mastered the waters that sustain them. In the noise of the harbour where the traveller hears only the confusion of many voices and the creaking of many cables, the bell keeper sounds the customary signals, and the signals carry the news of the coast from the towers of the towns to the boats upon the water.
 

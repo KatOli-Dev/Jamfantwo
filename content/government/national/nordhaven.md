@@ -3,17 +3,17 @@ layout: default
 title: Nordhaven
 ---
 
-## Overview
+## Human Kingdom of the Morvind Shore
 
 The Kingdom of [Nordhaven](/content/location/settlement/city/nordhaven) is the human kingdom of the [Morvind](/content/location/natural/continent/morvind) coast, encompassing the coastal lowlands and settlements that line the shores of Morvind. The kingdom is the primary human political entity on the continent, and its capital is Nordhaven, the largest port and hub of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) trade. Nordhaven is a maritime power, and its prosperity is built upon the trade that flows through its harbours, connecting the mineral wealth and metalwork of the Morvind interior to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond.
 
-## The Coast and Trade
+## Coastal Trade and the Stormfall Routes
 
 The coastal lowlands of Morvind are narrow, seldom extending more than a few miles inland before the mountains rise, but the shore is lined with settlements that are the lifeblood of the kingdom. The trade flowing through the kingdom's harbours is dominated by the exchange of Morvind and Aethelaran goods. The mineral wealth and crafted metalwork of the interior are exported through the kingdom's ports in exchange for grain, cloth, and manufactured goods of the south. Crown revenue is drawn chiefly from tolls and taxes on this trade, funding the fleet, public works, and defence of the coast.
 
-The fleet of Nordhaven is the primary instrument of the kingdom's power, and it is among the largest and most capable in northern waters. The fleet protects the trade routes of the Stormfall Sea and the coast, and it is the guardian of the kingdom's maritime interests. The shipyards of Nordhaven and [Skaldshavn](/content/location/settlement/town/skaldshavn) are the primary sources of the vessels that serve the fleet. The maritime tradition of the kingdom is the foundation of its military and commercial power.
+The [Northern Fleet](/content/government/local/northern-fleet) of Nordhaven is the primary instrument of the kingdom's power, and it is among the largest and most capable in northern waters. The [Northern Fleet](/content/government/local/northern-fleet) protects the trade routes of the Stormfall Sea and the coast, and it is the guardian of the kingdom's maritime interests. The shipyards of Nordhaven and [Skaldshavn](/content/location/settlement/town/skaldshavn) are the primary sources of the vessels that serve the fleet. The maritime tradition of the kingdom is the foundation of its military and commercial power.
 
-## The Member Settlements
+## Ports and Towns of the Realm
 
 Nordhaven includes the principal settlements of Morvind's Stormfall coast and maintains ties to more remote northern ports. Nordhaven is the capital and largest city, and its harbour is the primary hub of continental trade. Skaldshavn is a valued southern member, known for its fishing fleet and boatbuilders. [Bjornsholm](/content/location/settlement/town/bjornsholm) commands the trade with the [ursine](/content/species/sapient/ursines) communities of the inland forests. [Vargvik](/content/location/settlement/town/vargvik) is the northernmost member, linked to the capital by a long coastal passage and largely self-governing because of its remoteness.
 
@@ -21,19 +21,19 @@ The kingdom is governed from Nordhaven by a king chosen from the hereditary ruli
 
 The relationship between the crown and the member settlements is one of mutual benefit, but the balance of power rests with the king. The crown provides the fleet, defence, and commercial framework that sustains trade, and the settlements provide the revenue, manpower, and resources that sustain the kingdom. The kings of Nordhaven have traditionally pursued a policy of consultation and accommodation with the member settlements, but the final authority in every matter of significance rests with the throne. Among the absolute monarchies, Nordhaven is the least concentrated: a settlement that presents a unified position on a local matter is seldom overruled, for the crown values the willing co-operation of the ports more than the assertion of its prerogative.
 
-## People and Defence
+## Population, Fleet, and Army
 
 The population of Nordhaven is chiefly [human](/content/species/sapient/humans), and the people of the coast are known for their hardihood and maritime skills. The [dwarves](/content/species/sapient/dwarves) of the interior are present in the coastal cities, where they maintain agents to manage the flow of metalwork through the ports, and their counting houses are among the most substantial buildings on the waterfronts. The [lupines](/content/species/sapient/lupines) of the cold steppes are occasional visitors to the coastal settlements, and trade between the coast and the steppe is a minor but valued part of the kingdom's commerce.
 
 The defence of the kingdom is maintained by the fleet and a standing army funded by the treasury. The fortifications of the coastal cities are kept in good order. The kingdom has been at peace with its neighbours for many generations, but occasional tensions with the [Stoneheim Holds](/content/government/national/stoneheim-holds) over trade between the coast and the interior require the maintenance of a credible military force. The fleet is the primary instrument of the kingdom's power, and the shipyards of Nordhaven and Skaldshavn produce the vessels that serve both the fleet and the merchant marine.
 
-## History
+## From Fishing Villages to Kingdom
 
 Nordhaven was established by human settlers who colonised the Morvind coast in the early centuries of continental settlement. The first settlements were fishing villages and trading posts established along the shore, and the growth of trade with the interior and southern continents provided the foundation for the expansion of the kingdom. The unification of the coastal settlements under the rule of the kings of Nordhaven was a gradual process achieved through negotiation, alliance, and occasional exercise of force. The kingdom that emerged from this process has been the primary human political entity on the continent for many centuries.
 
 The relationship between the kingdom and the Stoneheim Holds has been a defining feature of the history of the coast. Trade between the coast and the interior is the foundation of the economy of both entities, and the terms of the trade have been a subject of negotiation and occasional dispute throughout the kingdom's history. The kingdom has maintained a policy of co-operation with the dwarven realm, and the trade routes connecting the interior to the coast have been maintained and protected by both parties, for the mutual benefit of the trade is a powerful incentive for co-operation.
 
-## Significance
+## Maritime Power and Cultural Reach
 
 Nordhaven is the primary human political entity in Morvind, and its maritime power and commercial influence are the foundation of its significance. The kingdom's trade connects the mineral wealth of the Morvind interior to the markets of Aethelar and beyond, and its fleet is the guardian of the northern trade routes. Nordhaven symbolises the hardihood and enterprise of the human people of the Morvind coast.
 

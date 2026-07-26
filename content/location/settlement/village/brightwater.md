@@ -3,13 +3,13 @@ layout: default
 title: Brightwater
 ---
 
-## Overview
+## A Coastal Settlement by the Clear Spring
 
 Brightwater is a coastal settlement on the [Velden Coastlands](/content/location/settlement/region/velden-coastlands) of [Aethelar](/content/location/natural/continent/aethelar), situated on a sheltered cove east of [Caerhaven](/content/location/settlement/town/caerhaven) where a clear spring emerges from the coastal cliffs and flows across a shingle beach into the [Auric Ocean](/content/location/natural/feature/auric-ocean). The settlement takes its name from the remarkable clarity of the spring water, so pure that it has been remarked upon since the first voyages through the channel. Brightwater is one of the smaller settlements of the coastlands, and its people are among the most familiar with the daily rhythms of the strait and the conditions of the coastal waters. The settlement is a dependency of the [Velden Compact](/content/government/local/velden-compact), and its function is the supply of fresh water and provisions to vessels passing through the eastern approaches to the [Velden Strait](/content/location/natural/feature/strait-of-velden).
 
 The settlement is small but enduring, and its position on the cove gives it shelter from prevailing winds that the more exposed harbours of the strait cannot match. Vessels calling at Brightwater are chiefly those preparing to enter the strait from the east and requiring a last provisioning before the difficult passage, or those that have just completed the passage and need to repair damage inflicted by treacherous waters. The services the settlement provides are valued by mariners of the strait; the reputation of Brightwater water is a byword among the pilots who work the channel.
 
-## The Spring and the Cove
+## The Limestone Spring and the Shingle Cove
 
 The spring that gives the settlement its name is the most distinctive feature of Brightwater, and its waters are the foundation of the local economy. The spring emerges from a fissure in the coastal cliffs where the underlying rock is a hard, close-grained limestone that filters the water as it rises from deep aquifers of the interior. The water is cold and clear, with a slight mineral taste that mariners associate with reliability and safety; the flow is constant through the seasons, unaffected by rainfall or drought. The spring fills a stone trough cut into the rock above the beach; the trough is the principal source from which the settlement draws its water and from which visiting vessels are supplied.
 
@@ -17,7 +17,7 @@ The cove sheltering the settlement is a curved bay protected from prevailing win
 
 The cliffs surrounding the cove are home to seabirds nesting on the ledges in spring and summer; the eggs and feathers of the birds are a small but valued addition to the local economy. The cliffs are also the source of stone the settlement uses for its buildings and quays; quarries opened in the cliffs above the cove are worked by masons of the community. The stone is a pale limestone weathering to a soft grey; the buildings of Brightwater are constructed of this stone and roofed with slate quarried from the same cliffs.
 
-## The Community and the Mariners
+## The Wayhouse, the Fishermen, and the Provisioners
 
 The population of Brightwater is small and entirely [human](/content/species/sapient/humans), descended from families that first settled the cove to take advantage of the spring and the fishing grounds. The community is a mixture of fishermen, who work the coastal waters, and provisioners, who supply the mariners and vessels calling at the settlement. The two occupations are not strictly separate; most households combine fishing with the provision trade, and the men and women divide their labour between the boats and the wayhouse according to the season.
 
@@ -25,7 +25,7 @@ The fishermen work the waters of the strait and the coastal reaches of the [Auri
 
 The provisioners manage the wayhouse and the supplies sold to mariners. The wayhouse is the principal building of the settlement, serving as inn, storehouse, and meeting place for the community. Provisions include fresh water from the spring, bread baked in community ovens, salted fish and dried meat that are staples of the seafaring diet, and fruit and vegetables grown in sheltered gardens behind the wayhouse. The reputation of Brightwater provisions is such that vessels will put into the cove to refresh their supplies before the passage of the strait, even when the harbour of [Caerhaven](/content/location/settlement/town/caerhaven) is more convenient.
 
-## The Compact and the Pilotage
+## The Compact, the Pilots, and the Merfolk Visitors
 
 The relationship between Brightwater and the [Velden Compact](/content/government/local/velden-compact) is one of cooperation and mutual support. The services the settlement provides to mariners complement the pilotage and toll functions of the principal towns of the strait. The compact recognises the role of Brightwater as a provisioning station, and the settlement contributes to the maintenance of navigation aids marking the eastern approaches to the strait. The signal tower standing on the headland above the cove is one of the aids maintained by the compact; its lamp is visible for many miles across the Auric, guiding vessels toward the strait from the east.
 
@@ -33,7 +33,7 @@ The pilots of the strait are familiar visitors to Brightwater. The settlement se
 
 The [merfolk](/content/species/sapient/merfolk) of the strait waters are occasional visitors to the cove at Brightwater; a cautious but peaceful coexistence has developed between the settlement and the merfolk communities of the coastal waters. The merfolk are familiar with the quality of the spring water and visit the cove to drink from the outflow where it enters the sea. The fishermen respect the merfolk as fellow inhabitants of the coast, and the relationship between the two peoples is a feature of local life remarked upon since the earliest days of the settlement.
 
-## The Life of the Settlement
+## Tides, Seasons, and the Three Festivals
 
 The rhythm of life at Brightwater is set by the tides, the seasons, and the traffic of the strait. The summer months are the busiest, for the weather is favourable and the passage of vessels is at its height; the wayhouse is filled with mariners and merchants preparing for or recovering from the crossing of the strait. The winter months are quieter; storms sweeping the strait reduce traffic, and fishermen must work harder to maintain the catch the community requires. Spring and autumn are the seasons of preparation and harvest, when gardens are tended and stores are laid by for the coming winter.
 
@@ -41,6 +41,6 @@ The festivals of Brightwater are tied to the sea and to the spring. The spring f
 
 The governance of Brightwater is informal, resting with the elders of the founding families and senior members of the fishing and provisioning trades. The elders meet in the wayhouse to discuss the affairs of the community; their decisions are made by consensus and enforced by the respect in which they are held. The community is too small to require an elaborate administration; the simplicity of its governance reflects the practical character of the people. The relationship with the compact is managed by a representative chosen by the elders to attend meetings of the council, responsible for ensuring the interests of the settlement are represented in the deliberations of the compact.
 
-## Significance
+## The Spring and the Services to Mariners
 
 Brightwater is one of the smaller settlements of the [Velden Coastlands](/content/location/settlement/region/velden-coastlands); its significance lies in the spring that gives it its name and the services it provides to the mariners of the strait. The settlement is not a centre of trade or governance, and it is not the seat of any great authority, but the water and provisions of Brightwater are a familiar feature of the strait traffic, and the pilots of the channel regard the settlement as one of the most reliable points of refreshment on the eastern approaches. The reputation of the spring is a reminder that the prosperity of the great towns of the strait depends upon the labour and hospitality of the smaller settlements lining the coast.

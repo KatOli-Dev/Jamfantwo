@@ -3,11 +3,11 @@ layout: default
 title: Amber Hollow
 ---
 
-## Overview
+## A Small Settlement in the Wooded Foothills
 
 Amber Hollow is a small settlement in the wooded foothills of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) of [Morvind](/content/location/natural/continent/morvind), situated in a sheltered valley where the streams descending from the interior ranges meet the lower slopes of the western Morvind. The settlement takes its name from the golden colour of the birch and rowan that fill the valley in autumn, when the leaves turn a deep amber before they fall. Amber Hollow is one of the surface communities that serve as points of contact between the underground halls of the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the human traders whose caravans travel the highland roads. The settlement is small but enduring, and its people are among the most familiar with the boundary between the world of the dwarven forges and the world of the open valley.
 
-## The Valley and the Woodlands
+## The Glen, the Stream, and the Amber Birches
 
 The valley in which Amber Hollow stands is a long, narrow glen following the course of a stream descending from the higher peaks of the highlands to join the rivers of the western Morvind. The valley is sheltered from the worst of the wind by the surrounding hills; the climate is milder than on the exposed slopes above. The woodlands clothing the valley floor and lower hillsides are a mixture of birch, rowan, and alder, with occasional stands of pine on drier ground. The undergrowth is rich with hazel, willow, and smaller shrubs supporting the valley's wildlife. The amber colour giving the settlement its name is most striking in late autumn, when the birches and rowans turn together in a single wave of gold and copper visible from the highland roads above.
 
@@ -15,7 +15,7 @@ The stream running through the valley is the principal water source for the sett
 
 The valley opens to the west toward the lower Morvind; the road following the stream down to the [Valdmark](/content/government/national/valdmark) is the principal route of communication with the wider world. The road climbs east from the valley to the surface settlements of the highlands and to the approaches to the gates of [Stoneheim](/content/location/settlement/city/stoneheim); traffic of the caravans is the foundation of the local economy. The settlement is a waypoint on the route, and the services it provides to the caravans, including shelter, repair, and guidance of local fords, are the reason for its prosperity.
 
-## The Community and the Trade
+## The Wayhouse, the Muleteers, and the Amber Preserves
 
 The population of Amber Hollow is a mixture of [humans](/content/species/sapient/humans) and a small community of [dwarves](/content/species/sapient/dwarves) who maintain a counting house and a forge in the settlement. The humans are the majority, descended from families that first settled the valley during the early expansion of the human population into the western Morvind. The dwarves are agents of the trading houses of [Stoneheim](/content/location/settlement/city/stoneheim); their presence is a sign of the importance of the trade flowing through the valley. The dwarves of Amber Hollow are respected for their skill in metalwork and knowledge of the highland routes, and the forge they maintain is the only source of ironwork in the valley.
 
@@ -23,7 +23,7 @@ Amber Hollow's trade is built upon the caravans travelling the highland road; th
 
 The autumn fruits gathered in the woodlands are the source of one of the more unusual products of the settlement. Rowan berries, birch sap, and honey produced by the valley bees from autumn flowers are gathered and preserved by the women of the community; the amber-coloured preserves are exported through the caravans to coastal markets, valued for their colour and flavour. The amber resin gathering on the bark of older birches is also collected; the small amount harvested each year is sold to jewellers of the coast for use in ornaments and varnishes.
 
-## The Seasons and the Routines
+## Winter Preparations, Spring Caravans, and the Festivals
 
 The life of Amber Hollow is shaped by the rhythm of the seasons and the demands of the caravans. Winter is the quietest period, for the highland road is blocked by snow and the settlement is cut off from the wider world for several months. The community prepares for winter during autumn, gathering fruits, timber, and fodder that will sustain the settlement through the cold months. Long winter evenings are spent in the repair of tools and the making of goods that will be sold to caravans in spring; the storytelling and music filling the common hall of the wayhouse are a reminder of the bonds that hold the community together.
 
@@ -31,12 +31,12 @@ Spring is the season of preparation, for the caravans begin to move as soon as t
 
 The festivals of Amber Hollow are tied to the seasons and to the trade. The spring opening is marked by a ceremony at the ford where the highland road descends into the valley; the first caravan of the season is welcomed with bread and salt. The autumn harvest is celebrated with a gathering in the common hall, where preserves and honey are shared and thanks are offered for the produce of the valley. The winter festival is a more solemn occasion, held in the depths of the cold months when the community is most isolated; the storytelling and music of the festival are the principal pleasure of the long nights.
 
-## The Settlement
+## Timber Buildings and the Informal Governance
 
 Amber Hollow is a small, compact settlement whose buildings are constructed of timber gathered from the surrounding woodlands and stone quarried from the hillsides. The dwellings are low and close-set, with thick walls of squared logs and roofs of birch bark weighted with stone to resist wind and snow. The wayhouse is the largest building in the settlement, serving as the common hall, storehouse, and guesthouse for passing caravans. The buildings are clustered around the ford where the highland road crosses the stream; the settlement extends a short distance up the valley on either side of the crossing.
 
 The governance of Amber Hollow is informal, resting with the elders of the founding families and the senior members of the trading houses that maintain an interest in the settlement. The elders meet in the common hall to discuss the affairs of the community; their decisions are made by consensus and enforced by the respect in which they are held. The community is too small to require an elaborate administration; the simplicity of its governance reflects the practical character of the people. The dwarven forge is governed by the master smith; the trading houses of [Stoneheim](/content/location/settlement/city/stoneheim) send a representative to the settlement at the opening of each trading season to oversee the season's transactions.
 
-## Significance
+## A Waypoint on the Highland Road
 
 Amber Hollow is one of the smaller settlements of the western [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands); its significance lies in its position on the highland road and the services it provides to the caravans. The settlement is not a centre of mining or metalwork, and it is not the seat of any great authority, but the wayhouse and the muleteers of Amber Hollow are a familiar feature of the highland trade, and the amber-coloured preserves of the valley are a valued product of the regional economy. The community is a reminder that the prosperity of the great cities of the highlands depends upon the labour and hospitality of the small settlements lining the roads between them.

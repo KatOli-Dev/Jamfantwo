@@ -3,13 +3,13 @@ layout: default
 title: Whitewall Range
 ---
 
-## Overview
+## The Pale Stone Spine of Nordheim
 
 The Whitewall Range is the long mountain chain running east to west across the centre of [Nordheim](/content/location/natural/continent/nordheim), dividing the continent's northern tundra from its southern forests and serving as the watershed from which the rivers of both slopes descend to the lowlands. The range is lower in the west and broader in the east, where the glaciers descend through the longer valleys and terminate in lakes of blue water marking the slow retreat of the ice. The northern face is steep and wind-scoured, while the southern face is more sheltered, with deeper forests, mineral springs, and a series of valleys that remain open to agriculture during the brief warm season. The Whitewall is to [Nordheim](/content/location/natural/continent/nordheim) what the [Crown Range](/content/location/natural/feature/crown-range) is to [Thessara](/content/location/natural/continent/thessara), a spine and a watershed, a barrier and a corridor, though the Whitewall is colder, narrower, and more subject to the long winters that govern every activity of the continent.
 
 The range takes its name from the pale stone of its upper slopes, described as white as the belly of a winter fish when the sun falls upon it at the right hour. The name is used by every people of the continent, from the tundra travellers to the southern foresters, and the mountain councils of the interior have accepted it as the formal designation. The range must not be confused with the [Frostwall](/content/location/settlement/region/frostwall-marches) of the deep interior of [Morvind](/content/location/natural/continent/morvind), a separate escarpment of the far continent, distinguished by climate, geology, and the peoples who inhabit their slopes.
 
-## The Western Reaches
+## Low Hills, Broken Ridges, and the Long Season
 
 The western reaches of the Whitewall Range are the lowest section, rising in a series of low hills and broken ridges rather than the high crests marking the centre and the east. The passes in the west are open for a longer season than those of the higher country, and the roads descending to the western coast are among the most reliable in [Nordheim](/content/location/natural/continent/nordheim). The western reaches are the first to be cleared of snow in the spring and the last to be closed in the autumn, and the trade between the southern forests and the western ports is conducted for a longer season through the western passes than through any other crossing.
 
@@ -17,7 +17,7 @@ The western reaches are also the most forested, for the lower elevation and mild
 
 The rivers descending from the western reaches are short and swift, for the distance from the ridge to the coast is measured in a few miles, and they reach the sea before gathering any great volume of water. The rivers are not navigable, but they are dependable, and the small communities of the western valleys draw upon them for the water that their cattle and household gardens require. The western rivers freeze early in the autumn and thaw late in the spring, and the timing of the freeze and thaw is one of the principal determinants of the rhythm of the western year.
 
-## The Central Reaches
+## High Passes and the Short Warm Season
 
 The central reaches of the Whitewall Range are higher than the western, and the passes crossing the central section are open for a shorter season. The central section of the range is the most difficult to traverse in winter, for the snow lies deep in the passes and the winds descending from the high crests can reach a force that no laden animal can withstand. The high valleys of the central section are the home of small herding communities that move their flocks between summer pasture on the open grass and winter shelter in the sheltered valleys, and the customary law of the highland has refined the timing of these movements into a discipline that foreign visitors seldom master.
 
@@ -25,7 +25,7 @@ The central section is also the most heavily travelled in the warm season, for t
 
 The forests of the central section are thinner than those of the western reaches, and the higher slopes are covered by open grass and low scrub. The trees growing upon the central section are the hardiest of the continent, capable of withstanding the long winters and brief summers that characterise the highland, and the timber of the central forests is the most valued in [Nordheim](/content/location/natural/continent/nordheim) for its density and straight grain. The mineral springs of the central section are also among the most valued in the known world, for the water rising from the deep rock is rich in iron and salts that the healers of the southern communities use in their remedies.
 
-## The Eastern Reaches and the Glaciers
+## Glaciers, Blue Lakes, and the Dwarven Mines
 
 The eastern reaches of the Whitewall Range are broader and higher than the central or the western, and the glaciers descending from the eastern crests are the most extensive in [Nordheim](/content/location/natural/continent/nordheim). The glaciers move slowly down the longer valleys, terminating in lakes of blue water marking the point at which the ice melts as quickly as it advances. The eastern lakes are the deepest in the continent, and the water they contain is the purest that the naturalists of the southern academies have been able to examine. The lakes are the source of the eastern rivers, descending to the southern forests and providing the water that the southern farmlands require.
 
@@ -33,7 +33,7 @@ The eastern reaches are the most heavily mineralised section of the range, and t
 
 The eastern reaches are the most exposed to winter weather, and the passes of the eastern section are open for the shortest season of any in the range. The eastern passes may be closed for more than half the year, and the communities of the eastern valleys maintain substantial winter stores against the long isolation. The cold of the eastern reaches is intense, and the winds descending from the glaciers are the most bitter in [Nordheim](/content/location/natural/continent/nordheim), but the mineral wealth and timber of the eastern valleys have sustained a settled population described as the most self-reliant of any in the continent.
 
-## The Southern Slope
+## Dense Forests and the Reliable Harvest
 
 The southern face of the Whitewall Range is more sheltered than the northern, and the forests clothing the lower slopes are denser and more varied than those of any other section. Fir, black pine, silver birch, and red cedar dominate the lowlands, and the clearings formed by fire, windfall, and the grazing of elk support a wealth of berry shrubs, mushrooms, and the hardy vegetables that the southern communities cultivate in their kitchen gardens. The mineral springs rising from the southern face are among the most valued in the continent, and the valleys opening to the south are the home of the agricultural settlements producing the grain and vegetables that the highland cannot grow.
 
@@ -41,7 +41,7 @@ The southern valleys are the most densely settled lands of the range, and the vi
 
 The southern forests are the home of the wildlife of the continent, and the health of the forest is judged by the number of beaver ponds and the return of the great cranes, which nest only where the wetlands remain undisturbed. Elk browse upon the young trees, beavers dam the slower streams, and a dark lynx hunts through the undergrowth. The [ursines](/content/species/sapient/ursines) of the forest margins gather nuts, fish, and roots, and their seasonal movements often coincide with the human villages that trade for hides and medicines. The southern forests are a refuge for the traveller and a source of timber for the builders, and the customary law governing the forest is among the most carefully observed of any in [Nordheim](/content/location/natural/continent/nordheim).
 
-## The Northern Face
+## Wind-Scoured Stone and the Tundra Beyond
 
 The northern face of the Whitewall Range is steep and wind-scoured, and the forests clothing the southern slopes are absent from the higher and colder northern face. The bare rock and snowfields of the northern crests descend in cliffs and broken scree to the edge of the Frostwall Tundra, and the northern face is the most exposed and most difficult of any in [Nordheim](/content/location/natural/continent/nordheim). The winds sweeping across the tundra strike the northern face with a force that no shelter can resist, and the winter cold is so intense that the rock of the higher crests splits with a sound that the tundra travellers have likened to the report of a great bell.
 
@@ -49,7 +49,7 @@ The northern face is crossed by no laden caravans, and the only travellers ventu
 
 The rivers descending from the northern face are short and steep, reaching the tundra before gathering any great volume of water. The rivers freeze early in the autumn, and the ice remains until late in the spring, and the tundra communities draw upon them for water through the long winter by cutting holes in the ice and by the patient labour of breaking the frozen surface. The water of the northern rivers is the purest in the continent, and the tundra communities have a deep respect for the rivers that sustain them through the long cold.
 
-## The Passes and the Refuge Halls
+## Three Caravan Crossings and the Refuge Halls
 
 The passes of the Whitewall Range are the openings allowing the road across the continent to follow its course, and only three of the passes are used by laden caravans. The three caravan passes are spaced at intervals along the range, each marked by a refuge hall stocked with dried meat, peat, and spare timber for travellers caught by the weather. The halls are maintained by the highland wardens under the oversight of the customary councils, and the maintenance is a communal obligation shared by highland and lowland communities alike. The loss of a refuge hall is a disaster for communities on both sides of the range, and the maintenance of the halls is a duty not neglected in any season.
 
@@ -57,6 +57,6 @@ The central pass is the most heavily travelled, and its refuge hall is the large
 
 The [Frostwall Clans](/content/government/national/frostwall-clans) of the deep interior of [Morvind](/content/location/natural/continent/morvind) maintain a similar system of passes and refuge halls in the escarpment dividing the central uplands from the remote valleys of the far interior, and the two systems have much in common, though the Whitewall passes are used by the trade of a settled continent while the Frostwall passes are used chiefly by the patrols of the dwarven clans. The two systems are governed by different customary laws, but the principle of the refuge hall is the same in both ranges, and the practice of the refuge hall is one of the oldest and most honoured institutions of the mountain peoples of the known world.
 
-## Significance
+## Pale Backbone of Nordheim
 
 The Whitewall Range is the spine and watershed of [Nordheim](/content/location/natural/continent/nordheim), and its pale crests, glacier-fed lakes, mineral springs, and long winters are the inheritance that the continent has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of iron and a foundation of the customary law governing the use of the passes, refuge halls, and grazing grounds. The prosperity of the continent is bound up with the health of the range, and the maintenance of the passes, forests, rivers, and refuge halls is a duty shared by every people whose lands depend upon the water and stone that the highland provides. The Whitewall endures as the pale backbone of [Nordheim](/content/location/natural/continent/nordheim) and as the inheritance of those whose work and life are bound up with the cold mountains of the northern continent.

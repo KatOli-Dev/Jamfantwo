@@ -3,11 +3,11 @@ layout: default
 title: Tortolans
 ---
 
-## Origins
+## Tortoise People of the Warm Coasts
 
 Tortolans are a tortoise-like people found on the warm coasts and islands of [Sahrana](/content/location/natural/continent/sahrana) and the southern reaches of [Aethelar](/content/location/natural/continent/aethelar), their bodies adapted to a slow deliberate life in a warm climate. Their most distinctive feature is the great shell covering the back and sides, a natural armour that is the thickest and most robust of any people. Some naturalists propose a kinship between tortolans and [cancrids](/content/species/sapient/cancrids), citing the hard shell shared by both peoples and their preference for the coastal margin, but the tortolan shell is an internal structure grown from bone while the cancrid shell is an external exoskeleton of chitin, and the differences in form and habitat are too great for the comparison to be sustained. Others argue for a connection to [lacertians](/content/species/sapient/lacertians), but the tortolan body is too different in build and pace of life. Tortolans have inhabited the warm coasts and islands for as long as any people can account for, and their presence is attested in the oldest records of the [Sahrani](/content/language/spoken/sahrani) city-states. The tortolans and the [humans](/content/species/sapient/humans) of the Sahrani coast have coexisted for centuries, their relationship shaped by the overlap in their range and the difference in their pace of life.
 
-## Anatomy and Physiology
+## Great Shell and Slow, Deliberate Frame
 
 Tortolans stand shorter than [humans](/content/species/sapient/humans) but taller than [dwarves](/content/species/sapient/dwarves), with a broad heavy frame dominated by the great shell covering the back and sides. The shell is a dome of bone covered in horny plates called scutes, ranging in colour from dark brown to olive, green, and patterns of yellow and black. It is the thickest and most robust natural armour of any sapient people, turning aside blows that would wound any other, as the bone is dense and the scutes are hard and resistant to both impact and penetration. The shell is an integral part of the tortolan skeleton, grown from the ribs and spine, and cannot be removed without killing the individual.
 
@@ -15,25 +15,25 @@ The tortolan head is reptilian, with a broad rounded snout, a wide mouth, and la
 
 Tortolan senses are adequate and well suited to their way of life. Vision is keen in bright light, adapted to the warm sunlit environments they prefer, though they are less capable in low light than nocturnal peoples. Hearing is competent, and sense of smell is moderate. The tortolan body is not specialised by sense but by resilience: the capacity to endure hardship, resist injury, and persist through difficult conditions is the quality that sets them apart from all other peoples.
 
-## Life Cycle
+## Centuries of Patient Growth
 
 Tortolans are the longest-lived of the sapient peoples, with a lifespan estimated at two hundred to four hundred years, though reliable data are difficult to obtain as tortolans outlive the naturalists who study them. They grow to maturity very slowly, not reaching full size and strength until their fortieth or fiftieth year, and they remain vigorous for centuries, their powers declining only gradually and late in life. Tortolan women carry their young for approximately fourteen months before laying a clutch of three to six eggs in a nest dug into warm coastal sand, incubated by the heat of the sun for four to five months before hatching.
 
 The hatchlings are small and soft-shelled, vulnerable to predation during the first years of life before the shell has fully hardened and the young tortolan has grown large enough to defend itself. Mortality among the young is high, but those who survive to adulthood are extraordinarily long-lived and resilient. The tortolan population is weighted heavily toward older individuals, as the long-lived and slow-breeding produce a people in which elders far outnumber the young. The slow pace of tortolan life is reflected in every aspect of their biology, from patient growth of the young to gradual accumulation of size and strength over centuries, and a tortolan community is among the most stable and unchanging of any people.
 
-## Habitat and Distribution
+## Warm Coasts and Islands of Sahrana
 
 Tortolans are found chiefly on the warm coasts and islands of [Sahrana](/content/location/natural/continent/sahrana), where the climate is hot and sun strong, and sandy shores provide the nesting sites their reproductive cycle requires. They favour sheltered bays, quiet coves, and warm beaches where sand is soft and water shallow, and their settlements are typically built near the shore, combining structures of stone and earth with natural shelter of coastal terrain. The [geography](/content/geography) of each coast determines the distribution of tortolan populations, and they are found only where warmth and sun are sufficient to sustain their cold-blooded metabolism.
 
 Smaller populations are found on warm coasts of southern [Aethelar](/content/location/natural/continent/aethelar), where the climate is mild enough to support their way of life, and on islands of the [Auric Ocean](/content/location/natural/feature/auric-ocean), where volcanic heat and warm currents provide a suitable environment. Tortolans are absent from cold regions, mountains, and interior, as their bodies are adapted to warmth and they become sluggish and vulnerable when temperature drops. Their range is the most restricted of any people to warm coastal regions, and they are the most thermally dependent of all sapient peoples.
 
-## Diet
+## Seagrasses and Coastal Browse
 
 The tortolan diet is dominated by plant foods. Tortolans are browsing and grazing herbivores who make use of the varied vegetation of the warm coast. Seagrasses, algae, and tender shoots of coastal shrubs form the staple, gathered from shore and shallow water by patient methodical foraging that suits their deliberate pace. Fruits, berries, and pads of coastal cacti are eaten when available, supplemented by occasional small animals or fish caught and consumed without particular effort.
 
 Tortolans do not practise agriculture, as their slow metabolism and long lifespan make rapid crop growth unnecessary. Their digestion is slow and efficient, extracting nourishment from tough fibrous plants that other peoples cannot use, and their metabolism is so efficient that a tortolan sustains long periods without food, drawing on reserves of a body built to endure scarcity as well as plenty. They eat what they need and no more, and the slow pace of their digestion matches the slow pace of their lives.
 
-## Ecology
+## Grazers of the Warm Shoreline
 
 Tortolans occupy the niche of a medium-bodied slow-moving herbivore in warm coastal ecosystems. Their impact on coastal vegetation is modest, as their numbers are small and consumption slow, but their grazing maintains coastal plant communities in a state of equilibrium beneficial to the overall health of the shore. The tortolan presence on a coast is generally associated with a well-maintained and diverse plant community, and they are a stable enduring component of the coastal ecosystem.
 

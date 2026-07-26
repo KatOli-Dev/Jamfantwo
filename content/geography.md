@@ -3,11 +3,11 @@ layout: default
 title: Geography
 ---
 
-## Overview
+## The Three Continents and Their Waters
 
 The known world comprises three major landmasses and two great oceans, together with a number of smaller seas and straits that shape travel and trade. The configuration of these features has influenced the spread of peoples, the rise of kingdoms, and the climate patterns that define each region. Much of the world remains uncharted.
 
-## Continents
+## The Great Landmasses
 
 The three continents are separated by deep waters, yet each has served as a bridge or barrier to the movement of civilisations. Their coastlines range from gentle shelving shores to dramatic cliffs above the open sea.
 
@@ -23,7 +23,7 @@ The three continents are separated by deep waters, yet each has served as a brid
 
 [Sahrana](/content/location/natural/continent/sahrana) is the southernmost continent, lying across the [Auric Ocean](/content/location/natural/feature/auric-ocean) from Aethelar. Much of its interior is covered by the [Kharesh](/content/location/natural/feature/kharesh), a vast desert punctuated by rocky uplands and seasonal river systems. Warm currents wash the northern coast, supporting a chain of fertile regions known as the Green Crescent, where prosperous city-states have arisen. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare spices and dyes are among the most valuable in the known world. The desert interior is crossed by ancient caravan routes and inhabited by nomadic and settled peoples alike.
 
-## Oceans
+## The Two Great Bodies of Water
 
 Two great oceans cover the majority of the world's surface. Their currents, winds, and seasonal weather govern long-distance travel and have shaped the fortunes of seafaring peoples.
 
@@ -35,7 +35,7 @@ The [Auric Ocean](/content/location/natural/feature/auric-ocean) lies east of Ae
 
 The [Greyring Ocean](/content/location/natural/feature/greyring-ocean) lies west of Aethelar and south of Morvind. It is the cooler of the two oceans, with steady currents flowing from the polar south toward the equator. Few established trade routes cross the Greyring, and much of its expanse remains unexplored. Sailors who have ventured into its waters describe long rolling swells and banks of mist. The Greyring is rich with marine life, sustaining fishing and whaling communities along the western coast; whaling fleets from Morvind venture into its southern reaches, returning with oil and bone. Its depths remain vast and poorly charted.
 
-## Notable Seas
+## Smaller Waters of Consequence
 
 Several smaller bodies of water lie between and around the continents, serving as conduits for trade, travel, and cultural exchange.
 
@@ -51,14 +51,16 @@ The [Velden Strait](/content/location/natural/feature/strait-of-velden) is a nar
 
 The [Kharesh](/content/location/natural/feature/kharesh), while not a sea, is among the most demanding environments in the known world. This vast desert covers the interior of [Sahrana](/content/location/natural/continent/sahrana), with towering dunes that shift with the wind and rocky uplands rising from the sand. Caravan routes crossing the Kharesh are the primary means of commerce between the coastal cities and the interior, sustained by oases that punctuate the desert. The [Kharesh Tribes](/content/government/national/kharesh-tribes), the nomadic peoples who inhabit the desert, serve as guardians of the routes and water sources, and their knowledge of the Kharesh is fundamental to the caravan trade.
 
-## Climate
+## Patterns of Weather across the World
 
 The climate of the known world is governed by the arrangement of continents and oceans and the patterns of wind and current that these produce. Morvind, in the higher latitudes, is the coldest continent, with long winters and deep snow on its mountains. Aethelar enjoys a temperate climate with warm summers and mild winters, encompassing a greater range of climates than any other landmass. Sahrana, in the lower latitudes, is the warmest, with a desert interior that is the most arid region in the known world.
 
 Ocean currents moderate coastal climates. Warm currents of the [Auric Ocean](/content/location/natural/feature/auric-ocean) give the eastern coast of Aethelar and the northern coast of Sahrana a mild and agreeable climate, while cold currents of the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) give the western coast of Aethelar a cooler, more fog-bound character. The [Stormfall Sea](/content/location/natural/feature/stormfall-sea) between Morvind and Aethelar is a vigorous and changeable body of water whose storms bring rain and wind to the coasts of both continents.
 
-## Trade Routes
+## The Paths That Connect the Continents
 
 Geography has shaped the trade routes that connect the three continents. The primary route runs from the northern coast of Sahrana across the Auric Ocean to the eastern coast of Aethelar, carrying spices, dyes, and precious stones northward. The return voyage carries grain, cloth, iron, and crafted goods from Aethelar to the city-states of the [Sahrani](/content/language/spoken/sahrani) coast.
 
 The [Velden Strait](/content/location/natural/feature/strait-of-velden) is the chokepoint of northern trade; goods bound for Morvind must pass through this narrow channel, and tolls levied on traffic enrich the settlements on either shore. Overland routes across the Kharesh connect the Sahrani coast to the interior. River valleys in Morvind and mountain passes in Aethelar serve as primary overland trade routes, with dwarvish cities and human settlements along these routes acting as nodes in the network connecting interior to coast.
+
+Beyond the major features described above, the known world contains many other places of note. The [Southern Lands](/content/location/natural/continent/southern-lands) continent lies far to the south, its shores little known to northern cartographers, while the [Drowned Isles](/content/location/natural/feature/drowned-isles) dot the Greyring Ocean as a perilous archipelago of reefs and uncertain currents. The [First-Light Cape](/content/location/natural/feature/cape-of-the-first-light) marks the easternmost point of Aethelar, a promontory where the Auric Ocean catches the dawn before any other land. Two overland routes connect the settled regions of Aethelar: the [Northern Coast Route](/content/location/route/trade/northern-coast-route) traces the continent's northern shoreline, while the [Thessaran Coastal Route](/content/location/route/trade/thessaran-coastal-route) links the port cities of the southern coast. Several outposts guard key passages and resources — [Plains End](/content/location/settlement/outpost/plains-end), [Saltpan Watch](/content/location/settlement/outpost/saltpan-watch), [Velden Light](/content/location/settlement/outpost/velden-light), and [Vintners Bridge Toll](/content/location/settlement/outpost/vintners-bridge-toll) each serve as waypoints for travellers and caravans. The [Kharesh Badlands](/content/location/settlement/region/kharesh-badlands), a harsh region of eroded rock and arid valleys on the edge of the great desert, and the [Confederation Plains](/content/location/settlement/region/plains-of-the-confederation), a grassland expanse that supports horse-herding peoples, are among the most distinctive regions of Sahrana. Settlements of note include [Amber Hollow](/content/location/settlement/village/amber-hollow), a village known for its amber deposits; [Brightwater](/content/location/settlement/village/brightwater), a fishing village on the shores of the Auric; and [Stonemarch](/content/location/settlement/village/stonemarch), a hardy settlement in the foothills of eastern Aethelar.

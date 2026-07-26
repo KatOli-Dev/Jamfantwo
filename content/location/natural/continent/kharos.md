@@ -3,13 +3,13 @@ layout: default
 title: Kharos
 ---
 
-## Overview
+## The Land That Remembers Fire
 
 Kharos is a broad western landmass whose coasts and interior are divided by a long belt of red mesas, dry valleys, and mineral-bright woodland. The continent lies beyond the western routes that leave [Aethelar](/content/location/natural/continent/aethelar), though its eastern harbours maintain a regular connection with the ports that face the [Greyring Ocean](/content/location/natural/feature/greyring-ocean). Kharos is not uniform in climate or character. Its northern rim receives cool rains from the open sea, its centre is crossed by high country that holds winter snow, and its southern interior is dry enough for dunes to gather in the lee of every ridge. The land is best known for the [Kharesh](/content/location/natural/feature/kharesh) Glass Groves, where trees with translucent trunks grow among black stone and preserve moisture in ways no other forest is known to do.
 
 The name Kharos appears in several coastal tongues; the oldest surviving gloss describes a land that remembers fire. Scholars disagree over whether the word refers to the red rock of the interior, the glassy trees, or an eruption that altered the southern coast before the oldest settlements were founded. [Kharoshi](/content/language/spoken/kharoshi) chroniclers generally favour the first explanation, while sailors from the eastern ports use the second. Both interpretations have entered common speech, and the continent is often called the land of red stone in formal records.
 
-## Landforms and Climate
+## Ember Ridge and the Three Seasons
 
 The central spine of Kharos is formed by the [Ember Ridge](/content/location/natural/feature/ember-ridge), a broken range that runs from the northwestern headlands toward the southeastern coast. The range is not high throughout its length, but it is difficult to cross because its ridges are separated by dry gorges and shelves of loose stone. Several peaks retain snow until late in the warm season, and their meltwater feeds the rivers that descend toward the eastern plains. Elsewhere, the range is marked by vents, hot springs, and shelves of dark volcanic rock. The people of the mountain valleys build their settlements near the springs, where the water is warm enough to extend the growing season and the soil is enriched by old ash.
 
@@ -17,7 +17,7 @@ West of the Ember Ridge, the country falls toward a coast of cliffs and shingle 
 
 Kharos has three marked seasons rather than four. The wet season comes when the sea winds turn inland, filling the high valleys and sending sudden floods through the lower ravines. The following bright season is dry and clear, with strong sunlight by day and cool air after sunset. A shorter storm season arrives when hot air from the southern basins meets the cold winds descending from the Ember Ridge. Thunderstorms then gather over the interior, and a single night of rain can alter the course of a river. Inhabitants store water in covered cisterns and line their fields with stone because the difference between a plentiful year and a difficult one is often measured in a handful of storms.
 
-## The Glass Groves and Interior Life
+## Translucent Trunks and Glittering Groves
 
 The glass groves occupy a series of basins along the southern face of the Ember Ridge. Their trees have fibrous trunks that harden into translucent plates as they mature, producing a woodland that glitters in the morning and becomes almost invisible at dusk. The trees are living organisms rather than mineral growths, though their bark contains silica and other substances that give it unusual strength. Their roots spread close to the surface, forming a woven mat that catches silt and channels rain toward shaded hollows. In dry years the groves remain green after the surrounding scrub has faded, and their shade provides the principal refuge for animals moving between the uplands and the southern plains.
 
@@ -25,7 +25,7 @@ The grove is not silent. Wind passes through narrow spaces between the hardened 
 
 The glass trees are harvested carefully. Fallen plates are collected for windows, lantern covers, and the coloured inlay used by Kharoshi artisans, while living trunks are rarely cut. The grove communities maintain boundary stones and seasonal paths that distinguish gathering grounds from protected stands. Some outside merchants have attempted to clear sections for fuel or quick construction, but such work reduces the grove's ability to hold water and leaves the surrounding basin exposed to erosion. The oldest agreements therefore limit felling and require that every damaged stand be replanted with cuttings taken from mature trees.
 
-## Rivers, Coasts, and Wildlife
+## Short Rivers and the Ridge Cat
 
 The rivers of Kharos are short compared with the great waterways of Aethelar, but they carry a heavy seasonal flow. The largest descends from the Ember Ridge through a series of narrow gorges, then spreads into braided channels across the eastern basin. Its floodplain supports reeds, fruit trees, and fields of grain, while its higher banks carry vineyards and groves of bitterleaf used in medicine. During the wet season the river may fill the entire basin, and people withdraw to raised roads and stone platforms built above the ordinary flood line. When the water retreats, fish and shellfish remain in the shallow pools, providing food for settlements far from the coast.
 
@@ -33,7 +33,7 @@ The western coast supports kelp beds, seals, shore crabs, and long-bodied fish t
 
 The interior fauna includes red-horned antelope, ash-backed cattle, long-legged ground birds, and a small but formidable predator called the ridge cat. The ridge cat hunts from stone shelves and can survive many days without drinking, obtaining moisture from its prey and from the roots of lower scrub. Larger predators are uncommon near settled valleys, but the high ravines still shelter bears, cliff eagles, and packs of grey wolves. The presence of these animals is treated as evidence that the upper watersheds remain healthy.
 
-## Peoples and Settlement
+## Valley Lords and Highland Councils
 
 [Humans](/content/species/sapient/humans) form the largest settled population of Kharos, living in river towns, coastal ports, and farming villages along the eastern basins. Their architecture makes extensive use of shaded courtyards, thick walls, and roof channels that direct rain into storage jars. The people of the high valleys maintain a separate set of customs, including winter assemblies in which water rights and grazing boundaries are renewed before the spring thaw.
 
@@ -41,7 +41,7 @@ The interior fauna includes red-horned antelope, ash-backed cattle, long-legged 
 
 Kharos has no single ruler over the whole continent. Coastal cities govern their harbours, highland councils manage the passes, and valley communities preserve their own water laws. This division has sometimes made collective defence difficult, yet it has also prevented one court from controlling every spring and trade road. The largest ports send representatives to a council that meets when matters of shared navigation or foreign commerce arise. Its authority is limited, but the council has maintained a common measure for weights, a standard for harbour dues, and an agreement that wrecked vessels receive aid regardless of origin.
 
-## Trade and Significance
+## Modest Resources, Patient Agreements
 
 The wealth of Kharos comes from the meeting of several modest resources rather than from one overwhelming abundance. Glasswood, dyes made from ridge plants, copper from the Ember Ridge, preserved fruit, and hardy livestock all travel through the eastern ports. In return, the continent receives grain, woven cloth, salt, and worked metal from overseas markets. Ships that cross the Greyring do not sail throughout the year, for the fog season and winter swells close the western routes, but the safer months bring a steady movement of pilots, merchants, and scholars.
 

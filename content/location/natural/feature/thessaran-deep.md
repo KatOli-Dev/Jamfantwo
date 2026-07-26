@@ -3,48 +3,48 @@ layout: default
 title: Thessaran Deep
 ---
 
-## The Trench off the Southern Shelf
+## The Trench That Feeds the Southern Fisheries
 
 Beneath the southern shelf of [Thessara](/content/location/natural/continent/thessara), where the warm sea drops away from the coastal shallows, lies the Thessaran Deep, a long and narrow trench whose depth alters the currents of the warm water and shapes the life of the southern coast. The trench runs parallel to the southern coast for several days of sailing, and its depth is great enough that the surface waters of the inner shelf are measurably cooler than the waters carried by the currents from the open ocean. The Deep is the principal reason for the productivity of the southern fisheries, and the navigators of the coast have marked the edge of the trench with floating stone buoys since the first generation of harbour pilots who watched the colour of the water before setting out.
 
 The name of the trench is older than the present coastal kingdoms, and the pilots of the southern ports use a word that the ancient tablets of the highland passes preserve. The word is not a precise translation, for the pilots of the present age apply it to the entire length of the trench, while the older tablets apply it to a particular reach that the ancient pilots considered the most dangerous. This uncertainty has not reduced the authority of the name, and the navigators of every southern port employ the word when they speak of the deep water that the trench opens beneath their keels.
 
-## The Currents and the Cold Upwelling
+## Cold Rising and the Band of Turbulence
 
 The Thessaran Deep alters the currents of the warm sea in a manner described as the most useful of the natural engines of the southern coast. The trench lies close enough to the southern shelf that the prevailing currents, carrying warm water northward along the coast, are deflected by the edge of the deep and turned upward toward the surface. This deflection brings cold water from the lower reaches of the trench to the upper layers of the sea, and the cold water meets the warm currents at the edge of the shelf in a band of turbulence that the pilots of the coast recognise by the colour of the water and the behaviour of the seabirds.
 
 The cold water rising from the trench carries mineral nutrients gathered from the sinking of organic matter over many seasons. The nutrients feed the small creatures of the sea, and these in turn support the fish that the southern fisheries pursue. The productivity of the southern coast is several times greater than that of the central coast, where the trench lies further from the shelf and the cold water does not rise in sufficient quantity to enrich the upper waters. The pilots and fishers of the southern ports are agreed that the deep is the foundation of their prosperity, and the deep is treated with the care that the most important natural features of the coast deserve.
 
-## The Migrating Fish and the Shellfish Beds
+## Sardine, Anchovy, and the Shellfish Beds
 
 The fish that the southern coast pursues are the migratory species following the band of cold water northward in the warm season and retreating southward when the coastal waters cool in the autumn. The principal fish are the great shoals of sardine and anchovy moving along the coast in a seasonal procession, the tuna following the shoals, and the larger predatory fish that the offshore boats pursue in deeper water beyond the reach of the coastal nets. The fish are most numerous in the months when the cold upwelling is strongest, and the fishers of the southern ports set their calendars by the appearance of the first shoals at the edge of the shelf.
 
 The shellfish beds of the southern coast are no less productive than the fisheries of the open water. The cold water of the upwelling supports the growth of mussels, oysters, and smaller shellfish that the coastal communities gather from the rocky shallows and the edges of the channels. The beds are extensive, and the gathering of shellfish is a communal activity regulated with care by the customary law of the coastal villages. The shellfish beds are among the most reliable of the food sources of the southern coast, and the harvest has sustained the coastal communities through seasons when the open-sea fish have been scarce.
 
-## The Sudden Weather and the Pilots
+## Squall and Fog from the Upwelling
 
 The cold upwelling that the Thessaran Deep produces is also the cause of the sudden weather changes that the pilots of the southern coast have learned to expect. When the cold water rises to the surface and meets the warm air above, the contrast in temperature produces a band of fog and squall that can descend upon a vessel within minutes, even on a day beginning with a clear sky. The pilots of the southern coast have developed a body of knowledge concerning the conditions that produce this sudden weather, preserved in the harbour agreements of the principal ports and in the customary teaching of the pilot families.
 
 The sudden weather of the southern coast is the most dangerous feature of the warm sea, and more vessels have been lost to sudden fog and squall than to the great storms of the open water. The pilots watch the colour of the water, the behaviour of the seabirds, and the appearance of haze upon the horizon, and they signal the state of the weather to the vessels in the roadstead by means of the flags and lanterns that the harbour authorities maintain. The pilots who have mastered the reading of the weather are regarded with a respect matched by no other accomplishment of the maritime life, and the families of the pilots are among the most respected of the southern communities.
 
-## The Floating Stone Buoys
+## Volcanic Blocks and the Chained Markers
 
 The edge of the Thessaran Deep is marked by a line of floating stone buoys maintained by the navigators of the southern coast since the first generations of the harbour pilots. The buoys are not the wooden casks or iron-bound barrels of the open-sea routes; they are blocks of the dark volcanic stone of the southern hills, fitted with rings of rope and chained to the seabed by lengths of cable forged by the smiths of the coastal towns. The buoys float because the stone is of a kind that holds a bubble of air within its pores, giving the block a buoyancy that has been recorded as a curiosity of the southern quarries.
 
 The buoys are placed at intervals along the edge of the trench, marking the boundary between the safe water of the inner shelf and the deeper water of the trench. The pilots navigate by the buoys when the fog descends, using them to fix the position of the vessel in the absence of other marks. The maintenance of the buoys is a communal obligation that the coastal towns share, and they are inspected and replaced at the turning of every season. The buoys are among the most distinctive navigation aids of the warm sea, and the system has served the southern coast for several generations without significant interruption.
 
-## The Merfolk and the Trench
+## Merfolk and the Shared Breeding Grounds
 
 The [merfolk](/content/species/sapient/merfolk) of the southern coast know the Thessaran Deep more intimately than any surface sailor, and the merfolk communities have their own understanding of the currents and cold upwelling that the trench produces. The merfolk inhabit the waters of the trench as well as the shallows of the inner shelf, navigating the deep water by means of senses that the surface pilots do not possess. The merfolk have warned surface vessels of the approach of sudden weather upon several occasions, and the warnings have been credited with saving lives in conditions that the pilots themselves could not have foreseen.
 
 The relationship between the merfolk and the human fishers of the southern coast is governed by a body of customary law incorporated into the harbour agreements. The merfolk have their own breeding grounds within the trench, and the human fishers refrain from setting their nets above the breeding grounds during the breeding season. The merfolk in turn refrain from disturbing the shellfish beds that the human communities depend upon, and the two communities share knowledge of the movements of fish and the behaviour of seabirds. This arrangement is among the most successful of the joint management systems of the warm sea, and the merfolk and human fishers have maintained a quiet cooperation through several generations.
 
-## The Harbours and the Agreements
+## Harbour Agreements and the Licensed Pilots
 
 The principal harbours of the southern coast stand at the mouths of the rivers descending from the central valleys of [Thessara](/content/location/natural/continent/thessara), and they are the gathering points for the fishers and merchants of the coast. The harbour agreements incorporate the rules of navigation, the seasons of fishing, the management of the shellfish beds, and the conduct of the merfolk and human communities in their shared waters. These harbour agreements are among the oldest public instruments of the southern coast, revised from time to time but never replaced.
 
 The harbours maintain the buoys marking the edge of the trench and the pilots navigating the coastal waters. The pilots are licensed by the harbour authorities and are required to demonstrate their knowledge of the currents, weather, and buoys before being entrusted with the conduct of a vessel. The pilots are held in the highest esteem by the merchants and fishers of the southern coast and are among the most respected public servants of the maritime communities.
 
-## Significance
+## Foundation of the Southern Coast
 
 The Thessaran Deep is one of the most distinctive natural features of the warm sea, and the trench is the foundation of the fisheries, navigation, and customary law of the southern coast of [Thessara](/content/location/natural/continent/thessara). The currents, the cold upwelling, the migrating fish, the shellfish beds, the sudden weather, the floating stone buoys, and the merfolk communities are the inheritance that the deep has bequeathed to the present age. The deep is held in particular esteem by the pilots and fishers who make their living upon the warm sea, and they mark the turning of the seasons with appropriate ceremonies. The Thessaran Deep endures, in the cold water rising from the trench and in the colour of the water that the pilots read before they set out, as the living inheritance of those whose work and life are bound up with the southern coast of the long continent of the eastern waters.

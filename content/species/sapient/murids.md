@@ -3,11 +3,11 @@ layout: default
 title: Murids
 ---
 
-## Origins
+## Rat-Like People of the Margins
 
 Murids are a small rat-like people found in the underground and margins of settled communities across the known world, combining a humanoid body with the head, ears, and teeth of a rodent. Their origins are poorly documented, as the murid peoples have left no written records and their oral traditions are known to other peoples only through fragmentary accounts. Some naturalists propose a kinship between murids and [kobolds](/content/species/sapient/kobolds), citing the small stature, subterranean habits, and preference for tunnels and enclosed spaces shared by both peoples, though the differences in form are considerable. Others argue for a connection to [goblins](/content/species/sapient/goblins), pointing to the marginal habitat and opportunistic way of life, but the murid body is too distinct for the comparison to be sustained. Murids have been present in the known world for as long as records have been kept, and their populations have proved remarkably resilient in the face of pressure from the larger and more powerful peoples among whom they dwell. Murid communities persist in the margins of settled territory, and their ability to maintain themselves in the smallest overlooked spaces is a defining characteristic of the species.
 
-## Anatomy and Physiology
+## Gnawing Teeth and Flexible Frame
 
 Murids are the smallest of the sapient peoples alongside [gnomes](/content/species/sapient/gnomes) and [halflings](/content/species/sapient/halflings), standing no taller than half the height of an average [human](/content/species/sapient/humans). Their frames are thin and wiry, built for agility and navigation of narrow spaces rather than strength. The head is that of a rat, with a long pointed muzzle, large rounded ears, and sharp forward-facing eyes adapted to low light. The teeth are large and ever-growing, with prominent incisors used for gnawing, cutting, and working materials; murids must wear their teeth down through constant use, or they will grow too long and cause injury.
 
@@ -15,25 +15,25 @@ The murid body is superbly adapted to underground and marginal spaces. Their mov
 
 Murid senses are sharp and specialised. Their large ears are mobile and extraordinarily sensitive, detecting the faintest sound in the quiet of the underground, and their hearing is the keenest of any people in the high registers. Their vision is adapted to very low light, performing well in dim tunnels and cellars, though they are poorly suited to bright light and tend to avoid the open sun. Sense of smell is acute, and murids detect food, water, and approaching creatures by scent alone. Their sense of touch is highly developed, and their long hairless tails are sensitive organs of balance and sensation, used to navigate tight spaces and detect vibrations.
 
-## Life Cycle
+## Brief Life, Large Litters
 
 Murids live twenty to thirty-five years under favourable conditions, the shortest lifespan of any sapient people, and many do not reach old age owing to the harshness of their circumstances. They mature with extraordinary speed, reaching physical adulthood within three or four years of birth, and their decline in later years is rapid. Murid women carry their young for approximately four months before giving birth to litters of four to eight, the largest and most frequent litters of any sapient people, and a single murid community may produce several generations within a decade.
 
 Murid populations can increase with extraordinary rapidity when food is abundant and conditions favourable, and a small community may grow to many times its original size within a few years. This capacity for growth is balanced by a high mortality rate at all ages, as the marginal habitats murids occupy are dangerous and the food supply uncertain. Murid populations are subject to sharp fluctuations in response to changes in resource availability. The rapid turnover of generations has produced a people wholly oriented toward the present, for the individual murid has little time for long-term planning and even less for accumulation of knowledge beyond what is immediately useful.
 
-## Habitat and Distribution
+## Underground and Settlement Margins
 
 Murids are found in the underground and margins of settled communities across all three continents, the most widely distributed of the smaller peoples owing to their ability to live in spaces that other peoples overlook or abandon. In towns and cities of [Aethelar](/content/location/natural/continent/aethelar), murids inhabit cellars, sewers, and abandoned buildings of human settlements, finding shelter and food in the waste and surplus of larger peoples. In the underground of [Morvind](/content/location/natural/continent/morvind), murids share shallow tunnels with [kobolds](/content/species/sapient/kobolds), occupying margins of cave systems and spaces between [dwarven](/content/species/sapient/dwarves) workings. In [Sahrana](/content/location/natural/continent/sahrana), murids are found in ruins and refuse heaps of coastal cities, and in the walls and foundations of older buildings.
 
 Murid settlements are small and impermanent, established in whatever sheltered space is available, and a community may relocate at short notice in response to pressure from other peoples or changes in food availability. The [geography](/content/geography) of the murid habitat is defined not by the natural landscape but by the structures and activities of larger peoples, and murids are a people of the margins, living in the spaces between and beneath the settlements of others.
 
-## Diet
+## Everything Edible That Fits
 
 The murid diet is the most varied and least selective of any sapient people. Murids will eat almost anything that is organic and digestible, including grain, vegetables, meat, fish, insects, fungi, and the waste of other peoples. Their digestion is hardy and tolerant of spoilage and contamination. This willingness to eat anything is the foundation of the murid capacity for survival in the margins of settled territory, where the food supply is the surplus and refuse of larger peoples.
 
 Murids do not practise agriculture or husbandry of any kind, obtaining food entirely through foraging, scavenging, and occasional hunting of small animals. Their gnawing teeth allow access to food that other peoples cannot reach, as they chew through wood, cloth, and thin metal to reach stores within, and their small size allows entry to spaces where food has been left or discarded. The murid approach to food is entirely opportunistic, driven by the constant demand of a fast metabolism and a short life; a murid will eat whatever is available whenever it is hungry, which is nearly always.
 
-## Ecology
+## Scavengers of the In-Between
 
 Murids occupy the niche of a small-bodied opportunist and scavenger in the margins of settlements and underground spaces. Their impact on surroundings is modest in scale but pervasive, felt through consumption of stored food, gnawing of structures, and spreading of materials from one place to another. Murids are both a nuisance and an incidental benefit to the communities among whom they dwell, consuming waste that would otherwise accumulate and serving as a food source for predators and hunters of the underground.
 

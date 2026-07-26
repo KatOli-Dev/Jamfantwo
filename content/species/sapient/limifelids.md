@@ -3,13 +3,13 @@ layout: default
 title: Limifelids
 ---
 
-## Origins
+## Semi-Aquatic People of the Marsh
 
 Limifelids are a semi-aquatic people found in the wetlands, marshes, and river deltas of [Aethelar](/content/location/natural/continent/aethelar), with smaller populations in the coastal marshes of [Sahrana](/content/location/natural/continent/sahrana). Their bodies bear the unmistakable mark of a people shaped by the boundary between water and land, combining the soft, moist hide of a creature of the mud with the keen senses and agile form of a predator. Naturalists have proposed a kinship between limifelids and [kappa](/content/species/sapient/kappa) on the basis of shared amphibious habits and freshwater habitat, though limifelids lack the shell and dish-crown that define the kappa. Others have argued for a connection to [anurans](/content/species/sapient/anurans), pointing to the shared wetland environment and the permeable skin both peoples possess, but the limifelid body is proportioned for pursuit rather than ambush, and the comparison does not hold. A third line of thought suggests a distant relation to [felinids](/content/species/sapient/felinids), citing the cat-like features of the head and the predatory nature of both peoples, though the limifelid dependence on water sets them apart from any purely terrestrial species. Limifelid oral traditions speak of their having emerged from the mud of the first marsh, drawn forth by the meeting of fresh water and sunlight, and they regard the wetlands as their sacred charge.
 
 Limifelids have inhabited the wetlands of the known world for as long as any people can account for, and their presence in these waterlogged lands is recorded in the oldest human and elven records. They have coexisted with the [kappa](/content/species/sapient/kappa) of the Aethelaran river systems for centuries, and the relationship between the two amphibious peoples is one of mutual respect and clearly defined boundaries, each occupying a different portion of the wetland environment. In Sahrana, limifelids share the coastal marshes with [lacertians](/content/species/sapient/lacertians) and [naga](/content/species/sapient/naga), maintaining a cautious distance from the larger peoples of the swamp.
 
-## Anatomy and Physiology
+## Smooth Skin, Whiskers, and Webbed Limbs
 
 Limifelids are a small to medium people, standing no taller than waist-height to an average [human](/content/species/sapient/humans), with a long, flexible body that moves with a fluid, almost serpentine grace. Their body is built for life at the water's edge, combining the reach and flexibility of a creature of the mud with the strength and agility of a terrestrial predator. The skin is smooth, soft, and perpetually moist, covered in a thin layer of mucus that protects against infection, aids in the retention of moisture, and allows the limifelid to slip through tight spaces and evade the grasp of predators. The mucus has a faint, clean scent, and its practical applications are recognised beyond the limifelid communities, as it serves as a waterproofing agent, a mild antiseptic, and a binding medium for certain materials.
 
@@ -21,7 +21,7 @@ The skin is covered in patches of short, fine fur on the head, the upper back, a
 
 The limifelid body is not built for sustained effort on land, as their short limbs and flexible spine are better suited to the water than to long-distance travel over ground. They are swift and agile in short bursts, capable of surprising speed in pursuit or escape, but they tire quickly when forced to travel overland for extended periods. In the water, they are transformed: the limifelid swims with a powerful, undulating motion that carries them through the water with speed and grace, and they can remain submerged for many minutes at a time, their heartbeat slowing and their blood flow redirecting to conserve oxygen. Limifelids are among the most capable swimmers of the small peoples, and their comfort in the water is a defining characteristic of the species.
 
-## Life Cycle
+## Birth in Water and Slow Maturation
 
 Limifelids are moderately long-lived, with a typical lifespan of sixty to eighty years under favourable conditions, though many do not reach old age owing to the dangers of the marsh and the uncertainty of the food supply. They mature at a pace slightly faster than humans, reaching full stature by their early to mid-teens. Limifelid women carry their young for approximately six months before giving birth to a single infant, with twins being uncommon. The young are born in the water, emerging into the shallow, warm margins of the marsh where the parents have prepared a nest of reeds and soft mud.
 
@@ -31,7 +31,7 @@ Limifelid populations grow slowly, as births are infrequent and the mortality ra
 
 As limifelids age, their skin loses some of its elasticity and moisture, and the mucus production slows, requiring more frequent immersion to maintain comfort and health. An elder limifelid is wrinkled and paler than a younger one, with a rougher hide and a slower, more deliberate way of moving. Elders are respected for their knowledge of the marsh and its ways, and their counsel guides the decisions of the community, particularly in matters of water management, seasonal movement, and the settlement of disputes.
 
-## Habitat and Distribution
+## Reed Marshes and River Deltas
 
 Limifelids are found chiefly in the wetlands, marshes, and river deltas of [Aethelar](/content/location/natural/continent/aethelar), where the water is fresh or brackish and the vegetation is dense enough to provide cover and food. They favour the quiet, slow-moving waters of the lowland marshes, where the channels are shallow and the banks are soft and muddy, and they build their settlements in the sheltered backwaters that other peoples seldom visit. Their homes are structures woven from reeds and lashed to sturdy posts driven into the mud, raised above the water line on stilts, and connected by a network of walkways and bridges that the limifelids maintain as their principal infrastructure. A limifelid settlement is a place of water and woven plant matter, where the boundaries between dwelling and marsh are deliberately blurred and the water flows beneath every structure.
 
@@ -39,7 +39,7 @@ In Aethelar, the largest limifelid populations are found in the [Greywash Reed M
 
 Limifelids are absent from fast-flowing rivers, open coasts, and dry regions of all kinds, as their bodies require still or slow-moving water and the moist air of the marsh. They are also absent from cold regions, as their bare skin and dependence on water make them vulnerable to frost and freezing temperatures; the northern extent of their range is limited by the reach of winter ice, and they do not occur in the northern latitudes of [Morvind](/content/location/natural/continent/morvind) or the highlands of any continent. The [geography](/content/geography) of each wetland shapes the character of the limifelid community within it, and the limifelids of the broad, open reed marshes differ in habit and tradition from those of the narrow, shaded channels of the mangrove swamps.
 
-## Diet
+## Fishing, Foraging, and Marsh Cultivation
 
 The limifelid diet is dominated by fish, crustaceans, and molluscs taken from the waters of the marsh. Limifelids are patient and skilful fishermen, using a variety of techniques adapted to the different waters they inhabit: hand-netting in the shallow channels, traps set in the deeper pools, and the careful, still-handed art of catching fish by hand in the muddy margins of the marsh. Their webbed hands and sensitive fingers are well suited to this work, and a limifelid fisherman can locate and capture a fish in murky water by touch alone, a skill that requires years of practice to perfect.
 
@@ -49,7 +49,7 @@ Insects and small amphibians are eaten opportunistically, particularly by younge
 
 Limifelids preserve food through drying and smoking, preparing stores of dried fish and smoked meat that sustain the community through the lean seasons when the marsh yields less. They do not practise agriculture in the manner of the settled peoples, as their bodies and their settlements are not suited to the cultivation of dry-land crops, but their management of the marsh and its waters ensures a steady supply of food throughout the year. Water is obtained from the marsh itself, and limifelids are careful to maintain the quality of their water sources through management of channels and the removal of contaminants; a limifelid community is known for the cleanliness of its water, and travellers who visit the marsh settlements remark on the clarity and sweetness of the water drawn from their channels.
 
-## Ecology
+## Stewards of the Wetland Balance
 
 Limifelids occupy the niche of a small to medium semi-aquatic forager and predator in freshwater marsh and wetland ecosystems. Their impact on their surroundings is significant where they are present in numbers, as their fishing and foraging regulate the populations of fish, crustaceans, and water plants of the marsh, and their management of channels and water flow shapes the physical structure of the wetland itself. The limifelids and the wetland ecosystem exist in a balance maintained over centuries, each sustaining the other in a relationship that the limifelids regard as sacred.
 

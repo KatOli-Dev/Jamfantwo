@@ -3,13 +3,13 @@ layout: default
 title: Giants
 ---
 
-## Origins
+## The Greatest of the Sapient Peoples
 
 The origins of the giants are among the most debated questions in the natural history of the thinking peoples. The giant body is the largest and most powerful of any sapient species, and their numbers are so few and their habits so reclusive that reliable information is scarce. Naturalists have proposed a kinship with [trolls](/content/species/sapient/trolls) on the basis of great size, mountain habitat, and remarkable longevity shared by both peoples, though the giants are far larger and more specialised in their requirements. Others have argued for a connection to [goliaths](/content/species/sapient/goliaths), pointing to the high-altitude range and adaptation to thin air that both display, but the giants are too different in scale and form for the comparison to be sustained. Giant oral traditions are known to other peoples only through the rarest of encounters, and these traditions speak of a time when the giants were more numerous and the world was younger, though the reliability of such accounts cannot be assessed.
 
 Giants are generally accepted to be an ancient people, and their lineage may be the oldest of any sapient species, as their bodies show a degree of specialisation that suggests a very long period of adaptation to their environment. The fossil record offers little clarity, for giant remains are seldom found in conditions that allow confident identification, and the few bones that have been recovered are so large that they have been mistaken for geological formations.
 
-## Anatomy and Physiology
+## Enormous Frame and Tremendous Strength
 
 Giants are the largest of the sapient peoples, standing twice the height of a [troll](/content/species/sapient/trolls) and more than three times the height of a [human](/content/species/sapient/humans), with a massive and broadly built frame. Their bones are extraordinarily thick and dense, capable of supporting the enormous weight of the giant body, and their musculature is vast, granting them a strength beyond the capacity of any other people to match or resist. A giant can move boulders that would require a team of [dwarves](/content/species/sapient/dwarves) to shift, and the force a giant can bring to bear in a single effort is sufficient to reshape the landscape.
 
@@ -17,25 +17,25 @@ The giant body is built for endurance and stability rather than speed, as the gr
 
 Giant skin is thick and tough, ranging from weathered grey to dark brown, adapted to the intense cold and ultraviolet light of high-altitude environments. Their hair is coarse and thick, worn long and unbound, providing additional insulation against the cold. Giant senses are adequate, though not exceptional relative to their size. Their eyes are large and set forward, granting good binocular vision and excellent distance sight suited to the open vistas of the high peaks and remote valleys where they dwell. Their hearing is competent, and their sense of smell is moderate. The giant body is not specialised by sense but by sheer scale and resilience.
 
-## Life Cycle
+## Centuries of Slow Maturation
 
 Giants are the longest-lived of the sapient peoples, with a lifespan estimated at three hundred to five hundred years, though reliable data are almost impossible to obtain as the giants are so few and reclusive that no naturalist has been able to study their life cycle in detail. They grow to maturity very slowly, not reaching full size and strength until their fiftieth or sixtieth year, and they remain vigorous for centuries. Giant women carry their young for approximately two years before giving birth, and births are invariably single. The infant is enormous and well-developed, capable of walking within days, though it requires many decades of care before fully independent.
 
 Giant populations are so small that the birth of a single infant is a significant event for the entire species, and population growth is negligible over any period shorter than a century. The extreme longevity of giants and very low rate of death among adults mean that the population remains roughly stable despite the infrequency of births, as a giant that has reached maturity has no natural predators and is resistant to disease and environmental hardship. The small number of giants and the vast distances between them mean encounters between potential mates are rare, and the reproductive rate is limited as much by geography as by biology.
 
-## Habitat and Distribution
+## Remote High Valleys and Hidden Plateaus
 
 Giants are found in the most remote mountains of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind), in the highest and most inaccessible ranges, where the terrain is too extreme for any other people to settle. They favour the high valleys, remote plateaus, and hidden basins that lie between the highest peaks, where the land is open, the views are vast, and the approaches are so difficult that no other sapient people can reach them. The geography of each range determines the distribution of the giants, and they are found only where the mountains are tall and remote enough to provide the solitude their way of life demands.
 
 In Aethelar, giants are found in the highest reaches of the mountain spine, above the [goliaths](/content/species/sapient/goliaths) and the [trolls](/content/species/sapient/trolls), in the most remote and least accessible portions of the range. In Morvind, they inhabit the deepest interior, in hidden valleys and high plateaus beyond the reach of [dwarven](/content/species/sapient/dwarves) halls and human coastal settlements. Giants are absent from lowlands, forests, and coasts, as their great size requires the open ground and solitude of the highest mountains, and they are uncomfortable in the warm, dense air of the low country.
 
-## Diet
+## Massive Appetite, Scarce Resources
 
 The giant diet is dominated by what the high mountains can provide. Giants are opportunistic omnivores who make use of whatever the remote valleys and high plateaus offer. The staple is meat, provided by hunting the large mammals that share the high mountains, including great elk, mountain cattle, and bears of the upper forests. A single giant consumes an enormous quantity of food, and the hunting range of a giant is correspondingly vast, encompassing many square miles of mountain and valley.
 
 Plant foods are gathered from alpine meadows and high valleys, including roots, berries, and hardy vegetables that grow in the thin soil of the uplands. Giants do not practise agriculture, as the growing season at their altitudes is too short and the terrain too steep for cultivation, and they rely entirely on what the high country provides. Their metabolism is slow and efficient, suited to the sparse and intermittent food supply of the mountain environment, and a giant can sustain long periods of fasting between successful hunts, drawing on the reserves of a body built to endure.
 
-## Ecology
+## Solitary Force in Mountain Ecosystems
 
 Giants occupy the niche of an enormous, solitary omnivore in remote mountain ecosystems. Their impact on their surroundings is considerable in the immediate vicinity of their dwelling, as a giant consumes a great deal and alters the landscape through the sheer scale of its movements and activities, but the overall effect on the ecology of the mountains is modest, as their numbers are so few and their range so vast that the giant presence is barely detectable beyond the immediate area of habitation.
 

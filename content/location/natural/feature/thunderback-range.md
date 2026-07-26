@@ -3,13 +3,13 @@ layout: default
 title: Thunderback Range
 ---
 
-## Overview
+## Young and Restless Spine of Stormfall
 
 The Thunderback Range is the long mountain chain traversing the interior of [Stormfall](/content/location/natural/continent/stormfall) from the northeastern coast to the southwest, a young and restless range whose central peaks retain their snow through the warm season and whose southern valleys still tremble with the earthquakes marking the continuing growth of the highland. The range is the watershed of the continent, dividing the rivers descending to the eastern bays from those flowing toward the western interior. The Thunderback is to [Stormfall](/content/location/natural/continent/stormfall) what the [Crown Range](/content/location/natural/feature/crown-range) is to [Thessara](/content/location/natural/continent/thessara), with the important difference that the Thunderback is younger and far more active. The mountains of [Morvind](/content/location/natural/continent/morvind) to the north have been worn by countless ages into rounded summits and gentle slopes, but the Thunderback still rises, still shakes, and still alters the courses of its rivers with every strong season.
 
 The range takes its name from the storms that fall from its central peaks, for the storms of [Stormfall](/content/location/natural/continent/stormfall) descend through the valleys as though poured from a bowl, and the thunder of the falling weather is the most constant sound of the highland summer. The name is used by the highland communities and by foreign pilots alike, and the mountain councils of the interior have accepted it as the formal designation of the range. The name Thunderback is sometimes confused in foreign accounts with the older ranges of the colder continents, but the range is wholly distinct in its youth and restless character.
 
-## Ridges and Valleys
+## Sharp Summits, Ash-Rich Valleys, and the Southern Quakes
 
 The central peaks of the Thunderback Range rise high enough to retain snow through the warm season, and the snowfields feed the rivers descending to both coasts. The summits are bare and wind-scoured, and the rock is the dark stone of a young range, sharp and untamed. The lower ridges are covered in forest and open grass, and the valleys between the ridges are deep and narrow, cut by the rivers and glaciers descending from the upper snowfields. The valleys of the central section are among the most difficult in the known world to traverse, for the slopes are steep, the rivers are swift, and the only level ground is found in the occasional basin where water has gathered long enough to lay down a thin soil.
 
@@ -17,7 +17,7 @@ The southern valleys of the range are the most active in their geology, for the 
 
 The contrast between the Thunderback and the worn ranges of [Morvind](/content/location/natural/continent/morvind) is one of the most striking features of the geography of the northern continents. The Morvind ranges have been rounded by countless ages of frost and weather, their slopes gentle and their valleys broad. The Thunderback, by contrast, is still sharp and still growing, its slopes steep and its valleys narrow. The difference is the difference between an elder and a youth, and the two ranges together present a measure of the span of a mountain's life that the student of the world can read at a glance.
 
-## The Eastern Slope
+## Steep Wet East and the Fertile Fans
 
 The eastern side of the Thunderback Range is steep and wet, for the prevailing weather of [Stormfall](/content/location/natural/continent/stormfall) drives the rains against the eastern face, and the rivers descending from the highland snows are full through most of the year. The rivers cut through the dark stone in narrow gorges, opening at the coast into broad bays and estuaries sheltered by the headlands. The eastern slope is the most densely settled of the range, for the floodwater descending from the mountains each year leaves a layer of dark silt upon the fields, and the soil is among the most fertile in the known world. The harvest of the eastern valleys is consistently heavier than the harvest of any other region of the continent, and the abundance has supported a settled population of considerable size since the earliest records.
 
@@ -25,7 +25,7 @@ The largest agricultural settlements of [Stormfall](/content/location/natural/co
 
 The forests of the eastern slope are dense and varied, and the lower valleys are the home of the [elves](/content/species/sapient/elves) who inhabit the older woodlands and the high valleys where the streams remain cool throughout the summer. The elven settlements are small and widely spaced, and their forest management favours mixed stands rather than a single useful tree, for the elven principle is to take without diminishing the woodland. The elven presence upon the eastern slope is among the most ancient in [Stormfall](/content/location/natural/continent/stormfall), and the elves of the range are held in particular respect by the highland communities for their knowledge of the weather and the water.
 
-## The Western Slope
+## Dry West, the Orc Routes, and the Goliath Guides
 
 The western side of the Thunderback Range is drier than the eastern, for the rains have already fallen upon the eastern face, and the air descending to the west is comparatively warm and dry. The western rivers are shorter and less reliable, flowing through interior basins covered by grass, thorn scrub, and seasonal streams. The harvest of the western valleys is more variable than that of the eastern, and the communities of the western slope have developed a body of customary knowledge governing the use of limited water and the protection of grazing grounds. The western slope is less densely settled than the eastern, but the communities dwelling there are self-reliant and resilient, and the western slope has produced some of the most accomplished horse-breeders and herders in the known world.
 
@@ -33,7 +33,7 @@ The interior basins of the western slope are the home of the [orcs](/content/spe
 
 The high valleys of the western slope are the domain of the [goliaths](/content/species/sapient/goliaths), whose presence in the highest reaches of the range is the most distinctive feature of the highland. The goliaths inhabit the upper valleys and the ridges above the snowline, where the air is thin and the cold is intense, and their knowledge of snow bridges, cliff paths, and mountain weather makes them indispensable guides for any traveller crossing the high country. The goliaths are the most reliable of the highland guides, and no other people of the range can match their knowledge of the snow and the storm.
 
-## The Weather of the Range
+## The Storms That Pour from the Bowl
 
 The weather of the Thunderback Range is the most distinctive feature of the highland, and the mountains create their own weather in a manner that no other range quite matches. Cold winds descend from the northern ocean, warm air arrives from the southern seas, and the mountain valleys funnel both toward the eastern coast. Their meeting produces sudden storms that may begin beneath clear skies, and the storms of [Stormfall](/content/location/natural/continent/stormfall) descend through the valleys as though poured from a bowl, striking the sea and the lowland with little warning. Cloud gathers along the ridge, thunder rolls through the passes, and rain reaches the low country before distant villages have seen the first lightning.
 
@@ -41,6 +41,6 @@ The storms are most frequent in the late summer and autumn, when the southern se
 
 The refuge halls of the highland are the most visible sign of the care that the communities take against the weather. They are maintained at the highest points of the principal passes, stocked with dried meat, peat, and spare timber for travellers caught by the weather. The halls are administered by the highland wardens, who keep the roads clear of snow during the weeks when the crossings are open and maintain the warning fires that signal the approach of the worst storms. The loss of a refuge hall is a disaster for the communities on both sides of the range, and the maintenance of the halls is a duty not neglected in any season.
 
-## Significance
+## Restless Backbone of Stormfall
 
 The Thunderback Range is the spine and watershed of [Stormfall](/content/location/natural/continent/stormfall), and its restless ridges, fertile valleys, stormy weather, and young mountains are the inheritance that the continent has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of metal and a foundation of the customary law governing the use of the springs, passes, and grazing grounds. The prosperity of the continent is bound up with the health of the range, and the maintenance of the terraces, forests, rivers, and refuge halls is a duty shared by every people whose lands depend upon the water and stone that the highland provides. The Thunderback endures as the restless backbone of [Stormfall](/content/location/natural/continent/stormfall) and as the inheritance of those whose work and life are bound up with the young mountains of the western continent.

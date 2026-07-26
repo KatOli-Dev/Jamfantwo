@@ -3,11 +3,11 @@ layout: default
 title: Sera Ambervale
 ---
 
-## Overview
+## The Unifier of the Central Lowlands
 
 Sera Ambervale is the most celebrated ruler of the central kingdoms of [Aethelar](/content/location/natural/continent/aethelar), the sovereign who united the warring principalities of the interior river valleys under a single crown and established the [Vael](/content/government/national/vael) as a stable and prosperous realm that has endured for more than six centuries. Her name is recorded in the chronicles of every nation of the continent, and her reign is remembered as a golden age of law, commerce, and learning in the regions her authority encompassed. The accounts of Sera's life are among the most extensively documented of any figure of the ancient age, for the royal archives of the Vael preserve the records of her reign in unusual detail, and the chroniclers of neighbouring realms corroborated the main events of her life with independent testimony.
 
-## Rise to Power
+## From Minor Lord to Conquering Queen
 
 Sera was born in the year of the founding of the city of [Eldreth](/content/location/settlement/city/eldreth), though the precise date is debated among scholars who have studied the early records of the Vaelic dynasty. Her father was a minor lord of the [Amber Vale](/content/location/settlement/region/amber-vale), a fertile region of the central river valley contested by the larger kingdoms that surrounded it. Her childhood was spent in the fortified manor that commanded the crossing of the principal river of the region. The Amber Vale was so named for the colour of the wheat that ripened in its fields in late summer and was the richest agricultural district of the central lowlands, producing grain exported to the cities of the coast and highlands alike.
 
@@ -17,7 +17,7 @@ Sera's father was killed in a raid by a neighbouring lord when she was sixteen y
 
 The first campaign of Sera's military career was the punishment of the lord who had killed her father. She led the forces of the Vale in a winter campaign that caught the neighbouring kingdom unprepared, resulting in the capture of the lord and the annexation of his territory to the Amber Vale. The speed and decisiveness of the campaign established Sera's reputation as a military commander, and the lords of the surrounding valleys began to send emissaries to negotiate alliances with the rising power of the central lowlands.
 
-## Reign
+## Forty-Seven Years of Expansion and Institution-Building
 
 Sera's reign is dated from the year of her coronation in the hall of the Amber Vale. It extended over forty-seven years, during which the territory under her authority expanded from a single river valley to a kingdom stretching from the western foothills to the eastern lowlands and the Auric coast. The process of unification was achieved through a combination of military conquest, diplomatic marriage, and negotiation of treaties that granted conquered principalities a measure of autonomy within the framework of the new kingdom.
 
@@ -29,7 +29,7 @@ The diplomatic achievements of Sera's reign were equal to her military and admin
 
 The court that Sera established at Vaelmouth was the most refined of its age. Poets, scholars, and artisans of every region of the continent were drawn to the city by the reputation of the queen's patronage. The queen herself was a scholar of considerable attainments, fluent in the languages of neighbouring kingdoms and knowledgeable in the history and customs of the peoples over whom she ruled. She maintained correspondence with scholars of the [Amurra Republic](/content/government/national/amurra-republic) and the [Auric Isles](/content/government/national/auric-isles), and she received emissaries from the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the [Thessaran League](/content/government/national/thessaran-league) at her court.
 
-## Legacy
+## The Vael as Her Enduring Monument
 
 The legacy of Sera Ambervale is the Vael itself, the most stable and prosperous of the central kingdoms of Aethelar. The institutions she established have endured through the centuries that followed her death. The code of law she instituted remains the foundation of the legal system of the kingdom, and the system of royal governors she created has been maintained by her successors, adapted to the changing circumstances of the age but recognisably the same in its essential structure.
 

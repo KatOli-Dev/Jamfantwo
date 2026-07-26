@@ -3,11 +3,11 @@ layout: default
 title: Amurra Republic
 ---
 
-## Overview
+## City-State of the Spice Trade
 
 The [Amurra](/content/location/settlement/city/amurra) Republic is the political entity that governs the wealthy port city-state of Amurra, the centre of the spice trade on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The republic is not a monarchy but a merchant-led government based on commercial representation and the shared interests of the spice traders who are the foundation of the city's wealth. The Amurra Republic is one of the most prosperous and influential political entities in Sahrana, and its control of the spice trade gives it commercial power disproportionate to its modest size.
 
-## The Republic and Governance
+## Merchant Council and Civic Administration
 
 The Amurra Republic is governed by a council of merchants elected from the spice-trading families of the city. The council meets in the council hall near the harbour, and its decisions are made by vote. The council oversees the administration of the city, the regulation of the spice trade, the maintenance of the harbour and caravan routes, and the administration of justice. Its decisions are binding on all inhabitants of the city. The council consists of twelve members, each elected by the spice-trading families for a term of five years. Elections are held in the council hall with the participation of the heads of all eligible trading families. The republic is more elective than the northern monarchies yet more restrictive than the popular confederations: the franchise is limited to the merchant families, and no labourer, craftsman, or foreign resident may vote or stand for election.
 
@@ -15,19 +15,19 @@ The governance of the republic is based on commercial representation, and offici
 
 The republic maintains a system of courts responsible for the administration of justice. Judges are appointed by the council from among the senior merchants and legal scholars of the city. The courts handle disputes arising from the spice trade, commercial conflicts between trading families, and ordinary civil and criminal matters. The legal system is noted for its fairness and efficiency, and the reputation of the Amurra courts contributes to the confidence that merchants of the wider world place in the trade of the city.
 
-## The Spice Trade and Economy
+## Spices as the Foundation of Wealth
 
 The spice trade is the foundation of the Amurra Republic's economy. The caravans that bring spices from the foothills and upland valleys of the Sahrani interior are the lifeline of the city, and the republic's regulation of the caravan trade is a critical function of its governance. The spices are loaded onto vessels at the harbour for transport to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind), and the return cargo includes the grain, iron, and manufactured goods that the city needs.
 
 The wealth that accumulates in the treasury is used to fund the maintenance of the harbour, caravan routes, and fortifications. The republic's investment in the infrastructure of the spice trade is a significant component of its governance. Amurra is a member of the [Northern Coast League](/content/government/national/northern-coast-league), the alliance of the Sahrani coastal city-states, and its spice trade is a valued component of the league's commerce.
 
-## People and Defence
+## Citizens, Guard, and Caravan Protection
 
 The population of Amurra is chiefly [human](/content/species/sapient/humans), consisting of merchants, traders, and craftsmen who serve the spice trade. The [salawa](/content/species/sapient/salawa) of the desert are occasional visitors to the city, and trade between the coastal humans and the desert salawa is a minor but valued part of the republic's commerce. The salawa bring the goods of the deep desert, including rare minerals and salt, and trade them for spices and manufactured goods. The defence of the city is maintained by a standing force funded by the treasury. The fortifications of Amurra are kept in good order. The garrison consists of professional soldiers recruited from the citizens of the republic, and the commander of the garrison is appointed by the council and is responsible for the defence of the harbour, walls, and caravan routes.
 
 The caravan routes that connect Amurra to the interior are protected by a force of guards maintained by the republic. The guards escort the caravans that carry spices from the foothills and upland valleys to the harbour. The routes pass through country between the coast and the interior, and the guards are necessary to deter bandits and raiders who pose an occasional threat to the caravans. The guards are mounted on horses bred for the purpose and are armed with bows and lances suited to defence of a caravan in open country.
 
-## Significance
+## Commercial Authority Beyond Its Borders
 
 The Amurra Republic is the centre of the spice trade and one of the wealthiest political entities in Sahrana. Its control of the most valuable single commerce in the known world gives it significance disproportionate to its modest size. The republic's merchant-led governance is a model of the political order that has sustained the Sahrani city-states, and its regulation of the spice trade ensures the quality and reliability of the most valued product of the Sahrani coast. The spices that pass through the harbour of Amurra are the foundation of culinary and medicinal traditions across every continent, and the republic's role in the spice trade ensures that its influence extends far beyond the borders of the city.
 

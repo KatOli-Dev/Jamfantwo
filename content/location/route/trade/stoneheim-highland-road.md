@@ -3,11 +3,11 @@ layout: default
 title: Stoneheim Highland Road
 ---
 
-## Overview
+## From the Mountain Halls to the Stormfall Ports
 
 The [Stoneheim](/content/location/settlement/city/stoneheim) Highland Road is the principal overland route between the central halls of Stoneheim and the coastal markets of [Morvind](/content/location/natural/continent/morvind), descending from the mountain interior through high valleys and broken foothills before reaching the harbours of the [Stormfall](/content/location/natural/continent/stormfall) shore. The road is a chain of engineered tracks following ridges, stream terraces, and shelves of sound rock wherever the mountains allow. It carries the forged iron, steel, tools, weapons, and worked stone of the [Stoneheim Holds](/content/government/national/stoneheim-holds) outward, while grain, salt, cloth, timber, and coastal goods travel inward to the dwarven halls. Its traffic is most abundant during the open season, yet the road remains important in winter because the stores gathered along it determine whether the highland communities pass the dark months in comfort or scarcity. The eastern branch reaches [Khazgar](/content/location/settlement/city/khazgar) and the iron workings of the lesser holds, while the western branch joins the routes descending toward [Veldenwatch](/content/location/settlement/town/veldenwatch) and the strait trade.
 
-## The Highland Course
+## Eastern Escarpment and the High Shelves
 
 The road begins beneath the eastern escarpment of Stoneheim, where the last broad galleries of the city open toward a stone-paved approach cut into the mountain face. Dwarven engineers maintain the first miles with particular care, setting retaining walls against the slopes and carving drains beside the wheel tracks. The air remains cool and dry near the city, and the road passes through a succession of gatehouses recording the departure of ore trains and arrival of supply caravans. These gates mark the boundary between the protected halls and the exposed road, allowing wardens to account for every convoy before it enters the high country.
 
@@ -15,20 +15,20 @@ Beyond the maintained approaches, the road climbs through valleys where slopes a
 
 The central course passes near [Ironhollow](/content/location/settlement/town/ironhollow), whose furnaces supply much of the raw iron used in Stoneheim forges. A branch road connects the ore yards to the main road, and convoys often divide there according to weight and urgency of cargo. Raw ore moves in heavy wagons drawn by teams of broad-backed mountain beasts, while finished metalwork travels in smaller, better-guarded carts.
 
-## Stations and Road Custom
+## Stoneheim Pick and the Caravan Customs
 
 The principal refuge on the upper road is [Stoneheim Pick](/content/location/settlement/outpost/stoneheim-pick), a small inhabited station at a shoulder of dark rock where several highland branches meet. The outpost provides fodder, lamp oil, rope, and covered space for repair of harness and wheels. Its storehouses hold a reserve of grain and salt maintained by the holds. Road custom requires a caravan master to declare the nature of a load at the first gatehouse and present the same account at principal stations. The practice is less a matter of taxation than of safety, since wardens need to know which wagons carry unstable ore, volatile furnace materials, or goods requiring shelter from snow. The Stoneheim Holds levy a measured road contribution spent on bridges, retaining walls, beacon stores, and wages of wardens.
 
 Caravans usually travel in groups of six to twenty wagons, joined by pack trains from smaller holds. The larger convoys carry their own smiths and masons, while small companies rely upon station workers and the hospitality of highland communities. Dwarven route keepers walk ahead with measuring rods and hammers, testing the road surface and edges of bridges.
 
-## Goods and Exchange
+## Steel Bars, Grain, and the Mountain Dependencies
 
 The outward trade begins in the mines and forges. Bars of iron and steel are packed in straw and sealed against moisture, while finished blades, fittings, and tools are wrapped in oiled cloth. Stoneheim also sends engraved plates, hinges, cooking vessels, chain, and durable hardware used in construction of halls and fortifications. Merchant houses maintain marked wagons for the most valuable loads. The return traffic is more varied and less conspicuous: grain from river valleys forms the largest portion, followed by salt from the shore, wool and woven cloth, and timber for beams and pit supports. The mountain holds need little imported metal but depend upon coastal shipwrights for tar, rope, sailcloth, and hardwoods that do not grow above the tree line.
 
-## Hazards and Protection
+## Rockfalls and the Patrols
 
 The road's chief hazards arise from the mountain rather than from hostile travellers. Rockfalls follow thawing weather, avalanches descend from slopes that appear stable in the morning, and streams can destroy a bridge within an hour of heavy rain. The wardens maintain signal poles at exposed bends, and each refuge station keeps iron bells whose patterns distinguish a blocked road from a request for military aid. During summer, crews work continuously to clear debris and reinforce shelves. Banditry is uncommon on the central road because the holds patrol it closely, but the greater danger comes from creatures and raiders of the remote uplands who test the outer branches when garrisons are thin. Convoys place the most valuable wagons in the centre and keep armed guards at front and rear.
 
-## History and Significance
+## Commercial Artery and Civic Work
 
 The first sections of the Stoneheim Highland Road were little more than mule tracks between old mine entrances. As the holds expanded, the need to move ore in greater quantity led to retaining walls, drainage channels, and permanent bridges. The work was carried out by several holds under the direction of Stoneheim engineers, and the agreements governing labour and tolls became an early foundation of the present realm. The road has also served as a diplomatic path, with councillors, inspectors, smiths, and envoys travelling it between the holds. The connection to the Stormfall ports gives the dwarven realm influence beyond the mountains, while supplies moving inward prevent highland communities from becoming isolated enclaves. The Stoneheim Highland Road is both a commercial artery and a civic work, its bridges and walls expressing the practical strength of the holds.

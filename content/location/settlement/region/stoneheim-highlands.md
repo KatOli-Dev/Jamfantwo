@@ -3,30 +3,30 @@ layout: default
 title: Stoneheim Highlands
 ---
 
-## Overview
+## The Upper Ranges and the Workshop of the Dwarven People
 
 The [Stoneheim](/content/location/settlement/city/stoneheim) Highlands are the upper ranges and high valleys of the interior of [Morvind](/content/location/natural/continent/morvind), the great belt of mountain country rising above the river valleys and dominated by the [Stoneheim Holds](/content/government/national/stoneheim-holds), the greatest [dwarven](/content/species/sapient/dwarves) realm in the known world. The highlands take their name from the capital, [Stoneheim](/content/location/settlement/city/stoneheim), whose halls are carved into the heart of the range, and the name is used by the chroniclers of both the dwarven and the human world to describe the country that surrounds the great city. The highlands are the workshop of the dwarven people, and the metals and stone emerging from their mines are the foundation of the wealth and reputation of Morvind.
 
 The Stoneheim Highlands are not a single jurisdiction but a mosaic of territories held by the individual holds and clans making up the Stoneheim Holds. The realm is governed from the great hall of Stoneheim, but each hold retains its own affairs and traditions, and the highland territory is divided among the great families, guilds, and clan communities whose names are recorded in the inscriptions of the halls.
 
-## Geography and Climate
+## Broken Tiers, Coniferous Forests, and the Demanding Climate
 
 The highlands extend across the interior of [Morvind](/content/location/natural/continent/morvind) from the approaches to the [Velden Strait](/content/location/natural/feature/strait-of-velden) on the southeast to the gates of the [Frostwall Clans](/content/government/national/frostwall-clans) on the far interior. The ranges rise in broken tiers from the river valleys, their slopes clothed in coniferous forest thinning toward the summits and giving way to bare rock and scree. Between the peaks lie sheltered plateaus where alpine grasses flourish during the brief summer, and rivers descending from the heights carve deep gorges through rock before reaching the lowlands. The climate is among the most demanding in the known world. Winter holds the ranges for most of the year, with snow lying deep upon higher slopes long after valleys have begun to thaw. Summers are short and vivid, releasing torrents of meltwater. The rivers rising in the highlands are the principal source of water for the continent, their flow constant through the summer months when snow is melting on the peaks. The valleys below the tree line are forested with pine and spruce.
 
-## Settlements and Population
+## Stoneheim, Khazgar, and the Surface Settlements
 
 The underground cities and mine workings are the principal homes of the dwarven population, with the halls of [Stoneheim](/content/location/settlement/city/stoneheim) and [Khazgar](/content/location/settlement/city/khazgar) the largest. Stoneheim is the capital, its chambers and passages extending for many miles into the mountain. Khazgar is the second city, renowned for the quality of its metalwork. Individual holds are smaller communities scattered across the highlands, each with its own mine, forge, and council of elders. The surface settlements are smaller, serving as gathering points for trade and seasonal activities. [Ironhollow](/content/location/settlement/town/ironhollow) is the principal surface settlement of the eastern ranges, the primary source of iron feeding the forges of the realm. The population is overwhelmingly [dwarven](/content/species/sapient/dwarves), with a small number of [humans](/content/species/sapient/humans) involved in trade and route management. A few [gnomes](/content/species/sapient/gnomes) are drawn by the craftsmanship of the dwarven smiths.
 
-## Mining and Metalwork
+## The Ore Veins, Forges, and Caravans to the Coast
 
 The mineral wealth of the highlands is the foundation of the prosperity of the Stoneheim Holds. Ore extracted from the mines includes iron, copper, tin, silver, gold, and rarer metals found only in the deepest veins of the range. The mining operations are the most extensive of any political entity in the known world, with tunnels wide enough for ore carts and ventilated by shafts driven through rock to the surface. The deepest mines follow the veins as they descend into the mountain, and the miners who work them are among the most skilled in the dwarven world. The ventilation shafts that connect the workings to the surface are works of engineering in their own right, and the air that passes through them is sufficient to support the thousands of workers who labour in the depths.
 
 The metalwork produced in the highland forges is the finest in the known world. The weapons, tools, and decorative objects bearing the marks of the highland forges are exported to every continent. The great forges of Stoneheim are devoted to smelting ore and producing bulk metals, while lesser forges produce finer work. The trade connecting the highlands to the world is managed through overland routes descending to the coast, with caravans carrying metalwork to the ports of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and returning with grain, wool, and cloth.
 
-## Life in the Highlands
+## Below Ground, Ventilation Shafts, and the Festival of Opening
 
 Most of the population lives below ground, where chambers retain constant temperature and remain secure during storms. Ventilation shafts driven to the surface provide fresh air, and the lanterns of the forges illuminate the interior. The opening of the highland passes is the central event of the year. Mining crews repair tools and lamps, smiths replenish stocks of metal and charcoal, and caravan masters organise companies for the journey to the coast. Marriages, apprenticeships, and the settlement of long disputes are arranged in the same brief season because travel between distant communities is impossible once snow returns. When the council declares the passes safe, the activity of the realm intensifies, and the highland roads are filled with the traffic of the trading season. The highland festivals that follow are modest but deeply felt, with gatherings at the great hall of Stoneheim where the king presides and the council of hold-elders convenes.
 
-## Significance
+## The Heart of Dwarven Civilisation in Morvind
 
 The Stoneheim Highlands are the heart of dwarven civilisation in [Morvind](/content/location/natural/continent/morvind). The mineral wealth and craftsmanship of the region are the foundation of the economy and reputation of the continent. The halls carved into the mountains are among the most magnificent works of any age, and the forges burning within them are the source of objects that have shaped the history of the known world. The highland dwarves have endured through centuries of challenge, maintaining their traditions and skills against every difficulty, and the Stoneheim Highlands remain a symbol of the dwarven capacity to impose order upon the mountain landscape and to extract from it the wealth that sustains their civilisation and connects the deep halls to the markets of the wider world.

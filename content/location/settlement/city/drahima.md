@@ -3,11 +3,11 @@ layout: default
 title: Drahima
 ---
 
-## Overview
+## City of Dye Works and Vivid Colours
 
 Drahima is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana) renowned throughout the known world for its dye works and the vivid colours produced in its workshops. The city stands on a broad, open bay where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast. Its position near the sources of dye-producing plants in the interior foothills has made it the primary centre of the dye trade in Sahrana. Drahima is a prosperous, industrious city whose wealth is built upon the production and export of dyes that are among the most valued products of the [Sahrani](/content/language/spoken/sahrani) coast.
 
-## The Dye Works
+## Indigo, Madder, and the Secrets of Drahima Blue
 
 The dye works of Drahima are the most extensive and productive in the known world. The dyes produced in the city's workshops are prized for their colour, durability, and variety. The dyes are derived from plants that grow in the foothills and upland valleys of the Sahrani interior, including indigo, madder, and other dye-producing plants cultivated in the region. Drahima's dye works are the primary processing centre for these materials. The process of dye production is complex and labour-intensive, involving the cultivation and harvesting of the plants, the extraction and preparation of the dye, and the fixing and finishing of dyed materials. The workers of Drahima are skilled in every stage of the process. The dyers are organised into guilds that regulate the training of apprentices, the standards of work, and the quality of products, and the guilds are among the most influential institutions in the city.
 
@@ -15,16 +15,16 @@ The dyes produced in Drahima are exported to every continent. The dyed cloth and
 
 The dye works are situated in the industrial quarter south of the main residential district. The quarter is a district of vats, drying frames, and workshops where the dye is prepared and applied. The air in the industrial quarter is thick with the smell of the dye and the mordants used to fix the colours, and the runoff from the workshops gives the streams flowing through the quarter a vivid and ever-changing hue. The dyers who work in the quarter are identifiable by the stains on their hands and clothing, as the dye penetrates every surface it touches, and the workers take a certain pride in the marks of their trade. The quarter is organised by colour, with the indigo works concentrated along the eastern stream, the madder works along the western stream, and the mixing workshops occupying the central area where master dyers create the blended shades for which the city is also known.
 
-## The Harbour and the Trade
+## The Bay and the Northern Cloth Trade
 
 The harbour of Drahima is a broad, open bay sheltered by a headland extending from the southern end of the city. Lighthouses visible for many miles along the coast mark the approach. The quays line the inner shore of the bay, and the warehouses along the waterfront hold the dyes and dyed materials that are the city's primary export. The trade flowing through the harbour is dominated by the export of dyes and the import of raw materials and goods the city needs, including cloth brought from the northern continents to be dyed in Drahima's workshops. Northern merchants often send undyed woollen and linen cloth to Drahima for processing, as the finished product commands a much higher price than cloth dyed in the north.
 
-## The City
+## Vats, Drying Frames, and the Guild Council
 
 Drahima is a substantial, well-built city whose architecture reflects the industrious character of the community. Buildings of light-coloured stone, broad streets, and workshops and warehouses form the centre of the city's industry. The dye works are the dominant feature, and the vats and drying frames along the waterfront and in the industrial quarters create a vivid and distinctive sight, as the colours of the dyes permeate the streets and buildings, giving the city a brightness unlike any other in the known world. The population is chiefly [human](/content/species/sapient/humans), with a small community of traders and merchants from the northern continents. The counting houses representing northern merchant interests are situated along the harbour, where agents oversee the purchase and shipment of goods.
 
 The governance of Drahima is managed by a council of guild masters and senior merchants. The council regulates the production and trade of dyes, the maintenance of the harbour, and the administration of the city. The council is concerned chiefly with preserving the standards that have made the dyes of Drahima the most valued in the known world, and regulations governing the quality of production are strictly enforced. The city is a member of the [Northern Coast League](/content/government/national/northern-coast-league), and the representatives of Drahima are among the most respected voices in the councils of the league, as the dye trade is a vital component of the commerce of the Sahrani coast.
 
-## Significance
+## Most Valued Dyes in the Known World
 
 Drahima is the primary centre of the dye trade in Sahrana, and its dyes are among the most valued products of the Sahrani coast. The city is a member of the [Northern Coast League](/content/government/national/northern-coast-league), and its dye production is a significant component of the economy of the Sahrani coast and the continent as a whole. The significance of Drahima lies in its dye works and the quality of its dyes, which are unmatched by any other city in the known world. The dyes of Drahima are traded in every market of consequence, and garments coloured with 'Drahima blue' are recognised as markers of wealth and refinement throughout the civilised world.

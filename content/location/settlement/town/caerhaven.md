@@ -3,11 +3,11 @@ layout: default
 title: Caerhaven
 ---
 
-## Overview
+## The Easternmost Aethelaran Settlement of the Strait
 
 Caerhaven is an Aethelaran-side town of the [Velden Strait](/content/location/natural/feature/strait-of-velden), situated on the southern shore of the strait east of [Southport](/content/location/settlement/town/southport), where the strait opens into the [Auric Ocean](/content/location/natural/feature/auric-ocean). The town is the easternmost of the Aethelaran strait settlements, and its position at the mouth of the strait gives it a role complementary to Southport's. Where Southport is the principal point of pilotage and toll collection, Caerhaven is the primary haven and staging point for vessels preparing to enter the strait from the Auric side or completing the passage and in need of resupply.
 
-## The Harbour and the Strait
+## The Curved Headland and the Approach from the Auric
 
 The harbour of Caerhaven is a deep, natural anchorage sheltered by a curved headland extending from the eastern end of the town. The approach is straightforward in most weather, though the currents running at the mouth of the strait can affect the passage. The headland is the most prominent feature of the Aethelaran shore at this point, and its summit is crowned by a lighthouse that is among the oldest and most important navigation aids on the strait. The light is visible for many miles across the Auric and serves as the primary landmark for vessels approaching the strait from the east.
 
@@ -15,7 +15,7 @@ Quays line the inner shore of the anchorage, and the warehouses, chandleries, in
 
 The Aethelaran shore at Caerhaven is a coast of low cliffs and sheltered coves. The town is built upon a raised terrace overlooking the harbour. The terrain is more open than the western reaches of the strait, rising gently inland toward forests and river valleys of the northeastern Aethelaran coast. The climate is mild, warmed by Auric currents, and more clement than the wind-swept [Morvind](/content/location/natural/continent/morvind) shore across the strait.
 
-## Trade and the Compact
+## Staging, Resupply, and the Gnomish Instrument-Makers
 
 Caerhaven is a member of the [Velden Compact](/content/government/local/velden-compact), the joint governance of the strait towns. Its role in the compact is focused on providing supplies, repairs, and shelter for vessels at the Auric end of the strait. The town is not a principal point of pilotage or toll collection, as those functions are centred on [Southport](/content/location/settlement/town/southport) and [Veldenwatch](/content/location/settlement/town/veldenwatch) at the narrowest reaches of the channel. Caerhaven contributes through the staging and resupply services it provides to the strait trade. The council of the compact includes a representative from Caerhaven, and the town's interests are represented in the regulation of the strait and the division of its revenues.
 
@@ -23,7 +23,7 @@ Caerhaven's trade combines strait commerce with Auric Ocean trade. Goods passing
 
 The shipyards and chandleries of Caerhaven are a significant part of the local economy. The town is known for the quality of its provisions and the reliability of its supplies. Vessels navigating the strait often need fresh water, salted provisions, and replacement cordage and sailcloth after the difficult passage, and the merchants of Caerhaven are skilled in the rapid provisioning the strait trade demands. The boatbuilders of Caerhaven are noted for their skill in constructing sturdy pilot cutters and harbour craft; the pilot guilds of the strait maintain a number of vessels built in Caerhaven yards.
 
-## The Town
+## Pale Stone, Terraces, and the Pilot Families
 
 Caerhaven is a well-built, prosperous town whose architecture reflects the wealth brought by strait and ocean trade. Substantial buildings of pale stone, well-paved streets, and a commercial district oriented toward the harbour define the settlement. Buildings rise three and four storeys high, their upper floors projecting over narrow streets to maximise space within the town walls. The architecture blends the Aethelaran coastal tradition with the strait style, combining lighter arcades and courtyards of the eastern coast with sturdy stone walls the strait weather demands. Buildings are constructed to withstand the winds and salt spray the open strait brings.
 
@@ -31,6 +31,6 @@ The population is chiefly [human](/content/species/sapient/humans), a mixture of
 
 The social structure of Caerhaven is oriented around the maritime trades. The pilot families are among the most respected in the community, with their expertise passed down through generations. The merchants who manage the transhipment trade form a prosperous class, their counting houses and warehouses dominating the waterfront. The shipwrights and chandlers who support the vessels are organised into guilds that set standards for workmanship and prices. The innkeepers and tavern keepers who cater to mariners are also significant contributors to the local economy, for the demand for lodging and entertainment is constant in a town where vessels gather while awaiting favourable conditions. The gnomes are respected for their technical skill, and their workshops are a distinctive feature of the commercial district.
 
-## Significance
+## The Primary Haven at the Auric End of the Strait
 
 Caerhaven is the easternmost Aethelaran settlement of the [Velden Strait](/content/location/natural/feature/strait-of-velden), and its role as the primary staging point and haven for vessels at the Auric end of the strait is a significant component of the strait region's economy. The town is a member of the [Velden Compact](/content/government/local/velden-compact), and its position at the mouth of the strait gives it a commercial importance complementary to the pilotage and toll functions of [Southport](/content/location/settlement/town/southport) and [Veldenwatch](/content/location/settlement/town/veldenwatch). The prosperity of Caerhaven is built upon the trade flowing through the strait and across the Auric, and the town is a key point in the trade network connecting Aethelar to the wider world.

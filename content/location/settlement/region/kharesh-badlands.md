@@ -3,34 +3,34 @@ layout: default
 title: Kharesh Badlands
 ---
 
-## Overview
+## The Broken Corridor at the Desert Margin
 
 The [Kharesh](/content/location/natural/feature/kharesh) Badlands are a broken and arid country at the northern margin of the Kharesh, the great desert interior of [Sahrana](/content/location/natural/continent/sahrana), where the foothills of the coastal highlands give way to the desert proper. The region takes its name from the deep gullies and strange rock formations that seasonal rains have carved into the soft stone, producing a landscape of ravines, pillars, and flat-topped mesas crossed by ancient caravan routes. The badlands are not a kingdom or single settlement but a corridor of difficult country between the fertile northern coast and the deep desert.
 
 The Kharesh Badlands are distinct from both the true desert and the coastal strip, their character shaped by the meeting of the two. The foothills provide occasional shelter and seasonal water, while deep ravines cutting through the soft stone conceal springs and pasturage invisible to those who do not know the land. The caravans travelling between the coast and the interior must pass through the badlands, and the routes they follow have been established over centuries of travel.
 
-## Geography and Climate
+## Ravines, Pillars, and the Labyrinth of Stone
 
 The landscape is a maze of ravines, gullies, and broken ridges carved by brief but violent winter rains. The underlying stone is soft and easily eroded, producing steep-sided valleys and isolated mesas. The gullies can be deep enough to swallow a caravan, and an unwary traveller who attempts to cross without a guide risks becoming lost in the labyrinth. The seasoned caravanners know the routes by the position of distant peaks and the colour of the stone. The climate is hot and dry, though less extreme than the deep desert beyond. The summer sun beats down with ferocity, making travel during the day difficult, and the temperature of the stone itself can burn unprotected skin. The nights are cool, for the rock radiates heat rapidly into the clear sky. Caravan companies prefer to move by night during summer months, resting in shaded gullies during the worst heat. The winter months are milder, and the rains that fall during the season fill the dry channels and bring a brief flush of green to the more sheltered valleys.
 
 Water sources are few and scattered, their positions known only to the experienced. Some are springs emerging at the base of rock formations, sustained by deep aquifers beneath the desert. Others are cisterns cut into stone by inhabitants of past centuries and maintained by present communities. The most reliable are seasonal pools forming in deeper ravines after winter rains, and caravans plan their journeys to take advantage of these temporary waters.
 
-## Settlements and Peoples
+## Kheled, Nomadic Camps, and the Kharesh Tribes
 
 Permanent settlements are few, concentrated where water sources are most reliable and routes converge. The most substantial is [Kheled](/content/location/settlement/village/kheled), an upland settlement in one of the rocky massifs rising from the desert floor, whose springs and mines sustain one of the most isolated communities in the known world. Smaller encampments and way stations are scattered across the badlands, occupied seasonally by herders and miners. The population is predominantly [human](/content/species/sapient/humans), among the most experienced in the desert environment. Herders move flocks between sheltered valleys in patterns established over generations, taking advantage of seasonal pastures after rains. Miners work deposits of copper, salt, and precious stones found in rocky uplands. The [salawa](/content/species/sapient/salawa) are present as well, their keen senses well suited to the terrain, respected for their tracking and endurance. The [Kharesh Tribes](/content/government/national/kharesh-tribes), the confederation of nomadic peoples, include both salawa and human nomads traversing the badlands, and their governance of routes and water sources is the foundation of the regional order.
 
-## Economy and the Caravan Trade
+## Minerals, Herding, and the Caravan Services
 
 The economy is built upon the caravan trade passing through the region and the mineral wealth extracted from rocky uplands. The caravans travelling between the northern coast and the inland cities must cross the badlands, and the services provided to them, including water, provisions, and guides, are the foundation of the local economy. Tolls and fees collected at way stations are a significant source of income, and the station keepers are bound by the covenants of the [Vashari Pact](/content/government/national/vashari-pact) to maintain water sources and provide for caravans at a fair rate. Mineral deposits include copper, salt, and precious stones such as carnelians, agates, and occasional sardonyx. The copper is smelted at small works near the mines and carried by caravans to coastal markets. Herders keep flocks of goats and sheep suited to sparse pasturage, and gardens in the most sheltered valleys produce dates, figs, and hardy grains.
 
-## Routes and Hazards
+## Floods, Dust Storms, and the Marked Cairns
 
 The routes crossing the badlands are among the most challenging in the [Kharesh](/content/location/natural/feature/kharesh), requiring experienced guides and careful preparation. The most direct route follows seasonal watercourses, but channels can flood with little warning during winter rains, and caravans must be ready to take refuge on high ground at any moment. Routes following higher ground are safer from floods but pass through more exposed country. Hazards include snakes and scorpions concealed in ravines, flash floods that can sweep a caravan away in minutes, and dust storms that reduce visibility to nothing. Bandits have long used the badlands as a refuge, and patrols of the Vashari Pact are a necessary escort for more vulnerable companies. The cairns marking the routes are a distinctive feature, built of dark stone, maintained by communities living along the caravan roads.
 
-## Governance and Custom
+## Caravan Masters, Station Keepers, and the Oral Traditions
 
 Governance is informal and practical, resting with caravan masters, station keepers, and elders of the herding and mining communities. The covenants of the [Vashari Pact](/content/government/national/vashari-pact) provide the framework within which local authorities operate, and the pact's regulations on maintenance of water sources and treatment of caravans are enforced by station keepers and guides. Hospitality is a sacred obligation; station keepers are bound by tradition to provide water and shelter to any traveller, regardless of ability to pay. The water sources are shared according to long-established rules recorded in the oral traditions of the badlands, transmitted from one generation to the next by elders and guides.
 
-## Significance
+## The Corridor Between Coast and Interior
 
 The Kharesh Badlands are the corridor through which the trade of [Sahrana](/content/location/natural/continent/sahrana) passes between the coast and the interior. The services the region provides to caravans are a vital component of the continent's economy. The badlands are not wealthy, but they are strategic, and the covenants governing the routes and water sources are a model of co-operation sustaining the desert trade. The prosperity of the cities rests upon the labour and knowledge of the people dwelling in the most demanding country between the coast and the deep desert.

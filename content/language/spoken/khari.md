@@ -3,37 +3,37 @@ layout: default
 title: Khari
 ---
 
-## Overview
+## Khari in Brief
 
 Khari is the speech of the [Kharesh](/content/location/natural/feature/kharesh), the great desert that covers the interior of [Sahrana](/content/location/natural/continent/sahrana), used by the caravan tribes, the oasis communities, and the scattered settlements that mark the long routes between the northern coast and the deep south. The language is most closely associated with the nomadic peoples of the desert. Khari is spoken as a first language by the human populations of the oases and as a second language by the [orc](/content/species/sapient/orcs) communities of the desert fringes and by every merchant who requires a working knowledge of the caravan trade. The name is taken from the desert itself, and the language is sometimes called the desert speech by the coastal communities of the north.
 
 The origins of Khari lie in the speech of the earliest nomadic communities of the desert interior. The language has grown over the centuries through contact with the [Sahrani](/content/language/spoken/sahrani) of the northern coast, the [Vashari](/content/language/spoken/vashari) of the deep south, and the trade tongues that pass through the desert on the long caravan routes. Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that desert speakers no longer recognise as foreign. The result is a language of considerable economy, suited to the description of sand, wind, stars, and the patient business of the caravan, and capable of adaptation to the specialised vocabularies of the guide, the water-finder, and the council of the oasis elders.
 
-## Sounds
+## Pronunciation and Script
 
 Khari is spoken in a register that is more clipped and deliberate than the common speech of the northern coast. Coastal visitors often remark upon the brevity of desert sentences and the willingness of desert speakers to leave unsaid what the coastal custom would require to be set out at length. The consonants are sharply distinguished, the vowels are few and clear, and the rhythm of the sentence is carried by the regular accent falling upon the first syllable of most longer words. Desert singers use the consonantal range to produce the striking percussive effects that mark the songs of the caravan, one of the most distinctive cultural expressions of the desert communities. Pitch is a matter of custom rather than meaning; desert speakers tend to speak with a flatter pitch than coastal speakers, in unconscious imitation of the open spaces of the sand.
 
 The script of Khari is alphabetic, with twenty-two marks representing the consonants and vowels of the language. It is read from right to left in horizontal lines. The script is descended from the marks used by the earliest nomadic chroniclers of the desert interior, with borrowings from the coastal [Sahrani](/content/language/spoken/sahrani) script in the marks used for sounds the older desert script did not distinguish. The marks are incised, painted, or printed upon parchment, leather, or fine cloth. Writing is taught in schools of the larger oases to children of every species who require it for the ordinary business of the caravan. The script of the [Kharesh Tribes](/content/government/national/kharesh-tribes) is distinguished by contraction marks used by caravan scribes in the records of the routes, treated as a sign of the practicality of the trade.
 
-## Vocabulary and Borrowing
+## Desert Words and Loanwords
 
 The vocabulary of Khari is rich in words for sand, wind, stars, oases, camels, and the patient business of the caravan. The language has more words for the kinds of sand, the kinds of wind, the kinds of star, and the stages of the guide's art than any of the languages of the coastal regions. The vocabulary is also rich in words for the tribe, the lineage, and the customary relations of kinship governing the desert communities, for the [Kharesh Tribes](/content/government/national/kharesh-tribes) place great weight upon distinctions of descent and marriage, preserved in compound terms that coastal scholars find difficult to translate. Desert compounds are formed by joining two or more simple words, used in the formal speech of tribal councils and the songs of night encampments.
 
 Khari has borrowed from the [Sahrani](/content/language/spoken/sahrani) of the northern coast a set of words for spices, woven cloths, precious metals, and the patient business of the long trade required for caravan commerce. These borrowings are recognised as belonging to the trade of the merchant rather than the craft of the guide, and desert speakers are careful to use the coastal word in the coastal context and the desert word in the desert context. A small number of words have also been borrowed from the [Vashari](/content/language/spoken/vashari) of the deep south through the long caravan routes, chiefly the names of southern goods, customs, and offices.
 
-## Speech
+## Registers of Khari
 
 Khari is the language of the caravans of the [Kharesh](/content/location/natural/feature/kharesh), conducted in a register that is brisk and practical, suited to the rapid movement of the long strings and the patient negotiation of matters arising upon the road. The caravan register uses a set of fixed phrases for the opening of a march, the calling of a halt, and the closing of an encampment, known to every guide of the principal routes. These phrases are intelligible to children of nine or ten years brought up in the caravan families.
 
 Khari is also the language of the tribal councils of the desert communities, conducted in a more formal register preserved by the elders of the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the principal oasis settlements. The formal register is used for public announcements of tribal elders, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Khari who has had a customary education in the caravan or the council. The formal register borrows a small number of phrases from the older speech of the desert interior, treated as marks of dignity and authority.
 
-## Relations
+## Khari and Other Tongues
 
 Khari stands in a complex relation to the languages of the regions surrounding the [Kharesh](/content/location/natural/feature/kharesh). It is intelligible, with some adjustment, to speakers of the coastal [Sahrani](/content/language/spoken/sahrani) of the northern coast, and intelligibility is greater in caravan towns of the desert's edge than in the deeper interior of either tongue. The relationship between Khari and the southern [Vashari](/content/language/spoken/vashari) of the deep south is closer still, for the two languages share a long border along the southern oases, and speakers of one are commonly able to follow the speech of the other after a short period of adjustment. Southern merchants note that the northern speech lacks the precision of the southern tongue in describing inland seas and southern highlands.
 
 The relation of Khari to the trade tongues passing through the desert is of scholarly interest, for the desert has long been a meeting place between the languages of the north and south. Desert speakers tend to treat the trade tongues as learned accomplishments rather than working languages, and foreign merchants visiting the oases treat Khari as the necessary medium of the caravan trade. The relation of Khari to the speech of the [orc](/content/species/sapient/orcs) communities of the desert fringes is disputed among scholars of the coastal academies, for desert scholars remark that the question is not one the desert people are inclined to answer.
 
-## Significance
+## Desert Speech of the Interior
 
 Khari is the speech of the [Kharesh](/content/location/natural/feature/kharesh), the great desert of [Sahrana](/content/location/natural/continent/sahrana), the language of the caravans and the tribal councils, the medium of the long inland trade, and the first or second language of nearly every speaker of every species who dwells or trades among the caravan routes and oasis settlements of the desert interior. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of desert guides and the patient correction of the councils. It is one of the most economical of the languages of the known world, a measure of the central place the desert has held in the caravan trade and the tribal customs of the southern continent since the earliest nomadic communities were established along the long routes of the interior.
 

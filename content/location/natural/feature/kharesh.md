@@ -3,11 +3,11 @@ layout: default
 title: Kharesh
 ---
 
-## Overview
+## A Great Emptiness Far from Empty
 
 The Kharesh is the vast desert interior of [Sahrana](/content/location/natural/continent/sahrana), a place of striking beauty and quiet grandeur. It covers the greater part of the continent, stretching from the fertile northern coast to the highlands that mark the threshold of the inland seas and the [Southern Reach](/content/government/national/southern-reach) in the far south. The name is given by the inhabitants themselves, and it carries in their tongue the sense of a great emptiness that is yet far from empty. To the peoples of the northern coast and the continents beyond, the Kharesh is a land of mystery and hardship, known chiefly through the accounts of the caravans that cross it and the nomads who dwell within it. To those who know the desert, it is a land of subtle abundance, where water and life are to be found by those who know where to look.
 
-## Landscape
+## Erg, Uplands, and the Rocky Massifs
 
 The Kharesh is a desert of many characters, and its appearance changes dramatically from one region to another. In the north, where the desert meets the foothills of the coastal highlands, the land is a scrubby semi-arid plain crossed by seasonal watercourses that carry the winter rains inland. This marginal country is the gateway to the deep desert, and here the caravans make their final preparations before venturing into the true Kharesh.
 
@@ -15,11 +15,11 @@ Beyond the marginal zone lies the great erg, a vast field of dunes that shifts w
 
 The rocky uplands that rise from the sands provide shelter, water, and minerals, and several of these outcrops have been settled for centuries. These massifs are remnants of an ancient landscape that the desert has otherwise buried, and their bare summits and sheltered valleys are islands of life in the sea of sand. Springs fed by deep aquifers emerge at the base of the uplands, sustaining oases where date palms, figs, and other crops are cultivated in terraced gardens, a testament to patient cultivation in a land where water is the measure of all wealth. The uplands are also rich in minerals, including copper, salt, and the precious stones that are among the most valued products of Sahrana.
 
-## Climate
+## Scorching Days and Freezing Nights
 
 The climate of the Kharesh is one of extremes. By day, the sun beats down upon the open sand with a ferocity that can kill the unprepared within hours, and the surface temperature of the dunes is hot enough to burn unprotected skin. At night, the same sand radiates its heat rapidly into the clear sky, and the temperature may drop to near freezing, even in the summer months. The air is dry throughout the year, and rainfall is rare and unpredictable, arriving in brief and sometimes violent storms that may flood the interdune corridors before draining away into the sand. The seasonal winds are the most consistent feature of the Kharesh's climate, dividing the year into distinct periods that the nomads use to structure their movements.
 
-## Peoples and Ways of Life
+## Nomads, Upland Settlements, and Desert Routes
 
 Nomadic peoples traverse the Kharesh following routes passed down through generations of oral tradition, moving between oases and seasonal grazing lands with a precision born of long acquaintance with the desert. The routes they follow are not fixed paths but a series of waypoints, adjusted according to the condition of the water sources, the movement of game, and the shifting of the dunes. The nomads travel in family groups, sometimes joining into larger parties for mutual safety when crossing the most exposed sections of the erg, and their camps are temporary structures of cloth and hide that can be erected and dismantled within an hour.
 
@@ -27,7 +27,7 @@ The settled communities of the uplands cultivate hardy crops and maintain trade 
 
 [Humans](/content/species/sapient/humans) form the bulk of the population, both settled and nomadic, and their adaptation to the demands of the desert is a mark of the versatility that characterises the species. [Orcs](/content/species/sapient/orcs) are present in the wilder and more remote regions of the Kharesh, beyond the range of the caravans, where they pursue a nomadic existence similar in form but distinct in tradition from that of the human nomads. [Goblins](/content/species/sapient/goblins) are found in scattered pockets along the desert fringes, where they scavenge and trade as opportunity allows.
 
-## Trade and Routes
+## Salt, Spices, and the Caravan Undertaking
 
 Ancient caravan routes cross the Kharesh, connecting the northern coast to the interior oases and the upland settlements. These routes carry salt, minerals, and crafted goods inland and bring out the rare dyes and spices that are found only in the desert and its fringes. The most valuable of these products are the dyes extracted from desert plants and the spices gathered from the rocky uplands, both commanding extraordinary prices in the markets of the northern coast and beyond.
 

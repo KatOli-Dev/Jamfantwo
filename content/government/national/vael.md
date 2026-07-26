@@ -3,11 +3,11 @@ layout: default
 title: Vael
 ---
 
-## Overview
+## Kingdom of the Great River Valley
 
 Vael is a major human kingdom of the temperate river valleys of [Aethelar](/content/location/natural/continent/aethelar), and it is among the oldest and most prosperous of the political entities on the continent. The kingdom occupies the valley of the [River Vael](/content/location/natural/feature/river-vael), the greatest waterway of Aethelar, and its territory extends from the foothills of the mountain spine in the west to the coast of the [Auric Ocean](/content/location/natural/feature/auric-ocean) in the east. The capital is [Vaelmouth](/content/location/settlement/city/vaelmouth), the port city at the mouth of the river, and the seat of the king and court is situated in the oldest quarter of the city, overlooking the harbour and the river.
 
-## The Valley and the Realm
+## Agriculture and the Amber Vale
 
 The valley of the River Vael is the most fertile region of Aethelar, and the alluvial soils lining the riverbanks are among the most productive on the continent. Its upper and middle course passes through the [Amber Vale](/content/location/settlement/region/amber-vale), the historical heartland from which [Sera](/content/people/historical/sera-ambervale) united the river principalities and established the kingdom. The agriculture of the valley is the foundation of the kingdom's prosperity, and grain, livestock, and other valley products are the primary exports. The river is navigable for much of its length, and trade flowing along its waters connects the interior to the coast and the markets of the wider world, making Vael a major commercial power as well as an agricultural one. The river is also a source of fish, and the eel traps and salmon nets maintained by riverside communities provide a supplementary food supply valued in local markets.
 
@@ -15,17 +15,19 @@ The kingdom is administered from Vaelmouth through a network of officials and lo
 
 Agriculture is organised around the cycle of the river. The annual flood inundating the low-lying fields along the banks deposits a layer of silt that restores soil fertility. Farmers manage the flood through a system of dykes and channels controlling the distribution of water, and the irrigated fields produce some of the highest yields in Aethelar. Grain harvested from the valley is stored in granaries situated along the river, and the surplus is exported through the harbour of Vaelmouth to the markets of the eastern coast and the wider world.
 
-## Trade and the Coast
+## Grain Exports and the Harbour at Vaelmouth
 
 The trade of Vael is dominated by agricultural products of the valley. Grain, timber, and manufactured goods produced in the kingdom are exported through the harbour of Vaelmouth to the markets of the eastern coast and the Auric Ocean. The kingdom competes with [Aldreth](/content/government/national/aldreth) in eastern coast trade, and competition between the two kingdoms is a driving force in the economy of the continent. The merchants of Vael are among the most influential in Aethelar, and their operations extend from the harbour to the farthest reaches of the trade network.
 
-## People and Defence
+## Population and Standing Army
 
 The population of Vael is chiefly [human](/content/species/sapient/humans), and the people of the valley are among the most prosperous and settled in Aethelar. [Elves](/content/species/sapient/elves) of the northern forests are occasional visitors to the valley, and trade between humans and elves is a minor but valued part of the kingdom's commerce. [Dwarves](/content/species/sapient/dwarves) of the mountain spine are present in the western portions of the kingdom, where the foothills provide a habitat for dwarven communities involved in the metal trade.
 
 The defence of the kingdom is maintained by a standing army funded by the taxes of the valley, and the fortifications of Vaelmouth and other settlements are kept in good order. The kingdom has been at peace with its neighbours for many generations, but rivalry with Aldreth and occasional tensions with the [Thessaran League](/content/government/national/thessaran-league) require a credible military force. The army consists of retainers of noble families and the standing force funded by the royal treasury. Soldiers are trained in the defence of the river and valley, for the river is both highway and potential avenue of attack.
 
-## Significance
+The valley is also home to many [hearth-halls](/content/government/local/hearth-halls) of the Still Flame, and the most ancient of these halls is said to lie within the heart of the Vael.
+
+## Agricultural Wealth and Continental Reach
 
 Vael is the major human kingdom of the temperate river valleys and one of the most prosperous and influential political entities in Aethelar. Its agricultural wealth and commercial power are the foundation of its significance, and its trade connects the interior of the continent to the markets of the coast and the wider world. Vael symbolises the endurance and prosperity of human civilisation in Aethelar, and its long history and stable governance are a model of the political order that has sustained the continent for centuries. The grain exported from the valley feeds the cities of the eastern coast and the islands of the Auric Ocean, and the prosperity of the kingdom is a foundation upon which the commerce of much of the known world is built.
 

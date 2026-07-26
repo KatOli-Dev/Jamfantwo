@@ -3,17 +3,17 @@ layout: default
 title: Stoneheim Holds
 ---
 
-## Overview
+## Greatest Dwarven Realm of Morvind
 
 The Holds of [Stoneheim](/content/location/settlement/city/stoneheim) is the greatest [dwarven](/content/species/sapient/dwarves) realm in [Morvind](/content/location/natural/continent/morvind), encompassing the underground cities, mining settlements, and mountain territories inhabited and governed by the dwarven people of the continent. The realm is the largest and most powerful dwarven political entity in the known world, and its capital is Stoneheim, the greatest dwarven hall of Morvind. The Stoneheim Holds are the foundation of dwarven civilisation in Morvind, and their mineral wealth and craftsmanship are the basis of the continent's prosperity and reputation.
 
-## The Territory and the Holds
+## Underground Cities of the Interior Ranges
 
 The territory of the Stoneheim Holds extends across the interior ranges of Morvind, encompassing the vast underground networks that are the home of the dwarven people. The realm includes Stoneheim, the capital and greatest city, and [Khazgar](/content/location/settlement/city/khazgar), the city renowned for its metalwork, as well as [Ironhollow](/content/location/settlement/town/ironhollow), the industrial settlement that is the primary source of iron feeding the forges of the realm. The holds are the individual dwarven communities that constitute the realm, and each hold is a self-governing entity that manages its own affairs while contributing to collective defence and commerce.
 
 The [geography](/content/geography) of the interior ranges determines the distribution of the dwarven population. The holds are situated where veins of ore and natural cave systems provide the resources and space that the dwarven way of life requires. The deepest and most extensive cave systems are those of the central interior, where Stoneheim and Khazgar are situated, and the eastern ranges, where Ironhollow is located, are the richest in iron ore.
 
-## Mining and Metalwork
+## Unmatched Ores and Smithcraft
 
 The mineral wealth of the Stoneheim Holds is the greatest of any political entity in the known world. Ore extracted from the mines includes iron, copper, tin, silver, gold, and rarer metals found only in the deepest veins of the Morvind ranges. The metalwork produced in the forges of Stoneheim and Khazgar is the finest in the known world. Weapons, tools, and decorative objects produced by the dwarven smiths are exported to every continent. Iron produced in the smelteries of Ironhollow feeds the forges of the realm, and the quantity and quality of Ironhollow output is unmatched by any other source in Morvind.
 
@@ -21,27 +21,27 @@ The smiths of Stoneheim are renowned for the quality of their work, and techniqu
 
 Trade connecting the Stoneheim Holds to the rest of Morvind and the wider world is managed through overland routes connecting the interior to the coast. Metalwork and stone are transported overland to the ports of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), where they are loaded onto vessels for shipment to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond. The return cargo includes grain, cloth, and manufactured goods that the dwarven communities cannot produce for themselves. The trade routes connecting the interior to the coast are maintained by the realm, and their security is a constant concern of the administration, for the wild peoples of the mountains are a recurring threat to caravans travelling the routes.
 
-## Governance and the King
+## Absolute Rule and the King's Wardens
 
-The Stoneheim Holds are governed by a king chosen from the hereditary ruling family of Stoneheim, and the king holds absolute authority over the realm. The court is situated in the great hall of Stoneheim, and the council of hold-elders that advises the king is drawn from the leaders of individual holds throughout the realm. The council may offer counsel when the king requests it, but its advice carries no binding force. The king alone decides matters of law, taxation, mining rights, and the disposition of the realm's military forces. No institution of the realm may overrule a royal decree.
+The Stoneheim Holds are governed by a king chosen from the hereditary ruling family of Stoneheim, and the king holds absolute authority over the realm. In the present age the thaneship is held by [Korin Stoneheim](/content/people/notable/korin-stoneheim), the senior member of the council of the mountain holds. The court is situated in the great hall of Stoneheim, and the council of hold-elders that advises the king is drawn from the leaders of individual holds throughout the realm. The council may offer counsel when the king requests it, but its advice carries no binding force. The king alone decides matters of law, taxation, mining rights, and the disposition of the realm's military forces. No institution of the realm may overrule a royal decree.
 
 The administration is managed through a network of officials who oversee mining operations, maintenance of halls and roads, and administration of justice. Local councils exist in each hold to manage daily affairs, but their authority derives from the king's delegation and may be revoked at any time. The governors who administer the distant holds are appointed by the king and serve at his pleasure. The governance of the Stoneheim Holds is the most stable of any political entity in Morvind, and the dwarven tradition of hereditary rule has sustained the realm for many centuries.
 
 The king of Stoneheim is advised by the council of hold-elders on all matters of significance, but the final decision rests with the crown. The council is composed of elders selected by the king from among the leaders of individual holds, and their continued membership depends upon the king's favour. The elders are among the most respected and experienced members of the dwarven community, but a hold-elders who opposes the king's intentions may be dismissed and replaced. The council meets in the great hall of Stoneheim, and proceedings are conducted according to traditions and protocols established over the centuries of the realm's history, though the king may set aside protocol when it suits the business at hand.
 
-## The King's Wardens
+## Royal Agents Across the Holds
 
 The king maintains order and enforces his decrees through a corps of royal agents known as the King's Wardens. The Wardens are drawn from families loyal to the crown and are trained in the great hall of Stoneheim. They are stationed throughout the holds, where they monitor compliance with royal decrees, collect information on the disposition of the holds, and report directly to the king. Their authority supersedes that of local councils and governors, and they may arrest any subject of the realm on the king's authority. The Wardens are accountable to no one but the king, and their presence in the holds is a constant reminder that the king's reach extends into the deepest halls of the realm.
 
 Holds that resist the king's authority face economic consequences. The king controls the distribution of ore rights, the allocation of water drainage works, and the assignment of trade quotas for the sale of metalwork to foreign markets. A hold that falls from favour may find its access to new mineral veins curtailed, its share of collective trade diminished, and its requests for assistance with structural maintenance or defence ignored until its elders submit to the king's demands. The king also maintains a register of every hold's production, population, and storage reserves, updated by the Wardens each season, and this knowledge gives the crown the advantage in any dispute.
 
-## History
+## From the First Hall to the Present
 
 The Stoneheim Holds were established in the early centuries of dwarven settlement of Morvind, and the founding of the realm is attributed to dwarven explorers who discovered the vast cave systems and rich mineral deposits of the interior ranges. The first hold was Stoneheim itself, established in the largest and most extensive cave system, where the great hall was carved from the living rock and the foundations of the realm were laid. The other holds were established in the centuries that followed, as the dwarven population expanded and mineral deposits of the interior were discovered and developed.
 
 The realm has endured for many centuries, and the authority of the kings has been a factor in its stability and prosperity. The Stoneheim Holds have maintained good relations with [Nordhaven](/content/government/national/nordhaven) on the coast, and trade between the interior and the coast has been a significant component of the economy of the realm. The [Frostwall Clans](/content/government/national/frostwall-clans) of the deep interior are allies, and defence of the interior ranges is a shared responsibility.
 
-## Significance
+## Scale, Quality, and Authoritarian Order
 
 The Stoneheim Holds is the greatest dwarven realm in the known world, and its mineral wealth and craftsmanship are the foundation of the economy and reputation of Morvind. The realm's trade connects the interior to the coast and the wider world, and its metalwork is among the most valued products in the known world. The significance of the Stoneheim Holds lies in its scale and quality, for it is the largest and most productive dwarven political entity, and its long history and concentration of authority in the crown have sustained the dwarven people for centuries. Among the political orders of the known world, the Stoneheim Holds stands at the authoritarian extreme: no council limits the king, no assembly checks his decrees, and no subject may appeal his judgments.
 

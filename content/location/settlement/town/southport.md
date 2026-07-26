@@ -3,11 +3,11 @@ layout: default
 title: Southport
 ---
 
-## Overview
+## The Principal Aethelaran-Side Town of the Strait
 
 Southport is the principal Aethelaran-side town of the [Velden Strait](/content/location/natural/feature/strait-of-velden), situated on the southern shore of the strait where it connects the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the counterpart of [Veldenwatch](/content/location/settlement/town/veldenwatch) on the [Morvind](/content/location/natural/continent/morvind) shore, and the two towns together form the core of the [Velden Compact](/content/government/local/velden-compact), the joint governance that regulates passage through the strait. Southport is the primary point of Aethelaran-side pilotage and toll collection, and its harbour is the first or last port of call for vessels navigating the strait from the southern shore.
 
-## The Strait and the Pilotage
+## The Treacherous Channel and the Pilotage Guild
 
 The strait that Southport commands is the only passage between the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the waters flowing through it are among the most treacherous in the known world. The currents are strong and unpredictable, the channel is narrow, and the tidal range is considerable. The pilots of Southport are specialists trained from youth in the particular conditions of the strait. The pilotage service is the primary function of the town, and the pilots are organised into a guild that regulates training, sets fees, and maintains the standards of the profession.
 
@@ -15,13 +15,13 @@ The harbour of Southport is a broad, sheltered cove cut into the low cliffs of t
 
 The Aethelaran shore of the strait is less dramatic than the Morvind side, where the mountains descend almost to the water's edge. The coast here is a line of low cliffs and sheltered coves providing anchorage for vessels waiting for the tide; the terrain is more gentle than the steep and rocky northern shore. The town is built upon a raised shelf of rock overlooking the cove, and the streets slope down toward the harbour in a series of terraces that give the buildings a view of the strait and the shipping passing through it.
 
-## Trade and the Compact
+## Tolls, Repairs, and the Supplies of Three Continents
 
 Southport's trade is dominated by the tolls and pilotage fees collected from vessels passing through the strait. The town is a principal beneficiary of the [Velden Compact](/content/government/local/velden-compact), the joint governance of the strait towns that regulates passage and divides revenue between the two shores. The compact is the foundation of the town's prosperity, and the governance of the strait is the primary occupation of the officials and merchants of Southport. The council of the compact meets alternately in Southport and [Veldenwatch](/content/location/settlement/town/veldenwatch), and the two towns share the administration of the pilotage guilds, toll collection, and maintenance of the navigation aids lining the strait.
 
 The town is also a centre for the repair and supply of vessels that have navigated the strait. The shipyards and chandleries lining the harbour are a significant part of the local economy. Vessels passing through the strait are often in need of repair, and the shipwrights of Southport are skilled in the rapid and reliable maintenance the strait trade demands. The trade goods flowing through Southport include the grain and cloth of the Aethelaran interior, the metalwork of [Morvind](/content/location/natural/continent/morvind), and the spices and dyes of [Sahrana](/content/location/natural/continent/sahrana); the warehouses of the town are filled with the commerce of three continents.
 
-## The Town
+## Substantial Stone, Arcades, and the Gnomish Workshops
 
 Southport is a compact, well-built town whose architecture reflects the wealth the strait trade has brought: substantial buildings of pale stone, well-paved streets, and a commercial district oriented toward the harbour. Buildings rise three and four storeys high, their upper floors projecting over narrow streets to maximise space within the confined walls. The architecture blends traditions of both continents, with lighter arcades and courtyards of the Aethelaran coast softened by heavier stone walls characteristic of the strait towns. Buildings are constructed to withstand the winds and salt spray the strait weather brings.
 
@@ -29,12 +29,12 @@ The population is chiefly [human](/content/species/sapient/humans), and the peop
 
 The gnomish workshops of Southport are situated in a district between the commercial quarter and the harbour, known for the sounds of hammering and the glow of furnaces issuing from the workshops at all hours. The gnomes of Southport are the most skilled instrument-makers in the strait region; their products are exported to ports of both the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the [Auric Ocean](/content/location/natural/feature/auric-ocean), where they are valued by mariners navigating the waters of the known world. The gnomish community is small but prosperous, and its contribution to the strait trade is recognised by the council of the compact, which has granted the gnomes a seat on the harbour committee overseeing the maintenance of navigation aids.
 
-## History
+## The Accord of the Waters and the Shaping of the Strait
 
 The founding of Southport is recorded in the traditions of the strait as a settlement of fishermen and pilots who established a permanent harbour on the Aethelaran shore to serve vessels navigating the channel. The early settlement was small and seasonal, but the growth of the strait trade and the establishment of the [Velden Compact](/content/government/local/velden-compact) led to a more permanent and substantial community, and the town grew steadily over the centuries. The walls of Southport were built in the early years of the compact; the gates are among the oldest structures in the town, their stone arches bearing the marks of centuries of traffic passing through them.
 
 The history of Southport has been shaped by the strait and the trade flowing through it; the town has prospered as the volume of strait commerce has grown. The most significant event in the town's history is the signing of the Accord of the Waters, the treaty that established the Velden Compact, which was negotiated in Southport and signed in the hall overlooking the harbour. The anniversary of the signing is celebrated in the town as a day of festivity, and the hall where the treaty was signed is maintained as a monument to the compact and the cooperation that sustains the strait trade.
 
-## Significance
+## A Key Point in the Trade Network of the Strait
 
 Southport is the primary Aethelaran-side settlement of the [Velden Strait](/content/location/natural/feature/strait-of-velden), and its role in the pilotage and toll collection of the strait trade is a significant component of the economy of the strait region. The town is a member of the [Velden Compact](/content/government/local/velden-compact), and its position on the southern shore of the strait gives it a strategic and commercial importance disproportionate to its modest size. The prosperity of Southport is built upon the trade flowing through the strait, and the town is a key point in the trade network that connects Aethelar to the wider world.

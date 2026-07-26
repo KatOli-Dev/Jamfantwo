@@ -3,28 +3,28 @@ layout: default
 title: Confederation Plains
 ---
 
-## Overview
+## The Vast Grasslands of Central Aethelar
 
 The Confederation Plains are the vast grasslands covering the central interior of [Aethelar](/content/location/natural/continent/aethelar), a region of open horizons, deep skies, and the constant movement of the wind across the tall grasses. The plains are the territory of the [Plains Confederation](/content/government/national/plains-confederation), a union of settled agricultural communities and nomadic pastoralist kindreds that have found common purpose in the governance of the grasslands. The plains are among the most productive regions of Aethelar in terms of livestock and grain, and the character of the land has shaped the peoples who inhabit it in ways visible in every aspect of their culture and society.
 
-## Geography and Climate
+## Rolling Hills, Deep Loam, and the Constant Wind
 
 The Confederation Plains occupy a broad belt across the centre of Aethelar, stretching from the foothills of the eastern highlands to the river systems draining toward the western ocean. The land is gently rolling, with broad, shallow valleys and low, rounded hills breaking the horizon without obscuring it entirely. The soil is a deep, rich loam, product of thousands of years of grass growth and decay, fertile enough that the grasses grow as tall as a man in summer, providing abundant grazing for the herds. The climate is continental, with hot summers and cold winters, and rainfall is moderate but reliable, falling chiefly in spring and autumn. The wind is a constant presence on the plains, and the grasses move in waves visible from a great distance, a sight familiar to every inhabitant. The rivers crossing the plains are slow and meandering, their courses shifting over centuries, and the valleys they have carved contain the most productive farmland and the most substantial settlements.
 
-## Settlements and Population
+## Sunmere and the Nomadic Centaur Kindreds
 
 The settlements are of two types, reflecting the dual nature of the society that inhabits the region. The settled agricultural communities are concentrated along rivers and in areas where the soil is deepest and rainfall most reliable, organised into towns and villages connected by a network of roads and tracks. [Sunmere](/content/location/settlement/city/sunmere) is the largest settlement of the plains and the seat of the council governing the confederation; its market is the focal point of the grasslands trade, drawing merchants and pastoralists from across the region. The nomadic communities are the centaur kindreds and human pastoralists who follow the herds across the grasslands, moving camps with the seasons and availability of grazing. The nomadic population is as numerous as the settled, and the two groups are connected by ties of trade, marriage, and mutual obligation that are the foundation of the confederation. The centaur kindreds are the most prominent of the nomadic peoples, their knowledge of the grasslands, the herds, and the seasonal patterns of the land respected by the settled communities. The population includes [humans](/content/species/sapient/humans), [centaurs](/content/species/sapient/centaurs), and [halflings](/content/species/sapient/halflings), together with smaller communities of [gnomes](/content/species/sapient/gnomes) and [lupines](/content/species/sapient/lupines) who maintain their own traditions within the framework of the confederation.
 
-## Economy
+## Livestock, Grain, and the Horse Trade
 
 The economy is based on livestock and grain, the two products the grasslands provide in abundance. The cattle and sheep of the plains are among the finest in Aethelar, and the herds grazing across the grasslands are the source of the meat, milk, wool, and leather that are the principal exports of the region. The livestock trade is the most significant element of the economy, and the cattle drives moving herds from the grasslands to the markets of the surrounding regions are a feature of plains life unchanged for centuries. The grain is grown in river valleys where the soil is deepest and water most reliable. Wheat, barley, and oats harvested from these fields are the foundation of the diet of the settled communities. Surplus grain is exported to the [Amber Vale](/content/location/settlement/region/amber-vale), the [Grey Coast](/content/location/settlement/region/grey-coast), and other regions of Aethelar, and the trade in grain connects the plains to markets across the continent.
 
 The merchants who handle the trade of the plains are based at Sunmere, Goldmeadow, and the smaller market towns that are scattered across the grasslands. The cattle drives that move the herds from the summer pastures to the autumn markets are organised by the merchant houses, and the drovers who accompany the herds are drawn from both the settled and the nomadic communities. The trade in horses is a particular speciality of the eastern plains, where the herds that range wild are captured and tamed by the centaur kindreds before being sold to the merchants. A single well-trained plains horse can fetch a high price in the markets of the coast, and the trade in horses is a significant component of the confederation's economy, second only to the cattle and the grain in the value that it generates for the communities of the plains.
 
-## Culture and Governance
+## The Reconciliation of Settled and Nomadic Ways
 
 The culture is shaped by the openness of the land and the dual character of the society. The settled communities value stability and continuity, while the nomadic kindreds value freedom and movement across the grasslands. The Plains Confederation is the institution that reconciles these two ways of life. The council governing the confederation meets at Sunmere at regular intervals throughout the year, and its decisions on matters of pasture rights, water access, and the regulation of the great herds are binding on all members of the confederation. The laws of the confederation are recorded in the council's books and are read aloud at the annual gathering that marks the beginning of the spring season, ensuring that the terms of the union are known to every community, whether settled or nomadic.
 
-## Significance
+## The Heartland of Central Aethelar
 
 The Confederation Plains are the heartland of central Aethelar, a region of abundant natural wealth and a distinctive culture grown from the interaction of settled and nomadic peoples. The grasslands are among the most productive regions of the continent, and the livestock and grain they produce are the foundation of the prosperity of the confederation. The significance of the plains lies in the balance they represent between the settled and the mobile, the cultivated and the wild, the enduring and the changing, a balance that is the defining feature of the region and of the people who call it home.

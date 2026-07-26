@@ -3,13 +3,13 @@ layout: default
 title: Prejudices
 ---
 
-## Overview
+## The Nature of Prejudice in the Known World
 
 The peoples of the known world encounter one another more often in co-operation than in conflict, but prejudice is not unknown. Where it appears, it is recorded by the chroniclers and observed by travellers as a notable departure from the general disposition toward peaceful coexistence. The instances collected here are those that have been remarked upon precisely because they are not universal — they represent the exceptions that the academies consider worth documenting rather than the rule of daily life.
 
 Most communities conduct their dealings with other peoples on terms of practical reciprocity shaped by trade and shared territory. The attitudes described below are documented in specific places and periods and should not be taken as characteristic of entire species or cultures.
 
-## Attitudes of the Common Peoples
+## Human, Dwarven, and Elven Dispositions
 
 Humans, elves, and dwarves each possess a sense of their own ways, but this seldom rises to active prejudice against others. Mutual incomprehension exists — an elf may find human haste bewildering, a dwarf may consider elven deliberateness impractical — but such perceptions are more often a source of humour or mild frustration than of exclusion or hostility.
 
@@ -19,7 +19,7 @@ Dwarven attitudes toward surface peoples are shaped by a preference for their ow
 
 Elven attitudes toward shorter-lived peoples are shaped by a perspective that spans centuries. Humans appear to elves as creatures of haste, their generations passing in what seems a single season of elven observation — clever and energetic but given to decisions that look hasty to a longer view. Dwarves are regarded with respect for their craft and patience. These are observations, not prejudices; elven communities that dwell alongside humans and dwarves maintain cordial relations, and elven merchants, scholars, and artisans are common sights in the mixed cities of all three continents.
 
-## Treatment of Less Numerous Peoples
+## Orcs, Goblins, Halflings, and Gnomes
 
 The peoples whose populations are smaller or more localised are treated in most places with the same practical regard as any other trading partner.
 
@@ -31,7 +31,7 @@ Halflings coexist with humans across much of their range on terms of mutual bene
 
 Gnomes who trade in human towns are generally valued for the quality of their craftsmanship. An occasional prejudice that gnomish work must be inferior to that of a human artisan appears in isolated markets, but it is remarked upon by travellers precisely because it contradicts the usual experience, in which gnomish goods command good prices and gnomish merchants are treated with respect.
 
-## Exclusion from Governance
+## Political Restrictions by Species
 
 In most cities and nations of the known world, political participation is determined by citizenship, property, and residence rather than by species. The instances in which non-human residents are formally excluded from governance are the exception rather than the rule, and they are noted by the chroniclers as departures from the common practice.
 
@@ -43,7 +43,7 @@ In the dwarven cities of Karhold and Stoneheim, the deep chambers are reserved f
 
 In most other cities, non-human residents participate in civic life without formal restriction. Eldreth, Nordhaven, and the cities of the Thessaran League admit non-human residents to their councils, guilds, and courts on the same terms as human citizens, and the exceptions that appear in certain offices or industries are the result of informal tradition rather than codified exclusion.
 
-## Gender and Station
+## Barriers of Sex and Social Rank
 
 Prejudices of gender are documented in the chronicles but are far from universal. Many societies have produced women of standing in scholarship, governance, and the arts without remark, and the instances in which gender has been a barrier are recorded precisely because they are notable exceptions.
 
@@ -51,7 +51,7 @@ Sera Ambervale, the most celebrated ruler of the central kingdoms of Aethelar, w
 
 Prejudices of station appear in certain customs. In the Deep Mourning practice of coastal communities, the elaboration of funeral offerings reflects the deceased's means — a merchant's family may cast silver while a fisher's family offers bread and flowers — but this is a matter of what the family can afford rather than a judgment of worth. In the Hands Joined marriage custom of the temperate lowlands, marriages between families of different standing are less common, but this is a consequence of the circles in which people move rather than of any formal barrier.
 
-## Prejudices Recorded in History
+## The Stone Plague and the Wars
 
 The historical record preserves a few instances in which prejudice shaped the course of events, and these are remembered because they stand out against the general disposition toward peaceful coexistence.
 
@@ -59,6 +59,6 @@ The Stone Plague, the great pestilence that swept through the known world in a f
 
 The wars of the known world have sometimes deepened the divisions between peoples. The Twin-Reaches Wars between the Amurra Republic and the Vashari Pact were accompanied by cultural contempt on both sides, each regarding the other as provincial or decadent — stereotypes that outlasted the conflict. The Stoneheim Pass War between the dwarven holds and a coalition of lowland princes is remembered differently by dwarven and human chroniclers, each emphasising the other's failures. These wartime prejudices faded in the generations of peace that followed, and the former adversaries now trade as freely as any other partners.
 
-## The Character of Prejudice
+## Local Conditions and the Overcoming of Division
 
 Where prejudice does appear, it is most often a local phenomenon — the product of particular histories, isolated conditions, or times of crisis rather than a feature of the world's permanent disposition. The same forces that produce it — trade, travel, and the exchange of knowledge — also overcome it, and the steady contact between peoples teaches each generation that strangers are not so strange after all.

@@ -3,11 +3,11 @@ layout: default
 title: Eldergrove
 ---
 
-## Overview
+## At the Edge of the Ancient Forests
 
 Eldergrove is a northern city of [Aethelar](/content/location/natural/continent/aethelar) situated at the edge of the ancient forests that cover the northern reaches of the continent. The city stands where the forest meets the open country of the river valleys, and its position at the boundary of woodland and cultivated land has made it a meeting point of the settled and forest peoples. Eldergrove is among the older cities of Aethelar, and its growth has been shaped by the proximity of the great forest, which has provided timber, game, and the materials of a woodland economy for centuries.
 
-## The Forest and the City
+## Selective Felling and the Elven Compact
 
 The ancient forests north of Eldergrove are among the oldest and most extensive woodlands in the known world, with a canopy so thick that the forest floor lies in perpetual shade. The [elves](/content/species/sapient/elves) who inhabit the deepest portions of the forest have a long and complex relationship with the city. The two peoples have coexisted for centuries, with the elves maintaining the forest and the humans maintaining the clearing and the settlement. The boundary between forest and city is not a sharp line but a gradual transition, and the outermost districts of Eldergrove are built among the trees, their houses set in gardens that merge with the woodland. The arrangement by which humans and elves share the forest is governed by a compact established in the early years of the settlement, specifying the areas that may be logged, the trees that may be felled, and the seasons in which the work may be done.
 
@@ -15,18 +15,18 @@ The timber of the ancient forest is the primary resource that has sustained Elde
 
 The game of the forest is another valued resource. The hunters of Eldergrove are skilled in pursuing deer, boar, and smaller animals that inhabit the woodland. Hunting is regulated by the same compact that governs logging, and hunters must obtain permission from elven foresters before entering the deeper portions of the forest. The meat taken from the forest is smoked and salted in the processing houses of the city, and the smoked venison of Eldergrove is a delicacy prized in the markets of the south.
 
-## Trade and Industry
+## Timber, Resin, and the Smoked Venison
 
 The trade of Eldergrove is dominated by the products of the forest, including timber, bark, resin, and the various fungi and herbs gathered from the woodland floor. Timber is exported to the southern cities and the coast, where the great trees of the northern forest are prized for their straight grain and durability. Bark and resin are used in the tanning and sealing essential to construction and shipbuilding across the continent. The game of the forest, including deer, boar, and smaller animals, forms a secondary export, and the smoked and salted meat of Eldergrove is a valued commodity in southern markets. The resin trade is particularly important, as the pine forests north of the city produce a high-quality resin used in the waterproofing of ships and the sealing of barrels, and Eldergrove resin commands a premium in ports as far south as the Sahrani coast.
 
 The city is also a centre for the woodworking that is the natural industry of a forest settlement. The carpenters, carvers, and cabinet-makers of Eldergrove are among the most skilled in Aethelar, and the furniture and carved objects of the city are noted for their quality and beauty, exported far and wide.
 
-## The City
+## Timber-Framed Houses and the Elven Quarter
 
 Eldergrove is a well-built city whose architecture reflects the woodland setting. Timber-framed buildings are clad in the dark wood of the forest, with roofs pitched steeply to shed snow and rain and windows fitted with shutters closed against the winter cold. The streets are broad and lined with trees, giving the city the character of a settlement that has grown in harmony with the forest rather than against it. The population is chiefly [human](/content/species/sapient/humans), with a significant community of [elves](/content/species/sapient/elves) involved in the management of the forest and the trade between the city and the woodland. The elven quarter is at the northern edge of the city, where the streets give way to gardens and woodland, and the houses of the elven community are built in and among the trees, connected by walkways suspended above the ground.
 
 The civic buildings of Eldergrove are constructed with the same timber-framed technique as the rest of the city but are larger and more elaborately decorated, with carved doorways and window frames that display the skill of the city's woodcarvers. The council hall is the most substantial building in the city, serving as the meeting place of the governing council and the venue for public assemblies convened to discuss the affairs of the settlement. The hall is built around a central courtyard planted with trees of the forest, and the courtyard becomes a gathering place during the warmer months.
 
-## Significance
+## Gateway Between Forest and Settled Land
 
 Eldergrove is the primary gateway between the settled lands of Aethelar and the ancient forests of the north, and its trade in timber and forest products is a significant component of the continent's economy. The city is the most important settlement of the [Northern Marches](/content/government/national/northern-marches), and its position at the edge of the forest gives it a strategic importance disproportionate to its size. The relationship between the city and the elves of the forest is a model of coexistence, and the careful management of the woodland developed over centuries is a source of prosperity for both. The timber exported from Eldergrove is the foundation of the construction and shipbuilding industries of the southern cities, and the city's contribution to the economy of the continent is far greater than its modest size would suggest.

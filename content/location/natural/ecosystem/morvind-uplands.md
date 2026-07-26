@@ -3,17 +3,17 @@ layout: default
 title: Morvind Uplands
 ---
 
-## Overview
+## High Peaks, Deep Valleys, and Extensive Plateaus
 
 The [Morvind](/content/location/natural/continent/morvind) Uplands form the mountainous interior of the continent of [Morvind](/content/location/natural/continent/morvind), a region of high peaks, deep valleys, and extensive plateaus that occupies the greater part of the landmass and defines its character. The uplands rise from the narrow coastal lowlands in a series of increasingly steep steps, culminating in the central massif whose highest peaks are covered in permanent snow and ice. The region is marked by the presence of the [dwarves](/content/species/sapient/dwarves), whose underground halls and mountain fortresses have been carved into the living rock over centuries of patient labour, and by the hardy communities of [humans](/content/species/sapient/humans) and [elves](/content/species/sapient/elves) who inhabit the more sheltered valleys and the lower slopes. The ecology of the Morvind Uplands is shaped by altitude, exposure, and the long winter that dominates the rhythm of life at every elevation.
 
-## Geology and Landforms
+## Folded Rock, Glacial Valleys, and Mineral Riches
 
 The mountains of the Morvind Uplands are among the oldest in the known world, their rocks folded and faulted by forces that no living scholar can date with certainty. The peaks are rounded and massive rather than sharp and jagged, for the action of ice and frost over geological time has worn away the sharper edges and left a landscape of smooth summits and broad ridges. The valleys between the ridges are U-shaped in cross-section, the product of glacial carving that scooped out the rock and left characteristic forms visible throughout the region. The floors of the main valleys are broad and flat, filled with sediment that has accumulated since the retreat of the glaciers, and they provide the most extensive areas of level ground in the entire upland region.
 
 The rock of the Morvind Uplands is rich in minerals, a fact that has shaped the history and economy of the entire continent. Veins of iron, copper, tin, and silver that run through the mountains have been worked since the earliest times, and the deeper levels of the dwarven mines have yielded ores of a purity seldom found elsewhere. The mountains also contain deposits of coal, marble, and precious stones that are the foundation of the decorative arts of the dwarven people, and the wealth that flows from the earth has made the [Stoneheim Holds](/content/government/national/stoneheim-holds) the most prosperous of the dwarven polities.
 
-## Climate of the Uplands
+## Eight Months of Winter and the Brief, Intense Summer
 
 The climate of the Morvind Uplands is cold and continental, with long winters and short summers that impose a strict rhythm upon the life of the region. Winter lasts for the better part of eight months, from the first snows of late autumn to the final thaw of late spring, and temperatures during this period are among the lowest recorded anywhere in the known world. The cold is dry and still, and the snow accumulates to a depth of many feet in the valleys while the higher slopes are scoured bare by winds that sweep across the peaks.
 
@@ -21,7 +21,7 @@ Summer in the Morvind Uplands is brief but intense, a period of rapid growth and
 
 Precipitation in the uplands is moderate, falling as snow in winter and as rain during the brief summer. The western slopes receive more moisture than the eastern, for prevailing winds from the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) drop their moisture as they rise over the coastal ranges. The snowpack that accumulates in the high valleys is the source of rivers that flow down to the coast, and the timing and volume of the melt are matters of close attention for communities that depend upon the water.
 
-## Alpine Flora
+## Conifer Forests, Alpine Meadows, and the Highest Lichens
 
 The plant life of the Morvind Uplands is arranged in distinct altitudinal zones, each with its own characteristic species and adaptations. The lower slopes, up to the treeline, are covered in dense coniferous forest composed of Morvind fir, black spruce, and mountain pine, the last of which is capable of surviving at higher elevations than any other tree in the known world. The forest is dark and quiet, the canopy dense enough to block much of the light, and the floor is carpeted with moss and needles that muffle the sound of footsteps.
 
@@ -29,7 +29,7 @@ Above the treeline, the vegetation changes abruptly to the open tundra of the al
 
 The highest elevations, above the limit of continuous vegetation, support only the hardiest of life forms. Lichens encrust exposed rock surfaces, their slow growth measuring the passage of years in fractions of an inch, and a few species of moss survive in sheltered crevices where moisture accumulates. The permanent snow and ice of the highest peaks support no plant life at all.
 
-## Fauna of the Highlands
+## Mountain Goat, Snow Cat, and the Marmot Whistle
 
 The animal life of the Morvind Uplands is adapted to the harsh conditions and seasonal extremes, and the species that inhabit the region are among the hardiest in the known world. The mountain goat is the most conspicuous of the large herbivores, its thick coat and sure-footedness allowing it to navigate the steepest slopes with ease. The goat moves between elevations with the seasons, grazing the alpine meadows in summer and descending to the forest edge in winter.
 
@@ -37,7 +37,7 @@ The snow cat, a large feline with a coat of pure white that provides camouflage 
 
 The smaller mammals include the alpine hare, whose coat turns white in winter and brown in summer, and the mountain marmot, a large rodent that hibernates through winter in burrows excavated in talus slopes. The marmot whistle is one of the characteristic sounds of the alpine summer, and its presence indicates the health of the high-altitude ecosystem. The birds of the uplands include the golden eagle, whose nests are found on ledges of the highest cliffs, and the ptarmigan, a grouse that changes its plumage with the seasons.
 
-## The Dwarven Holds and the Underground Ecosystem
+## Geothermal Halls and the Stoneheim Holds
 
 The [dwarves](/content/species/sapient/dwarves) of the Morvind Uplands have created an ecosystem of their own within the mountains. Their underground halls are not merely dwellings but complex environments that support a distinctive community of life. The halls are heated by geothermal warmth, and the air that circulates through them is maintained at a temperature comfortable for dwarven life regardless of surface conditions. Fungi that grow in the dark passages are cultivated for food and medicine, and blind fish of underground streams provide a source of protein that supplements the diet of grains and preserved meat imported from the lowlands.
 
@@ -45,12 +45,12 @@ The dwarven settlements are concentrated in the central massif, where mineral de
 
 The relationship between the dwarves and the surface ecology is one of careful management, for the dwarves depend upon the surface for timber, grazing, and food that cannot be produced underground. The forests of the lower slopes are managed for timber production, and the alpine meadows are used for summer grazing of mountain sheep and goats that provide wool and meat. The dwarven communities are thus integrated into the surface ecology in ways not always apparent to visitors.
 
-## Human and Elven Communities
+## The Valdmark and the Mountain Elves
 
 The [human](/content/species/sapient/humans) settlements of the Morvind Uplands are located in sheltered valleys and on plateaus where the climate is less severe and the soil is deep enough for cultivation. The [Valdmark](/content/government/national/valdmark) is the primary agricultural region of the interior, a broad valley along the eastern side of the central massif that benefits from the rain shadow of the western ranges. The farms of the Valdmark produce grain and wool that sustain the population of the region, and the market towns that line the valley are hubs of trade between the agricultural lowlands and the dwarven highlands.
 
 The [elves](/content/species/sapient/elves) of the Morvind Uplands are found in the wooded valleys of the lower slopes, where the coniferous forest provides the shelter and resources that their way of life requires. The elven communities of Morvind are smaller and more isolated than those of Aethelar, and they have adapted to the colder conditions by developing a stockier build and greater tolerance for low temperatures. The elves of the uplands maintain the same traditions of forest stewardship that characterise their kin elsewhere, but their management of the mountain forest is less intensive than the cultivation of temperate woodlands of the south.
 
-## Significance
+## Heart of the Continent, Source of Its Wealth
 
 The Morvind Uplands are the heart of the continent, the source of its mineral wealth and the foundation of its economy and culture. The mountains are the home of the dwarven people in their greatest concentration, and the halls of the Morvind uplands are the most extensive and most ancient of all dwarven settlements. The region is also a refuge for hardy species of plants and animals found nowhere else in the known world, and its ecology represents one of the most complete examples of a cold-altitude ecosystem in the three continents. The balance between the underground and the surface, between the dwarven and the human and the elven, and between the demands of extraction and the need for preservation, is the central challenge of life in the Morvind Uplands.

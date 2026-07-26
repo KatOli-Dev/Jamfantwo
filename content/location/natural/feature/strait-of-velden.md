@@ -3,29 +3,29 @@ layout: default
 title: Velden Strait
 ---
 
-## Overview
+## The Narrows Gate Between Two Oceans
 
 The Strait of [Velden](/content/location/settlement/city/velden) is a narrow channel connecting the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), passing between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). The strait has long been a point of strategic importance, as any vessel travelling between the two oceans must pass through these waters. The name Velden is drawn from the oldest charts of the region, and its origin is uncertain, though some scholars have proposed that it derives from a word in an ancient coastal tongue meaning narrows or gate.
 
-## Geography and Conditions
+## Two-Mile Width and the Reversing Currents
 
 At its narrowest point the strait contracts to less than two miles, where the meeting of two bodies of water creates lively and unpredictable currents. The waters of the Auric, warm and swift-flowing, press against the cooler and more turbulent waters of the Stormfall, producing eddies and tide-rips that test the skill of any mariner. The tidal range within the strait is considerable, and the direction and strength of the current reverses with each tide, so that a vessel entering the strait at the wrong time may find itself unable to make headway against the flow. The pilots who navigate the strait are specialists, trained from youth in the particular conditions of the channel, and their services are sought by every captain who must make the passage with a cargo of value.
 
 The shores of the strait are steep and rocky, particularly on the Morvind side, where the mountains descend almost to the water's edge. The Aethelaran shore is less dramatic, a coast of low cliffs and sheltered coves providing anchorage for vessels waiting for the tide to turn. Watchtowers and harbours have been built along both shores over the centuries, and the settlements on either side have grown wealthy from the steady flow of trade through the channel. The principal towns are [Veldenwatch](/content/location/settlement/town/veldenwatch) on the Morvind shore and [Southport](/content/location/settlement/town/southport) on the Aethelaran shore, which together govern the pilotage and toll collection at the narrowest point, and [Caerhaven](/content/location/settlement/town/caerhaven) at the Auric mouth on the Aethelaran side, serving as the staging point for vessels entering or leaving the strait from the east. The oldest watchtowers date from an age before the present nations existed, raised by peoples whose names are now forgotten, and their ruins still stand upon the headlands as a reminder of the strait's long history.
 
-## Governance and Trade
+## Cooperation, Tolls, and the Century-Old Treaty
 
 Treaties governing passage through the strait have been negotiated and renewed many times, and the powers bordering it have generally found it more profitable to cooperate than to quarrel. Duties and tolls levied on passing vessels provide a steady income to the coastal towns, and the agreement to keep the strait open to all peaceful trade has endured through periods of tension that might otherwise have closed it. The terms of the current treaty have held for over a century, a testament to the mutual benefit that the arrangement provides, and the mechanisms for resolving disputes are well established and respected by all parties.
 
 The strait remains one of the most travelled and cosmopolitan stretches of water in the known world, where languages and goods from three continents meet. The markets of the strait towns offer goods from [Aethelar](/content/location/natural/continent/aethelar), [Morvind](/content/location/natural/continent/morvind), and [Sahrana](/content/location/natural/continent/sahrana) side by side, and the exchange of ideas and customs that takes place here has influenced the cultures of all three continents. The towns are known for their tolerance and openness to strangers, qualities forced upon them by the sheer diversity of the traffic passing through their harbours, and a visitor may hear a dozen languages spoken within a single market square.
 
-## The Towns of the Strait
+## Veldenwatch, Southport, and the Blended Architecture
 
 The towns on either shore of the strait have developed a character distinct from the surrounding coast, shaped by the constant passage of vessels and the wealth that the trade brings. The architecture blends the traditions of both continents, with the heavy stone walls of the Morvind shore softened by the lighter arcades and courtyards of the Aethelaran coast, and the buildings rise three and four storeys high, their upper floors projecting over the narrow streets to maximise use of space within the confined walls. The harbours are the heart of each town, and the quaysides are lined with warehouses, counting houses, and the inns and taverns serving the transient population of sailors and merchants.
 
 The prosperity of the strait towns is built upon the services they provide to vessels passing through. Pilotage is the most important of these, and the pilots of the strait are organised into guilds that regulate training, set fees, and maintain the standards of their profession. The pilots are drawn from both shores and from the families that have navigated the strait for generations, and their knowledge is a closely guarded inheritance, passed from parent to child and refined by each generation's experience. A pilot who knows the strait can guide a vessel through the narrowest reaches in conditions that would daunt any outsider, reading the currents by the movement of the water and the shape of the cliffs, and the fees they command are among the highest paid for any service in the maritime world.
 
-## Peoples
+## People of the Strait
 
 The settlements along the strait are populated chiefly by [humans](/content/species/sapient/humans), who have inhabited both shores since the earliest recorded voyages through the channel. The people of the strait identify more closely with the channel and its trade than with the inland nations claiming their allegiance, and their loyalties are shaped by the sea and the commerce it brings rather than by the politics of distant capitals. The communities on both shores share a common identity as the people of the strait, and their cooperation in the governance and defence of the channel has created a bond transcending the political division between the two continents.
 

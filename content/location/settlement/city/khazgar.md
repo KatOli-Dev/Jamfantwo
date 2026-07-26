@@ -3,40 +3,40 @@ layout: default
 title: Khazgar
 ---
 
-## Overview
+## Underground City of Renowned Metalwork
 
 Khazgar is a [dwarven](/content/species/sapient/dwarves) underground city in the interior ranges of [Morvind](/content/location/natural/continent/morvind), renowned throughout the known world for the quality of its metalwork and the skill of its smiths. The city is carved into a rich vein of ore that runs through the mountains, and its halls and forges are situated close to the deposits that sustain them, making Khazgar one of the most efficient and productive mining settlements in the dwarven world. The city is smaller than [Stoneheim](/content/location/settlement/city/stoneheim), but its reputation for craftsmanship rivals that of the greater city, and the metalwork produced in its forges is among the finest in Morvind.
 
-## The Halls and the Forges
+## The Great Vein and the Integrated Forges
 
 The halls of Khazgar are arranged around the great vein of ore that is the reason for the city's existence. The forges are situated close to the mine workings, for the ore extracted from the depths is smelted and worked in the same complex of chambers and passages. This arrangement is unusual among dwarven cities, where the mines and forges are typically separated by some distance, and the efficiency of the Khazgar system is one of the reasons for the city's productivity. The great hall of Khazgar is smaller than that of Stoneheim, but it is the centre of the city's metallurgical industry, and the forges lining its walls are among the hottest and most active in the dwarven world.
 
 The metalwork produced in Khazgar includes weapons, tools, armour, and the decorative objects for which the city is renowned. The smiths of Khazgar are noted for their skill in the working of steel and the precious metals. The steel produced in the forges of Khazgar is regarded as the finest in Morvind, and the weapons made from it are prized by warriors and soldiers of every continent. The city's decorative metalwork, including jewellery and ceremonial objects produced in the upper forges, is noted for its beauty and precision, and the smiths of Khazgar are among the most sought-after craftsmen in the known world. Khazgar steel is distinguished by a characteristic ripple pattern on the surface of the finished blade, produced by a folding technique that the city's weaponsmiths have refined over generations.
 
-## Mining and Trade
+## Iron, Copper, and the Stoneheim Connection
 
 The mining operations of Khazgar are focused on the great vein running through the mountains. The ore extracted includes iron, copper, and the precious metals that are the raw material of the city's metalwork. The mines are worked continuously, for the demand for Khazgar's products is great and the vein is rich, and the miners of the city are among the most skilled and productive in Morvind. The ore extracted is smelted in the forges and worked into the finished products that are the city's primary export, and the metalwork of Khazgar is traded to every continent through the overland routes connecting the interior to the coast.
 
 The trade connecting Khazgar to the coast is managed through [Stoneheim](/content/location/settlement/city/stoneheim) and the network of routes linking the dwarven cities of the interior to the ports of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The metalwork of Khazgar is transported overland to the coast, where it is loaded onto vessels for shipment to the markets of [Aethelar](/content/location/natural/continent/aethelar) and beyond, and the return cargo includes the grain, cloth, and manufactured goods that the city cannot produce for itself.
 
-## The Smiths and the Guilds
+## Weaponsmiths, Decorative Smiths, and the Rigorous Apprenticeship
 
 The smiths of Khazgar are organised into guilds that correspond to the different branches of the metallurgical craft. Each guild maintains its own forge, its own apprenticeship, and its own standards of quality. The guild of the weaponsmiths is the most prestigious, for the steel produced in the forges of Khazgar is the foundation of the city's reputation, and the weapons made from it are valued by warriors and soldiers throughout the known world. The guild of the decorative smiths is the second in prestige, and the jewellery and ceremonial objects produced in the upper forges are noted for their beauty and precision. The guild of the toolsmiths is the largest, for the tools produced in Khazgar are the foundation of the mining and metalworking industries of the dwarven world, and the demand for them is constant. A master toolsmith of Khazgar can produce a set of miner's picks that will outlast three sets made by any other smithy, a claim that the guild backs with a formal guarantee.
 
 The apprenticeship system of Khazgar is among the most rigorous in the dwarven world. The training of a smith begins in childhood and continues for many years before the apprentice is permitted to work independently. The masters of the guilds are the guardians of the standards, and the work of each smith is evaluated by the masters before it is permitted to bear the mark of Khazgar, the stamp that is the guarantee of quality and the sign of the city's reputation. The mark of Khazgar is recognised throughout the known world, and the metalwork bearing it commands a premium in every market from the coast to the far continents.
 
-## The City
+## Heat of the Forges and the Council of Smiths
 
 The population of Khazgar is entirely [dwarven](/content/species/sapient/dwarves), and the community is devoted to the metallurgical industry that is the reason for the city's existence. The dwellings of Khazgar are carved into the rock above the forges, and the living quarters are warmer than those of most dwarven cities, for the heat of the forges permeates the surrounding stone. The city is a dependency of the [Stoneheim Holds](/content/government/national/stoneheim-holds), and its governance is integrated with that of the larger realm, though the day-to-day management of the city is in the hands of the local council of smiths and mine overseers.
 
 The council of smiths and mine overseers meets in a chamber situated above the great hall, and the decisions of the council govern every aspect of the city's life, from the allocation of ore to the regulation of the forges and the management of trade. The council is composed of the masters of the guilds and the overseers of the mines, and the chairmanship rotates among the senior members, ensuring that no single guild or interest dominates the governance of the city. The council also maintains the relationship with the court of the [Stoneheim Holds](/content/government/national/stoneheim-holds), and the tribute paid to the larger realm is a significant contribution to the economy of the dwarven holdings.
 
-## History
+## Khazgar Ironvein and the Deepening Workings
 
 The founding of Khazgar is recorded in the oral traditions of the dwarven people as a discovery rather than a settlement. The city was established at the site where a prospector named Khazgar Ironvein first identified the great vein of ore that runs through the mountains. The discovery dates to the early centuries of dwarven expansion into the interior of [Morvind](/content/location/natural/continent/morvind), and the city that grew around the vein took the name of the prospector who found it. The early settlement was a modest collection of mine workings and forges, but the richness of the vein and the skill of the smiths drawn to it ensured that the city grew steadily over the centuries.
 
 The history of Khazgar has been largely peaceful, for the city is situated deep in the interior of Morvind, far from the borders and conflicts that have troubled the coastal regions. The greatest challenge the city has faced is the maintenance of the vein, for the ore that is the foundation of the city's prosperity is a finite resource, and the miners of Khazgar have worked ever deeper into the mountains to follow the vein as it descends. The deeper workings are more dangerous and more difficult to maintain, and the council of smiths and mine overseers has invested heavily in the shoring and ventilation of the lower levels, ensuring that the city's industry can continue without interruption. The lowest workings now extend more than five hundred paces below the great hall, and the heat and pressure at that depth require specialised equipment and shorter shifts for the miners.
 
-## Significance
+## Premier Centre of Metalwork in Morvind
 
 Khazgar is the premier centre of metalwork in Morvind, and its products are among the most valued in the known world. The city's reputation for craftsmanship is the foundation of its prosperity, and the metalwork produced in its forges is a significant contribution to the economy of the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the continent as a whole. The significance of Khazgar lies in the quality of its output and the skill of its people, and the city stands as a symbol of the dwarven mastery of metal that is the defining achievement of dwarven civilisation.

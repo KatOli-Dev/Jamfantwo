@@ -3,32 +3,32 @@ layout: default
 title: Velden Coastlands
 ---
 
-## Overview
+## The Communities of the Narrow Channel
 
 The [Velden](/content/location/settlement/city/velden) Coastlands are the coastal territories on both shores of the [Velden Strait](/content/location/natural/feature/strait-of-velden), the narrow channel connecting the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean) between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). The coastlands take their name from the strait, whose name is drawn from the oldest charts and is thought to derive from an ancient word meaning narrows or gate. The region is a meeting point of two continents and two oceans, and its people have built their livelihoods upon the steady flow of trade through the channel and the difficult pilotage the passage demands.
 
 The coastlands are not a kingdom but a community of interest, defined by the geography of the strait and the commerce it carries. The settlements on both shores are joined by the [Velden Compact](/content/government/local/velden-compact), the joint governance regulating pilotage, tolls, and maintenance of navigation aids that keep the strait open to the trade of the world. The coastlands extend from the sheltered coves of the Aethelaran side to the steep and rocky Morvind shore.
 
-## Geography and Climate
+## Steep Morvind Cliffs and Gentler Aethelaran Coves
 
 On the Morvind side, the mountains come close to the shore, and cliffs rise steeply from the water's edge, broken only by occasional gullies through which streams descend from the heights. The harbours are few and difficult of access, sheltered in narrow coves carved into the rock by centuries of wave and weather. On the Aethelaran side, the coast is gentler, with low cliffs and sheltered coves providing anchorage for vessels waiting for the tide, and the land rises gradually inland toward forests and river valleys.
 
 The climate is shaped by the meeting of two oceans. The air above the strait is laden with moisture rising from the warm waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and condensing against the cooler air from the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). Fog and mist are common, particularly in spring and autumn, and mariners have learned to navigate by the feel of current and the sound of waves when visibility fails. The prevailing winds blow along the axis of the strait, rising to a gale during winter storms when the passage becomes too dangerous for all but the most determined captains. The tidal range is considerable, and the current reverses with each tide.
 
-## Settlements and Population
+## Veldenwatch, Southport, and the Smaller Harbours
 
 [Veldenwatch](/content/location/settlement/town/veldenwatch) is the principal Morvind-side town, situated where the cliffs fall back to permit a deep, sheltered cove serving as the harbour. [Southport](/content/location/settlement/town/southport) is its counterpart on the Aethelaran side, occupying a raised shelf of rock overlooking a broad cove at the narrowest reach of the strait. [Caerhaven](/content/location/settlement/town/caerhaven) lies to the east of Southport, where the strait opens into the Auric Ocean, its harbour serving as the staging point for vessels preparing to enter or leave the passage.
 
 Beyond the three principal towns, the coastlands include smaller settlements and outposts that contribute to the life of the strait. [Hafnir](/content/location/settlement/city/hafnir) is a port to the north on the Morvind side, associated with the compact through its trade with the strait and sending timber, fish, and the produce of the Morvind interior to the strait towns. [Torshavn](/content/location/settlement/town/torshavn) is a smaller settlement on the same coast, its harbour connected to the strait by coastal roads and overland routes descending from the mountains. The population is chiefly [human](/content/species/sapient/humans), and the people identify more closely with the channel and its trade than with inland nations. The communities on both shores share a common identity as the people of the strait, and their cooperation in the governance and defence of the passage has created a bond that transcends the political division between the two continents. The [dwarves](/content/species/sapient/dwarves) of the Morvind interior maintain agents in the strait towns to manage the flow of metalwork, their counting houses among the most substantial buildings on the waterfront. A small community of [gnomes](/content/species/sapient/gnomes) produces fine instruments valued by mariners.
 
-## Trade and the Compact
+## Tolls, Pilotage, and the Exchange of Continents
 
 The trade flowing through the coastlands includes the metalwork of [Morvind](/content/location/natural/continent/morvind), the grain and cloth of [Aethelar](/content/location/natural/continent/aethelar), and the spices and dyes of [Sahrana](/content/location/natural/continent/sahrana). The tolls and pilotage fees collected by the [Velden Compact](/content/government/local/velden-compact) are the primary source of revenue for the member towns, and the fair and efficient collection of these tolls is the foundation of the coastlands' prosperity. The compact ensures that the tolls are levied uniformly and that the passage of vessels is not delayed or obstructed, for the trade that flows through the strait is vital to the economies of all three continents. The pilotage service is the other great function of the coastlands. The pilots are drawn from families that have navigated the strait for generations, their knowledge a closely guarded inheritance passed from parent to child. Qualification is determined by an examination conducted by the guild, among the most rigorous in the known world. The shipyards and chandleries are known for the rapid and reliable maintenance the strait trade demands.
 
-## The Life of the Strait
+## Summer Crowds, Winter Quiet, and the Shared Defence
 
 During summer months, when weather is most favourable, the harbours are filled with vessels awaiting pilotage, and the streets are crowded with mariners and merchants working the strait. During winter, when storms make passage dangerous, the harbours serve as refuges and the towns enter a quieter period. The pilots maintain the navigation aids lining the channel, including lighthouses on both shores and buoys marking navigable passages. The lighthouses are among the oldest structures in the coastlands. The defence of the coastlands is the shared responsibility of the compact, and the combined force is modest but well-trained in the conditions of the strait.
 
-## Significance
+## The Guardians of the Most Important Waterway
 
 The Velden Coastlands are the human community of the most important waterway in the known world, their prosperity and skill the foundation of the trade connecting the continents. The settlements have developed a character distinct from the surrounding coast, shaped by the constant passage of vessels and the wealth the trade brings. The significance of the coastlands lies in their role as the guardians of the strait and the regulators of the trade flowing through it, a symbol of cooperation and commerce that overcomes the divisions of continent and kingdom.

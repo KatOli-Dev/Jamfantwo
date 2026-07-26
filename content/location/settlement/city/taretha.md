@@ -3,11 +3,11 @@ layout: default
 title: Taretha
 ---
 
-## Overview
+## A City of Libraries and Scholarship
 
 Taretha is a coastal city-state on the northern coast of [Sahrana](/content/location/natural/continent/sahrana), renowned throughout the known world for its libraries and scholarship. The city stands on a sheltered bay where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the fertile strip of the northern coast, and its position on the coast and proximity to the interior have made it a natural gathering point for the knowledge and learning of the [Sahrani](/content/language/spoken/sahrani) civilisation. Taretha's wealth is built not upon trade alone but upon the accumulation and preservation of knowledge.
 
-## The Libraries
+## The Extensive Collections and the Scriptorium
 
 The libraries of Taretha are the most extensive in the known world and are the primary institution of the city. They contain collections of manuscripts, scrolls, and codices gathered from every continent and age, including works of history, philosophy, mathematics, medicine, and the natural sciences, as well as the literary and religious texts that are the cultural heritage of the Sahrani people. The libraries are housed in a series of substantial buildings in the centre of the city, and the architecture of the library complex is noted for its beauty and suitability for preserving the collections, with thick walls, shaded reading rooms, and climate-controlled chambers that protect the most fragile materials. The oldest of the library buildings is of great antiquity, its walls inscribed with texts carved into the stone by the earliest scholars of the city.
 
@@ -15,16 +15,16 @@ The libraries are open to scholars from every continent, and the city has a long
 
 The libraries are governed by a council of senior scholars responsible for the acquisition, preservation, and organisation of the collections. The council oversees the cataloguing of holdings, acquisition of new materials, and admission of scholars to the reading rooms. The council also maintains a network of contacts with institutions and scholars of the wider world, and the exchange of manuscripts and copies flowing through these contacts is a vital source of new materials added to the collections each year. The council meets regularly to discuss the needs of the libraries and to decide on the acquisition of new works, ensuring that the collections continue to grow and remain relevant to the scholars who depend on them.
 
-## The Harbour and the Trade
+## Modest Commerce and Medicinal Exports
 
 The harbour of Taretha is a modest but sufficient anchorage sheltered by a pair of headlands, and the trade flowing through the port is secondary to the scholarly activity that is the primary function of the city. The trade includes the export of manuscripts and copies produced in the libraries, valued by scholars and institutions of the northern continents, and the import of books and materials needed for the work of the libraries. The city is also a centre for trade in pharmaceutical and medicinal products derived from the knowledge of Sahrani herbalists and physicians, and the drugs and remedies produced in Taretha are valued throughout the known world.
 
-## The City
+## Elegant Stone and Cultivated Gardens
 
 Taretha is a beautiful, well-built city whose architecture reflects the cultivated and intellectual character of the community. Elegant buildings of light-coloured stone, shaded courtyards, and gardens and fountains that are the hallmark of the Sahrani architectural tradition are found throughout the city. The streets are broad and quiet, for the city is oriented toward study rather than commerce, and the public buildings are dominated by the library complex and associated institutions of learning. The population is chiefly [human](/content/species/sapient/humans), with a diverse community of scholars and students from every continent. The presence of so many learned people from so many lands gives the city a character unlike any other in Sahrana, for the conversations in the reading rooms and courtyards span the breadth of the known world.
 
 The gardens of Taretha are a particular feature of the city, and their cultivation is a tradition dating to the earliest years of the settlement. The gardens are planted with trees and flowers native to the Sahrani coast, and the irrigation that sustains them is a work of considerable engineering, with water drawn from springs in the foothills behind the city and conducted through a system of channels and cisterns to the gardens and fountains. The gardens are open to scholars and citizens and serve as a place of contemplation and conversation where the learned people of Taretha gather to discuss the ideas that are the substance of their work. The beauty of the gardens complements the intellectual atmosphere of the city, and many visitors remark on the harmony between the cultivated landscape and the scholarly pursuits of the inhabitants.
 
-## Significance
+## The Centre of Sahrani Learning
 
 Taretha is the primary centre of learning in Sahrana and the home of the most extensive libraries in the known world. Its significance lies in the preservation and advancement of knowledge that is the cultural heritage of the Sahrani people and the wider world. The city is a leading member of the [Northern Coast League](/content/government/national/northern-coast-league), and its scholarly activity is a valued contribution to the culture and civilisation of the Sahrani coast. The knowledge preserved in the libraries of Taretha is a resource that benefits every continent, and the scholars who study there carry the learning of the city to the farthest corners of the known world. The reputation of Taretha as a centre of learning attracts students and scholars from across Sahrana and the northern continents, and the city's libraries continue to grow through the acquisition and copying of manuscripts from every part of the known world.

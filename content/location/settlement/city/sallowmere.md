@@ -3,11 +3,11 @@ layout: default
 title: Sallowmere
 ---
 
-## Overview
+## A Southern Port on the Eastern Aethelaran Coast
 
 Sallowmere is a southern port city on the eastern coast of [Aethelar](/content/location/natural/continent/aethelar), situated where the coastline begins to curve toward the warm plains of the south. The city is the gateway to the warm plains and the southern trade routes, and its harbour is the last major port of call for vessels heading south along the eastern coast before the land turns toward the open [Auric Ocean](/content/location/natural/feature/auric-ocean). The trade of Sallowmere is shaped by its position at the boundary of the temperate and warm regions, and the goods passing through its harbour reflect the transition from the products of the temperate north to the exotic goods of the southern seas.
 
-## The Harbour and Trade
+## The Sandbar Harbour and the Monsoon Voyages
 
 The harbour of Sallowmere is a broad, shallow bay sheltered by a long sandbar that runs parallel to the shore, forming a natural breakwater that calms the waters within. The approach requires careful navigation, for the sandbar shifts with the seasonal storms, and the pilots of Sallowmere are skilled in reading the channels and tides. The quays are built along the inner shore of the bay, and the warehouses and trading houses of the city line the waterfront.
 
@@ -17,17 +17,17 @@ The seasonal rhythm of the trade is shaped by the winds and currents of the Auri
 
 The population of Sallowmere is chiefly [human](/content/species/sapient/humans), with a growing community of [centaurs](/content/species/sapient/centaurs) from the warm plains who are drawn to the city by the trade and opportunities of the coast. The markets of Sallowmere are a meeting point where the settled humans and the nomadic centaurs exchange goods and news. The centaurs of the plains bring wool, leather, and livestock raised on the open grassland, and they take in return grain, cloth, and metal tools imported from the north.
 
-## The City
+## Light-Coloured Stone and Centaur Quarters
 
 Sallowmere is a warm, sunlit city whose architecture reflects the mild climate of the southern coast. The buildings are constructed of light-coloured stone, with wide windows and shaded verandas that take advantage of the sea breezes, and the roofs are tiled in the southern tradition. The streets are broad and lined with trees that provide shade, and the public squares are furnished with fountains and wells that are a central feature of the city's life.
 
 The relationship between the settled humans and the nomadic centaurs is one of cautious co-operation. The centaur quarter of the city, a district of broad yards and open shelters outside the walls, is a testament to the growing permanence of the relationship, and the centaur elders who reside there during the trading season are a recognised part of the city's commercial life. The centaurs bring not only goods but news of the southern plains, and the market of Sallowmere serves as a hub of information about conditions in the interior and the movements of the pastoral peoples who range across the warm grasslands.
 
-## Significance
+## Gateway Between Temperate and Warm Regions
 
 Sallowmere is the primary gateway between the temperate eastern coast and the warm southern regions, and its trade connects the markets of the north to the goods of the south. The city is the southernmost major port of the eastern coast, and its position at the boundary of two climatic zones gives it a commercial significance disproportionate to its size. The city is a member of the [Thessaran League](/content/government/national/thessaran-league), and its trade with the centaurs of the warm plains is a valuable asset of the league's southern commerce.
 
-## History
+## From Fishing Village to Centaur Trade Hub
 
 Sallowmere was founded as a fishing village on the sheltered bay, and the earliest settlers were drawn by the abundance of the coastal waters and the fertility of the land nearby. The village grew into a town as the trade between the northern coast and the southern regions developed, and the natural advantages of the harbour attracted merchants and shipowners who established the trading houses that still line the waterfront. The city was admitted to the Thessaran League in the early centuries of the league's existence, and membership has been a source of prosperity and protection, for the league's fleet patrols the southern waters and its council has arbitrated disputes between Sallowmere and its neighbours. The early history of the city was shaped by the gradual expansion of trade routes into the southern seas, and the harbour became the terminus of the monsoon trade that connected Aethelar to the distant markets of Sahrana.
 

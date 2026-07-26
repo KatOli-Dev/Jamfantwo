@@ -3,11 +3,11 @@ layout: default
 title: Pact Guard
 ---
 
-## Overview
+## The Standing Military Force of the Vashari Pact
 
 The Pact Guard is the standing military force of the [Vashari Pact](/content/government/national/vashari-pact), the collective body of soldiers and guards contributed by the member cities to the protection of the caravan routes of the [Kharesh](/content/location/natural/feature/kharesh) and to the defence of the inland settlements at the edge of the great desert. The Guard is composed of foot soldiers, mounted scouts, and watchtower garrisons established along the principal routes, commanded by a captain appointed by the council for a customary term of six years. The Guard is the foundation of the security of the caravan trade connecting the coastal cities of the northern [Sahrani](/content/language/spoken/sahrani) to the oases and upland settlements of the interior, and it is the principal military instrument of the [Vashari Pact](/content/government/national/vashari-pact). The Guard has been maintained without interruption since the early years of the Pact and is the most distinctive of the collective institutions of the alliance.
 
-## Composition and Officers
+## The Captain, the Lieutenants, and the Serjeants
 
 The Pact Guard is composed of soldiers and guards contributed by the member cities of the [Vashari Pact](/content/government/national/vashari-pact), the contribution of each member set by the council in proportion to the city's ability to provide. The foot soldiers form the principal body of the Guard, drawn from the households of the inland cities and from the salawa communities of the desert margin. The mounted scouts form the second body, drawn from the households of the cities that maintain breeding herds. The watchtower garrisons form the third body, drawn from the experienced soldiers of the principal cities. The composition of the Guard is determined by the council at the spring session of each year, the formal beginning of the campaigning season.
 
@@ -17,7 +17,7 @@ The captain is assisted by lieutenants appointed from among the soldiers recomme
 
 The sergeants of the Guard are the senior non-commissioned officers, drawn from soldiers who have served the customary term of years. They are responsible for the daily discipline of the foot soldiers and mounted scouts and for the maintenance of the arms and provisions the Guard requires. The sergeants are the foundation of the continuity of discipline and the tradition of careful preparation the force has maintained.
 
-## The Caravan Routes
+## The Kharesh Caravan Way and Its Protection
 
 The principal concern of the Guard is the security of the caravan routes that cross the [Kharesh](/content/location/natural/feature/kharesh) and connect the inland cities to the coast, the lifeline of the [Vashari Pact](/content/government/national/vashari-pact). The [Kharesh Caravan Way](/content/location/route/trade/kharesh-caravan-way) is the network of overland passages the caravans travel between the coastal cities of the north and the oases and upland settlements of the interior, and the Guard maintains a continuous patrol along the principal arteries of the network. The security of the routes is the foundation of the prosperity of the member cities and the reputation of the Guard as the principal military instrument of the Pact.
 
@@ -25,7 +25,7 @@ The disposition of the patrols is the responsibility of the captain, set in cons
 
 The Guard is supplemented by the salawa guides who accompany the caravans, providing the knowledge of the desert essential for safe passage. The salawa guides are the most respected members of any caravan, for their decisions can mean the difference between safe arrival at the next oasis and slow death in the deep desert. The guides are not members of the Guard but are under its protection, and the Guard has the power to call upon them for assistance in the conduct of patrols. The co-operation between the Guard and the salawa is the foundation of the security of the routes.
 
-## The Watchtowers
+## The Stone Towers Along the Caravan Routes
 
 The Guard maintains a chain of watchtowers along the principal caravan routes, the most visible sign of its presence upon the desert. The watchtowers are situated at the points where the routes are most exposed to the threat of raiding, constructed of local stone in a form the desert builders have long employed. The watchtowers are of two stories, with a stout door and roof, built upon a rise of ground commanding a wide view of the route in both directions. The watchtowers have been the foundation of the security of the routes and the refuge of many a traveller caught upon the route in time of storm.
 
@@ -33,26 +33,26 @@ The garrison of a watchtower consists of a sergeant and a squad of soldiers, hol
 
 The present captain has directed the construction of two new watchtowers upon the routes passing through the deep desert, a significant undertaking requiring the labour of the soldiers and the craftsmen of the member cities. The watchtowers are now in operation, and the patrols conducted from them have substantially reduced the incidence of raiding upon the routes they command.
 
-## The Reserve
+## The Garrison at Vashari and the City Militias
 
 The captain maintains a reserve at the city of [Vashari](/content/location/settlement/city/vashari) that may be dispatched to the relief of any city or watchtower threatened. The reserve is composed of the most experienced soldiers of the Guard, equipped with the arms and provisions required for a campaign in the deep desert. The reserve has been called upon on several occasions during the long history of the Guard and has been the foundation of the defence of the inland cities in the most serious crises the [Vashari Pact](/content/government/national/vashari-pact) has faced.
 
 The captain is responsible for the co-ordination of the militias of the individual cities, and the lieutenants are in regular communication with the commanders of the militias to ensure the defences of the cities are in a state of readiness. The militias are the foundation of the defence of the member cities and the tradition of collective security the Pact has maintained. The captain maintains a careful record of the strength and disposition of the forces available, and the reports submitted to the council are among the most important documents to come before the sessions.
 
-## The Cycle of the Year
+## The Seasonal Rhythm of Desert Patrols
 
 The Guard operates according to a cycle of the year determined by the rhythms of the caravan trade and the climate of the [Kharesh](/content/location/natural/feature/kharesh). The campaigning season begins with the spring session of the council, the period during which the caravans are most active and the patrols are most necessary. The summer months are the most demanding, for the heat of the desert places a severe strain upon the soldiers, who must be provisioned with care the captain supervises. The autumn brings a reduction in traffic and is the period during which the Guard conducts the maintenance of the watchtowers and shelters. The winter is the period of rest, during which the soldiers return to their home cities and the watchtowers are held by a reduced garrison.
 
 The cycle of the year is one of the foundations of the continuity of the Guard and the tradition of careful preparation the force has maintained. The captain sets the pattern in consultation with the lieutenants and sergeants. The cycle has been observed without interruption since the early years of the Pact.
 
-## Relations with the Tribes
+## Mediation with the Kharesh Tribes
 
 The Guard maintains a complex relationship with the [Kharesh Tribes](/content/government/national/kharesh-tribes), the confederation of nomadic peoples of the desert, a relationship that is the foundation of the security of the caravan routes. The tribes provide the knowledge of the desert the caravans require, and the Guard provides the protection of the routes the tribes need for the conduct of their trade. This co-operation is the foundation of the security of the inland trade.
 
 The Guard has, on several occasions, been called upon to mediate disputes between the member cities and the tribes, a significant factor in the maintenance of the peace and co-operation that sustain the caravan trade. The mediation is conducted by the captain in consultation with the elders of the tribes. The captain maintains a careful record of the agreements concluded with the tribes, which form the formal foundation of the security of the routes.
 
-The scholars of the [Ebb and Flow](/content/belief/science/theoretical/ebb-and-flow) have noted that the records of the Guard are among the most reliable inland sources for the study of the cycles of the [Kharesh](/content/location/natural/feature/kharesh). The co-operation between the Guard and the scholars is one of the distinctive features of the institution.
+The scholars of the Ebb and Flow have noted that the records of the Guard are among the most reliable inland sources for the study of the cycles of the [Kharesh](/content/location/natural/feature/kharesh). The co-operation between the Guard and the scholars is one of the distinctive features of the institution.
 
-## Significance
+## The Living Inheritance of the Caravan Trade
 
 The Pact Guard is the standing military force of the [Vashari Pact](/content/government/national/vashari-pact) and the principal military instrument of the alliance. Maintained without interruption since the early years of the Pact, the Guard is the foundation of the security of the caravan trade connecting the coastal cities of the northern Sahrani to the oases and upland settlements of the interior. The Pact Guard is among the most useful and least controversial of the collective institutions of the [Vashari Pact](/content/government/national/vashari-pact), maintained not by a ruling house or a priesthood but by the steady co-operation of the member cities and the captain the council has appointed. The Guard endures, in the watchtowers and upon the routes, as the living inheritance of those whose work and life are bound up with the caravan trade of the [Kharesh](/content/location/natural/feature/kharesh).

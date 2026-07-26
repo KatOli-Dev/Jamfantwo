@@ -3,37 +3,37 @@ layout: default
 title: Karathi
 ---
 
-## Overview
+## Karathi Explained
 
 Karathi is the speech of the interior highlands of [Morvind](/content/location/natural/continent/morvind), used in the sheltered plateaus, the mountain valleys, and the great dwarven halls that lie beneath the central ranges. The language is most closely associated with the dwarven population of the high country. Karathi is spoken as a first language by the human communities of the upper valleys and as a second language by the [elf](/content/species/sapient/elves) communities of the lower slopes and by every merchant who requires a working knowledge of the highland trade. The name is taken from an old highland word for the central range, and the language is sometimes called the hall speech by the coastal communities of the north.
 
 The origins of Karathi lie in the speech of the earliest dwarven settlements of the central ranges. The language has grown over the centuries through contact with the [Morvindi](/content/language/spoken/morvindi) of the coastal lowlands, the elven [Quessan](/content/language/spoken/quessan) of the sheltered valleys, and the trade tongues that arrive by sea from [Aethelar](/content/location/natural/continent/aethelar) across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that highland speakers no longer recognise as foreign. The result is a language of considerable gravity, suited to the description of stone, metal, the long winters, and the patient business of the halls, and capable of adaptation to the specialised vocabularies of the mine, the forge, and the council chamber of the highland clans.
 
-## Sounds
+## Sound and Writing
 
 Karathi is spoken in a register that is deeper and more resonant than the common speech of the coastal lowlands. Lowland visitors often remark upon the slowness of the highland speech and the weight speakers place upon the closing consonants of every word. The consonants are numerous, and the language distinguishes several sounds the lowland speech has merged, particularly in the cluster of voiced stops occurring at the end of many highland words. The vowels are fewer than in the lowland speech. Highland singers use the consonantal range to produce the long sustained notes of the clan songs, one of the most distinctive cultural expressions of the highland communities. Pitch is a matter of custom rather than meaning; highland speakers tend to speak with a lower pitch than lowland speakers, in unconscious imitation of the resonance of the great halls.
 
 The script of Karathi is alphabetic, with thirty-two marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the angular signs that dwarven stonemasons cut into the lintels of the highland halls, with borrowings from the elven tree script in the marks used for sounds the older dwarven script did not distinguish. The marks are incised into stone or metal for records of the highland clans, and painted or printed upon parchment for correspondence of the upper valleys. Writing is taught in schools of the larger highland settlements to children of every species who require it for the business of the mountain trade. The script of the [Karhold Realm](/content/government/national/karhold-realm) is distinguished by decorative marks added to the headings of genealogies, treated by highland speakers as a sign of the antiquity of the clans.
 
-## Vocabulary and Borrowing
+## Mine Words and Borrowings
 
 The vocabulary of Karathi is rich in words for stone, metal, ores, tools, and the patient business of the mine and the forge. The language has more words for the grades of ore, the kinds of stone, the kinds of vein, and the stages of the miner's work than any of the languages of the lowlands. The vocabulary is also rich in words for the clan, the lineage, and the customary relations of kinship governing the highland halls, for the dwarven communities place great weight upon the distinctions of descent and marriage, preserved in a set of compound terms that lowland scholars find difficult to translate. Highland compounds are formed by joining two or more simple words, used in the formal speech of clan councils and the songs of winter festivals.
 
 Karathi has borrowed from the [Morvindi](/content/language/spoken/morvindi) of the coastal lowlands a set of words for the sea, boats, and fish required for trade with lowland harbours. These borrowings are recognised as belonging to the trade of the merchant rather than the craft of the miner, and highland speakers are careful to use the lowland word in the lowland context and the highland word in the highland context. A small number of words have also been borrowed from the elven [Quessan](/content/language/spoken/quessan) of the sheltered valleys, chiefly the names of trees, birds, and small creatures of the lower slopes.
 
-## Speech
+## Registers of the Halls
 
 Karathi is the language of the great halls of the highland clans, conducted in a register that is formal and measured, suited to the long deliberations of clan councils and the patient negotiation of matters brought before them. The hall register uses a set of fixed phrases for the opening of a council, the addressing of an elder, and the closing of a deliberation, known to every member of the principal clans. These phrases are intelligible to children of twelve or thirteen years brought up in the halls.
 
 Karathi is also the language of the clan councils of the highland communities, conducted in a still more formal register preserved by the elders of the [Frostwall Clans](/content/government/national/frostwall-clans) and the principal halls of the central ranges. The formal register is used for public announcements of clan magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Karathi who has had a customary education in the hall or workshop. The formal register borrows a small number of phrases from the older speech of the highland halls, treated as marks of dignity and authority.
 
-## Relations
+## Karathi and Other Languages
 
 Karathi stands in a complex relation to the languages of the regions surrounding the interior highlands. It is intelligible, with some adjustment, to speakers of the coastal [Morvindi](/content/language/spoken/morvindi) of the lowlands, and intelligibility is greater in foothill towns than in the deeper interior of either tongue. The relationship between Karathi and the highland [Kameni](/content/language/spoken/kameni) of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) of [Aethelar](/content/location/natural/continent/aethelar) is closer still, for the two languages share a long history of contact across the [Velden Strait](/content/location/natural/feature/strait-of-velden), and speakers of one are commonly able to follow the speech of the other after a short period of adjustment. Highland smiths note that the southern speech lacks the precision of the highland tongue in describing metals and stones.
 
 The relation of Karathi to the elven [Quessan](/content/language/spoken/quessan) is the subject of scholarly dispute, for the two languages have borrowed vocabulary from one another over the centuries. Highland speakers tend to treat Quessan as a learned accomplishment rather than a working language, and elven communities of the valleys treat Karathi as the necessary medium of the mountain trade. The relation of Karathi to the dwarven speech of [Aethelar](/content/location/natural/continent/aethelar) is disputed among scholars of the highland halls, who remark that the question is not one the highland people are inclined to answer.
 
-## Significance
+## Hall Speech of the Ranges
 
 Karathi is the speech of the interior highlands of [Morvind](/content/location/natural/continent/morvind), the language of the great halls and clan councils, the medium of the highland trade, and the first or second language of nearly every speaker of every species who dwells or trades among the sheltered plateaus and mountain valleys of the central ranges. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of highland clansmen and the patient correction of the workshops. It is one of the most resonant of the languages of the known world, a measure of the central place the highland halls have held in the metalwork and governance of the continent since the earliest dwarven settlements were established along the central ranges.
 

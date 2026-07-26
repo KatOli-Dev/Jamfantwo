@@ -3,11 +3,11 @@ layout: default
 title: Star-Seeker
 ---
 
-## Overview
+## The Vessel That Opened the Auric Passage
 
 The Star-Seeker is the vessel in which [Kaelen Navigator](/content/people/historical/kaelen-navigator) made the first recorded crossing of the [Auric Ocean](/content/location/natural/feature/auric-ocean) from the eastern coast of [Aethelar](/content/location/natural/continent/aethelar) to the northern coast of [Sahrana](/content/location/natural/continent/sahrana), a passage of seventeen days at sea that opened the way for the intercontinental trade that has since defined the economy and politics of both continents. The vessel was built in the modest harbour of what is now the city of [Eldreth](/content/location/settlement/city/eldreth) in the early years of the second age, fitted for the voyage with a reinforced hull and a deep hold for provisions. Kaelen was resolved to venture beyond the coastal waters known to the mariners of his age, and the vessel was built to outlast the storms and calms of the open ocean. The Star-Seeker was the first ship to bear the symbols of the constellations upon her hull, and this painting is the foundation of the custom that the vessels of the [Auric Passage](/content/location/route/trade/auric-passage) have observed in the centuries since.
 
-## Construction and Design
+## Reinforced Hull and Raked Mast
 
 The Star-Seeker was built in the boatyard of a shipwright of the harbour of Eldreth, constructed of oak timbers seasoned for two years in the customary manner. The hull was reinforced with an inner skin of larch planking, giving the vessel a strength that the coastal craft of the period did not possess. The keel was laid in the spring of the year the chronicles of the [Aldreth](/content/government/national/aldreth) record as the year of Kaelen's preparation, and the hull was completed before the autumn gales set in. The vessel was the largest the harbour of Eldreth had produced to that date and was a source of local curiosity throughout the months of her construction.
 
@@ -15,7 +15,7 @@ The design was based upon the coastal craft of the eastern Aethelaran shore, wit
 
 The hold was fitted with provisions that the crossing would require, stored with care that was the foundation of the voyage's success. The water casks were sealed with pitch and stowed along the centreline, where the vessel's motion would keep them from shifting. The provisions included salted meat, hard bread, dried fruit, and a small store of spices Kaelen had selected to preserve the meat and render the hard bread palatable. The provisions were sufficient for a voyage of twenty-five days, a margin of safety that proved its value on the return voyage, when the vessel was driven far west of its intended course and the provisions had to last for thirty-two days.
 
-## The Painted Constellations
+## Stars upon the Hull and the Navigational Method
 
 The Star-Seeker was painted with the symbols of the constellations Kaelen had studied in his years of preparation, the most distinctive feature of the relic that has survived to the present day. The symbols were painted upon the hull in a deep blue compounded from indigo and the white of chalk, placed at the bow and stern with the principal constellations running in a band along the upper strake of the hull on either side. The symbols were not merely decorative; they were the working vocabulary of the navigational method Kaelen had developed, allowing the crew to read the vessel's position by the stars that passed over the painted figures in the night.
 
@@ -23,7 +23,7 @@ The principal constellation painted upon the hull was the Wanderer, a figure lon
 
 The painting of the Star-Seeker has been preserved by careful stewardship, and the symbols are still legible upon the hull where the relic is housed. The paint has been renewed at intervals across the centuries by painters of the harbour of Eldreth in the same colours and figures Kaelen had specified. The custom of painted vessels is observed by the ships of the [Northern Coast League](/content/government/national/northern-coast-league) and by the vessels of the eastern Aethelaran ports to the present day, one of the most distinctive of the maritime traditions of the known world.
 
-## The Outward Voyage
+## Seventeen Days to the Southern Shore
 
 The Star-Seeker departed from the harbour of Eldreth on the morning of the spring equinox, attended by a crowd recorded as the largest the harbour had ever gathered. Kaelen took his place at the helm as the vessel cleared the harbour mouth and stood there for the first full day and night of the open crossing, refusing to rest until the last trace of the Aethelaran coast had disappeared from the view of the lookouts. The vessel sailed southward along the coast for three days before turning into the open ocean at a point where the land fell away to the west and the water stretched unbroken to the horizon. This turn was made at the place Kaelen had chosen after long study of the currents, and the place has been marked upon the charts of the Auric Passage ever since.
 
@@ -31,18 +31,18 @@ The outward crossing required seventeen days. The crew endured storms, becalming
 
 The first landfall was sighted on the morning of the eighteenth day. The coast the Star-Seeker had reached was the northern shore of [Sahrana](/content/location/natural/continent/sahrana), at a point later scholars have identified as the vicinity of the modern port of [Nessara](/content/location/settlement/city/nessara). Kaelen and his crew landed on the beach and were greeted by the local people, [humans](/content/species/sapient/humans) of the northern [Sahrani](/content/language/spoken/sahrani) coast. The exchange that followed was the first recorded contact between the peoples of the two continents across the open ocean. The vessel remained at anchor in the Sahrani harbour for six months and was the centre of the exploration of the northern shoreline and river valleys Kaelen conducted during his stay.
 
-## The Return
+## The Difficult Voyage Home
 
 The return voyage was more difficult than the outward crossing. The winds of late autumn were less favourable, and the Star-Seeker was driven far west of its intended course by a storm recorded as among the most severe of the season. The crew despaired of ever sighting the Aethelaran coast again, for provisions were running low and the water casks were beginning to leak. Kaelen held to his bearings, trusting in the observations recorded in his log, and after twenty-three days at sea the Star-Seeker raised the coast of Aethelar at a point south of the harbour from which she had departed. The return was celebrated by the people of Eldreth, and the news of the discovery spread along the coast and into the interior, carried by traders and messengers travelling the routes of the eastern lowlands.
 
 The Star-Seeker was repaired in the boatyard of her construction and fitted for two further voyages Kaelen made across the [Auric Ocean](/content/location/natural/feature/auric-ocean) in the years that followed. The vessel carried more settlers on each successive voyage and was the foundation of the first permanent human settlements on the Sahrani coast. The vessel's final voyage was made in the twentieth year of Kaelen's career, after which she was laid up in the harbour of Eldreth, preserved by the careful stewardship of the city and of the institutions that have maintained the maritime tradition.
 
-## The Disposition of the Vessel
+## From the Quayside Shed to the Library Hall
 
 The Star-Seeker was laid up in the harbour of [Eldreth](/content/location/settlement/city/eldreth) at the conclusion of Kaelen's final voyage, housed in a purpose-built shed upon the quay that has borne the vessel's name in the centuries since. The vessel was preserved with care reserved for the most treasured relics of the city: the renewal of the paint of the constellations at intervals of twenty years, the replacement of timbers that had begun to rot, and the maintenance of rigging and sails in a state that would allow the vessel to be put to sea if the need arose. The vessel was visited by every maritime delegation that came to Eldreth and was the centre of ceremonial observances of the harbour on the anniversaries of Kaelen's voyages.
 
 The relic was transferred to the custody of the [Eldreth Library](/content/magic/relic/library-of-eldreth) in the centuries after the library's foundation. The vessel was moved from the quayside shed to a hall the library had built for the purpose, constructed to the dimensions of the vessel with a clearance of a hand's breadth upon every side. The hall was roofed with glass to admit the light, which falls upon the painted constellations of the hull. The vessel has been maintained by the library in the same condition the quayside custodians had observed and is one of the most visited of the relics the library houses.
 
-## Significance
+## The Star-Seeker's Place in Maritime History
 
 The Star-Seeker is the foundation of the maritime tradition of the [Auric Passage](/content/location/route/trade/auric-passage), the relic in which the first crossing of the [Auric Ocean](/content/location/natural/feature/auric-ocean) was made. The passage [Kaelen Navigator](/content/people/historical/kaelen-navigator) charted in the Star-Seeker became the principal route of trade between the northern and southern continents, and the trade that flows along it is the foundation of the prosperity of every port the route serves. The painting of the constellations upon the hull is the foundation of the custom of painted vessels observed by the ships of the [Northern Coast League](/content/government/national/northern-coast-league) and by the vessels of the eastern Aethelaran ports to the present day. The vessel is the most visited of the relics the Eldreth Library houses and a place of pilgrimage for mariners who still sail the passage Kaelen discovered. The Star-Seeker is one of the most venerated and least displaced of the relics of the known world, preserved not by a ruling house or a priesthood but by the steady stewardship of the city that bore the vessel and of the library that now maintains her.

@@ -3,11 +3,11 @@ layout: default
 title: Eldreth Library
 ---
 
-## Overview
+## The Great Repository of Natural Philosophy
 
 The Library of [Eldreth](/content/location/settlement/city/eldreth) is the principal repository of natural-philosophical work in the known world, founded by [Vaelen Eldreth](/content/people/historical/vaelen-eldreth) in the latter years of the second age and maintained without interruption in the city of [Eldreth](/content/location/settlement/city/eldreth) through the centuries that have followed. The library houses the original manuscript of the [Known-World Codex](/content/magic/relic/codex-of-the-known-world), together with the journals, drawings, and specimens that Vaelen Eldreth collected during the thirty-three years of his travels. It is the most important institution of natural philosophy on the continent of [Aethelar](/content/location/natural/continent/aethelar) and has been the model for the institutions of natural philosophy established in the cities of every continent. The library is the foundation of the tradition of systematic observation that the natural sciences of the present age still employ.
 
-## Founding and the High Chronicler
+## Vaelen Eldreth's Gift to the City
 
 The Eldreth Library was founded by [Vaelen Eldreth](/content/people/historical/vaelen-eldreth) in the latter years of his long life, the culmination of the work of observation and classification he had pursued for more than three decades. The library was established in a building granted by the city of [Eldreth](/content/location/settlement/city/eldreth) for the purpose, situated upon a courtyard described as one of the most pleasant of the city's interior spaces. Vaelen Eldreth deposited in the library the original manuscript of the Known-World Codex, the journals of his travels, the drawings of the species and places he had observed, and the specimens he had collected and preserved. He appointed the first librarian from among the scholars who had assisted him in compiling the Codex, establishing the succession of scholars who have maintained the library in the centuries since.
 
@@ -15,7 +15,7 @@ The founding was accompanied by a charter granted by the council of the [Aldreth
 
 Vaelen Eldreth himself lived in the library for the last years of his life, working in the reading room built for him upon the upper floor. He received the scholars who came to consult the Codex and journals, answering their questions with notable patience. He died in the library in the one hundred and fourth year of his life and was interred in the courtyard beneath a simple stone bearing only his name and the title of his great work. The grave is the most visited of the tombs of the city and is the centre of the ceremonial observances of the library upon the anniversary of his death.
 
-## The Holdings
+## The Codex, the Journals, the Drawings, the Specimens
 
 The principal holding of the library is the original manuscript of the Known-World Codex, the most valuable single document in the natural-philosophical collections of the known world. The manuscript is housed in a sealed case in the central chamber of the library, opened only upon the formal request of senior scholars. It is in a state of preservation ensured by the careful stewardship of the librarians and is consulted by scholars from every continent. The manuscript is the standard against which copies held in other libraries are compared and is the foundation of the textual tradition of the Codex.
 
@@ -25,7 +25,7 @@ The drawings Vaelen Eldreth made during his travels are the third principal hold
 
 The specimens Vaelen Eldreth collected are the fourth principal holding and are the most fragile of the works the institution preserves. They include dried plants, preserved animals, mineral samples, and other materials gathered during his travels. The specimens are housed in a chamber fitted with customary controls of temperature and humidity, the most carefully maintained room of the institution. They are consulted by natural philosophers who come to verify the observations Vaelen Eldreth recorded and are the foundation of the tradition of preservation of materials that the natural sciences still observe.
 
-## The Library's Practice
+## Consultation, Correspondence, and Publication
 
 The library maintains a practice of consultation open to scholars of every continent, the foundation of its reputation as the most important centre of natural philosophy in the known world. Scholars wishing to consult the holdings must apply to the librarian in writing, setting out the purpose of the consultation and the materials to be examined. Applications are considered by the librarian in consultation with senior scholars and are approved unless the materials are too fragile for consultation. Approved applications entitle the scholar to a seat in the reading room and to the assistance of librarians in consulting the materials.
 
@@ -33,18 +33,18 @@ The library also maintains a practice of correspondence with institutions of nat
 
 The library maintains a practice of publication, the foundation of its reputation as a centre of original work. Scholars of the library publish the results of their observations and classifications in the form of monographs and treatises, distributed to other institutions by customary means. The publications are the most widely read of any natural-philosophical works and are the foundation of the tradition of open dissemination of knowledge that the natural sciences still observe.
 
-## The Scholars and the Succession
+## The Librarian, the Fellows, and the Unbroken Line
 
 The library is maintained by a succession of scholars who have continued the work of [Vaelen Eldreth](/content/people/historical/vaelen-eldreth), the foundation of the institution's continuity across the centuries. The senior scholar is the librarian, appointed by the council of scholars from among the fellows of the institution. The librarian holds office for life and is responsible for the maintenance of the holdings, the conduct of practice, and the appointment of junior scholars. The succession of librarians has been unbroken since the foundation of the institution.
 
 The junior scholars are the fellows, appointed by the librarian from among scholars who have applied for admission. Fellows are appointed for a term of years and may be reappointed at the librarian's discretion. They are responsible for the daily work of the library, including consultation of holdings, preparation of copies, and maintenance of specimens. Fellows are drawn from the academies of every continent and return to their home institutions upon the conclusion of their terms. This circulation of fellows is the foundation of the network of scholarship the library has established and of the unity of the natural-philosophical tradition across the world's settlements.
 
-## Relation to the Academies
+## Lectures, International Exchange, and Influence
 
 The library maintains a close relation with the academies of [Eldreth](/content/location/settlement/city/eldreth) and of the other cities of [Aethelar](/content/location/natural/continent/aethelar), the foundation of the tradition of natural-philosophical education the continent has maintained. Senior scholars give lectures at the academies upon the subjects of their specialisation, open to students and to the public. The lectures are the most widely attended of any natural-philosophical instruction in the known world and are the foundation of the reputation of the city of Eldreth as a centre of learning.
 
 The library also maintains relations with institutions of the other continents through correspondence and the exchange of scholars. Scholars of the [Thessaran League](/content/government/national/thessaran-league), the [Vashari Pact](/content/government/national/vashari-pact), the [Karhold Realm](/content/government/national/karhold-realm), and the [Stoneheim Holds](/content/government/national/stoneheim-holds) are frequent correspondents, and they consult the library's holdings by customary means. This relation is the foundation of the international character of the natural-philosophical tradition.
 
-## Significance
+## The Library as a Model for the World
 
 The Eldreth Library is the principal repository of natural-philosophical work in the known world and the most important institution of natural philosophy on the continent of [Aethelar](/content/location/natural/continent/aethelar). The holdings, including the original manuscript of the Known-World Codex and the journals and drawings of [Vaelen Eldreth](/content/people/historical/vaelen-eldreth), are the foundation of the natural-philosophical tradition that the academies of the present age still observe. The practice of the library, including consultation of holdings, correspondence with other institutions, and publication of original work, is the model that other institutions have followed. The Eldreth Library remains one of the most distinguished and least displaced of the institutions of the known world, maintained not by a ruling house or a priesthood but by the steady stewardship of scholars who have continued the work of the High Chronicler through the centuries.

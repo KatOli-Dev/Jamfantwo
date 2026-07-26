@@ -3,25 +3,25 @@ layout: default
 title: Cost
 ---
 
-## Overview
+## The Price of Reshaping the World
 
 The Art exacts a price, recorded in the body and mind of the practitioner, in the pattern of the subject, and in the world that lies between them. The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) state the cost in the most widely cited form, treated here under five headings. The cost is not a penalty or a punishment but the price of [reshaping the medium](/content/magic/law/medium), and the practitioner who would practise the Art must be prepared to pay it.
 
 This page sets down the five costs as commonly stated, with the principal variants and disputes among the traditions. It also notes cases in which the costs have been borne to a remarked-upon degree or have caused a practitioner's withdrawal from the Art.
 
-## The Cost of Effort
+## Weariness of Body and Concentration
 
 The first cost is the effort of reading and reshaping. Reading a [pattern of the medium](/content/magic/law/medium) demands a stillness of body and mind that the practitioner must acquire before any other skill can be of use. Reshaping is a work of will requiring a concentration that cannot long be maintained. The effort manifests as bodily fatigue and a mental weariness that the traditions have named differently across ages. A practitioner of even moderate skill is exhausted by a working of any consequence, and a practitioner of advanced years is more easily exhausted than one in the prime of discipline.
 
 The effort is mitigated by the long apprenticeship and the discipline of attunement that the traditions require. A practitioner who has attuned to a subject may accomplish more in a working than one who has not; attunement is part of the foundation of the [limits](/content/magic/law/limit) within which the Art is practised. A member of the [Heartwood Fellowship](/content/government/local/heartwood-fellowship) has remarked that the effort of a working is the measure of the practitioner's attunement, a remark taken up by the [Sylvan Court](/content/government/local/sylvan-court) and by several academies of the [Southern Reach](/content/government/national/southern-reach). The traditions differ in how they manage effort: practitioners of the [Khalisar Council](/content/government/local/khalisar-council) employ a regimen of meditative exercises intended to extend the duration of concentrated will, while the Sylvan Court favours shorter workings punctuated by prescribed periods of recovery.
 
-## The Cost of Strain
+## Tension in the Practitioner's Pattern
 
 The second cost is the strain that reshaping places upon the practitioner. Reshaping redistributes the [pattern of the medium](/content/magic/law/medium), and this redistribution is recorded in the practitioner's body and mind as a tension the traditions call strain. Strain is neither ordinary pain nor ordinary wound but a disturbance of the practitioner's pattern felt as stiffness of the joints, heaviness of the limbs, and slowness of the mind. In most cases it passes with rest and leaves no permanent mark. The strain of a working of any consequence is the principal reason the traditions require a period of rest between workings, a period observed by every tradition of which the [Velden Compact](/content/government/local/velden-compact) has knowledge. The Compact has published guidelines specifying minimum rest intervals based on the complexity of the working: three days for a simple reshaping of dead matter, ten days for a reshaping of living tissue, and no fewer than thirty days for any working upon a person.
 
 The strain is greater when the reshaping is more extensive and when the subject is more complex. A practitioner who reshapes the pattern of a stone bears a small strain; one who reshapes the pattern of a [salawa](/content/species/sapient/salawa) bears a greater strain; and one who reshapes the pattern of a person bears the greatest strain of all. Strain is the principal reason the traditions are cautious in reshaping the living and one of the principal reasons that reshaping a person is undertaken only with the subject's consent and under the supervision of a master. The Khalisar Council has been particularly insistent on this point, and its records contain several accounts of practitioners who undertook reshaping without proper supervision and suffered lasting harm.
 
-## The Cost of Backflow
+## The Sympathetic Mark of the Subject
 
 The third cost is the backflow, the sympathetic effect of reshaping upon the practitioner. Reshaping is performed through the [path of the Source](/content/magic/law/source) of resonance that connects practitioner to subject, and this path is two-way. The reshaping that travels from practitioner to subject is matched by a smaller reshaping travelling from subject to practitioner: the backflow. The backflow is greater the closer the sympathy between practitioner and subject and the more extensive the reshaping.
 
@@ -29,13 +29,13 @@ Backflow is the source of the particular care traditions take in reshaping perso
 
 Backflow is mitigated by the discipline of attunement and by the practice of working through a relic. A practitioner who works through a relic bears a smaller backflow than one who works directly; the relic serves as a buffer between practitioner and subject. The [Sylvan Court](/content/government/local/sylvan-court) is the principal keeper of the relics used for this purpose, and the [Heartwood Fellowship](/content/government/local/heartwood-fellowship) has published several accounts of relic-making that form the foundation of the modern discipline.
 
-## The Cost of Drift
+## Accumulated Traces over a Career
 
 The fourth cost is the drift, the cumulative marks a practitioner bears from a career of practice. Every reshaping leaves a trace in the practitioner, and these traces accumulate over a career, constituting a kind of history of the practitioner's practice that can be read by another practitioner of sufficient skill. A practitioner of advanced years is a pattern of considerable complexity, a mark of experience and of discipline.
 
 Drift is neither ordinary harm nor ordinary wound. The traditions take it as a sign of standing in the Art: a practitioner of advanced years is more to be trusted than one in the first flush of discipline. The [Khalisar Council](/content/government/local/khalisar-council) has remarked on this, and the remark has been taken up by the [Sylvan Court](/content/government/local/sylvan-court) and the academies of the [Southern Reach](/content/government/national/southern-reach). However, drift also functions as a limit. The accumulated traces eventually render further reshaping difficult or impossible, and the traditions therefore require a period of withdrawal from the Art in later years. [Avaros](/content/location/settlement/city/avaros) has recorded several cases in which a practitioner of advanced years could not continue because of drift; these cases are cited by the traditions as evidence of the wisdom of the withdrawal period. The length of withdrawal varies by tradition: the Heartwood Fellowship prescribes a gradual reduction in practice beginning at around sixty years of age, while the Sylvan Court requires a complete cessation of all workings after the practitioner's seventieth year.
 
-## The Cost of Reverberation
+## The Tendency of Patterns to Settle Back
 
 The fifth cost is the reverberation, the tendency of a reshaped pattern to settle back toward its old shape. A pattern that has been reshaped is not at rest in its new shape and tends to return to its former configuration over time. The reverberation is greater the more extensive the reshaping and is observed in every working of the Art. It is the reason the traditions insist upon the maintenance of a reshaped pattern in the years after the working; a pattern left untended will eventually revert to its original state.
 
@@ -43,6 +43,6 @@ Reverberation is not a failure of the Art or a sign of insufficient skill. It is
 
 Reverberation is mitigated by attunement and by the long apprenticeship. A practitioner who has attuned to a subject may reduce reverberation and accomplish more than one who has not. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) records that reverberation is the principal reason the traditions insist upon a period of rest between workings, a period observed by every tradition of which the Fellowship has knowledge.
 
-## The Practice of the Cost
+## Bearing and Mitigating the Price
 
 The cost is borne in the body and mind over the years of a practitioner's career. The traditions teach the practitioner to bear the cost and to mitigate it through attunement, long apprenticeship, and the required period of rest. The cost is the measure of the Art and the reason the Art is taught only to those prepared to bear it.

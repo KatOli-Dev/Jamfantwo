@@ -3,38 +3,38 @@ layout: default
 title: Aethelar Stag
 ---
 
-## Overview
+## The Great Deer of Aethelar
 
 The [Aethelar](/content/location/natural/continent/aethelar) stag is the largest deer in the known world and the most celebrated great herbivore of the temperate forests of [Aethelar](/content/location/natural/continent/aethelar). A mature bull stands taller at the shoulder than a [human](/content/species/sapient/humans) hunter, and its antlers span a width sufficient to turn aside any but the stoutest spear. The stag is confined to the ancient woodlands of the central continent; its range has retreated with the cutting of the forest and the spread of agriculture, so that what was once the most numerous great deer now inhabits the deeper woods and the protected hunting grounds of the highland valleys. The stag is accounted the noblest beast of the chase throughout the kingdoms of Aethelar, and the hunt is a ceremonial pursuit of the nobility of the [Vael](/content/government/national/vael) and the [Aldreth](/content/government/national/aldreth).
 
-## Form and Appearance
+## Antlers, Coat, and Conformation
 
 The Aethelar stag carries the conformation of the deep-wood deer in its most pronounced form. The body is long and deep through the chest, set on legs that are both sturdy and swift, and the musculature of the shoulders and hindquarters is admired by foresters who observe from concealment. The summer coat is a warm reddish brown shading to a paler buff along the flanks and underside; the winter coat thickens to a dense grey-brown suited to the cold of the highland forests. The rump patch, characteristic of all great deer of the temperate woodlands, is a pale cream bordered by a darker line and is conspicuous when the stag flees through underbrush during the hunt.
 
 The antlers are the creature's most distinguished feature. They rise from heavy burrs in a broad forward sweep and curve upward and inward in a series of tines; a typical mature bull carries ten or more points with a crown of short tines above the brow. New antlers are grown each year and shed in late winter. The velvet that covers them during the growing season is traded among foresters, who value it for medicinal preparations. The antlers of an old bull, polished by many seasons of forest rub, are pale and ridged; a pair recovered from a stag that has died of old age is set above the hearths of forest lodges as a mark of the household's standing among hunters.
 
-## Habitat and Range
+## Woodland Home and Shrinking Range
 
 The stag inhabits mature deciduous and mixed forests of central and northern Aethelar, with the greatest concentration in the deep woodlands bordering the [Velden Strait](/content/location/natural/feature/strait-of-velden) and the river valleys of the interior. It prefers forest edges and clearings where new grass springs up after burnings, and it ranges widely in spring and summer in search of the best grazing. In autumn the mature bulls hold small territories in the deeper wood, lying up in thickets during the day and moving to water only at dusk. Does and young remain in larger herds through autumn, gathering on ridge tops where the wind keeps flies at bay.
 
 The historical range once extended across the whole of the temperate forest of Aethelar, from the foothills of the western mountain spine to the eastern coastal woodlands, but clearing of land for the plough has reduced it to the great forests that remain, principally in the northern valleys and along the slopes of the highland interior. The noble houses of [Vael](/content/government/national/vael) maintain large hunting forests in which the stag is protected and hunted according to strict seasons and quotas; these forests are the last stronghold of the great deer in the heart of the continent. The [elves](/content/species/sapient/elves) of the deep forest tolerate the stag as a fellow inhabitant of the wood and do not hunt it except in famine, for their traditions hold that the stag is the elder of the woodland and that its death must be balanced by solemn rite.
 
-## Diet and Behaviour
+## Grazing, Rutting, and Social Order
 
 The stag is a grazer and browser, feeding upon grasses and herbs of the woodland floor in spring and summer and upon bark, buds, and fallen mast in autumn and winter. It is fond of acorns and beechnuts; the autumn feeding upon mast is the period when the bull lays down the fat that carries it through the lean weeks of late winter. Does nurse their fawns upon the rich milk of early summer, and the fawns are weaned by autumn and capable of independent foraging before the first snow. The stag is a creature of early morning and late afternoon, resting during the heat of the day in the cool of the deeper wood, a habit the hunter uses to advantage when the wind is right and the forest is still.
 
 The social order of the stag is most visible in the autumn rutting season, when mature bulls gather herds of does into their territories and challenge one another for the choicest grounds. The roar of the bull at the height of the rut is one of the great sounds of the woodland, a deep and resonant call that carries for miles through the still autumn air. Fights between bulls are conducted with the deliberation and gravity of a tournament. The victor assumes the herd and drives the younger bulls to the periphery, where they wait in restless bands for the coming season.
 
-## The Hunt
+## The Ceremonial Chase
 
 The hunt of the Aethelar stag is a ceremonial pursuit of the nobility of the central kingdoms, and its rules are among the most elaborate hunting codes of the known world. The king of Vael maintains a court of hunt-masters whose duty is the management of the royal forests and the organisation of the seasonal hunt. Hunters admitted to the royal chase are bound by strict conventions of conduct and dress. The quarry is the mature bull of not less than ten tines; young bulls, does, and fawns are protected by the laws of the chase and may not be taken except by commoners for the pot.
 
 Methods vary with the season and terrain. In early autumn the stalk is the customary approach, the hunter and beaters moving quietly through the wood to find the bull lying up in its thicket, and the shot is taken at close range with the heavy bow, the traditional weapon of the chase. In later autumn, when leaves have fallen and the rut is at its height, the hunter may call the bull by imitating its roar; the duel of sound between man and beast is one of the most celebrated traditions of the noble hunt. The kill is followed by the ritual breaking of the quarry, in which the hunter cuts the throat of the fallen stag according to ancient forms, and the meat is distributed to the company and to the foresters whose ground has been honoured by the chase.
 
-## Relationship with Other Species
+## Predators and Forest Neighbours
 
 The stag shares its range with the great predators of the forest in numbers that vary with region and season. The grey wolf of the central woodlands will take a fawn or a sick adult when opportunity offers, but the mature bull is too formidable a quarry for any but the largest pack, and the wolves are not numerous enough to threaten the stag population as a whole. The lynx of the highland forests takes fawns in the spring, and the bear of the deep wood will contest the carcass of a stag that has fallen to a hunter's arrow, though the bear does not ordinarily hunt the healthy stag. The [elves](/content/species/sapient/elves) tolerate the stag as a fellow dweller of the wood and do not hunt it except in the strictest necessity; the elves of the central forest are known to drive the stag from the deeper wood at the time of the autumn cull, lest the hunters of the human kingdoms take more than the laws of the chase permit.
 
-## Significance
+## Emblem of the Wild Wood
 
 The Aethelar stag is the symbol of the temperate forest and the noble hunt of the central continent; its antlers adorn the halls of the kings and great lords of [Aethelar](/content/location/natural/continent/aethelar). The creature's decline with the cutting of the forest is a quiet measure of the cost of the expansion of ploughland, and the great hunting forests that remain are a testament to the value the noble houses of the central kingdoms continue to set upon the chase and the ancient rites that attend it. The stag endures in the protected forests and in the traditions of the hunt as a living memory of the deep wood that once covered the continent; its presence in the landscape is a reminder that the wealth of a kingdom is measured not only in the grain of the valley but also in the wildness the kingdom has had the wisdom to preserve.

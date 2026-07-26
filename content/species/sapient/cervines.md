@@ -3,13 +3,13 @@ layout: default
 title: Cervines
 ---
 
-## Origins
+## Deer-Headed Folk of the Deep Forest
 
 Cervines are a deer-headed people found in the deep forests of [Aethelar](/content/location/natural/continent/aethelar) and the wooded valleys of [Morvind](/content/location/natural/continent/morvind). Their form combines a humanoid body with the head, ears, and antlers of a deer, shaped by woodland, by the need for swift flight, and by the demands of a large, alert body in a complex environment. Naturalists have proposed a kinship with [centaurs](/content/species/sapient/centaurs) on the basis of partly animal form and shared preference for open movement, but cervines are smaller, solitary, and adapted to the forest rather than the plain. A connection to [satyrs](/content/species/sapient/satyrs) has also been suggested, citing the woodland habitat and partly caprine or cervine form, but the cervine body is too different in build and habit for the comparison to be sustained. Cervines are a reclusive people and have offered no account of their origins to outsiders.
 
 Cervines have inhabited the deep forests of the known world for as long as any people can account for, and their presence in these woodlands is recorded in the oldest elven records. They have coexisted with [elves](/content/species/sapient/elves) in the forests for centuries, and the relationship between the two peoples is shaped by the overlap in their range and the mutual preference for solitude.
 
-## Anatomy and Physiology
+## Antlers, Keen Senses, and Swift Limbs
 
 Cervines are a medium to large people, standing comparable in height to [humans](/content/species/sapient/humans) or slightly taller, with a lean and graceful frame built for speed, agility, and the swift navigation of dense woodland. The head is that of a deer, with a long, narrow muzzle, large ears capable of swivelling independently, and large, dark eyes set on the sides of the head, granting near-complete field of vision characteristic of a prey species. The body is humanoid from the neck down, with lean musculature and long limbs built for the sudden, explosive sprint that is the cervine's primary means of escape.
 
@@ -19,25 +19,25 @@ Cervine senses are sharp and specialised for the forest environment. Their visio
 
 Cervine skin is covered in a short, fine coat of fur ranging from reddish-brown to grey and dark brown, changing with the seasons to a thicker, darker pelage in winter. Their legs are long and their feet are narrow, and they are capable of moving through the forest with speed and silence remarkable for a people of their size, placing their steps with care to avoid breaking twigs and rustling leaves.
 
-## Life Cycle
+## Slow Birth and Solitary Growth
 
 Cervines are moderately long-lived, with a typical lifespan of sixty to ninety years under favourable conditions. They mature at a pace comparable to humans, reaching full stature by their late teens, though the antlers continue to grow in size and complexity throughout life. Cervine women carry their young for approximately seven months before giving birth, and births are usually single, though twins are not uncommon. The infant is well-developed, capable of standing and walking within hours of birth, and it grows quickly, reaching adolescence within a decade.
 
 Cervine populations grow slowly, as births are infrequent and the deep forest can support only a limited number of such large, solitary individuals. The cervine is the most solitary of the woodland peoples, and a typical cervine may go for long periods without encountering another of its kind, save during seasonal gatherings that bring cervines together for mating and the exchange of information. The slow pace of cervine life and the low rate of reproduction are balanced by the longevity of adults and the effectiveness of their flight response, as a healthy adult cervine has few natural predators and is extraordinarily difficult to catch.
 
-## Habitat and Distribution
+## Ancient Woodlands of Aethelar and Morvind
 
 Cervines are found chiefly in the deep forests of Aethelar, where the trees are ancient and the undergrowth is thick, providing the cover and isolation their way of life demands. They favour the oldest and most remote portions of the woodland, where the canopy is dense, the forest floor is shadowed, and human and elven settlements are far away. Their settlements are typically solitary dwellings, built in secluded clearings or beneath the largest trees, and a cervine may range across a wide territory rather than remaining in a single location.
 
 Smaller populations of cervines are found in the wooded valleys of Morvind, where the sheltered lower slopes of the interior ranges provide a suitable if harsher environment, and in the wooded foothills of the [Sahrana](/content/location/natural/continent/sahrana) northern coast, where warm, humid forests support a different variety of cervine. Cervines are absent from open plains, mountains, and cold steppes, as their bodies are adapted to the forest and the cover that trees provide. The geography of each region determines the distribution of cervine populations, and the cervine range is restricted to deep forest where conditions suit them.
 
-## Diet
+## Browsing the Forest Understorey
 
 The cervine diet is dominated by plant foods. Cervines are browsing herbivores who make use of the varied vegetation of the forest. Leaves, twigs, bark, and the tender shoots of shrubs and trees form the staple, gathered from the understorey and lower canopy by the cervine's long neck and ability to reach high branches. Grasses, herbs, and forbs are grazed from the forest floor in clearings and along stream edges, and the cervine diet shifts with the seasons, from the fresh growth of spring to the bark and evergreen needles of winter.
 
 Fungi, fruits, and berries are gathered when available. Cervine knowledge of edible forest plants is extensive, encompassing not only what may be eaten but also what may be used for medicine and material. Cervines do not practise agriculture, and their relationship with food is that of the browser and grazer, as their digestion is specialised for a diet of plant material and their teeth are adapted for grinding coarse vegetable matter. The cervine metabolism is efficient, capable of extracting nourishment from tough and fibrous plants of the winter forest when the more tender foods of warmer months are unavailable.
 
-## Ecology
+## The Browser's Place in the Woodland
 
 Cervines occupy the niche of a medium-bodied browsing herbivore in forest ecosystems. Their impact on the vegetation is considerable where they are present in numbers, as they are among the primary consumers of the understorey and lower canopy, and their browsing shapes the composition and structure of the vegetation. The cervine presence in a forest is generally associated with a diverse and well-maintained understorey, as they encourage the growth of some species through browsing and discourage the spread of others.
 

@@ -3,41 +3,41 @@ layout: default
 title: Karhold Realm
 ---
 
-## Overview
+## Dwarven Kingdom of the Aethelar Spine
 
 The Karhold Realm of [Karhold](/content/location/settlement/city/karhold) is the [dwarven](/content/species/sapient/dwarves) kingdom of the mountain spine of [Aethelar](/content/location/natural/continent/aethelar), encompassing the underground cities, mining settlements, and highland territories inhabited and governed by the dwarven people of the continent. The realm is the oldest and most extensive dwarven political entity in Aethelar, and its capital is Karhold, the greatest dwarven city of the mountain spine. The Karhold Realm is a significant power in the politics and economy of Aethelar, and its mineral wealth and craftsmanship are the foundation of its influence.
 
-## The Mountain Spine and Territory
+## Extent of the Underground Realm
 
 The territory of the Karhold Realm extends along the full length of the mountain spine of Aethelar, from the northern peaks where the range begins to the southern foothills where it subsides into the plains. The realm encompasses the underground cities and mining settlements carved into the rock of the mountains, and the highland territories claimed and managed by the dwarven communities. The [geography](/content/geography) of the mountain spine determines the distribution of the dwarven population, and the settlements are situated where veins of ore and natural cave systems provide the resources and space that the dwarven way of life requires.
 
 The realm includes Karhold, the capital and greatest city, and [Deepreach](/content/location/settlement/town/deepreach), the mining settlement of the central highlands, as well as smaller communities scattered throughout the range. The [Highgate](/content/location/settlement/city/highgate) pass, though governed independently, lies within the territory of the realm. The relationship between Karhold and Highgate is one of mutual respect and co-operation, for the pass is the primary route of trade between the two coasts, and the dwarven cities are the primary beneficiaries of the traffic that flows through it.
 
-## Mining and Metalwork
+## Ores, Forges, and Craftsmanship
 
 The mineral wealth of the mountain spine is the foundation of the Karhold Realm's economy. The ore extracted from the mines includes iron, copper, tin, silver, gold, and precious stones that are among the most valued products of the continent. The metalwork produced in the forges of Karhold and the other cities is noted for its quality and durability. Weapons, tools, and decorative objects produced by the dwarven smiths are exported to every continent. The reputation of the Karhold Realm's metalwork is the foundation of its commercial power, and the smiths of the realm are among the most skilled and respected craftsmen in the known world.
 
 Trade connecting the Karhold Realm to the rest of Aethelar is managed through overland routes that cross the mountain spine. Metalwork and stone are traded to lowland cities and the coast in exchange for grain, cloth, and manufactured goods that the dwarven communities cannot produce for themselves. The [Brackenford](/content/location/settlement/town/brackenford) trade is the primary point of exchange with the western interior, and the Highgate pass is the primary route to the eastern coast.
 
-## Governance and the King
+## The Deep King and the Council of Elders
 
 The Karhold Realm is governed by a king chosen from the hereditary ruling family of Karhold, and the king is the supreme authority of the realm. The court is situated in the great hall of Karhold. A council of elders drawn from the leaders of dwarven communities throughout the range advises the king, but its advice is not binding. The administration is managed through a network of officials and local councils that oversee mining operations, maintenance of halls and roads, and the administration of justice. The local councils manage daily affairs under authority delegated by the crown, and governors of the more distant communities are appointed by the Deep King and serve at his pleasure.
 
 The king of the Karhold Realm holds the title of Deep King, a designation that distinguishes the ruler of the underground realm from the kings of surface nations. The Deep King's authority extends to all dwarven communities of the mountain spine, from the smallest mining camp to the great cities of Karhold and Deepreach. The loyalty of the communities is sustained by the tradition of council governance that ensures each community's voice is heard at court, though the council may counsel and protest but not command. The succession of the Deep King is determined by heredity, but confirmation of the successor requires the assent of the council of elders, a safeguard that has prevented the accession of rulers who lacked the confidence of the realm. Between successions, however, the Deep King's word is absolute law: the council has no power to remove a sitting king, veto a decree, or block a decision. The combination of a single binding check at succession followed by unfettered royal authority between successions places the Karhold Realm between the unchecked absolutism of the Stoneheim throne and the mixed councils of the human realms, balancing continuity with a single moment of accountability.
 
-## History
+## From the Compact of the Deep
 
 The Karhold Realm traces its origins to the earliest dwarven settlements in the mountain spine of Aethelar, established during the first expansion of the dwarven people into the continent. The discovery of rich veins of ore in the mountains drew dwarven prospectors deeper into the interior, and the cities that grew around the mines became the foundation of the realm. The unification of the cities under a single king is recorded in dwarven traditions as the Compact of the Deep, an agreement among the leaders of the communities to accept the authority of a single ruler in exchange for the protection and co-ordination that a unified realm could provide.
 
 The history of the realm has been marked by long and remarkable stability. The dwarven tradition of hereditary rule and council governance has proved resilient and effective. The realm has faced periodic incursions of orcs and goblins from the deeper caves and remote highlands, and occasional disputes with human settlements of the lowlands over access to mountain passes and trade routes. These challenges have been met with a combination of military preparedness and diplomatic prudence, and the realm has endured without major disruption to its governance or prosperity.
 
-## Relations with Neighbours
+## Alliances and Commerce Beyond the Mountains
 
 The Karhold Realm maintains a complex network of relationships with other political entities of Aethelar. Its primary relationship is with the human kingdoms of the lowlands, to which the realm's metalwork and stone are traded in exchange for grain, cloth, and manufactured goods. The Brackenford trade is the primary point of exchange with the western interior, and the Highgate pass is the primary route to the eastern coast.
 
 The realm also maintains a relationship with the [Stoneheim Holds](/content/government/national/stoneheim-holds) of [Morvind](/content/location/natural/continent/morvind), the other great dwarven political entity of the known world. The two realms are connected by trade across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The relationship is one of mutual respect and commercial co-operation, and the exchange of metalwork and techniques between the dwarven smiths of the two continents is a valued component of the trade. The Karhold Realm also maintains contact with the [Sylvan Court](/content/government/local/sylvan-court), the elven governance of the northern forests, and the relationship between the two entities is one of cautious coexistence. The boundary between dwarven and elven territories is managed by agreement and has not been a source of conflict.
 
-## Significance
+## Endurance and Economic Weight
 
 The Karhold Realm is the primary dwarven political entity in Aethelar, and its mineral wealth and craftsmanship are a significant component of the economy of the continent. The realm's trade connects the mountain spine to the lowlands and coast, and its metalwork and stone are valued commodities in every market. The significance of the Karhold Realm lies in its endurance and stability, for it is the oldest continuous political entity in Aethelar. Its long history and stable governance serve as a model of the political order that has sustained the dwarven people for centuries.
 

@@ -3,37 +3,37 @@ layout: default
 title: Kharoshi
 ---
 
-## Overview
+## Kharoshi Introduced
 
 Kharoshi is the common tongue of [Kharos](/content/location/natural/continent/kharos), the broad western landmass whose coasts and interior are divided by a long belt of red mesas, dry valleys, and the mineral-bright woodland of the famous glass groves. The language is most closely associated with the human population of the eastern harbours and the highland valleys. Kharoshi is spoken as a first language by the [dwarf](/content/species/sapient/dwarves) communities of the mineral-rich foothills and as a second language by the [gnome](/content/species/sapient/gnomes) communities of the glass groves and by every merchant who requires a working knowledge of the western maritime trade. The name is taken from the continent itself, and the language is sometimes called the red-stone speech by the coastal communities of the east.
 
 The origins of Kharoshi lie in the speech of the earliest human settlements of the eastern harbours. The language has grown over the centuries through contact with the dwarven speech of the highland mines, the gnomish speech of the glass groves, and the trade tongues that arrive by sea from the ports of [Aethelar](/content/location/natural/continent/aethelar) across the [Greyring Ocean](/content/location/natural/feature/greyring-ocean). Two distinct waves of borrowing have left layers of vocabulary and grammatical habits that eastern-harbour speakers no longer recognise as foreign. The result is a language of considerable strength, suited to the description of red stone, minerals, glass, and the patient business of the long western trade, and capable of adaptation to the specialised vocabularies of the miner, the glass-blower, and the counting house of the eastern harbours.
 
-## Sounds
+## Sound and Writing
 
 Kharoshi is spoken in a register that is more clipped and deliberate than the common speech of the heartland of [Aethelar](/content/location/natural/continent/aethelar). Eastern visitors often remark upon the brevity of harbour sentences and the willingness of harbour speakers to leave unsaid what the eastern custom would require to be set out at length. The consonants are sharply distinguished, the vowels are few and clear, and the rhythm of the sentence is carried by the regular accent falling upon the first syllable of most longer words. Harbour singers use the consonantal range to produce the striking percussive effects that mark the songs of the mining festivals, one of the most distinctive cultural expressions of the highland communities. Pitch is a matter of custom rather than meaning; harbour speakers tend to speak with a flatter pitch than highland speakers, in unconscious imitation of the working register of the mine and the forge.
 
 The script of Kharoshi is alphabetic, with twenty-nine marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the angular signs that dwarven stonemasons cut into the lintels of the highland mines, with borrowings from the marks used by the earliest human chroniclers of the eastern harbours in the signs for sounds the older dwarven script did not distinguish. The marks are incised into stone or metal for records of the highland mines, and painted or printed upon parchment for correspondence of the eastern harbours. Writing is taught in schools of the larger highland settlements to children of every species who require it for the business of the highland trade. The script of the [Ember Ridge](/content/location/natural/feature/ember-ridge) is distinguished by decorative marks added to the headings of mineral tallies, treated by highland speakers as a sign of the antiquity of the mines.
 
-## Vocabulary and Borrowing
+## Mineral Words and Loans
 
 The vocabulary of Kharoshi is rich in words for red stone, minerals, glass, ores, tools, and the patient business of the highland trade. The language has more words for the grades of stone, the kinds of glass, the kinds of ore, and the stages of the miner's art than any of the languages of the eastern harbours. The vocabulary is also rich in words for the workshop, the clan, and the customary relations of the highland communities, for these populations place great weight upon the distinctions of the mining clans and the long memory of the [Ember Ridge](/content/location/natural/feature/ember-ridge). Highland compounds are formed by joining two or more simple words, used in the formal speech of clan councils and the songs of mineral festivals.
 
 Kharoshi has borrowed from the dwarven speech of the highland mines a set of words for metals, stones, ores, and tools of the workshop required for the conduct of the highland trade. These borrowings are recognised as belonging to the trade of the miner rather than the craft of the merchant, and harbour speakers are careful to use the dwarven word in the dwarven context and the harbour word in the harbour context. A small number of words have also been borrowed from the [Aethelari](/content/language/spoken/aethelari) trade tongue through ships crossing the [Greyring Ocean](/content/location/natural/feature/greyring-ocean), chiefly the names of eastern goods, customs, and offices.
 
-## Speech
+## Registers of the Language
 
 Kharoshi is the language of the great mines of the [Ember Ridge](/content/location/natural/feature/ember-ridge), worked in a register that is precise and patient, suited to the long observation of the veins and the careful timing of the breaking seasons. The mine register uses a set of fixed phrases for the opening of a shift, the inspection of a face, and the closing of a haul, known to every miner of the principal mines. These phrases are intelligible to children of eleven or twelve years brought up in the mining families.
 
 Kharoshi is also the language of the harbour councils of the eastern communities, conducted in a more formal register preserved by the elders of the larger harbours and the principal mining clans. The formal register is used for public announcements of harbour magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Kharoshi who has had a customary education in the mine or the council. The formal register borrows a small number of phrases from the older speech of the highland interior, treated as marks of dignity and authority.
 
-## Relations
+## Kharoshi and Neighbouring Tongues
 
 Kharoshi stands in a complex relation to the languages of the regions surrounding [Kharos](/content/location/natural/continent/kharos). It is intelligible, with some adjustment, to speakers of the gnomish speech of the glass groves, and intelligibility is greater in highland towns than in the deeper interior of either tongue. The relationship between Kharoshi and the [Aethelari](/content/language/spoken/aethelari) of the heartland of [Aethelar](/content/location/natural/continent/aethelar) is the subject of scholarly dispute, for the two languages have borrowed a small vocabulary from one another through the long ocean routes, a measure of the long coexistence of harbour and eastern merchants at the far ports.
 
 The relation of Kharoshi to the dwarven speech of the highland mines is of scholarly interest, for the two languages share a long history of contact across the mineral-rich foothills. Highland speakers tend to treat the dwarven speech as a learned accomplishment rather than a working language, and dwarven communities of the mines treat Kharoshi as the necessary medium of the highland trade. The relation of Kharoshi to the [Aethelari](/content/language/spoken/aethelari) trade tongue is closer in vocabulary than in grammar; harbour merchants note that the eastern speech lacks the precision of the highland tongue in describing metals and stones.
 
-## Significance
+## Red-Stone Speech of the West
 
 Kharoshi is the common tongue of [Kharos](/content/location/natural/continent/kharos), the language of the great mines and the harbour councils, the medium of the long western trade, and the first or second language of nearly every speaker of every species who dwells or trades among the red mesas and the eastern harbours of the broad western landmass. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of highland miners and the patient correction of the harbour councils. It is one of the most precise of the languages of the known world, a measure of the central place the highland mines have held in the mineral trade and harbour customs of the western continent since the earliest human settlements were established along the eastern coast.
 

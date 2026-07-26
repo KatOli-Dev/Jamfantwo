@@ -3,42 +3,42 @@ layout: default
 title: Amber Pass
 ---
 
-## The Crossing of the Two Highlands
+## The Amber Resin and the Highland Trade
 
 The Amber Pass is the most reliable of the highland crossings linking the eastern river country of [Ashara](/content/location/natural/continent/ashara) to the western valleys of [Thessara](/content/location/natural/continent/thessara) by way of the great ranges that shoulder against one another at the head of the inland sea. The pass traverses the northern shoulder of the [Sunken Crown](/content/location/natural/feature/sunken-crown) of Ashara, descends into the central basin, and rises again through the [Crown Range](/content/location/natural/feature/crown-range) of Thessara to the eastern terrace lands. It is not the highest of the crossings between the two continents, but it is the most dependable, and the merchants of both regions have long preferred it to the steeper routes of the south. The road has served the inland trade since the first generations of settled life upon the two ranges, and the wear of wheels and hooves is visible in the stone surface where the paving has not been relaid for several generations.
 
 The pass is named for the amber resin that gathers in the soil of the highland forests of the Sunken Crown, a name older than the present kingdoms. The amber is gathered by the forest communities in the late dry season, when the ground is at its hardest, and the pieces are carried down to the markets at the foot of the pass for trade with the lowland cities. The resin was the first of the highland products to find a regular market in the lowlands, and the road that carried the amber came to be known by the name of the resin itself.
 
-## The Stone Floor and the Springs
+## Volcanic Paving and the Reliable Water
 
 The Amber Pass owes its dependability to the geology of the shoulder it crosses and to the quality of the water that the highland yields through the longest dry seasons. The floor of the pass is a bed of dark volcanic stone laid down by the ancient eruptions of the Sunken Crown in a single broad sheet, so closely jointed that rain falling upon the upper road drains through the cracks before it can gather into channels. This drainage is the foundation of the road's reliability in the wet season; a crossing of softer stone would become a stream bed after the first heavy storm, and pack animals would lose their footing upon the mud. The stone floor has served as the model for the paving of the principal roads of the two continents, and the engineers of the [Thessaran League](/content/government/national/thessaran-league) and the river councils of Ashara have studied the paving of the Amber Pass with care.
 
 The springs of the Amber Pass are no less important than the floor. The highland receives its water from the cloud forest that clings to the upper slopes of the Sunken Crown, and the springs rise in several places along the pass, their water cool and clear through the driest months. Merchants and drovers have long relied upon the springs for watering their animals, and the highland communities have built stone troughs and shelters at the principal springs to prevent fouling by traffic. The springs are the subject of customary agreements between the forest communities and the merchants, and the maintenance of the troughs is a communal obligation observed without serious interruption in any season.
 
-## The Upper Road and the Pack Animals
+## Donkeys, Mules, Oxen, and the Snow Closure
 
 The upper road, traversing the northern shoulder of the Sunken Crown, is a winding path maintained by the highland communities for many generations. The path is too steep in places for wheeled vehicles, and merchants and drovers rely upon pack animals rather than carts. The principal animals are the small, sure-footed donkeys of the Asharan highlands, the hardy mules of the central basin, and the patient oxen of the Thessaran eastern terraces. The drivers of the pack trains form a distinct community of craftsmen, and the knowledge of the road and the animals is passed from parent to child in a manner similar to the transmission of the highland songs.
 
 The upper road is closed by snow for a portion of the winter, though the closure is generally shorter than that of the higher passes of the two ranges. The highland wardens keep watch upon the upper road from refuge halls that the customary law requires the highland communities to maintain, and they signal the state of the road to merchants and drovers by means of fire signs refined over many generations. The closure of the upper road is announced to the merchants of the lowland cities by riders who carry the news to the markets at the foot of the pass, and merchants mark the period of closure by adjusting the timing of their purchases.
 
-## The Descent to the Basin
+## The Central Basin and the Caravan Towns
 
 Below the springs and the high meadows, the Amber Pass descends into a broad central basin lying between the two ranges. The basin is a chain of linked plains, each separated from the next by a low ridge of harder stone, and the road that follows it is one of the oldest in the known world. The basin has been a highway for so long that the wear of wheels and hooves is visible in the surface of the limestone, and the road is the principal route by which the highland minerals of the Sunken Crown reach the rivers and ports of Ashara and the eastern terraces of Thessara.
 
 The towns of the basin are staging points for the caravans, and their merchants maintain the inns, warehouses, and workshops that the road requires. The [gnomes](/content/species/sapient/gnomes) of the lower passes have established workshops in the basin towns, producing survey instruments and small water devices for the farmers of the terraces. The basin is the most cosmopolitan section of the road, for merchants of the highland and the lowland meet in the basin markets, and the goods of the two continents are exchanged in quantities that no other crossing can match.
 
-## The River Country and the Barges
+## Flat-Bottomed Barges and the River Clerks
 
 When merchants and drovers reach the eastern edge of the central basin, the road gives way to the rivers descending from the eastern slope of the Crown Range. Pack animals are offloaded at the principal river towns, and cargo is transferred to barges that carry it down the rivers to the eastern coast of Thessara and to the lowland markets of Ashara. This transfer is the foundation of the efficiency of the Amber Pass, for the rivers are navigable for the larger part of their length and the barges carry far heavier loads than the pack animals of the upper road.
 
 The barges are flat-bottomed vessels of considerable size, manned by crews who have grown up upon the rivers and who know the channels, shallows, and seasonal floods with precision. The bargemen maintain the booms and sails that the river requires, and the loading of cargoes is supervised by river clerks who record the weight and destination of every bale. The bargemen are held in particular esteem by the merchants of both continents, for the transfer of cargo from pack animals to barges is the moment at which the value of the highland goods is realised in the lowland markets.
 
-## The Highland Communities and the Maintenance
+## Highland Wardens and the Refuge Halls
 
 The highland communities that inhabit the approaches to the Amber Pass are the principal maintainers of the road, and the maintenance is a communal obligation enforced by the customary law of the highland. The communities of the upper slopes rebuild the stone walls that support the road after heavy rains, clear the ditches that carry water away from the paving, and inspect the springs and troughs that the pack animals require. The maintenance is the most thorough of any road in the two continents, and the road has endured for several generations without significant interruption.
 
 The highland wardens of the Amber Pass are drawn from the principal communities of the upper slopes, and they are responsible for the safety of the road and for assisting travellers caught by the weather. The wardens maintain the refuge halls that stand at intervals along the upper road, stocked with dried meat, peat, and spare timber for travellers in need. The wardens are the most trusted of the highland officials, and the merchants of both continents mark the anniversaries of the founding of the wardenship with appropriate ceremonies.
 
-## Significance
+## Foundation of Highland Trade
 
 The Amber Pass is one of the most useful of the natural features of the two continents, and it is the foundation of the highland trade between Ashara and Thessara. The road, the springs, the upper road of the pack animals, the basin of the central plain, and the barges of the river country are the inheritance that the pass has bequeathed to the present age. The pass is held in particular esteem by the merchants and the highland communities of both ranges, and they mark the anniversaries of the founding of the road with appropriate ceremonies. The Amber Pass endures, in the stone of its floor and the water of its springs, as the living inheritance of those whose work and life are bound up with the highland trade between the warm continent and the long continent of the eastern waters.

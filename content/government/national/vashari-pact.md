@@ -3,11 +3,11 @@ layout: default
 title: Vashari Pact
 ---
 
-## Overview
+## Alliance of the Inland Caravan Cities
 
 The [Vashari](/content/location/settlement/city/vashari) Pact is the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh), the vast desert interior of [Sahrana](/content/location/natural/continent/sahrana). The pact is not a kingdom but a commercial and defensive alliance, and its member cities retain individual governance while co-operating on matters of trade, caravan management, and defence. The Vashari Pact is the primary political entity of the inland [Sahrani](/content/language/spoken/sahrani), and its collective power in the caravan trade connecting the coast to the interior is the foundation of the economy of the desert regions.
 
-## The Member Cities
+## Vashari, Shurra, and the Desert Settlements
 
 The Vashari Pact includes the principal inland cities and settlements at the edge of the Kharesh, drawn from the communities that share in the caravan trade. [Vashari](/content/location/settlement/city/vashari) is the largest and most influential member, and its position at the terminus of the great caravan routes gives it commercial importance unmatched by any other inland city. [Shurra](/content/location/settlement/village/shurra) is a valued member, the oasis settlement deep in the Kharesh that is a vital waypoint on the caravan routes. [Kheled](/content/location/settlement/village/kheled) is the upland settlement of the desert massifs, and its minerals and springs are a valued resource for caravans. [Dunesend](/content/location/settlement/outpost/dunesend) is the caravan stop at the edge of the Kharesh, and its services are a critical component of the caravan trade.
 
@@ -15,25 +15,25 @@ The pact is governed by a council of representatives from each member city. The 
 
 The council meets at Vashari, and the sessions are attended by representatives of member cities and caravan masters who operate the routes. Before each council session, a public forum is held in the great market square of Vashari where any citizen of the pact may bring a concern, question a representative, or propose a matter for the council's consideration. The council is expected to respond to each submission before proceeding to its regular business. The sessions are occasions of negotiation and exchange, and representatives carry the news and concerns of their communities. The council maintains a registry of caravan routes and water sources, the official record of the trade and infrastructure that sustains caravan commerce. The council also maintains a system of waybills and seals that authenticate caravans and their cargoes, a critical tool in the regulation and protection of trade. Any citizen may petition the council in writing, and the council must provide a formal response. The right of petition is regarded as the foundation of accountability in the pact, and a representative who ignores the petitions of their constituents may face removal at the next election. The pact's system of popular elections and formal public accountability places it among the democratic polities, though its reliance on written procedures and fixed electoral terms makes it less continuously participatory than the open assemblies of the Kharesh Tribes or the face-to-face deliberations of the Auric Isles.
 
-## The Caravan Trade
+## Coordination of Desert Commerce
 
 The caravan trade is the foundation of the Vashari Pact's economy. Goods flowing through the caravan routes include the spices, dyes, and precious stones of the interior, carried by caravans from oases and upland settlements to the markets of the coast, and the grain, cloth, and manufactured goods carried in the opposite direction. The pact co-ordinates the caravan trade, managing the routes, provisioning, and protection of caravans that travel the Kharesh, and its regulation of the trade ensures that goods flow efficiently and safely between the coast and the interior.
 
 The pact's relationship with the [Kharesh Tribes](/content/government/national/kharesh-tribes), the confederation of nomadic peoples of the desert, is one of mutual dependence. The tribes provide the knowledge of the desert that caravans require, and the pact provides the goods and market that the tribes need. Co-operation between the pact and the tribes is the foundation of the caravan trade, and the two entities work together to maintain the routes, water sources, and shelters that sustain traffic between the coast and the interior.
 
-## Defence and the People
+## Protecting the Routes and Cities
 
 The defence of the inland cities is maintained by a collective force funded by contributions of the member cities, and the fortifications of individual cities are maintained by each member. The desert is a source of danger as well as trade, and the defence of caravan routes against raiders and wild peoples of the deep desert is a constant concern. The population of the pact is chiefly [human](/content/species/sapient/humans), with a significant community of [salawa](/content/species/sapient/salawa) involved in the caravan trade and guidance of desert routes.
 
-The collective force of the pact consists of soldiers and guards contributed by member cities, commanded by a captain appointed by the council. The force is stationed at points along the caravan routes where the threat of raiding is most acute, and patrols conducted by the force deter raiders who might otherwise prey on the caravans. The force is supplemented by salawa guides who accompany caravans and provide the knowledge of the desert essential for safe passage of the routes.
+The [Pact Guard](/content/government/local/pact-guard), the collective force of the pact, consists of soldiers and guards contributed by member cities, commanded by a captain appointed by the council. The force is stationed at points along the caravan routes where the threat of raiding is most acute, and patrols conducted by the force deter raiders who might otherwise prey on the caravans. The force is supplemented by salawa guides who accompany caravans and provide the knowledge of the desert essential for safe passage of the routes.
 
-## History
+## Founding and Challenges from Raiders
 
 The Vashari Pact was established in the early centuries of the caravan trade, when the inland cities recognised that the common challenges of the desert and trade required a common response. The founding charter was agreed by representatives of the original member cities, and the principles of co-operation, mutual support, and collective defence established at that time have been the foundation of the alliance ever since. The pact has been expanded on several occasions as new settlements were founded and admitted to membership, and the council has been reformed to accommodate the growing number of members.
 
 The history of the pact has been marked by recurring challenges from desert raiders and wild peoples of the deep interior. The collective force has been dispatched on numerous occasions to suppress threats and secure the routes. The most serious such threat was a confederation of raiders based in the deep Kharesh, and the campaign conducted by the pact's force against them is commemorated in the traditions of the inland cities and the records of the council. The pact has also mediated disputes between member cities and the Kharesh Tribes, and the council's mediation has been a significant factor in maintaining the peace and co-operation that sustain the caravan trade.
 
-## Significance
+## Control of the Sahrani Caravan Commerce
 
 The Vashari Pact is the primary political entity of the inland Sahrani, and its collective power in the caravan trade connecting the coast to the interior is the foundation of the economy of the desert regions. The pact's co-operation with the Kharesh Tribes in the caravan trade is a critical component of the economy of Sahrana, and its regulation of the caravan routes is a vital function sustaining commerce between the coast and the interior. The significance of the Vashari Pact lies in its capacity for collective action and its control of the caravan trade, and the pact symbolises the endurance and enterprise of the inland cities of the Sahrani desert.
 

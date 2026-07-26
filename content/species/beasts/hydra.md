@@ -3,34 +3,34 @@ layout: default
 title: Hydra
 ---
 
-## Overview
+## Many-Headed Beast of the Swamp
 
 The hydra is one of the great reptilian beasts of the swamps and inland waters of the known world, a creature of considerable size and singular dread whose range extends across the marshy lowlands of the three continents. It takes its name from the many-headed conformation it displays. Naturalists of the academies of [Amurra](/content/government/national/amurra-republic) consider it one of the most singular predators of the inland waters. The hydra requires the still water of swamps and the shelter of reed beds; it is found in greatest numbers in the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) bordering the lower reaches of the Greywash and in the brackish lagoons of the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) of [Sahrana](/content/location/natural/continent/sahrana).
 
-## Form and Appearance
+## Multiple Heads and Regenerating Necks
 
 The hydra is a creature of considerable size, with a body set upon four powerful legs in the manner of the great lizard and a long sinuous neck bearing at its crown a cluster of heads that is the source of its most celebrated and most dreaded attribute. The body is covered in a thick hide of small scales of a dark green or blackish hue; the scales of older animals are tipped with a pale moss that marsh-folk have likened to the duckweed floating upon still water. The legs are short and powerful; the creature is capable of surprising speed upon marshy ground, the broad feet adapted to soft footing. The tail is long and heavy, used for propulsion through the water; the hydra is capable of swift and silent passage through reed beds that marsh-folk have learned to fear.
 
 The heads are the creature's most singular feature; the number varies with the age and vigour of the individual. A hydra of moderate age may bear five heads, while the oldest recorded have been said to bear nine or more. Each head is set upon its own short neck springing from the common base of the creature's crown; each head is armed with a jaw of considerable size and a row of sharp teeth renewed throughout the animal's life. The heads act in concert when hunting, turning in different directions to survey the surrounding water and reed beds, and are capable of independent action. The most celebrated attribute is the creature's ability to regrow a head that has been severed; accounts of the marsh include records of a hydra that has been beheaded only to grow two heads in the place of the one that was lost.
 
-## Habitat and Range
+## Still Water and Reed Beds
 
 The hydra inhabits the swamps and inland waters of the three continents, with the largest populations in the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) of [Aethelar](/content/location/natural/continent/aethelar) and the brackish lagoons of the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) of [Sahrana](/content/location/natural/continent/sahrana), and a smaller population in the lake country of [Morvind](/content/location/natural/continent/morvind) within the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands). It requires still water and the shelter of reed beds; it is not found in open country or fast-flowing rivers. The lair is typically situated in a deep pool surrounded by the densest reed beds, marked at the surface by a peculiar stillness of the water that marsh-folk have learned to recognise.
 
 The hydra is solitary; mature animals hold territories marked by scent left upon prominent tussocks and by trails worn through the reed beds. A territory may extend for several miles through the marsh; the creature ranges widely in search of prey. It is most active at dusk and dawn, emerging from the pool to hunt upon game trails winding through the marsh, and returns to the pool before the full light of day.
 
-## Diet and Behaviour
+## Ambush from Beneath the Surface
 
 The hydra is a predator of considerable power that feeds upon a wide range of prey according to opportunity. The principal prey is the larger mammals that come to the water to drink, including deer of the marsh margins and cattle of marshland pastures; a mature hydra will take a yearling deer with a sudden rush from the cover of reeds. It is also a predator of fish of still water and birds of the reed beds, taking wildfowl that nest among the reeds when the nests are unguarded. The hydra does not ordinarily attack [humans](/content/species/sapient/humans), but accounts of the marsh communities include incidents in which a hydra has killed a fisherman or reed-cutter who unwarily approached the pool; marsh-folk take care to mark the lairs and give them a wide berth.
 
 The hunting technique is to lie in wait beneath the surface and seize prey with a sudden dart of the heads; the multiple heads deliver a series of bites sufficient to disable the prey at the first contact. The hydra is capable of a short rapid rush through the water sufficient to overtake swimming prey and will pursue a wildfowl that has taken to the wing with a leap from the water. The heads act in concert when hunting; marsh chroniclers have recorded instances of a hydra seizing a deer with two heads at once, the additional heads serving to drag the prey beneath the water with a force no single throat could have exerted.
 
-## The Hydra in Legend and the Slayer's Tradition
+## The Hunt with Fire and Spear
 
 The hydra occupies a singular place in the traditions of the marsh communities and is the subject of a body of lore among the most elaborate of the cautionary traditions of the inland waters. The [elves](/content/species/sapient/elves) of the forest margins hold that the hydra is a creature of the old marsh, old when the first elven kind set foot upon the world; elven wardens of the marsh are reputed to be able to lead a party through its territory without disturbing the creature. The [humans](/content/species/sapient/humans) of the marsh communities regard the hydra with a dread not accorded to any other beast of the water; the hunter who has killed a hydra is honoured with a title second to none among the orders of the chase.
 
 The hunting of the hydra is a recognised pursuit of the marsh communities; hunters take a small number each year under licence from local authorities. The hunt is conducted with the heavy spear and with brands set alight and applied to the stumps of severed necks, for naturalists have determined that fire is the surest means of preventing the regrowth of a head. The hunter must have the skill and courage to sever the heads in quick succession and apply fire to each stump before the next head can be brought to bear, for the rush of the hydra from the water is of terrifying speed and the bite is sufficient to disable a man at the first contact. The hydra is not held in particular reverence; it is regarded as a hazard of the water and is hunted with the same practical purpose that marsh-folk bring to the hunting of the [Velden Reef Serpent](/content/species/beasts/velden-reef-serpent) and the [shark](/content/species/beasts/auric-reef-shark).
 
-## Significance
+## Lord of the Reeds
 
 The hydra is the foremost of the great reptilian beasts of the inland waters, and its presence in the swamps of the three continents is a measure of the wildness that endures in the country of the reeds. It is the predator that keeps the populations of larger mammals of the marsh margins in balance with the carrying capacity of the water; the loss of the hydra from any district would be followed by a deterioration of the fishery. The hydra endures in the swamps and inland waters of the three continents and in the cautionary lore of the marsh-folk who share the world with the creature as a symbol of the wildness that persists in the country of the reeds. The peculiar stillness of the water above the lair is a reminder that the marsh is not empty of life nor subject to the order of the settled lands beyond.

@@ -3,45 +3,45 @@ layout: default
 title: Frostwall Fire Signs
 ---
 
-## Overview
+## Signal Fires of the Marches
 
 The Frostwall Fire Signs are the system of signal fires maintained by the [Frostwall Clans](/content/government/national/frostwall-clans) of the deep interior of [Morvind](/content/location/natural/continent/morvind) to communicate across the broken country of the [Frostwall Marches](/content/location/settlement/region/frostwall-marches), the high borderlands where escarpments, glaciated plateaus, and narrow passes meet the cold steppes of the far side. It is a code of fires kindled upon high points of the escarpment in prescribed sequences and arrangements, conveying information across distances the voice cannot span and messengers cannot reach in time. Clan chiefs, watchkeepers, and garrison commanders of the march use the system, and its signals are understood by every dwarf of the clans who serves in the high country.
 
-## The Nature of the Fires
+## Pits and Fuel
 
 The signal fires are kindled in pits constructed upon high points of the escarpment, positioned to command the principal sightlines maintained along the length of the march. The pits are filled with wood of a quality selected to produce flames of particular colour and intensity. Pitch-pine from the lower slopes burns with a bright yellow flame; mountain spruce of the high country burns with a deeper red flame. The contrast between the two colours is the foundation of the signal system and can be distinguished at considerable distance in the still air of the mountain evenings.
 
 The fires are kindled on customary nights and at customary hours established for routine signals of the watch. These routine signals are the principal means by which garrisons of the march communicate their continued vigilance to one another across the length of the escarpment. The routine signals are repeated at intervals through the hours of darkness, and the repetition is the assurance that the watch is maintained and the way is held. The failure to maintain the signals would be taken as an indication that the garrison had been overwhelmed and the watch had fallen.
 
-## The Numbers of Fires
+## Reading the Count
 
 The number of fires kindled at a single station is the first principal element of the code, conveying the primary classification of information. A single fire kindled alone at the customary pit signals routine, indicating the watch is maintained and no unusual event has occurred. Two fires kindled side by side at the customary distance signal movement, indicating that persons or animals have been observed upon the slopes and that the garrison is observing the movement. Three fires arranged in a triangle with customary spacing signal danger, warning neighbouring garrisons that the march is threatened and garrisons must prepare for action. Four fires arranged in a square signal assembly, summoning clansmen of neighbouring garrisons to a gathering at the place indicated. Five fires arranged in a line signal victory, announcing that an engagement has concluded successfully and the march has been defended. The numbers are understood by every dwarf of the clans who has served a term of duty in the watch. The code is of limited scope — no combinations beyond five are used — and the limits are understood as part of its reliability.
 
-## The Colours of the Flames
+## Colour as Signal
 
 The colours of the flames are the second principal element of the code, refining the information that the numbers convey. The pitch-pine fire with its bright yellow flame is the customary fire of routine signals, indicating that the matter at hand concerns ordinary watch-keeping. The mountain spruce fire with its deep red flame is the fire of warning signals, indicating that the matter concerns dangers the march defends against. The two colours may be combined at a single station, with one pit burning pitch-pine and the other spruce, indicating that the matter lies between ordinary and dangerous.
 
 A third colour is produced by burning a particular lichen collected from the high cliffs of the escarpment. The lichen burns with a pale, ghostly flame visible at a greater distance than yellow or red and is reserved for signals of the gravest moment. The lichen fire is kindled only upon the direct order of the chief of the clan, given only in circumstances the customary law defines as the gravest the watch may face. The lichen fire is rarely kindled; its rarity is a measure of the gravity of the occasions that require it.
 
-## The Sequences
+## Order of Kindling
 
 The sequences in which the fires are kindled are the third principal element of the code, conveying additional information that numbers and colours alone cannot express. The fires are kindled in a prescribed order that indicates the clan or garrison that is the source of the signal. The order is determined by the customary precedence of the clans of the march, established by their seniority and the customary order of the council. A watchkeeper who observes the sequence can identify the source of the signal by the order in which the fires are kindled.
 
 The sequences also indicate direction, conveyed by the position of the principal fire in the sequence. The first fire indicates the matter lies to the north of the station, the second to the east, the third to the south, and the fourth to the west. The watchkeeper who reads the sequence determines the direction of the matter announced, enabling the response the garrison may mount. The sequences represent a sophisticated refinement of the simpler code of numbers and colours, a measure of the experience the clans have accumulated in the defence of the march.
 
-## The Response
+## Required Responses
 
 The response a signal requires is determined by the customary regulations the council of the clans has established, observed by every garrison of the march. The response to a routine signal is the kindling of a customary reply at the next station along the escarpment, a formal acknowledgement that the signal has been observed and the watch is maintained. The response to a signal of movement is the dispatch of a patrol to the place indicated, conducted by the customary party of observation. The response to a signal of danger is the muster of the garrison at the customary place of assembly, conducted with the customary arms and provisions. The response to a signal of assembly is the march of clansmen of neighbouring garrisons to the place indicated, conducted with customary speed and order. The effectiveness of the system rests upon the discipline the clans impose upon the watchkeepers of the march.
 
-## Centres of Use
+## Stations Along the Escarpment
 
 The fire signs are most extensively used along the length of the [Frostwall Marches](/content/location/settlement/region/frostwall-marches), where the escarpment of the Frostwall divides the central uplands of [Morvind](/content/location/natural/continent/morvind) from the remote valleys of the deep interior. The principal stations are situated upon high points at intervals the watchkeepers have determined to be within reliable sightline of the customary flames, maintained by garrisons of the [Frostwall Clans](/content/government/national/frostwall-clans) that hold the march. The fortress of [Grimhold](/content/location/settlement/city/grimhold) is the principal station, and its watchkeepers coordinate signals along the length of the march. The system is also used at remote stations in the deep interior, including [Ravenscrag](/content/location/settlement/village/ravenscrag) and smaller stations occupied by patrol parties. These are less elaborately equipped but employ the same code of numbers, colours, and sequences.
 
-## Relation to Other Systems
+## Compared to Other Dwarven Codes
 
 The Frostwall Fire Signs are distinct from the [Stoneheim Bench Marks](/content/language/pseudo/stoneheim-bench-marks) that dwarves of the holds employ in underground galleries, though both share the dwarven commitment to practical communication of essential information. The bench marks are the code of the underground world, cut in stone and enduring from one generation to the next; the fire signs are the code of the high country, kindled for the moment and renewed each night the watch is maintained. The fire signs are also distinct from [Deep Speech](/content/language/pseudo/deep-speech), the code of percussive signals struck upon the stone, for the fire signs are a code of light and colour displayed upon the high points of the mountain. The two systems are complementary; a dwarf who serves in both the high country and the underground workings passes from one code to the other as his duties require.
 
-## Significance
+## Watch of the High Country
 
 The Frostwall Fire Signs are the voice of the high country in the defence of the deep interior of [Morvind](/content/location/natural/continent/morvind), the means by which the [Frostwall Clans](/content/government/national/frostwall-clans) maintain the watch upon the [Frostwall Marches](/content/location/settlement/region/frostwall-marches) and coordinate the response to dangers. Without the fire signs, the garrisons of the march would have no rapid means of warning neighbouring garrisons, and the coordination of the defence would be a far slower and more uncertain undertaking. The system is a practical invention born of the necessities of the high country, a measure of the dwarven capacity to maintain the watch upon one of the most demanding frontiers of the known world. In the stillness of the mountain evenings where the surface traveller sees only the darkness and the cold, the watchkeeper reads the fires of neighbouring stations, and the fires carry the news of the march from one end of the escarpment to the other.
 

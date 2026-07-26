@@ -3,11 +3,11 @@ layout: default
 title: Khalisar Council
 ---
 
-## Overview
+## The Governing Body of the Greatest Sahrani City-State
 
 The Khalisar Council is the governing body of [Khalisar](/content/location/settlement/city/khalisar), the greatest of the [Sahrani](/content/language/spoken/sahrani) coastal city-states, and the primary political institution of the wealthiest and most influential settlement on the northern coast of [Sahrana](/content/location/natural/continent/sahrana). The council is not a monarchy but an elected body of officials and appointed elders, its governance based on the principles of merit, consensus, and the representation of the commercial and civic interests of the city. The Khalisar Council is the most powerful political entity in Sahrana, and its decisions shape the economy and culture of the Sahrani coast and the continent as a whole.
 
-## The Council and the Governance
+## The Elected Officials, the Appointed Elders, and the Courts
 
 The Khalisar Council is composed of elected officials chosen from the merchant and civic families of the city and appointed elders drawn from the most experienced and respected members of the community. The council meets in the council hall, a substantial building situated in the centre of the city, and decisions are made by vote. The council oversees the administration of the city, the regulation of trade, the maintenance of the harbour and fortifications, and the administration of justice, and its decisions are binding on all inhabitants of the city.
 
@@ -17,25 +17,25 @@ Elections to the council are held at regular intervals, and officials serve a fi
 
 The administration of justice is one of the most important functions of the council, which maintains a system of courts that adjudicate disputes among the inhabitants and merchants of the city. The courts are presided over by officials of the council, and the proceedings are conducted according to a body of law developed and refined over centuries. The law of Khalisar is among the most comprehensive and respected in the known world, and the judgements of the courts are recognised for their fairness and consistency.
 
-## The City and the Trade
+## The Trade Regulation and the Northern Coast League
 
 The trade flowing through the harbour of [Khalisar](/content/location/settlement/city/khalisar) is the greatest of any Sahrani city, and the council's regulation of this trade is the primary function of its governance. The council oversees the collection of tolls and taxes on trade, the regulation of merchants and shipping, and the maintenance of the harbour and warehouses essential to the commerce of the city. The wealth that accumulates in the treasury is used to fund the construction of public works, the maintenance of trade routes, and the support of learning and the arts.
 
 The council's influence extends beyond the walls of the city, for Khalisar is the leading member of the [Northern Coast League](/content/government/national/northern-coast-league), the alliance of the Sahrani coastal city-states, and the council's decisions shape the policy and direction of the league. The council's leadership in the league is based on the wealth and influence of the city, and the other members look to Khalisar for direction and support.
 
-## The People and the Defence
+## The Diverse Population and the Standing Force
 
 The population of Khalisar is the most diverse of any Sahrani city, and the council's governance reflects this diversity, for officials and elders are drawn from the various communities that constitute the population. [Humans](/content/species/sapient/humans) are the majority, but [dwarves](/content/species/sapient/dwarves), [elves](/content/species/sapient/elves), and the peoples of the southern regions are present in significant numbers, and the council's representation of these communities is a valued feature of its governance. The defence of the city is maintained by a standing force funded by the treasury, and the fortifications of Khalisar are maintained in good order.
 
 The standing force of Khalisar is composed of a garrison of professional soldiers recruited from the population of the city and the surrounding region, trained and equipped to a standard among the highest in Sahrana. The garrison is supplemented by a naval force that patrols the waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and protects the trade routes connecting Khalisar to other coastal cities and the northern continents. The fortifications of the city include the sea walls protecting the harbour, the land walls enclosing the city, and the watchtowers commanding the approaches from land and sea.
 
-## History
+## From Merchant Councils to the Established Constitution
 
 The Khalisar Council was established in the early centuries of the city's history, when the growing wealth and increasing complexity of the trade passing through the harbour required a more formal system of governance than the informal councils of the merchant families that had preceded it. The constitution of the council was devised by the elders of the city, and the principles of merit, consensus, and representation established at that time have been the foundation of the council's governance ever since. The council has been reformed and adjusted on several occasions in response to changing conditions, but the essential character of the institution has been preserved.
 
 The council's leadership in the [Northern Coast League](/content/government/national/northern-coast-league) was established in the early years of the league, and the council has been the primary force in the direction and co-ordination of the league's policy ever since. The relationship between the council and the other members of the league is one of partnership and mutual respect, and the council's influence is exercised through persuasion and example rather than coercion. The council's leadership has been a significant factor in the stability and prosperity of the Sahrani coast, and the league is among the most effective political institutions in the known world.
 
-## Significance
+## The Most Powerful Political Entity in Sahrana
 
 The Khalisar Council is the most powerful political entity in Sahrana, and its governance of the greatest city-state on the northern coast is a critical component of the economy and culture of the continent. The council's effective and fair governance is a model of the political order that has sustained the Sahrani city-states for many centuries, and its leadership in the Northern Coast League is a significant force in the politics of the coast. The significance of the Khalisar Council lies in its competence and integrity, and it is a symbol of the civic tradition and commercial enterprise that are the hallmarks of Sahrani civilisation.
 

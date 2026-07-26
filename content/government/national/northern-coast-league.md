@@ -3,11 +3,11 @@ layout: default
 title: Northern Coast League
 ---
 
-## Overview
+## Alliance of the Sahrani City-States
 
 The Northern Coast League is the alliance of the [Sahrani](/content/language/spoken/sahrani) coastal city-states, united by their common interest in the maritime trade of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and their shared dependence on the sea. The league is not a kingdom but a commercial and defensive alliance, and its member cities retain individual governance while co-operating on matters of trade, navigation, and defence. The Northern Coast League is the primary political entity of the Sahrani coast, and its collective power in the maritime trade of the Auric Ocean is among the greatest of any political entity in the known world.
 
-## The Member Cities
+## Khalisar, Amurra, and the Other Ports
 
 The Northern Coast League includes the principal city-states of the Sahrani coast, drawn from the settlements that share in the Auric trade. [Khalisar](/content/location/settlement/city/khalisar) is the largest and most influential member, and its [Khalisar Council](/content/government/local/khalisar-council) is the primary political institution of the city. [Amurra](/content/location/settlement/city/amurra) is a valued member, renowned for its spice trade. [Taretha](/content/location/settlement/city/taretha) is a significant member, known for its libraries and scholarship. [Drahima](/content/location/settlement/city/drahima) is the centre of the dye trade, and [Nessara](/content/location/settlement/city/nessara) is the northernmost member, marking the edge of the fertile strip. [Qassir](/content/location/settlement/city/qassir) is the easternmost member, and its trade with the islands of the Auric is a valued component of the league's commerce.
 
@@ -17,19 +17,19 @@ The membership of the league has changed over the centuries. The council has the
 
 The league is among the more democratic of the mixed polities: its council represents all member cities, the office of admiral rotates among them to prevent domination by any single city, and the council's deliberations are conducted openly with records published for any merchant to inspect. Yet the league does not prescribe how its member cities should govern themselves internally, and these range from the restricted franchise of Amurra to the broader participation of Khalisar. The league as a whole is thus more representative than the kingdoms of the north yet less directly participatory than the confederations of the grasslands and the southern islands.
 
-## Trade and Navigation
+## Coordinating Maritime Commerce
 
 The trade of the Northern Coast League is the collective commerce of its member cities. The goods flowing through the league's harbours include the spices, dyes, precious stones, and other products of Sahrana, which are exported to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind). The league co-ordinates maritime trade, managing lighthouses, pilotage services, and navigation aids essential to the safety and efficiency of the trade routes. The league also maintains a collective fleet that protects the trade routes from pirates and raiders, funded by contributions of the member cities.
 
 The league's trade with the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities, is a vital component of the Sahrani economy. Goods brought by caravans from the interior are the primary exports of the coast, and the league's co-ordination of coastal trade ensures that goods flow efficiently between the coast and the interior.
 
-## Defence and the People
+## Collective Fleet and Coastal Guardianship
 
 The defence of the Sahrani coast is maintained by the collective fleet of the league and by individual fortifications of the member cities. The league's military power is a significant force in the Auric Ocean. The population of the league is chiefly [human](/content/species/sapient/humans), and the people of the coast are among the most cosmopolitan and prosperous in Sahrana, for the trade that flows through the harbours brings peoples and goods from every continent. The collective fleet is commanded by an admiral appointed by the council, who serves for a term of three years. After each term, a new commander is chosen from a different member city to ensure that no single city dominates the naval command.
 
 The fleet is composed of vessels contributed by member cities in proportion to their share of the trade, and the vessels are crewed by sailors of the contributing cities. The fleet patrols the trade routes of the Auric Ocean and the coast, and its primary function is the suppression of piracy, which has been a recurring problem in the waters off the Sahrani coast. The fleet also serves as a deterrent against any larger threat, and the reputation of the league's naval power is sufficient to discourage all but the most determined adversaries.
 
-## Significance
+## Commercial Primacy on the Sahrani Coast
 
 The Northern Coast League is the primary political entity of the Sahrani coast, and its collective power in the maritime trade of the Auric Ocean is the foundation of the economy of the northern coast and the continent as a whole. The league's co-operation among independent city-states is a model of the political order that has sustained the Sahrani coast for many centuries, and its effective governance and commercial power are recognised throughout the known world. The significance of the league lies in its capacity for collective action and its control of the most valuable trade routes in the southern world. The league is a symbol of the wealth and refinement of Sahrani civilisation, and its endurance is a testament to the wisdom of its founders, who established an institution that has served the common interest of the Sahrani coast through centuries of change and challenge.
 

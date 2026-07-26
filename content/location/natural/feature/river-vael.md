@@ -3,13 +3,13 @@ layout: default
 title: River Vael
 ---
 
-## Overview
+## Greatest Waterway of Aethelar
 
 The River Vael is the greatest waterway of [Aethelar](/content/location/natural/continent/aethelar), a long and generous river that rises among the western foothills of the central mountain spine and flows eastward across the temperate heartland before emptying into the [Auric Ocean](/content/location/natural/feature/auric-ocean) at the port of [Vaelmouth](/content/location/settlement/city/vaelmouth). The river drains a substantial portion of the continent's interior, carries the silt that has built the [Amber Vale](/content/location/settlement/region/amber-vale) into one of the most fertile regions in the known world, and serves as the principal highway of the kingdom that takes its name from it. The Vael is at once a feature of geography and a foundation of polity, for the [Vael](/content/government/national/vael) has grown up along its banks over many generations, and the laws, customs, and daily labour of the river communities remain bound to its waters.
 
 The Vael is unusual among the great rivers of the known world for the steadiness of its flow and the breadth of its navigable reach. Few rivers of comparable length offer so long a stretch of calm water to laden vessels, and the kingdom that has grown up along the Vael has been able to extend its commerce and influence further into the interior than kingdoms founded upon shorter or swifter streams. The river is also a source of fish, irrigation, and the boundary lines that have shaped the territorial arrangement of the valley, and the Vael is woven into the identity of the kingdom in a manner that no other feature of the landscape quite matches.
 
-## Course and Character
+## From Mountain Stream to Broad Estuary
 
 The Vael rises in the western foothills of the Aethelar mountain spine, where the snowmelt and rains of the high country gather into streams that converge in the upper valleys. The upper course is swift and narrow, passing through wooded country where the [dwarves](/content/species/sapient/dwarves) of the foothills have long maintained fords and small ferries for the metal trade descending from the mountain workshops. The river gathers volume as it enters the [Amber Vale](/content/location/settlement/region/amber-vale), and its character changes from a mountain stream to a broad, slow river meandering across the floodplain in long, gentle bends.
 
@@ -17,7 +17,7 @@ Within the vale, the river is flanked by low wooded hills and by fields cultivat
 
 The lower course passes through the wider lowlands east of the Amber Vale, and the river broadens as it approaches the coast. The current slows further, and the channels divide around low islands and sandbanks accumulated over the centuries. The mouth of the river forms the harbour of Vaelmouth, where the water spreads wide and meets the [Auric Ocean](/content/location/natural/feature/auric-ocean) in a broad estuary. The estuary is shallow and the sandbanks shift with the season, and the pilots of Vaelmouth maintain a careful watch upon the channels leading from the open water to the quays. The river is tidal in its lowest reaches, and the salt water pushes upstream for several miles, marking the meeting of fresh and salt in a manner familiar to all of the river communities.
 
-## The Annual Flood and the Fertility of the Vale
+## The Spring Flood and the Renewal of the Vale
 
 The annual flood is the most important natural event in the life of the Vael valley, and the rhythm of the agricultural year is set by the rise and fall of the river. The flood begins in the late spring, when the snowmelt from the high country swells the upper tributaries, and the rise of the water moves downstream over a period of several weeks. The floodwaters spill over the low banks and spread across the fields of the floodplain, depositing a layer of fine silt that renews the fertility of the soil. The farmers of the valley have learned to manage the flood through a system of dykes and channels that control the distribution of the water, and the irrigated fields lining the river produce some of the highest yields in [Aethelar](/content/location/natural/continent/aethelar).
 
@@ -25,7 +25,7 @@ The flood is not regarded by the valley communities as a danger but as a gift, a
 
 The flood is also a hazard when excessive, and the records of the valley record several occasions upon which the river has burst its banks and destroyed entire villages. The flood of the third year of the reign of [Sera](/content/people/historical/sera-ambervale) was the most severe of recorded history, and the queen is remembered for her personal supervision of the repair of the embankments in the year that followed. The memory of this flood is preserved in the customary law of the valley, which requires that each household set aside a portion of the harvest in a common store against the recurrence of such a calamity, administered by the village elder under the oversight of the royal governor.
 
-## Trade and Navigation
+## Barges, Bridges, and the Water Law
 
 The trade of the [Vael](/content/government/national/vael) is built upon the navigation of the river, and the barges that travel its waters are the foundation of the kingdom's commercial power. The vessels of the Vael are of several kinds, suited to the different reaches of the river: the small boats of the upper course hauled by trackers along the bank, the broad barges of the middle course carrying grain and timber downstream under sail or by current, and the sea-going vessels of the lower course transferring cargo between the river and the ocean at Vaelmouth. The boatbuilders of the river communities are the heirs of a long tradition, and the boats of the Vael are noted throughout [Aethelar](/content/location/natural/continent/aethelar) for their seaworthiness and capacity.
 
@@ -33,7 +33,7 @@ The customs of the river trade are governed by the water law of the valley, and 
 
 The bridges of the Vael are among the most substantial works of the kingdom, and the oldest of them is a stone arch spanning the river in three elegant spans at Vaelmouth, built by dwarven engineers in the golden age of the kingdom. The bridges are raised at Vaelmouth to allow the passage of masted vessels, and the opening and closing of the bridges is regulated by the harbour authority with a careful eye to the flow of commerce. The bridges of the upper river are simpler, and the fords of the mountain reaches are maintained by the riverside villages under the customary law of the water. The bridges of the Vael are the symbols of the unity of the kingdom, and their construction and maintenance is regarded by the river communities as a duty owed to the river itself.
 
-## Fish, Waterfowl, and River Life
+## Eel Traps, Salmon Runs, and the Riparian Woodland
 
 The Vael is a rich fishery, and the eel traps, salmon nets, and other devices of the riverside communities provide a supplementary food supply valued in local markets. The salmon run is the most celebrated event of the river year, the fish taken in late spring and early summer as they ascend the river to spawn. The eel traps are maintained in the lower reaches, where the eels are caught in the autumn as they descend toward the sea. The fish of the Vael are exported to other settlements of the kingdom and to the markets of the eastern coast, and the riverside villages that depend upon the fishery have developed a body of customary law governing the timing and methods of the catch.
 
@@ -41,6 +41,6 @@ The waterfowl of the river are abundant, and the ponds and back-channels of the 
 
 The riparian woodland of the Vael is among the most beautiful in [Aethelar](/content/location/natural/continent/aethelar), with willows, alders, and poplars lining the banks and providing a habitat for a variety of small mammals and nesting birds. The woodland is protected by the customary law of the valley, and the cutting of timber from the riverside is regulated to ensure that the banks are not destabilised and the shade that the trees provide is preserved. The riverside woodland is a refuge for the traveller and a source of small timber for the boatbuilders, and the customary law that governs it is among the most carefully observed of the kingdom's institutions.
 
-## Significance
+## Foundation of the Vael
 
 The River Vael is the foundation of the [Vael](/content/government/national/vael) and the principal feature of the geography of central [Aethelar](/content/location/natural/continent/aethelar). Its waters have shaped the agriculture, trade, law, and identity of the kingdoms and communities that have grown up along its banks, and the river is the central fact of the daily life of the valley. The grain exported from the Vael valley feeds the cities of the eastern coast and the islands of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the prosperity of the kingdom is built upon the fertility that the river's annual flood renews. The Vael has been a faithful partner to the peoples who have settled upon its banks, and its generous waters have made possible a kingdom that endures.

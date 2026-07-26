@@ -3,13 +3,13 @@ layout: default
 title: Corvids
 ---
 
-## Origins
+## Winged Minds of the High Forest
 
 Corvids combine a humanoid form with the wings, beak, and feather covering of a large crow, and their minds are among the sharpest of any sapient people. They are found in the high forests of [Aethelar](/content/location/natural/continent/aethelar) and the upper woodlands of [Morvind](/content/location/natural/continent/morvind), and their bodies are adapted to a life that moves between the forest floor and the high canopy. Naturalists have proposed a distant kinship with [harpies](/content/species/sapient/harpies) on the basis of shared capacity for flight and partly avian form, but corvids are far smaller, more terrestrial, and their intelligence is of a different order. A connection to [lepidians](/content/species/sapient/lepidians) has also been suggested, citing shared forest habitat and capacity for flight, but the differences in form, life cycle, and habit are too great for the comparison to be sustained. Corvid oral traditions are conveyed through complex vocalisations and gestures, and they have shown a greater willingness than most peoples to share these traditions with outsiders, though their accounts are often deliberately misleading.
 
 Corvids have inhabited the high forests of the known world for as long as any people can account for, and their presence in these woodlands is recorded in the oldest elven records. They have coexisted with [elves](/content/species/sapient/elves) in the forests for centuries, and the relationship between the two peoples is shaped by the overlap in their range and the difference in their habits.
 
-## Anatomy and Physiology
+## Feathers, Beak, and Hollow Bones
 
 Corvids are a small to medium people, standing shorter than [humans](/content/species/sapient/humans) but taller than [gnomes](/content/species/sapient/gnomes), with a light and angular frame built for both flight and terrestrial movement. Their bones are hollow and thin-walled, reducing weight for flight while retaining structural strength. Two large wings extend from the back, covered in feathers ranging from glossy black to dark grey, with occasional individuals displaying patches of white or a deep iridescent sheen. The wings are broad and capable, granting sustained flight over long distances, and the corvid is also capable of short, precise flights within the forest canopy, navigating between branches and trunks with remarkable precision.
 
@@ -17,25 +17,25 @@ The corvid head is humanoid in general outline but bears the beak, eyes, and fea
 
 Corvid senses are sharp and well balanced. Their vision is the keenest of any people: their large, forward-facing eyes are capable of extraordinary resolution and colour perception, and they can detect details at distances that would leave a human or an elf squinting. Their hearing is acute, and they can distinguish between a great variety of sounds, a gift that serves them in the complex vocal communication characteristic of corvid society. Their sense of smell is moderate. The corvid mind is their most remarkable feature: they possess an intelligence and capacity for problem-solving unmatched by any other people of comparable size, and their ability to use tools, plan, and remember is well documented.
 
-## Life Cycle
+## Eggs in the Canopy and Communal Rearing
 
 Corvids are moderately long-lived, with a typical lifespan of fifty to seventy years under favourable conditions. They mature quickly, reaching full stature and the capacity for flight within four or five years of hatching. Corvid women lay clutches of two to four eggs in nests built high in the forest canopy, and the eggs are incubated for approximately six weeks before hatching. The hatchlings are small and helpless, requiring several months of constant care before they are capable of flight, during which time the mother and the community share the burden of feeding and protection.
 
 Corvid populations grow steadily when the forest is healthy and the food supply is reliable. The young are raised communally, with all adults sharing in their care. The education of a corvid is long and demanding, as the corvid mind requires constant stimulation, and the young are taught not only the practical skills of flight, foraging, and tool use but also the complex system of vocalisations and gestures that constitutes the corvid language. The elders of a corvid community are the repositories of accumulated knowledge, and their memories of the forest, its resources, and its history are the most valuable resource the community possesses.
 
-## Habitat and Distribution
+## Tall Forests of Aethelar and Morvind
 
 Corvids are found chiefly in the high forests of Aethelar, where the trees are tall and the canopy is dense, providing abundant opportunities for flight and foraging. They favour mature woodland with a mix of large trees and a diverse understorey, where nesting sites are plentiful and the food supply is varied. Corvid settlements are built in the upper canopy, suspended among the strongest branches and forks of the largest trees, organised in clusters that reflect the communal nature of corvid society.
 
 Smaller populations of corvids are found in the upper woodlands of Morvind, where the coniferous forests of the lower slopes provide a suitable if harsher environment, and in the wooded foothills of the [Sahrana](/content/location/natural/continent/sahrana) northern coast. Corvids are absent from open plains, mountains above the treeline, and deep caves, as their bodies require the forest and the air. The geography of each region determines the distribution of corvid populations, and the corvid range is restricted to forested regions where conditions suit them.
 
-## Diet
+## Omnivorous Foraging and Caching
 
 The corvid diet is the most varied of any flying people. Corvids are opportunistic omnivores who make use of whatever the forest provides. Fruits, nuts, seeds, and insects form the staple, gathered from the trees and the understorey by foraging parties that range across the canopy and the forest floor. Eggs and the young of other birds are taken when found, and corvids are known for their willingness to eat almost anything edible, a flexibility that serves them well in the seasonal environment of the temperate forest.
 
 Meat from larger prey is a minor part of the diet, taken from hunting small mammals and scavenging carcasses found in the forest. Corvids are capable of co-operative hunting, and a group can overwhelm prey too large for any individual, but they prefer the easier and less dangerous foods that foraging provides. The corvid approach to food is practical and opportunistic, and they cache surplus food in hidden locations throughout their territory, returning to these stores when food is scarce. Their memory for the location of these caches is extraordinary, and a corvid can recall the position of hundreds of individual caches months after they were made.
 
-## Ecology
+## Seed Dispersers and Insect Regulators
 
 Corvids occupy the niche of a small-bodied, intelligent, flying omnivore in forest ecosystems. Their impact on the ecology of the forest is modest in scale but complex in effect: they influence the distribution of seeds through caching, the populations of insects through foraging, and the behaviour of other birds through predation on eggs and young. Corvids are an important component of the forest ecosystem, and their presence is generally associated with a healthy and diverse woodland.
 

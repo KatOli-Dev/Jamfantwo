@@ -3,38 +3,38 @@ layout: default
 title: Kharesh Glass Spider
 ---
 
-## Overview
+## The Venomous Arachnid of the Desert Margins
 
 The [Kharesh](/content/location/natural/feature/kharesh) glass spider is the most feared of the arthropod predators of the [Kharesh](/content/location/natural/feature/kharesh), a great arachnid of crystalline carapace whose range extends across the rocky uplands and the edges of the deep erg of [Sahrana](/content/location/natural/continent/sahrana). The spider takes its name from the translucent quality of its exoskeleton, which catches the sunlight in a manner that desert peoples have likened to blown glass; the creature is reputed among the most venomous of the known world. The glass spider is the subject of extensive lore among the caravan peoples, who regard it with a mixture of fear and grudging respect; its bite is reckoned among the most serious hazards of the desert crossing.
 
-## Form and Appearance
+## Translucent Carapace and Long Legs
 
 The glass spider is a large arachnid with a leg span that may reach the span of a [human](/content/species/sapient/humans) hand from tip to tip, though the body is comparatively modest in size; the great leg span gives an impression of size greater than the actual weight of the creature. The body is divided into the two characteristic regions of spiders, the cephalothorax and the abdomen; the junction between them is narrowed to a slender waist that allows the spider to twist and turn within the confined spaces of its lair. The cephalothorax bears the eight eyes arranged in two rows of four; the chelicerae, the paired fangs that deliver the venom, are of considerable size and capable of piercing the thickest of desert boots.
 
 The carapace is the most distinctive feature and the source of the common name. The exoskeleton is a pale translucent material, almost glass-like in its clarity; the tissues beneath are visible through the shell as pale shifting shapes. The colour varies with the diet of the individual, ranging from the pale amber of a spider that has fed upon sand lizards to the deeper red of one that has taken the blood of larger mammals; desert trackers are said to judge the recent prey of a spider by the colour of its shell. The legs are long and tapering, each tipped with a claw suited to grip upon loose sand and rough stone; the legs are covered in fine hairs sensitive to vibrations of the sand that serve as the spider's principal organ of perception.
 
-## Habitat and Lair
+## Rocky Wadis and Silk-Lined Burrows
 
 The glass spider inhabits the rocky uplands and the margins of the deep desert, the regions where sand gives way to outcrops of weathered stone and the sparse vegetation the desert supports. It is not found in the deep erg, where soft sand is unsuited to its method of hunting, nor in the true oases, where dense vegetation and the presence of larger predators keep it at bay. The favoured ground is the broken country of the wadis and spurs, where the spider can find shelter beneath stones and where prey is plentiful upon the trails that thread between the rocks.
 
 The lair is a burrow excavated beneath a stone or in the lee of a cliff; the entrance is closed by a sheet of the spider's silk laid across the opening and dusted with sand to render the door invisible. The silk is remarkable for its strength, far exceeding the silk of spiders of temperate lands; a single thread can bear many times the weight of the spider that spins it. The silk is used not only in the construction of the lair but also in hunting: the spider lays a fan of fine threads across the sand in front of the lair, and the vibration of a creature that has touched the threads is the signal that draws the spider from its burrow.
 
-## Hunting and Venom
+## Vibration, Ambush, and Lethal Bite
 
 The glass spider is an ambush predator that hunts by the vibrations its silk transmits from the ground about the lair. It lies within the burrow with its legs resting upon the fan of threads radiating from the entrance; the contact of a passing creature upon the threads is detected through the fine hairs covering the spider's legs. It determines the size and direction of prey from the pattern of vibrations and emerges from the burrow with startling speed. The prey is taken by a sudden rush from the lair, the spider leaping upon the quarry and seizing it with the great chelicerae, delivering venom with precision.
 
 The venom is a complex mixture of compounds that serves both to subdue the prey and to begin the digestion of tissues. The venom of smaller spiders is not ordinarily fatal to [humans](/content/species/sapient/humans), though it produces a severe local reaction and a period of incapacitation that may last for several days; the venom of the larger females is among the most dangerous of the known world, and an untreated bite is fatal in a significant proportion of cases. Symptoms of a serious bite include violent pain at the site of the wound, swelling that spreads rapidly up the affected limb, profuse sweating, and progressive paralysis of the muscles that, if unchecked, leads to respiratory failure. The desert peoples treat the bite with traditional remedies, including the application of crushed leaves of certain desert plants and the binding of the limb above the wound; the more accomplished healers are said to draw the venom from the wound by the application of a heated stone.
 
-## Diet and Prey
+## What the Spider Takes
 
 The diet of the glass spider is varied; it takes whatever creature of appropriate size blunders into the range of its silk. The smaller spiders feed upon insects of the desert, sand lizards, and small rodents that inhabit the rocky margins; the larger females are capable of taking prey as large as a young goat or a fox. The spider does not ordinarily attack the [humans](/content/species/sapient/humans) or [salawa](/content/species/sapient/salawa) of the caravans, though it will do so if disturbed or if the lair is threatened; caravan masters take care to pitch camps at a distance from any ground that shows the characteristic fan of the spider's silk. The spider is capable of going for long periods without food; desert trackers speak of lairs that contain the remains of many prey animals, suggesting the spider accumulates a larder against the lean times of the deep desert.
 
-## Reproduction and Life Cycle
+## Courtship and the Generation of Spiders
 
 The life cycle is closely tied to the seasons of the desert; mating occurs in the late winter when the desert is at its coolest, and the young hatch in the spring when the first flush of vegetation brings prey within reach of the lair. The male is much smaller than the female and approaches her lair with great caution, for the female is known to take the male as readily as any other prey if the advances are not conducted with proper care. Courtship is a long elaborate affair, the male plucking upon the threads of the female's fan in a pattern the female recognises as the approach of a suitor; the mating itself is conducted within the female's lair over several hours.
 
 The eggs are laid within a silken sac that the female constructs in the deepest chamber of the lair; the sac may contain several hundred eggs. The female guards the sac until the young hatch; the young spiders remain with the mother for several weeks before dispersing to find their own lairs. Mortality of the young is high, for the eggs and hatchlings are preyed upon by a number of desert creatures; only a small fraction survives to maturity. The female dies after the dispersal of the young, the exhaustion of breeding taking its toll upon a creature that does not feed during the guarding of the sac.
 
-## Significance
+## The Desert's Most Feared Arthropod
 
 The Kharesh glass spider is among the most distinctive of the predators of the desert; its presence in the rocky uplands is a measure of the health of the margin between the deep erg and the habitable country. The spider is the object of extensive lore among the caravan peoples; tales of great spiders that haunt the lonely wadis are a familiar feature of campfire storytelling. The spider is not wantonly destructive, for it takes only what it requires to sustain itself; the loss of a goat or sheep to a spider is an unusual event rather than a regular occurrence. It is, however, a creature that the caravan masters respect; the care travellers take to avoid the lairs of the glass spider is one of the small disciplines that make the desert crossing possible.

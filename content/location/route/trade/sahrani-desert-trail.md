@@ -3,32 +3,32 @@ layout: default
 title: Sahrani Desert Trail
 ---
 
-## Overview
+## Southern Branch into the Deeper Kharesh
 
 The [Sahrani](/content/language/spoken/sahrani) Desert Trail is the southern branch of the caravan network carrying goods from the northern coast of [Sahrana](/content/location/natural/continent/sahrana) into the deeper reaches of the [Kharesh](/content/location/natural/feature/kharesh). Unlike the main [Kharesh Caravan Way](/content/location/route/trade/kharesh-caravan-way), which joins the great oases and established upland towns, the trail follows a more direct course through country where water is scarce, landmarks are uncertain, and settled authority is light. It begins among the warehouses and staging yards of the coastal strip, crosses the dry transitional country beyond the farms, and divides into routes toward the central massifs and the southern interior. Its traffic is smaller than that of the principal way, but its cargoes are often more specialised, and the trail remains the preferred road for merchants seeking mineral products, desert plants, and exchanges with nomadic kindreds beyond the reach of the coastal cities.
 
 The trail is called Sahrani because it serves the interior of the continent rather than any single city. Coastal merchants join it after travelling through [Dunesend](/content/location/settlement/outpost/dunesend), where animals are inspected and water measured for the first long crossing. From that outpost the trail follows old lines of stone and gravel, some laid by forgotten builders and some renewed by generations of caravan hands. The route is visible in places only as a sequence of cairns, scraped ridges, and wells protected by low walls. Its continuity rests upon memory as much as construction, and the guides who know the trail are valued for their ability to recognise the country after wind and sand have altered its appearance.
 
-## The Country of the Trail
+## From the Coastal Strip to the Rock Gardens
 
 The first portion runs through the southern margin of the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip), where irrigated fields become scattered and palms stand farther apart. The ground is firm enough for wagons, though the surface grows pale and dusty as coastal soil gives way to gravel. Seasonal streams descend from the foothills, crossed at shallow places marked by lines of dark stone. During the brief rains these channels become swift, but during most of the year they are dry beds providing easier passage than the surrounding dunes. Villages at the edge of cultivation maintain small granaries for the caravans, receiving salt, tools, and imported cloth in exchange for dates, millet, and guidance about the state of wells farther south.
 
 Beyond the settled margin, the trail enters country of low ridges and wind-shaped hollows where the surface alternates between hard gravel flats and loose sand. The best course changes with every season. The guides read the colour of the ground, the angle of distant escarpments, and the tracks left by animals near hidden springs. They also observe the night sky, for the trail's longest sections cross country without a single permanent landmark. The [salawa](/content/species/sapient/salawa) guides are the most respected authorities on these passages, though human families of the coastal strip preserve their own route traditions. The southern trail reaches isolated rock gardens and dry valleys lying between the main oases, where hardy shrubs, thorn trees, and desert plants are gathered for medicine, dye, and spice.
 
-## Water and the Waystations
+## Wells, Cisterns, and the Sahrani Water Hole
 
 The central resource of the trail is the chain of wells making the crossing possible. The best-known station is Sahrani Water Hole, an inhabited well settlement built around a spring whose flow remains reliable even after several dry years. The water hole stands where hard ground rises above the surrounding sand, its walls visible from a great distance when the air is clear. The settlement keeps a public cistern, private storage jars, and troughs for pack animals. Other stations are smaller and temporary. Rest stations serve as places of exchange where keepers sell fodder, dried dates, salt cakes, lamp oil, and simple repairs.
 
-## Cargoes and Caravan Life
+## Grain Inward, Resins Outward
 
 The outward cargoes are those goods the interior cannot produce in sufficient quantity. Grain is most important, especially rice and millet from coastal fields, followed by woven cloth, iron tools, copper vessels, and medicines prepared in the port cities. These supplies travel in sealed chests or wrapped bales protected from sand. The return traffic includes coloured earths, mineral salts, stone beads, fragrant resins, and dried roots and leaves gathered by interior communities. Some caravans carry small quantities of sunroot, though the most valuable harvests move along guarded routes whose locations are not entered in public ledgers.
 
 Life on the trail follows the heat. During warmer months caravans leave before dawn, halt while the sun is highest, and travel again after the air cools. Camp is made in a circle around the water stores, with animals tethered inside the line and guards positioned where they can see the approaches. Meals are simple and carefully rationed. The [Sahrani Caravan Feast](/content/culture/sahrani-caravan-feast) is reserved for safe arrival or an agreed gathering.
 
-## Hazards and Agreements
+## Heat, Sandstorms, and the Raiding Threat
 
 Heat and thirst are constant dangers. A hot wind can rise without warning and strip moisture from every exposed surface. Sandstorms obscure the cairns and force travellers to shelter. The guides mark the storm's direction by the movement of the highest sand, and the caravan master secures the water first. After a storm the route is surveyed before the train moves. Raiding is less common on the main trail than on isolated branches, but the possibility shapes every journey. The [Kharesh Tribes](/content/government/national/kharesh-tribes) maintain agreements governing wells, passage, and compensation for damage, and most caravan leaders negotiate safe conduct with the kindred whose lands they cross.
 
-## History and Significance
+## Older Than the City-States
 
 The trail predates the coastal city-states, though its earliest course is impossible to reconstruct. Stone markers discovered beneath the dunes show older peoples travelled between the coast and the interior, and several wells bear inscriptions whose words are no longer understood. The present route developed when coastal merchants began sending regular caravans toward the southern massifs, where minerals and desert plants were traded in quantities too great for seasonal visitors alone. The establishment of Dunesend and Sahrani Water Hole made the longest crossing more dependable, and the agreements among the guides and the interior kindreds gave the trail a continuity that no single government could have supplied. The Sahrani Desert Trail remains a measure of the relationship between the fertile coast and the dry interior, carrying necessities southward and valued products northward while giving nomadic and settled communities repeated opportunities to negotiate their shared use of a difficult land.

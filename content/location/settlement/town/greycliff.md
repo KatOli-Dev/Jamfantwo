@@ -3,11 +3,11 @@ layout: default
 title: Greycliff
 ---
 
-## Overview
+## The Largest Fishing and Whaling Town of the Western Coast
 
 Greycliff is the largest fishing and whaling town on the western coast of [Aethelar](/content/location/natural/continent/aethelar) and the principal settlement of the [Grey Coast Holdings](/content/government/local/grey-coast-holdings). The town stands on a high cliff of grey stone overlooking the [Greyring Ocean](/content/location/natural/feature/greyring-ocean), and its harbour is tucked into a narrow inlet that cuts deep into the cliff, sheltered from the wind and swell that batter the open coast. The town is smaller and more rugged than the cities of the eastern coast but is the wealthiest and most important settlement on the western shore, its prosperity built upon the cold, rich waters of the Greyring.
 
-## The Harbour and the Fisheries
+## The Narrow Inlet, the Fisheries, and the Whaling Fleet
 
 The harbour of Greycliff is a natural inlet penetrating the cliff for several hundred yards, forming a deep, sheltered basin accessible at all states of the tide. The inlet is narrow, and the entrance is marked by lighthouses visible for many miles across the open ocean, for the fog that blankets the western coast can reduce visibility to almost nothing, and the harbour is one of the few safe refuges on the entire coastline. Quays line both sides of the inlet, occupied by fishing boats, whaling vessels, and small craft serving the town. The harbour master maintains a chain that can be drawn across the mouth of the inlet during the worst storms, preventing surge from damaging moored vessels; this simple device has preserved many a craft that would otherwise have been lost.
 
@@ -15,18 +15,18 @@ The fisheries of Greycliff are the most productive on the western coast. The col
 
 Whaling is the other great industry of Greycliff. The whaling vessels of the town are the most seaworthy and daring on the western coast. The great whales of the Greyring are hunted for their oil, bone, and ambergris; the products are exported far inland, where they command high prices. The whalers of Greycliff are among the most skilled and hardy mariners in the known world, and their voyages into the open ocean are the closest thing to deep-water exploration the Greyring has seen. The whaling season runs from early spring to late autumn, and vessels putting out at the beginning of the season are often at sea for weeks at a time, for the great whales are found far beyond the continental shelf. The try-works that render blubber into oil are situated at the head of the inlet; the smoke and smell of rendering are a constant presence in the harbour quarter.
 
-## The Town
+## Grey Stone, Low Profiles, and the Council Hall
 
 Greycliff is built of the same grey stone that forms the cliffs. The buildings are sturdy and low, with thick walls, small windows, and steep roofs weighted with stone to resist the gales sweeping across the coast. The streets are narrow and winding, sheltered from the wind, and the buildings huddle together as if for warmth. The town is dominated by the harbour and the industries that serve it; the salting houses, smokehouses, and warehouses are the largest and most substantial buildings in the settlement. The council hall of Greycliff stands on the rise above the harbour, a solid building of dressed stone serving as the meeting place of the town's governing body and the court of the harbour master. From its tower, the watch can see the approach of vessels and weather alike.
 
 The population is chiefly [human](/content/species/sapient/humans), and the people are known for their hardiness and independence. The [cancrids](/content/species/sapient/cancrids) of the rocky intertidal zone are occasionally encountered at the margins of the settlement. A small community of [goblins](/content/species/sapient/goblins) is present in the ruins and caves along the cliff, where they scavenge and trade as opportunity allows. The goblins of Greycliff have inhabited the cliff caves for longer than the human settlement has existed; the relationship between the two communities is one of wary tolerance, with goblins performing small services for townsfolk in exchange for goods they cannot obtain for themselves.
 
-## The Fog and the Coast
+## The Persistent Fog and the Chain of Signal Stations
 
 The western coast of Aethelar is notorious for the fog that blankets the shore for much of the year, and Greycliff is no exception. The cold current flowing south along the coast meets the warmer air of the land, producing a dense, persistent fog that can last for days at a time. The fog is a danger to vessels approaching the coast; the lighthouses of Greycliff are kept burning through the thickest weather, for the light is the only guide when visibility is reduced to a few yards. The fog is also a feature of daily life: the streets are often damp and grey, and the buildings are coated with a fine salt mist that corrodes metal and paint, giving the town its characteristic weathered appearance.
 
 The coast to the north and south of Greycliff is a wild and rocky shore with few safe landings and no settlements of any size. The town is the only refuge for vessels caught in storms sweeping across the Greyring. The [Grey Coast Holdings](/content/government/local/grey-coast-holdings) maintain a chain of signal stations along the coast, manned by members of the holdings to provide warning of approaching weather and to assist vessels in distress.
 
-## Significance
+## The Principal Settlement of the Western Coast
 
 Greycliff is the principal settlement of the western coast of Aethelar, and its fisheries and whaling operations are the foundation of the economy of the entire western shore. The town is the largest and most prosperous member of the [Grey Coast Holdings](/content/government/local/grey-coast-holdings), and its harbour is the primary safe refuge for vessels on the western coast. The trade flowing through Greycliff, though small compared to that of the eastern ports, is the sole channel through which the products of the Greyring reach the markets of the interior. The dried fish, whale oil, and ambergris of Greycliff are among the most valued commodities of the western trade. The town stands as a testament to the capacity of humans to establish and sustain a prosperous community in the most demanding conditions the coast of Aethelar can offer.

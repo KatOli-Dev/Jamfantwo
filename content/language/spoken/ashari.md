@@ -3,37 +3,37 @@ layout: default
 title: Ashari
 ---
 
-## Overview
+## Domain of Ashari
 
 Ashari is the common tongue of [Ashara](/content/location/natural/continent/ashara), the warm continent of river basins, forested escarpments, and long inland waterways that run toward a broken eastern coast. The language is most closely associated with the human population of the river valleys and the eastern ports. Ashari is spoken as a first language by the [lacertian](/content/species/sapient/lacertians) communities of the marshlands and the rivers and as a second language by the [halfling](/content/species/sapient/halflings) communities of the lower terraces and by every merchant who requires a working knowledge of the long river trade. The name is taken from the continent itself, and the language is sometimes called the river speech by the highland communities of the western ranges, who treat it as the medium of the valley commerce rather than as a learned accomplishment.
 
 The origins of Ashari lie in the speech of the earliest human settlements of the river basins. The language has grown over the centuries through contact with the highland speech of the western ranges, the [Sahrani](/content/language/spoken/sahrani) of the ports that face [Sahrana](/content/location/natural/continent/sahrana) across the warm sea, and the trade tongues that pass through the continent on the long river routes. At least three distinct waves of borrowing have left layers of vocabulary and grammatical habits that river-valley speakers no longer recognise as foreign. The result is a language of considerable fluidity, suited to the description of the waters, the boats, the rice, and the patient business of the long river trade, and capable of adaptation to the specialised vocabularies of the boatman, the fisher, and the counting house of the river ports.
 
-## Sounds
+## Sound and Writing
 
 Ashari is spoken in a register more flowing and musical than the common speech of the highland ranges. Highland visitors often remark upon the music of the river-valley vowels and the ease with which speakers link one syllable to the next. The consonants are softly distinguished, the vowels are full and open, and the rhythm of the sentence is carried by the regular accent falling upon the second or third syllable of most longer words. River-valley singers use the vowel range to produce the long sustained notes of the water songs, one of the most distinctive cultural expressions of the river-valley communities. Pitch is a matter of custom rather than meaning. River-valley speakers tend to speak with a higher pitch than highland speakers, in unconscious imitation of the singing register of the boats and festivals.
 
 The script of Ashari is alphabetic, with thirty marks representing the consonants and vowels of the language. It is read from left to right in horizontal lines. The script is descended from the marks used by the earliest human chroniclers of the river basins, with a small number of borrowings from the [Sahrani](/content/language/spoken/sahrani) script in the marks used for sounds the older river-valley script did not distinguish. The marks are painted or printed upon parchment, paper, or fine cloth. Writing is taught in the schools of the larger river-valley towns to children of every species who require it for the ordinary business of life. The script of the eastern ports is distinguished by ornamental marks added to the headings of trade tallies, treated by river-valley speakers as a sign of the dignity of the long trade.
 
-## Vocabulary and Borrowing
+## River Words and Borrowings
 
 The vocabulary of Ashari is rich in words for the waters, the boats, the rice, the fish, and the patient business of the long river trade. The language has more words for the kinds of water, the kinds of boat, the kinds of rice, and the stages of the boatman's art than any of the languages of the highland ranges. The vocabulary is also rich in words for the village, the council, and the customary relations of the river-valley communities, for these communities place great weight upon the distinctions of the clans and the long memory of the river. River-valley compounds are formed by joining two or more simple words, used in the formal speech of village councils and the songs of water festivals.
 
 Ashari has borrowed from the highland speech of the western ranges a set of words for mountains, metals, stones, and tools of the workshop required for the upland trade. These borrowings are recognised as belonging to the trade of the highlander rather than the craft of the boatman, and river-valley speakers are careful to use the highland word in the highland context and the river-valley word in the river-valley context. The language has also borrowed a small number of words from the [Sahrani](/content/language/spoken/sahrani) trade tongue through the eastern ports, chiefly the names of southern goods, southern customs, and southern offices required for the long-distance trade.
 
-## Speech
+## Registers and Usage
 
 Ashari is the language of the great rivers of [Ashara](/content/location/natural/continent/ashara), worked in a register that is patient and precise, suited to the long observation of currents and careful timing of sailing seasons. The river register uses a set of fixed phrases for the opening of a voyage, the inspection of a cargo, and the closing of a landing, known to every boatman of the principal rivers. These phrases are intelligible to children of eight or nine years brought up in the boatman families, a measure of the care with which the forms are transmitted from parent to child in the river-valley communities.
 
 Ashari is also the language of the village councils of the river-valley communities, conducted in a more formal register preserved by the elders of the larger villages and principal river ports. The formal register is used for public announcements of village magistrates, the reading of customary law, and the debates of larger assemblies, intelligible to any speaker of Ashari who has had a customary education in the boat or the council. The formal register borrows a small number of phrases from the older speech of the river basins, treated as marks of dignity and authority.
 
-## Relations
+## Ashari and Other Languages
 
 Ashari stands in a complex relation to the languages of the regions surrounding [Ashara](/content/location/natural/continent/ashara). It is intelligible, with some adjustment, to speakers of the highland speech of the western ranges, and the intelligibility is greater in upland towns than in the deeper interior of either tongue. The relationship between Ashari and the [Sahrani](/content/language/spoken/sahrani) of the northern ports of [Sahrana](/content/location/natural/continent/sahrana) is the subject of scholarly interest, for the two languages have borrowed a small vocabulary from one another through the long sea routes, a measure of the long coexistence of river-valley and Sahrani merchants at the eastern ports.
 
 The relation of Ashari to the speech of the [lacertian](/content/species/sapient/lacertians) communities of the marshlands is also a subject of dispute, with river-valley scholars noting vocabulary borrowings as evidence of long coexistence. River-valley speakers tend to treat the lizardfolk speech as a learned accomplishment rather than a working language, while the lacertian communities treat Ashari as the necessary medium of the river trade. The relation of Ashari to the halfling speech of the lower terraces is closer in vocabulary than in grammar; halfling communities maintain their speech is a separate language, though speakers of Ashari are commonly able to follow it after a short period of adjustment.
 
-## Significance
+## River Speech of the Warm Continent
 
 Ashari is the common tongue of [Ashara](/content/location/natural/continent/ashara), the language of the great rivers and the village councils, the medium of the long river trade, and the first or second language of nearly every speaker of every species who dwells or trades among the river basins and eastern ports of the warm continent. It is a true language with grammar and vocabulary of its own, refined over centuries by the long practice of river-valley boatmen and the patient correction of village councils. It is one of the most musical of the languages of the known world, a measure of the central place the river basins have held in the boat trade and village customs of the warm continent since the earliest human settlements were established along the long waterways of the interior.
 

@@ -3,40 +3,40 @@ layout: default
 title: Greater Inland Sea
 ---
 
-## Overview
+## Largest Fresh Water of the Far South
 
 Among the deep-south waters of the world, the Greater Inland Sea stands as the largest body of fresh water in the far south of [Sahrana](/content/location/natural/continent/sahrana) and the central feature of the basin that the [Southern Reach](/content/government/national/southern-reach) calls its own. It lies beyond the [Kharesh](/content/location/natural/feature/kharesh), fed by rivers descending from the surrounding highlands, and is the larger of two inland seas that occupy the basin. Its waters are calm, its shores are the most fertile and most densely settled lands in the federation, and the boats moving across its surface are the principal means of transport and trade between the lakeside communities. In the reckoning of the inland people, the Greater Inland Sea is a small sea and a great lake at once, and no single term of the highland speech does justice to its scale or its use.
 
-## The Basin and the Highlands
+## Highlands, Meltwater, and the Temperate Basin
 
 The basin in which the Greater Inland Sea rests is a broad depression ringed by the temperate highlands of the deep south. The highlands rise sharply on the eastern and southern sides, while on the north the basin floor climbs more gradually toward the long pass descending from the [Kharesh](/content/location/natural/feature/kharesh) and the [Vashari Pact](/content/government/national/vashari-pact) cities beyond. Snow lies upon the highest of the highland summits for much of the warm season, and the meltwater gathers in small highland lakes before descending through long valleys into the greater waters below. The rivers feeding the sea are clear and reliable, for the highlands receive a steady rainfall through the spring and early summer, and the channels carrying the water to the sea are dependable enough that the communities of the shore have learned to plan their seasons by the rise and fall of the rivers.
 
 The climate of the basin is mild and temperate, with warm summers cooled by breezes from the open water and cool winters moderated by the same waters. The rainfall is sufficient to sustain agriculture without irrigation in most years, and the open woodland, grassland, and cultivated fields that make up the shore are the visible signs of that sufficiency. The contrast with the [Kharesh](/content/location/natural/feature/kharesh) to the north is abrupt, and travellers crossing the pass from the desert are astonished to find, beyond the highlands, a country of fresh water and green fields where they had expected only an extension of the sands.
 
-## The Lakeside Communities
+## Vereth and the Boat-Route Network
 
 The shores of the Greater Inland Sea are the most settled of any in the Southern Reach, and the towns and villages of the shore are joined by a network of boat routes that is the primary means of travel within the federation. [Vereth](/content/location/settlement/town/vereth) is the principal port and the largest of the lakeside settlements, situated upon a broad, sheltered bay on the northern shore and serving as the seat of the council of the [Southern Reach](/content/government/national/southern-reach). Other settlements of varying size are scattered along the shore, each established at a point where a stream meets the sea, a road from the highlands descends to the water, or a stretch of shore offers a protected anchorage for local fishing boats.
 
 The communities are connected by boats rather than by roads, for the lakeside country is broken by streams and patches of marsh, and the water is the most direct and easily travelled surface. The boats carry the fish of the inland sea to communities lacking a ready supply, the grain and fruit of the southern orchards to the northern shore, and the goods arriving from the caravan trade at [Vereth](/content/location/settlement/town/vereth) to the smaller settlements that depend upon the federation for their share of northern manufactures. No lakeside family is more than a day's rowing from a neighbour, and the community of the shore is bound as much by the boats as by the council at Vereth.
 
-## The Fishery and the Lakes
+## Fresh Fish and the Stone Drying Platforms
 
 Fish are the staple food of the lakeside communities, and the fishery of the Greater Inland Sea is the foundation of the economy of the shore. The fresh waters sustain a great variety of fish, drawn from the rivers, the open lake, and the cool depths near the highland inflow, and the fishing fleets of the lakeside towns venture out daily in the calm weather that the basin affords. The fleet of [Vereth](/content/location/settlement/town/vereth) is the largest on the sea, and its catch is landed at the harbour, cleaned, and preserved by salting and drying on the stone platforms lining the inner shore of the bay.
 
 The fish are eaten fresh within the communities that take them, and the surplus is preserved for storage and trade. The preservation is carried out at the height of the warm season, when the catch is heaviest, and the dried and salted fish are the principal export of the southern basin. These preserved fish are among the most valued products of the [Southern Reach](/content/government/national/southern-reach), carried by boat to the settlements of the [Lesser Inland Sea](/content/location/natural/feature/lesser-inland-sea) and by caravan to the markets of the north, where they are prized as a rare and well-flavoured food. The dried fish of the inland seas keep for many months when properly stored, and the stocks laid down at the height of the warm season are the principal food of the communities during the lean weeks of early spring.
 
-## The Federation and the Council
+## Twice-Yearly Councils and the Water Rules
 
 The governance of the Greater Inland Sea and its shores is a shared concern of the communities of the basin, and the council of the federation meets twice each year at [Vereth](/content/location/settlement/town/vereth) to coordinate the management of the fisheries, the maintenance of the boat routes, and the regulation of the trade flowing through the harbour. The council is composed of representatives from each of the principal lakeside communities, drawn from the elders, merchants, and craftsmen of the settlements, and the decisions are made by consensus and recorded in the archives that the town maintains.
 
 The management of the water is the most sensitive of the council's concerns, for the rivers feeding the sea are also the source of the irrigation sustaining the fields of the shore. The council establishes the rules governing the opening and closing of the sluices, the times at which the irrigation channels may be drawn from the rivers, and the order in which the communities receive water in dry years. The rules have been refined over many generations, and the council's management of the water is regarded as the foundation of the prosperity of the basin.
 
-## The Caravans and the North
+## Through the Pass from the Kharesh
 
 The trade flowing between the Greater Inland Sea and the northern world is carried by the caravans that descend from the [Kharesh](/content/location/natural/feature/kharesh) through the highland pass, and [Vereth](/content/location/settlement/town/vereth) is the principal destination for the goods they carry. The caravans are guided by the [Kharesh Tribes](/content/government/national/kharesh-tribes), whose knowledge of the desert extends to the edges of the southern highlands, and the goods they bring include grain, cloth, metalwork, and manufactured goods that the south cannot produce for itself. The goods returning north include the preserved fish of the inland sea, the wool and leather of the highland herds, the medicinal herbs of the temperate uplands, and the citrus fruits and other produce of the southern basin, all gathered at Vereth and dispatched by the caravans travelling the long route to the coast.
 
 The relationship between the [Southern Reach](/content/government/national/southern-reach) and the [Vashari Pact](/content/government/national/vashari-pact) is the foundation of this trade, for the Vashari cities are the principal intermediaries between the caravans and the markets of the northern coast. The caravans travelling the southern routes pass through the Vashari cities on their way to and from the coast, and the goods they carry are exchanged at the inland markets before being dispatched to their final destinations. The trade is small in volume but high in value, and the goods of the south are among the most prized in the markets of the north.
 
-## Significance
+## Central Feature of the Southern Reach
 
 The Greater Inland Sea is the central feature of the [Southern Reach](/content/government/national/southern-reach), and its waters and shores are the foundation of the prosperity of the far south. The sea supports the fisheries that feed the lakeside communities, the boat routes that connect the settlements, and the trade flowing between the south and the north. Its waters are fresh and its shores are the most fertile in the federation, and the basin in which the sea rests is a country of sufficient water, sufficient land, and sufficient peace to have supported a settled civilisation in the most remote corner of the known world.

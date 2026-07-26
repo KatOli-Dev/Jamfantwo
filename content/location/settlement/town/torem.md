@@ -3,23 +3,23 @@ layout: default
 title: Torem
 ---
 
-## Overview
+## The Gateway Settlement of the Southern Reach
 
 Torem is the gateway settlement of the [Southern Reach](/content/government/national/southern-reach), situated in the highlands at the head of the pass that descends from the [Kharesh](/content/location/natural/feature/kharesh) into the basin of the inland seas in the far south of [Sahrana](/content/location/natural/continent/sahrana). The town is the first settlement that caravans from the north encounter upon entering the Southern Reach, and its position at the head of the pass gives it a role in trade and communication between the south and north that is disproportionate to its modest size. Torem is the smallest of the three principal settlements of the Southern Reach but is the most cosmopolitan, for the caravans passing through bring a steady flow of goods and travellers from the northern world.
 
-## The Pass and the Caravans
+## The Only Viable Route from the Kharesh into the Basin
 
 The pass that Torem commands is the only viable route from the [Kharesh](/content/location/natural/feature/kharesh) into the basin of the inland seas, for the highlands surrounding the basin are steep and broken, and the other approaches are impassable to anything but a lone traveller on foot. The pass is a narrow valley descending from the desert plateau through a series of switchbacks and terraces; the town is situated at the head of the valley where the pass opens into the gentler terrain of the basin. Torem's position at the head of the pass gives it control over the entry and exit of the caravan trade, and its prosperity is built upon the tolls, provisions, and services it provides to the caravans.
 
 The caravans travelling the southern routes are guided by the [Kharesh Tribes](/content/government/national/kharesh-tribes), whose knowledge of the desert extends to the edges of the southern highlands. The journey from the northern coast to Torem is the longest and most demanding of any caravan route in Sahrana. The caravans arrive at Torem weary and depleted; the town is a place of rest and resupply before the final descent to the inland seas and the settlements of the basin. The provisions Torem provides include water, food, fodder, and repairs that caravan animals and equipment require after the long crossing of the desert.
 
-## Trade and the Southern Reach
+## The Intermediary Between Northern Caravans and Southern Boats
 
 Torem is the primary point of exchange between the caravan trade of the north and the inland sea commerce of the Southern Reach. Goods arriving from the north include grain, cloth, metalwork, and manufactured goods the south cannot produce for itself; these are transferred at Torem to boats and pack animals carrying them to [Vereth](/content/location/settlement/town/vereth) and the other settlements of the basin. Goods sent north through Torem include wool and leather of the highland herds, preserved fish of the inland seas, and medicinal herbs growing in the temperate uplands, all gathered from southern communities and brought to Torem for shipment north.
 
 The merchants of Torem are the intermediaries between the caravan traders and the southern producers. The town's market is the principal point of exchange for goods flowing between the two worlds, held in a broad square at the centre of the town where caravans and southern traders gather to conduct business. The tolls collected at Torem are a significant source of revenue for the town, and a portion is contributed to the council of the [Southern Reach](/content/government/national/southern-reach) for the maintenance of the pass and the caravan routes.
 
-## The Town
+## Stone Walls, Inns, and the Constant Flow of Travellers
 
 Torem is a compact, well-built town whose architecture reflects the dual character of a frontier settlement and a trading post. Substantial buildings of stone are constructed to withstand the winds and cold of the highland climate. The buildings are lower and more heavily walled than those of the basin settlements, for the highlands are cooler than the inland shores, and winters bring frost and occasional snow to the upper reaches of the pass. The town is surrounded by walls maintained in good order, and the gates are guarded by a force funded jointly by the local council and the federation, for the defence of the pass is a matter of concern to the whole Southern Reach.
 
@@ -27,6 +27,6 @@ The population is chiefly [human](/content/species/sapient/humans), a mixture of
 
 The inns of Torem are the most important institutions of the town after the market. The innkeepers are skilled in providing for the needs of the caravan drivers, who arrive weary after the long crossing of the Kharesh and require rest, hot food, and the care of their animals. The stables attached to the inns are extensive, able to accommodate the pack animals of several caravans at once. The provisioners who supply the caravans for the onward journey are also significant members of the community; they stock the dried food, the water skins, and the equipment that the caravans require for the descent to the basin or the return crossing of the desert. The craftsmen of Torem include the wheelwrights and the saddlers who repair the damage inflicted by the rough terrain of the pass; their workshops are in constant demand during the busy seasons.
 
-## Significance
+## The Bridge Between the Desert and the Inland Seas
 
 Torem is the gateway to the [Southern Reach](/content/government/national/southern-reach), and its position at the head of the only pass from the [Kharesh](/content/location/natural/feature/kharesh) into the basin of the inland seas gives it a role in trade and communication between the south and north that is disproportionate to its modest size. The town's prosperity is built upon the caravans passing through it, and its function as the point of exchange between northern trade and the southern economy is a critical component of the commerce of the Southern Reach. The significance of Torem lies in its role as the bridge between the desert and the inland seas, a symbol of the connection between the far south and the wider world.
