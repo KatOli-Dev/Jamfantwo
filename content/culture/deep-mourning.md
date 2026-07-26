@@ -23,7 +23,7 @@ The body is placed upon a bier draped with cloth of a colour customary to the co
 
 The committal at sea is the central rite of the Deep Mourning. The boat is rowed to a sufficient distance from the shore, a place often marked by a buoy or other feature the community has established. The body in its bier is placed upon a platform at the stern of the boat, and the platform is tilted to allow the bier to slide into the water. This sliding marks the formal moment of committal, accompanied by customary words and the casting of offerings alongside the bier.
 
-Offerings typically include flowers gathered by the family, bread broken and shared among the mourners, and tokens of the deceased's calling surrendered to the sea. The eldest family member present casts the offerings, speaking words that acknowledge the deceased's life and wish for peace in the waters that were the principal element of that life. In stratified communities, the elaboration of the offerings marks the deceased's station: a prosperous merchant's family may cast silver coins and imported spices, while a fisher's family offers only bread and wildflowers, and the harbourmaster's record notes the difference. The boat returns to shore, and the elder escorts the family back to the community.
+Offerings typically include flowers gathered by the family, bread broken and shared among the mourners, and tokens of the deceased's calling surrendered to the sea. The eldest family member present casts the offerings, speaking words that acknowledge the deceased's life and wish for peace in the waters that were the principal element of that life. The boat returns to shore, and the elder escorts the family back to the community.
 
 ## The Memorial and the Marking
 

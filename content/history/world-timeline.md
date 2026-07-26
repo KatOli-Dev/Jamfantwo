@@ -81,4 +81,4 @@ The present age is also the period in which the academies of the known world hav
 
 ## Significance
 
-The timeline compiled above is the chronicle of the known world from the earliest period of which any record survives to the present day. The events recorded are the foundation of the world in which the present age is conducted, and the institutions established in the earlier periods continue to govern the affairs of the nations of the three continents. The timeline is a work of compilation rather than interpretation, and the reader is invited to draw such conclusions as the events may warrant.
+The timeline compiled above is the chronicle of the known world from the earliest period of which any record survives to the present day. The events recorded are the foundation of the world in which the present age is conducted, and the institutions established in the earlier periods continue to govern the affairs of the nations of the three continents. The timeline is a work of compilation rather than interpretation, and the conclusions that the events warrant are left to those who consult it.
