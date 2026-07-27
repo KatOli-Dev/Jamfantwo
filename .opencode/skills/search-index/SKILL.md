@@ -17,7 +17,7 @@ This writes to `assets/search-index.json` in the source tree, which the dev serv
 
 ## Search page
 
-The search interface lives at `search.md` (served at `/search/`). It fetches the JSON index and does client-side filtering. No server-side processing or external dependencies.
+The search interface lives at `search.html` (served at `/search/`). It fetches the JSON index and does client-side filtering. No server-side processing or external dependencies.
 
 ## Troubleshooting
 

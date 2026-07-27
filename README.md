@@ -1,6 +1,6 @@
 # Jamfantwo (Jfw)
 
-A medieval fantasy world-building project built with [Jekyll](https://jekyllrb.com/) 4.4.1. Contains ~390 content pages and ~282,000 words of prose. The world is honest about hardship without being grim or bleak, presenting multiple perspectives on contentious events.
+A medieval fantasy world-building project built with [Jekyll](https://jekyllrb.com/) 4.4.1. The world is honest about hardship without being grim or bleak, presenting multiple perspectives on contentious events.
 
 ## Quick Start
 
@@ -18,17 +18,23 @@ The site will be available at `http://localhost:4000`. Uses a custom SASS theme 
 ├── _layouts/         # Page templates
 ├── _sass/            # SASS partials (glassmorphism theme)
 ├── assets/           # CSS, JS, images
-├── belief/           # Religion, philosophy, mythology
-├── culture/          # Customs, arts, daily life
-├── geography/        # Physical and political geography
-├── government/       # Rulers, laws, factions
-├── history/          # Timelines, chronicles, eras
-├── language/         # Linguistics, naming conventions
-├── magic/            # Spellcraft, magical theory
-├── location/         # Settlements, dungeons, points of interest
-├── people/           # Characters, biographies
-├── population/       # Demographics, ethnic groups
-├── species/          # Non-human peoples and creatures
+├── content/
+│   ├── art/          # Arts, crafts, and creative expression
+│   ├── culture/      # Customs, festivals, daily life
+│   ├── economy/      # Commerce, currency, trade
+│   ├── geography.md  # Physical and political geography
+│   ├── government/   # Rulers, laws, factions
+│   ├── history/      # Timelines, chronicles, eras
+│   ├── language/     # Linguistics, naming conventions
+│   ├── law/          # Legal systems and codes
+│   ├── magic/        # Spellcraft, magical theory
+│   ├── military/     # Forces, fortifications
+│   ├── mythology/    # Legends and traditional tales
+│   ├── nature/       # Flora and fauna
+│   ├── people/       # Characters, biographies
+│   ├── population.md # Demographics, ethnic groups
+│   ├── religion/     # Faiths and beliefs
+│   └── species/      # Non-human peoples and creatures
 ├── scripts/          # Tooling (validator, etc.)
 ├── structure.md      # Style guide and content rules
 └── temp/             # Scratch files (gitignored)
@@ -36,7 +42,7 @@ The site will be available at `http://localhost:4000`. Uses a custom SASS theme 
 
 ## Content Organization
 
-Content is divided into 11 categories, each a top-level directory. Index pages are auto-generated via `_includes/content-list.html` — do not maintain by hand.
+Content is divided into 15 categories under `content/`. Index pages are auto-generated via `_includes/content-list.html` — do not maintain by hand.
 
 ## Validation
 
