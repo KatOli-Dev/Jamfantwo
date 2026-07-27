@@ -33,7 +33,7 @@ The execution required several years of careful work by the magistrates and the 
 
 The Greywash Compact has been in force for several centuries and remains the foundation of public order for the river towns of the present age. It has been revised from time to time to reflect changes in the trade and the fishery, but revisions have been few and carefully considered. The magistrates mark the anniversaries of the signing with appropriate ceremonies.
 
-The compact has served as a model for river agreements on the other principal rivers of the three continents, including the Silverwater Accord on the eastern coast and the Stonebrook Compact in the highlands. These agreements have followed the structure of the Greywash Compact, establishing similar offices of river warden and similar rules for navigation and fishing. The treaty is the foundation of public order for the rivers of the present age and the measure by which magistrates and councils judge public acts concerning the rivers.
+The compact has served as a model for river agreements on the other principal rivers of the three continents, including the [Silverwater Accord](/content/history/silverwater-accord) on the eastern coast and the [Stonebrook Compact](/content/history/stonebrook-compact) in the highlands. These agreements have followed the structure of the Greywash Compact, establishing similar offices of river warden and similar rules for navigation and fishing. The treaty is the foundation of public order for the rivers of the present age and the measure by which magistrates and councils judge public acts concerning the rivers.
 
 ## Foundation of Order on the Greywash
 

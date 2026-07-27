@@ -35,7 +35,7 @@ The execution required several years of careful work by the magistrates and the 
 
 The Twin-Reaches Peace has been in force for several centuries and is the foundation of the public order of the inland valleys and the warm coast. It has been revised from time to time to reflect changes in trade and navigation, but revisions have been few and carefully considered. The magistrates of both parties mark the anniversaries of the signing with ceremonies.
 
-The peace has served as a model for agreements the parties have signed with the other principal cities of the three continents, including the Eastern Compact with the city of Serren and the Harbour Accord with the ports of the Velden Strait. These agreements have followed the structure of the Twin-Reaches Peace, establishing similar transit fees and similar offices of mediator. The peace is the foundation of the public order of the trade routes of the present age and the measure by which the magistrates and councils of both parties judge public acts.
+The peace has served as a model for agreements the parties have signed with the other principal cities of the three continents, including the [Eastern Compact](/content/history/eastern-compact) with the city of Serren and the [Harbour Accord](/content/history/harbour-accord) with the ports of the Velden Strait. These agreements have followed the structure of the Twin-Reaches Peace, establishing similar transit fees and similar offices of mediator. The peace is the foundation of the public order of the trade routes of the present age and the measure by which the magistrates and councils of both parties judge public acts.
 
 ## Foundation of the Long Peace
 

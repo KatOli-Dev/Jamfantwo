@@ -25,7 +25,7 @@ The third phase lasted two years and was marked by the efforts of the mediators 
 
 ## Finding Common Ground
 
-Each party insisted upon the rights it had claimed at the beginning of the war. The Confederation insisted upon the customary arrangements by virtue of the original agreement; the rival confederations insisted upon the right to share in the grazing by virtue of the natural liberty of the kindreds. The mediators proposed a compromise establishing a council of the three confederations to regulate the grazing of the central grasslands. The compromise was accepted by the three councils. The peace was signed at the great summer camp that the three confederations maintained upon the central grasslands and is known as the Peace of the Three Banners.
+Each party insisted upon the rights it had claimed at the beginning of the war. The Confederation insisted upon the customary arrangements by virtue of the original agreement; the rival confederations insisted upon the right to share in the grazing by virtue of the natural liberty of the kindreds. The mediators proposed a compromise establishing a council of the three confederations to regulate the grazing of the central grasslands. The compromise was accepted by the three councils. The peace was signed at the great summer camp that the three confederations maintained upon the central grasslands and is known as the [Peace of the Three Banners](/content/history/peace-of-the-three-banners).
 
 ## Reconstruction and Lasting Institutions
 

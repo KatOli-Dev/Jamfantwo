@@ -13,7 +13,7 @@ The hearth-keepers are drawn from the communities that the hearth-halls serve, a
 
 The training of the hearth-keeper is conducted by the senior hearth-keepers of the region, and the training includes the instruction in the doctrine of the Threefold Flame, the care of the central fire, the conduct of the rites of the flame, and the duty of the hospitality. The novice hearth-keeper serves in the hearth-hall for a period of some years, learning the practice of the faith under the direction of a senior keeper.
 
-The training is not a formal curriculum of the kind that the academies maintain, for the Still Flame values the practical knowledge above the theoretical. The novice learns by the doing, attending to the fire and the hall and the people who come to it, and the senior keeper guides the novice through the experience without imposing a rigid interpretation upon it.
+The training is not a formal curriculum of the kind that the academies maintain, for the Still Flame values the practical knowledge above the theoretical. The novice learns by doing, attending to the fire, the hall, and the people who come to it, and the senior keeper guides the novice through the experience without imposing a rigid interpretation upon it.
 
 The novice who has completed the training is presented to the community at the seasonal gathering, and the elders of the community confirm the appointment. The new hearth-keeper is given the charge of the hearth-hall and the responsibility for the tending of the fire and the instruction of the young.
 
@@ -41,7 +41,7 @@ The senior keeper does not hold the authority over the other keepers in the mann
 
 The hearth-keepers maintain the correspondence with the kindred traditions of the continent, and the exchange of the keepers between the traditions is a practice that has continued for many generations. A hearth-keeper of the Still Flame will sometimes attend the evening review of a Memory House of the Shield and Song, and a singer of the Shield and Song will sometimes attend the morning kindling of a hearth-hall.
 
-The keepers also maintain the correspondence with the Forged Flame, whose hearth-keepers teach a discipline of the workshop that the Still Flame regards as a worthy complement to the tending of the hearth. The exchange has enriched both traditions, and the keepers of the Still Flame have learned from the keepers of the Forged Flame the skills of the working of the metal and the firing of the clay that have been applied to the making of the hearth tools and the vessels.
+The keepers also maintain the correspondence with the [Forged Flame](/content/religion/forged-flame), whose hearth-keepers teach a discipline of the workshop that the Still Flame regards as a worthy complement to the tending of the hearth. The exchange has enriched both traditions, and the keepers of the Still Flame have learned from the keepers of the Forged Flame the skills of the working of the metal and the firing of the clay that have been applied to the making of the hearth tools and the vessels.
 
 ## The Vocation of the Keeper
 

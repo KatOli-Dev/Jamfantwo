@@ -11,6 +11,8 @@ The scholars of the Cloisters of Reading have collected the origin myths of the 
 
 ## The Festival of the First Kindling
 
+For a detailed account of the observance of the festival, see [First Kindling](/content/culture/first-kindling).
+
 The Festival of the First Kindling is the principal winter festival of the Still Flame, and it is observed in the hearth-halls throughout the lands where the faith is practised. The origin myth of the festival tells of the first kindling, the moment when the Still Flame was first awakened in the world. The myth describes a time when the world was cold and dark and the people had no fire, and a woman of the early people discovered that the fire could be kindled by the striking of the flint and the tending of the flame.
 
 The myth tells that the woman who discovered the fire was named Sera Ambervale in the traditions of the southern hearth-halls, though the northern hearth-halls preserve a different name for the discoverer. Sera, or whatever name the discoverer bears, taught the people to kindle the fire and to tend it and to keep it through the winter, and the people gathered on the longest night of the year to celebrate the gift of the fire. The Festival of the First Kindling marks this gathering, and the faithful light the new fire at the hearth-halls and carry the flame to their own hearths.
@@ -33,11 +35,15 @@ The Festival of the First Grain is the occasion when the halflings renew their b
 
 ## The Festival of the Salt Caravan
 
+For a detailed account of the observance of the festival, see [Salt Caravan Festival](/content/culture/salt-caravan-festival).
+
 The Festival of the Salt Caravan is the principal festival of the Sahrani coastal communities, and it is observed at the departure of the first salt caravan of the season. The origin myth of the festival tells of the Sea Mother's gift of salt, the moment when the Sea Mother gave the salt to the people of the coast and taught them to harvest it and to carry it to the peoples of the interior. The myth describes the first caravan, the journey that the first salt-carriers made across the desert, and the welcome that they received from the desert peoples.
 
 The Festival of the Salt Caravan is observed with the blessing of the caravan by the priests of the Sea Mother's Court, the loading of the salt onto the pack animals, and the departure of the caravan amidst the cheers of the community. The festival includes the sharing of the salt bread, the singing of the caravan songs, and the telling of the stories of the great caravans of the past. The origin myth is recited by the high priest at the beginning of the festival, and the people who hear the myth are reminded of the gift that the Sea Mother gave and of the importance of the salt trade to the prosperity of the coast.
 
 ## The Festival of the Stone Song
+
+For a detailed account of the observance of the festival, see [Stone Song Festival](/content/culture/stone-song-festival).
 
 The Festival of the Stone Song is the principal festival of the dwarven peoples of the Stoneheim Holds and the Karhold Realm, and it is observed at the winter solstice and the summer solstice. The origin myth of the festival tells of the first sounding of the Stone Song, the moment when the song awoke within the stone and raised the mountains and formed the deep halls. The myth describes the awakening of the first dwarves and the shaping of the first halls, and the festival is the occasion when the dwarves renew their connection to the song.
 

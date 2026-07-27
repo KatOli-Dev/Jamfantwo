@@ -31,7 +31,7 @@ The evening review is the chief instrument by which the two halves of the callin
 
 The Shield and Song maintains correspondence with the Still Flame and the Unwritten Name, the kindred traditions of the continent, and the three traditions have exchanged practitioners for many generations. A singer of the Shield and Song will sometimes attend the evening review of a hearth-hall of the Still Flame, and a hearth-keeper will sometimes attend the singing at a house of memory. The correspondence is the means by which the order has preserved its kinship with the other traditions of the continent and has maintained the openness to the wider world that the order regards as a privilege rather than a claim.
 
-The order has also exchanged singers with the Forged Flame, whose hearth-keepers teach a discipline of the workshop that the order regards as a worthy complement to the singing of the houses of memory. The Forged Flame is not a kindred tradition in the sense that the Still Flame is a kindred tradition, but the exchange has enriched both orders and has deepened the understanding of the relation between the work of the hands and the work of the voice.
+The order has also exchanged singers with the [Forged Flame](/content/religion/forged-flame), whose hearth-keepers teach a discipline of the workshop that the order regards as a worthy complement to the singing of the houses of memory. The Forged Flame is not a kindred tradition in the sense that the Still Flame is a kindred tradition, but the exchange has enriched both orders and has deepened the understanding of the relation between the work of the hands and the work of the voice.
 
 ## The Life of the Calling
 

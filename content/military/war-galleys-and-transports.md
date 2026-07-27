@@ -18,7 +18,7 @@ experience, and the ships that sail in the present age are the products of that
 development. The shipwrights of [Aldreth](/content/government/national/aldreth),
 [Nordhaven](/content/government/national/nordhaven), the [Thessaran
 League](/content/government/national/thessaran-league), and the [Northern Coast
-League](/content/government/northern-coast-league) each have their own
+League](/content/government/national/northern-coast-league) each have their own
 traditions and their own specialised designs.
 
 ## The Trireme
