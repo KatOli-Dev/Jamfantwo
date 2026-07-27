@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Masonic Hall
+title: Stone Quarries' Hall
 ---
 
 ## The Seat of the Stone Quarries' Bench at Quarryside
 
-The Masonic Hall is the seat of the [Stone Quarries' Bench](/content/government/local/stone-quarries-bench), the substantial building of stone and timber at the centre of the town of [Quarryside](/content/location/settlement/town/quarryside) in which the master, the wardens, and the sworn members of the Bench conduct the business of the trade. The hall was erected more than a century ago by the subscriptions of the sworn members and is built of the local stone that the quarries of the surrounding hills have produced for as many generations as the chronicles record. The hall is the most substantial building of the town and is held in particular esteem by the quarrymen, masons, and merchants whose trade the Bench regulates.
+The Stone Quarries' Hall is the seat of the [Stone Quarries' Bench](/content/government/local/stone-quarries-bench), the substantial building of stone and timber at the centre of the town of [Quarryside](/content/location/settlement/town/quarryside) in which the master, the wardens, and the sworn members of the Bench conduct the business of the trade. The hall was erected more than a century ago by the subscriptions of the sworn members and is built of the local stone that the quarries of the surrounding hills have produced for as many generations as the chronicles record. The hall is the most substantial building of the town and is held in particular esteem by the quarrymen, masons, and merchants whose trade the Bench regulates.
 
 The hall is situated upon a slight rise at the centre of Quarryside, approached from the market square by a flight of dressed stone steps that the masons of the lodges cut and laid at the time of the hall's erection. The position of the hall at the centre of the town is held by the Bench to be a sign of the importance of the trade to the life of the region. The hall has been the gathering place of the sworn members at every quarterly meeting since it was completed. It is surrounded by a paved yard of the same local stone, kept clear of carts and merchandise by the sworn deputies who attend the meetings of the Bench.
 
