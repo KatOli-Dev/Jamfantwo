@@ -175,7 +175,7 @@ header {
     gap: 0.5rem;
     list-style: none;
 
-    a {
+    > li > a {
       display: inline-flex;
       align-items: center;
       min-height: $min-tap;
@@ -198,6 +198,148 @@ header {
           rgba(255, 255, 255, 0.08);
         border-color: $color-glass-edge;
         transform: translateY(-1px);
+      }
+    }
+
+    .dropdown {
+      position: relative;
+
+      &::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        height: 0.85rem;
+        z-index: 199;
+      }
+
+      .dropdown-toggle {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        min-height: $min-tap;
+        color: rgba(255, 255, 255, 0.78);
+        text-decoration: none;
+        font-size: 0.95rem;
+        padding: 0.4rem 0.9rem;
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
+          rgba(255, 255, 255, 0.04);
+        border: 1px solid $color-glass-edge-soft;
+        border-radius: $radius-chip;
+        transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+        cursor: pointer;
+        font-family: inherit;
+
+        &:hover,
+        &:focus {
+          color: $color-heading;
+          background:
+            linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
+            rgba(255, 255, 255, 0.08);
+          border-color: $color-glass-edge;
+          transform: translateY(-1px);
+        }
+      }
+
+      .dropdown-arrow {
+        transition: transform 0.2s ease;
+      }
+
+      &:hover .dropdown-arrow,
+      &:focus-within .dropdown-arrow {
+        transform: rotate(180deg);
+      }
+
+      .dropdown-menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 200;
+        grid-template-columns: repeat(5, auto);
+        gap: 1.25rem;
+        padding: 1.25rem 1.5rem;
+        padding-top: 0.75rem;
+        min-width: 520px;
+        background:
+          radial-gradient(ellipse 80% 60% at 30% 30%, rgba($color-accent, 0.06) 0%, transparent 70%),
+          linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%),
+          $color-bg-2;
+        border: 1px solid $color-glass-edge;
+        border-radius: $radius-card;
+        box-shadow:
+          inset 0 1px 0 rgba(255, 255, 255, 0.12),
+          0 12px 32px rgba(0, 0, 0, 0.5);
+        list-style: none;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.15s ease, visibility 0.15s ease, transform 0.15s ease;
+        transform: translateX(-50%) translateY(-4px);
+        margin-top: -1px;
+      }
+
+      &:hover .dropdown-menu,
+      &:focus-within .dropdown-menu {
+        display: grid;
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(-50%) translateY(0);
+      }
+
+      .dropdown-group {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        & + .dropdown-group {
+          margin-top: 0;
+        }
+
+        .dropdown-group-label {
+          display: block;
+          font-size: 0.7rem;
+          font-weight: 700;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          color: $color-accent-dim;
+          margin-bottom: 0.5rem;
+          padding-bottom: 0.35rem;
+          border-bottom: 1px solid $color-glass-edge-soft;
+        }
+
+        ul {
+          display: flex;
+          flex-direction: column;
+          gap: 0.15rem;
+          padding: 0;
+          margin: 0;
+          list-style: none;
+          justify-content: flex-start;
+
+          a {
+            display: block;
+            padding: 0.3rem 0.4rem;
+            font-size: 0.9rem;
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            border-radius: 6px;
+            border: 1px solid transparent;
+            transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+            background: none;
+            min-height: auto;
+
+            &:hover,
+            &:focus {
+              color: $color-heading;
+              background: rgba(255, 255, 255, 0.05);
+              border-color: $color-glass-edge-soft;
+              transform: none;
+            }
+          }
+        }
       }
     }
   }
@@ -530,8 +672,15 @@ footer {
   }
 
   header .brand,
-  header ul a {
+  header ul > li > a,
+  header .dropdown-toggle {
     background: rgba(255, 255, 255, 0.06) !important;
+  }
+
+  header .dropdown-menu {
+    background: $color-glass-fallback !important;
+    box-shadow: none !important;
+    border-color: $color-glass-edge-soft !important;
   }
 
   main {
@@ -561,7 +710,9 @@ footer {
 
   main a,
   footer a,
-  header ul a {
+  header ul > li > a,
+  header .dropdown-toggle,
+  header .dropdown-group ul a {
     color: LinkText;
     text-decoration-color: LinkText;
 
@@ -578,10 +729,28 @@ footer {
   }
 
   header .brand,
-  header ul a {
+  header ul > li > a,
+  header .dropdown-toggle {
     background: Canvas !important;
     color: CanvasText !important;
     border-color: CanvasText !important;
+  }
+
+  header .dropdown-menu {
+    background: Canvas !important;
+    border-color: CanvasText !important;
+    box-shadow: none !important;
+  }
+
+  header .dropdown-group ul a {
+    background: Canvas !important;
+    color: CanvasText !important;
+    border-color: transparent !important;
+
+    &:hover,
+    &:focus {
+      border-color: CanvasText !important;
+    }
   }
 
   header .brand::before,
@@ -613,6 +782,41 @@ footer {
 
   header ul {
     justify-content: center;
+  }
+
+  header .dropdown {
+    .dropdown-menu {
+      position: static;
+      transform: none;
+      min-width: auto;
+      width: 100%;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      padding: 1rem;
+      margin-top: 0.35rem;
+      opacity: 1;
+      visibility: visible;
+      box-shadow: none;
+      border-color: $color-glass-edge-soft;
+      display: none;
+
+      .dropdown-group {
+        .dropdown-group-label {
+          margin-bottom: 0.35rem;
+        }
+
+        ul a {
+          padding: 0.25rem 0.35rem;
+          font-size: 0.85rem;
+        }
+      }
+    }
+
+    &:hover .dropdown-menu,
+    &:focus-within .dropdown-menu {
+      display: grid;
+      transform: none;
+    }
   }
 
   main {

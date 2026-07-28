@@ -1,0 +1,45 @@
+groups:
+  - label: Peoples
+    items:
+      - title: Species
+        url: /content/species/
+      - title: Population
+        url: /content/population/
+      - title: People
+        url: /content/people/
+      - title: Culture
+        url: /content/culture/
+  - label: World
+    items:
+      - title: Geography
+        url: /content/geography/
+      - title: Locations
+        url: /content/location/
+      - title: Nature
+        url: /content/nature/
+  - label: Society
+    items:
+      - title: Government
+        url: /content/government/
+      - title: Law
+        url: /content/law/
+      - title: Economy
+        url: /content/economy/
+      - title: Military
+        url: /content/military/
+  - label: Belief
+    items:
+      - title: Religion
+        url: /content/religion/
+      - title: Mythology
+        url: /content/mythology/
+      - title: Magic
+        url: /content/magic/
+  - label: Arts & Knowledge
+    items:
+      - title: Art
+        url: /content/art/
+      - title: Language
+        url: /content/language/
+      - title: History
+        url: /content/history/

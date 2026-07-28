@@ -22,38 +22,7 @@
       Skip to main content
     </a>
     <header>
-      <nav aria-label="Primary">
-        <a href="{{ '/' | relative_url }}" class="brand">
-          {{site.title}}
-        </a>
-        <ul>
-          <li>
-            <a href="{{ '/content/geography/' | relative_url }}">
-              Geography
-            </a>
-          </li>
-          <li>
-            <a href="{{ '/content/population/' | relative_url }}">
-              Population
-            </a>
-          </li>
-          <li>
-            <a href="{{ '/search/' | relative_url }}">
-              Search
-            </a>
-          </li>
-          <li>
-            <a href="{{ '/structure/' | relative_url }}">
-              Style
-            </a>
-          </li>
-          <li>
-            <a href="{{ '/license/' | relative_url }}">
-              License
-            </a>
-          </li>
-        </ul>
-      </nav>
+      {% include nav.html %}
     </header>
     <main id="main-content" tabindex="-1">
       {%- unless page.url == '/' %}
