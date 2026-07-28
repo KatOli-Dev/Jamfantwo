@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Highland Road
+description: "The principal route from the Stoneheim halls to the Stormfall ports carries forged metal and worked stone outward while grain, salt, and coastal goods travel inward through engineered highland passes."
 ---
 
 ## From the Mountain Halls to the Stormfall Ports

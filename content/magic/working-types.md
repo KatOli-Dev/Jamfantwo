@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Types of Workings
+description: "A working is a single named act of reshaping performed upon a particular pattern, and the traditions have recorded many such workings in their chronicles."
 ---
 
 ## The Many Forms of Reshaping

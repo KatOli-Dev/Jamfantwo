@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sunken Coast"
+description: "The low-lying southern shore of Aethelar, where estuaries, lagoons, and salt marshes support fishing communities that have adapted to the rising waters and frequent floods."
 ---
 
 ## A Low-Lying Coastal Region Prone to Flooding

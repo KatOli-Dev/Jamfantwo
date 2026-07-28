@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Stoneheim Mineral Rights"
+description: "The ancient dwarven code governing the ownership of mineral wealth, the allocation of mining claims, and the standards for extraction in the Stoneheim Holds of the Morvind mountains."
 ---
 
 ## The Law of the Deep Veins

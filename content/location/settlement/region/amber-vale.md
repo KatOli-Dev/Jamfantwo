@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amber Vale
+description: "The fertile river valley of the Vael, where rich floodplain soil and the water law established by Sera sustain the agricultural heartland and the historical traditions of the kingdom."
 ---
 
 ## The Agricultural Heartland of the Vael

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cecily Ambervale
+description: "The Keeper of the Amber Vale, responsible for managing the agricultural heartland of the Vael kingdom, maintaining its dykes and channels, and administering justice among the farming communities."
 ---
 
 ## The Administrator of the Vale

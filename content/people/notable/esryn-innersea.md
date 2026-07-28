@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Esryn Innersea
+description: "The commander of the Inner Sea Watch, responsible for patrolling the southern waters of the strait, prosecuting wreckers, and maintaining the lighthouses that guide vessels along the warm coast."
 ---
 
 ## The Commander of the Inner Sea Watch

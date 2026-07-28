@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Metalwork and Jewellery"
+description: "The shaping of metal from the forges of the dwarven Stoneheim Holds to the silver workshops of the Amurra Republic, encompassing smithing, alloying, and decorative inlay."
 ---
 
 ## The Working of Metal as Art

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dwarven Hall Life
+description: "Existence within the great halls carved from the living rock of the mountains, where the forge, the hall of feasts, and the authority of the thane and his council govern the community."
 ---
 
 ## The Mountain Halls

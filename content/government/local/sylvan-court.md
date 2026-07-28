@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sylvan Court
+description: "The elven council of elders governing the ancient northern forests of Aethelar through consensus and tradition, recognised as the oldest political entity on the continent."
 ---
 
 ## The Elven Governance of the Ancient Northern Forests

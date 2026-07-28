@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resonance Theory
+description: "Resonance is the principle by which like things act upon like, and every tradition has produced its own account of the fabric of patterns that binds the world together."
 ---
 
 ## The Principle Understood across Traditions

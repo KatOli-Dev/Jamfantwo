@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Marches
+description: "The high borderlands of deep Morvind, where the Frostwall Clans hold the defended passes and watchtowers guarding the routes between the eastern and western ranges."
 ---
 
 ## The High Borderlands of the Morvind Interior

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Goliaths
+description: "People shaped by the highest peaks, whose affinity for thin air and bitter cold is the defining feature of their kind. Their remains are found at altitudes no other sapient people can tolerate."
 ---
 
 ## Born from the Highest Peaks

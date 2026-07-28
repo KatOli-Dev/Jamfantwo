@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spherical Cartography
+description: "The discipline of representing the curved surface of the world upon flat charts and determining position by celestial bodies, developed by the academies of the Amurra Republic."
 ---
 
 ## The Measurement and Mapping of a Curved World

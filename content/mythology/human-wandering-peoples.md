@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Wandering Peoples
+description: "Unlike the other peoples, the humans remember coming from somewhere else, a lost homeland across the sea, and their origin myths tell of a journey that continues to shape their character."
 ---
 
 ## The Memory of Another Shore

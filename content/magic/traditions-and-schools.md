@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Traditions and Schools
+description: "The Art is practised in several traditions, each built around a particular reading of the four laws and a distinct discipline of attunement and reshaping."
 ---
 
 ## A Varied Landscape of Practice

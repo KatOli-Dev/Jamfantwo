@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Trail Markers
+description: "Stones stacked and arranged upon the open wastes by the Kharesh Tribes to mark caravan routes between oases, conveying water, danger, and direction through count and pattern."
 ---
 
 ## Stone Signs of the Wastes

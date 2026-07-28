@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessari
+description: "The precise highland speech of Thessara, spoken in the central valleys and eastern ports, rich in words for pasture, sheep, and the shepherd's craft, and the medium of the League."
 ---
 
 ## Thessari Outlined

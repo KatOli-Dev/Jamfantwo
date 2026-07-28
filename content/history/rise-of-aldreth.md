@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rise of Aldreth
+description: "The transformation of Aldreth from a modest fishing village into the principal commercial power of the present age, its merchants trading with every port of the three continents."
 ---
 
 ## From Fishing Village to Commercial Power

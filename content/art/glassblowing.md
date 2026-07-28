@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Glassblowing"
+description: "The recent art of shaping molten glass with the blowpipe, tracing its origin in the Amurra Republic and its spread to the glassmakers of Khalisar and beyond."
 ---
 
 ## The Transformation of Sand

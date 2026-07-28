@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Goldmeadow
+description: "The central trade hub of the Aethelaran grasslands, where rivers and roads converge to make Goldmeadow the most connected inland market for goods from every corner of the continent."
 ---
 
 ## Central Trade Hub at the Confluence

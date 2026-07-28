@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Treaty and Diplomatic Law"
+description: "The negotiation, conclusion, enforcement, and termination of treaties between political entities of the known world, together with the rights and immunities of diplomatic representatives."
 ---
 
 ## The Ordering of Relations Between Powers

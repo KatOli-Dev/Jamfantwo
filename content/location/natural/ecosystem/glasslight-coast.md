@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glasslight Coast
+description: "The long beaches of fine pale sand between the Sahrani Coastal Strip and the Velden Strait, where sunlight reflects like polished glass and small fishing villages line the uninhabited shore."
 ---
 
 ## Pale Sands and Polished Light

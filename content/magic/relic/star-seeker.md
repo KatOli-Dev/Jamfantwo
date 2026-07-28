@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Star-Seeker
+description: "The vessel in which Kaelen Navigator made the first recorded crossing of the Auric Ocean, opening the passage that has since defined trade and travel between Aethelar and Sahrana."
 ---
 
 ## The Vessel That Opened the Auric Passage

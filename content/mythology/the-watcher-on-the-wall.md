@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Watcher on the Wall
+description: "The Shield and Song teach of the Watcher who stands at the boundary between the known world and the darkness, a divine guardian whose unceasing attention is the model for every practitioner."
 ---
 
 ## The Guardian Who Never Sleeps

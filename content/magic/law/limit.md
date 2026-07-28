@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Limit
+description: "The Art is bounded by three limits: resonance requires sympathy, the total of pattern remains constant, and living patterns resist reshaping. These are properties of the world's order."
 ---
 
 ## The Boundaries the Art Cannot Cross

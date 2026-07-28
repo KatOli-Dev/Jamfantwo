@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coastal and Shore Creatures
+description: "The waders, seabirds, seals, crabs, and molluscs that inhabit the tidal zones of the three continents are among the most diverse and specialised animals, adapted to the constant change of the shore."
 ---
 
 ## The Animals of the Tidal and the Shore Zones

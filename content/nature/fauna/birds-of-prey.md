@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Birds of Prey
+description: "The hawks, falcons, and eagles that rule the skies of the known world are both wild predators that keep the ecosystem in balance and the trained partners of falconers who hunt with raptors."
 ---
 
 ## The Raptors of the Skies

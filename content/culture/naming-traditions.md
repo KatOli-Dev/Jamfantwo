@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Naming Traditions
+description: "Customs governing the choice and use of names across the known world, from the three-part names of the Vael valley to the single names of the plains and the lineage-based names of the dwarven halls."
 ---
 
 ## The Power of the Name

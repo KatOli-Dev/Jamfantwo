@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ogres
+description: "Large and powerfully built people of the wild margins, whose history is the least documented of any sapient species. They have left no written records and show no interest in the question of origins."
 ---
 
 ## Scarce and Poorly Documented

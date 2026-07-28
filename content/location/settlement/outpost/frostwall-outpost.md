@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Outpost
+description: "A refuge on the high road through the Frostwall Pass, Frostwall Outpost shelters caravans, patrols, and messengers beneath an overhanging shelf of dark stone where the route enters its most exposed."
 ---
 
 ## A Refuge on the High Road Through the Frostwall

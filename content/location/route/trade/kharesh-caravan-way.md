@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Caravan Way
+description: "The network of desert routes crossing the Kharesh connects the fertile coastal cities to scattered oases and upland settlements, carrying spices and minerals that made the fortune of Sahrani trade."
 ---
 
 ## Oldest and Most Demanding Desert Routes

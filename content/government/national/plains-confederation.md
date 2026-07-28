@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plains Confederation
+description: "Alliance of central Aethelar grassland cities and centaur kindreds. Its council co-ordinates agriculture, grazing, and trade across the open plains."
 ---
 
 ## Alliance of Grassland Cities and Centaur Kindreds

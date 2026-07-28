@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thomas Brackenford
+description: "The master of the market at Brackenford, the primary point of exchange between lowland farmers and the dwarven communities of the Aethelar mountain spine."
 ---
 
 ## The Contemporary Merchant of Brackenford

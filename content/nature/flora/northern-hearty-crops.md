@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Crops
+description: "Barley, rye, potato, and hardy root vegetables sustain the northern settlements through winters that last many months, their cultivation shaped by centuries of selection for short seasons and cold."
 ---
 
 ## Agriculture at the Edge of the Cold

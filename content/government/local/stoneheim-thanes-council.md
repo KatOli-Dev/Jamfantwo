@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Thanes' Council
+description: "The advisory body of the dwarven high king of the Stoneheim Holds, composed of the thanes who govern the individual holds and whose co-operation sustains the realm."
 ---
 
 ## The Advisory Council of the Dwarven High King

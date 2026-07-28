@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Naval Warfare"
+description: "The character of naval combat across the known world, from the galley battles of the Greater Inland Sea to the deep-water patrols of the Auric Ocean, shaped by the waters on which it is fought."
 ---
 
 ## The Sea as a Battleground

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Weaponry and Armour"
+description: "The craft of weapon-making and armour-smithing across the known world, from the peerless steel of the Stoneheim Holds to the distinctive blade traditions of Vael, Aldreth, and the Southern Reach."
 ---
 
 ## The Smith's Art

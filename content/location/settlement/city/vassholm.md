@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vassholm
+description: "Vassholm is a harbour of refuge on the Morvind uplands, its island fortress and stone causeway sheltering the fishing fleet and trade in seal-oil that sustains the cold northern coast."
 ---
 
 ## A Harbour of Refuge on the Morvind Uplands

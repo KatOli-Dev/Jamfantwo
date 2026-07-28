@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Holds
+description: "The greatest dwarven realm of Morvind, encompassing the underground cities of Stoneheim and Khazgar. Its mineral wealth and master-crafted metalwork are traded across every continent."
 ---
 
 ## Greatest Dwarven Realm of Morvind

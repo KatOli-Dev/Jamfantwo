@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Morvind Uplands
+description: "The mountainous interior of Morvind, a region of high peaks, deep valleys, and extensive plateaus where dwarven halls carved into living rock stand alongside human and elven valley settlements."
 ---
 
 ## High Peaks, Deep Valleys, and Extensive Plateaus

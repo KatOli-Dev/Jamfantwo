@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sahrani Tile and Mosaic"
+description: "The assembly of glazed ceramic tiles into geometric patterns and figured images that adorn the walls and floors of the Sahrani cities of Sahran, Khalisar, and Qassir."
 ---
 
 ## The Art of the Assembled Surface

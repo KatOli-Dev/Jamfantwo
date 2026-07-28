@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Festival Origin Myths
+description: "Every festival of the known world has its beginning in an event the community remembers, and these origin myths explain why the celebration is held and how the practices of the day were established."
 ---
 
 ## The Beginnings of the Celebrations

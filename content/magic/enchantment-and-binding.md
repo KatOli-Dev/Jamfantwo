@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Enchantment and Binding
+description: "Enchantment fixes a pattern in a desired configuration, reducing its tendency to settle back toward its original state for years or centuries at a time."
 ---
 
 ## Fixing the Pattern in a Desired Shape

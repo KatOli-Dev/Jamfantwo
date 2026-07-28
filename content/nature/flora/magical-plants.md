@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Magical Plants
+description: "Moonflower, sunvine, shadow moss, and starlight cactus are among the plants whose inherent properties serve the Art, each harvested through guarded rituals and traded under the regulation of mages'."
 ---
 
 ## The Flora of the Art

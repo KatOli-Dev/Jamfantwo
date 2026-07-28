@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stonespire
+description: "The great peak of the Stoneheim Highlands that names the pass at its head, a single sharp summit of dark stone whose snowfields feed streams descending to both the warm coast and the cold north."
 ---
 
 ## The Peak That Names the Pass

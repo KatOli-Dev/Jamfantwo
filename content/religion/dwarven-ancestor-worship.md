@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dwarven Ancestor Reverence
+description: "The dwarven peoples centre their spiritual life upon reverence for the ancestors and the mountain, honouring the dead who remain present in the hold through memory and observance of tradition."
 ---
 
 ## The Honouring of the Forebears and the Mountain

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Korin Stoneheim
+description: "The present thane of the dwarven mountain holds of the eastern Morvind Uplands, elected to oversee the council and known for expanding the metal trade and strengthening the highland defences."
 ---
 
 ## The Thane of the Stoneheim Holds

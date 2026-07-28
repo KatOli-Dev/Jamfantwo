@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lyra Heartwood
+description: "The elven warden of the Heartwood Fellowship who produced the first systematic map of the great forest and composed the manual of forestry that guided woodland management across the northern world."
 ---
 
 ## The Warden of the Heartwood

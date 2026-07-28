@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mikhail Vashari
+description: "The presiding representative of the Vashari Pact, the alliance of inland caravan cities, known for managing the relationship with the Kharesh Tribes and maintaining the desert trade routes."
 ---
 
 ## The Leader of the Pact

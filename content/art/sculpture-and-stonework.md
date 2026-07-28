@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sculpture and Stonework"
+description: "The enduring art of shaping stone, from the relief-carved halls of the dwarven holds to the memorial plaques of the Houses of Memory and the figurative marble of the southern realms."
 ---
 
 ## The Working of Stone as Art

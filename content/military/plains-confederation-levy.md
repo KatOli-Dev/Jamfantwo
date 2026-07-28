@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Plains Confederation Levy"
+description: "The levy of the Plains Confederation, the largest mounted force in the known world, a gathering of free riders who answer the call of the Council and ride to war on the hardy horses of the grasslands."
 ---
 
 ## The Horse and the Rider

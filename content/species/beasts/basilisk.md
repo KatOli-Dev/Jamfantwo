@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Basilisk
+description: "The most venomous reptile of the deep forest, the basilisk is an ambush predator whose lethal gaze and potent bite make it the most feared creature of the woodland interior."
 ---
 
 ## The Great Venomous Reptile of the Deep Wood

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mercenary Companies"
+description: "The market for arms in the known world, where mercenary companies sell their swords under the terms of the Greywash Compact, and the most renowned companies that have carved their names into history."
 ---
 
 ## The Market for Arms

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stone Quarries' Hall
+description: "The seat of the Stone Quarries' Bench at Quarryside, the building of stone and timber where master masons, wardens, and sworn members conduct the business of the trade."
 ---
 
 ## The Seat of the Stone Quarries' Bench at Quarryside

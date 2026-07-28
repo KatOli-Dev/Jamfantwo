@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Skaldshavn
+description: "A fishing and trading port on the southern Morvind coast, Skaldshavn shelters between cliffs and the Stormfall Sea. Its inlet harbour protects a fleet that works productive fishing grounds offshore."
 ---
 
 ## A Fishing and Trading Port on the Remote Southern Morvind Coast

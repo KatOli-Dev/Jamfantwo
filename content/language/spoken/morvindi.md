@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Morvindi
+description: "The direct coastal tongue of the Morvind lowlands, spoken in fishing villages and harbours, suited to the description of the sea, the weather, and the patient business of the catch."
 ---
 
 ## Morvindi Described

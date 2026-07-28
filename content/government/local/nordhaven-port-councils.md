@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordhaven Port Councils
+description: "The local governing bodies of the Nordhaven coastal settlements, managing harbours, fishing fleets, trade, and harbour dues under authority derived from the crown."
 ---
 
 ## The Governing Bodies of the Morvind Coastal Settlements

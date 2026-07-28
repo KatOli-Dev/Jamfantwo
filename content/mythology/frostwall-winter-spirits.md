@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Winter Spirits
+description: "The Frostwall Clans tell of the Ice Walker and other spirits that walk the snow, dangerous and benevolent forces that the northern peoples must contend with during the long winter months."
 ---
 
 ## The Walkers in the Snow

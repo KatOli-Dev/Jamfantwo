@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sunless Veils
+description: "The Sunless Veils are a contemplative order practising the discipline of lifting the veils that obscure deeper reality, a path of withdrawal and silence pursued in the dim quiet of the inland valleys."
 ---
 
 ## The Path of the Lifted Veils

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Folk Omens and Superstitions
+description: "The common people read signs in hearth-fire sparks, salt, iron, and the behaviour of animals, a layer of belief older than the temple faiths that the Cloisters have catalogued across every region."
 ---
 
 ## The Reading of Signs

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shield and Song
+description: "The Shield and Song is an order whose calling is divided into the bearing of hardship for others and the keeping of memory through voice and instrument, a discipline of watch and song."
 ---
 
 ## The Order of the Two Halves

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Aldreth Fleet"
+description: "The Aldreth Fleet, the most powerful naval force in the known world, protects the realm's far-reaching trade routes from its home port of Eldreth and projects power across the Stormfall Sea."
 ---
 
 ## The Foundation of Naval Power

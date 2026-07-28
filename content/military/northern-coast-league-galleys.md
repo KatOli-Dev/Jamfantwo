@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Northern Coast League Galleys"
+description: "The galley fleet of the Northern Coast League, a force of shallow-draft vessels crewed by member towns that patrol the coast and the southern shores of the Greater Inland Sea."
 ---
 
 ## The Galley Tradition

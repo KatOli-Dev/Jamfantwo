@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stone Plague
+description: "The long pestilence that swept through the principal cities in the generations following the Long Peace, its name drawn from the grey, stony cast that appeared on the afflicted in the final stages."
 ---
 
 ## The Great Pestilence of the Present Age

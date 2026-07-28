@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vashari Pact Desert Cavalry"
+description: "The desert cavalry of the Vashari Pact, a mobile army of mounted archers drawn from oasis cities and nomadic clans alike, capable of crossing the wastes of Sahrana faster than any infantry can march."
 ---
 
 ## The Horsemen of the Desert

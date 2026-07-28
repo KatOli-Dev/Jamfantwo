@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Southport
+description: "The principal Aethelaran-side town of the Velden Strait, Southport commands the passage between Stormfall Sea and Auric Ocean. Its pilots and toll collectors regulate the strait trade."
 ---
 
 ## The Principal Aethelaran-Side Town of the Strait

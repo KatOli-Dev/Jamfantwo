@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Signal and Scout Networks"
+description: "Communication and intelligence systems underpin wars across the known world, from the semaphore towers of Aldreth to the signal fires and scout patrols that keep the realms informed of threats."
 ---
 
 ## The Eyes of the Realm

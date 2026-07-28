@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ash Vale"
+description: "Ash Vale rises from the volcanic soils of the Ashen Heath, its terraced fields and irrigation channels sustaining the principal settlement of the eastern interior amid a landscape of pale ash and."
 ---
 
 ## A City in the Ashen Heath

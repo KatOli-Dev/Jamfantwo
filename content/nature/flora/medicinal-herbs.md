@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Medicinal Herbs
+description: "Feverfew, willow bark, yarrow, and the carefully regulated poppy of the Green Crescent are among the plants that healers across the known world rely upon to treat fevers, wounds, and the severest."
 ---
 
 ## The Healing Arts and the Plants That Serve Them

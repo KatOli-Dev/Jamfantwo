@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bron Stoneheim
+description: "The dwarven engineer who designed and oversaw the construction of the great road through the Stonespire Pass, the foundation of land trade between the northern highlands and the warm coast."
 ---
 
 ## The Engineer of the Stonespire Road

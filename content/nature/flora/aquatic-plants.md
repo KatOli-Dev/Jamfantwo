@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aquatic Plants
+description: "The reeds of the Greywash Marshes, the cattail's many uses, the edible seaweed of the coasts, and the rice of the flooded fields together sustain the communities that live along the waterways of the."
 ---
 
 ## The Plants of the Waters and the Wetlands

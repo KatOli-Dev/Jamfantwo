@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sheep and Goats
+description: "The flocks of the uplands and dry regions provide wool, milk, meat, and leather where cattle cannot thrive, and the herders move with the animals in migrations that follow the seasonal grasses."
 ---
 
 ## The Flocks of the Uplands and the Plains

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Three-Banners War
+description: "The celebrated seven-year war between the Plains Confederation and two rival confederations for control of the central grasslands, decided by mounted warriors and resulting in the consolidation of."
 ---
 
 ## The War of the Three Confederations

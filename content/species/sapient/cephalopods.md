@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cephalopods
+description: "Tentacled people inhabiting the deep ocean floor, adapted to the extreme conditions of the abyss. They are almost wholly unknown to surface peoples save through rare encounters with the merfolk."
 ---
 
 ## Mysteries of the Abyssal Depths

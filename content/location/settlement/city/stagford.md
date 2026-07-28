@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stagford
+description: "Stagford controls the principal river crossing of the central grasslands, its stone bridge and stockyards making it a vital node in the trade of grain and livestock between the northern and southern."
 ---
 
 ## A Central Aethelaran City at the River Crossing

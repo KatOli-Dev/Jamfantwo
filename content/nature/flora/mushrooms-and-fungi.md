@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mushrooms and Fungi
+description: "From the cultivated stone fungus of dwarven halls to the wild truffles of the Vintners Vale and the desert puffball of the Kharesh, fungi nourish, heal, and illuminate the settlements of the three."
 ---
 
 ## The Fungal Kingdom and the Peoples of the World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kheled
+description: "An upland settlement in the rocky massifs of the Kharesh, Kheled sustains itself through springs fed by deep aquifers and mines yielding copper, salt, and precious stones traded along the caravan."
 ---
 
 ## An Upland Settlement in the Desert Massifs

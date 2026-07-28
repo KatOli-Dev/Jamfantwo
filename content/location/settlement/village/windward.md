@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Windward
+description: "A remote settlement on a windswept island in the eastern Auric Ocean, Windward is the most isolated permanent community in the known world, its people sustained by fishing and self-reliance."
 ---
 
 ## A Remote Island Settlement in the Eastern Auric

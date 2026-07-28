@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Music and Instruments"
+description: "The practice of music across the three continents, from the harps and bowed lyres of the north to the hammered dulcimers of the dwarves and the drums of the plains."
 ---
 
 ## The Place of Music in the Known World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bjornsholm
+description: "A coastal trading settlement on the southern Morvind coast, Bjornsholm sits in a sheltered bay at the forest's edge. It is known for peaceful trade with the ursine community of the inland woods."
 ---
 
 ## A Coastal Trading Settlement with a Forest Connection

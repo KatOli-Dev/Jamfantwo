@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cockatrice
+description: "A small reptilian beast of the rocky hills bearing the head of a rooster and the body of a lizard, the cockatrice is feared for its venomous bite and the barb of its sinuous tail."
 ---
 
 ## The Small Monstrosity of the Rocky Hills

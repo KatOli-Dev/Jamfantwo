@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordhaven
+description: "Human kingdom of the Morvind coast, its capital the largest port of the Stormfall Sea. Its Northern Fleet protects the maritime trade linking the continent's interior to southern markets."
 ---
 
 ## Human Kingdom of the Morvind Shore

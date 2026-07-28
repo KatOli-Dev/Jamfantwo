@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Poultry and Fowl
+description: "Chickens, ducks, geese, and turkeys kept in settlements from Sahrana to Morvind provide eggs, meat, and feathers for households and industries, and no village is complete without farmyard birds."
 ---
 
 ## The Birds of the Farmyard and the Village

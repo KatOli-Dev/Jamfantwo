@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Elven First Awakening
+description: "The elves carry the memory of their first awareness beneath the Heartwood, a state of consciousness recovered through meditation that marks the beginning of elven history and the standard by which."
 ---
 
 ## The Moment Before Memory

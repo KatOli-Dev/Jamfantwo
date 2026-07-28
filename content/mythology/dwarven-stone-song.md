@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dwarven Stone Song
+description: "The dwarven Stone Song tells of the mountain's first resonance that shaped the stone, a continuing vibration that the stone-singers hear and respond to through their craft in the deep halls."
 ---
 
 ## The Song That Sleeps in the Stone

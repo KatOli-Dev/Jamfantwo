@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The Craft of Shipbuilding"
+description: "The craft of designing and constructing vessels, examining the shipwrights of Eldreth, Khalisar, and Nordhaven and their methods of hull design and timber selection."
 ---
 
 ## The Art of the Shipwright

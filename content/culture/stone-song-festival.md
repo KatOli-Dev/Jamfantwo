@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stone Song Festival
+description: "The principal festival of the dwarven peoples, observed at the solstices when stone-singers sing the deep songs of the mountain and the year's works are displayed in the great halls."
 ---
 
 ## The Festival of the Deep Singing

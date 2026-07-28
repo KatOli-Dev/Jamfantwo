@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Khalisar Council
+description: "The elected governing body of Khalisar, the greatest Sahrani coastal city-state, whose decisions shape the economy and culture of the Sahrani coast and the continent of Sahrana."
 ---
 
 ## The Governing Body of the Greatest Sahrani City-State

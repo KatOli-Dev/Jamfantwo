@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The First Forge
+description: "The dwarven legend of the First Forge tells how a nameless dwarf struck flint against iron and awakened fire from the stone, founding the craft that made the dwarves master smiths."
 ---
 
 ## The Fire That Came From the Stone

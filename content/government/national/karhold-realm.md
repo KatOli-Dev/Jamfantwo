@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Karhold Realm
+description: "Dwarven kingdom of the Aethelar mountain spine, centred on the capital Karhold. Its mines and forges produce metalwork renowned throughout the continent and beyond."
 ---
 
 ## Dwarven Kingdom of the Aethelar Spine

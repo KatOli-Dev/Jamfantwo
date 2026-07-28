@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brona Veldenwatch
+description: "The guildmaster of the strait pilots of the Velden Strait, who tightened standards, acquired new pilot vessels, and maintains the discipline of the brotherhood that guides ships through the channel."
 ---
 
 ## The Guildmaster of the Strait Pilots

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desert Beasts of Burden
+description: "The dromedary camels of the Kharesh carry the caravans across the arid expanse, bearing heavy loads for weeks without water, and make the trade between the interior and the coast possible."
 ---
 
 ## The Camels of the Kharesh

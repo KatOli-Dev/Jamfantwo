@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Practitioners of the Art
+description: "A practitioner is a scholar of resonance and a crafter of pattern, trained through years of patient study to perceive the order of the world more clearly."
 ---
 
 ## Those Who Walk the Paths of Resonance

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Green Crescent
+description: "The chain of fertile river-fed districts along Sahrana's northern coast, curving like a crescent moon between the Auric Ocean and the great desert of the Kharesh, the ancient foundation of the."
 ---
 
 ## The Fertile Northern Coast of Sahrana

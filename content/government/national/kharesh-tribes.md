@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Tribes
+description: "Nomadic confederation of salawa and humans inhabiting the Kharesh desert of Sahrana. They guide caravans across the interior and maintain the routes connecting coastal cities to the inland."
 ---
 
 ## Nomadic Confederation of the Sahrani Desert

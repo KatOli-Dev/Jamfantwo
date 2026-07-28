@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Cranemarsh"
+description: "A fishing village in the vast Reed Marshes of southern Aethelar, Cranemarsh stands on a low island where the people live by fishing, hunting waterfowl, and harvesting reeds for thatch and weaving."
 ---
 
 ## A Fishing Village in the Reed Marshes

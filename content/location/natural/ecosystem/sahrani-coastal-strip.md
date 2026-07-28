@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Coastal Strip
+description: "The narrow band of fertile land between the Auric Ocean and the Kharesh desert, where the oldest cities of Sahrana cluster around river mouths and harbour trade routes older than any written record."
 ---
 
 ## Narrow Band Between Sea and Desert

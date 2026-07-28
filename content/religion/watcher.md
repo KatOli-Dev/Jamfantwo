@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Watcher
+description: "The Watcher is the divine keeping at the centre of the Shield and Song's understanding, a holding of the world in attention and care known through the bearing of hardship and the keeping of memory."
 ---
 
 ## The Divine Keeping of the World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phoenix
+description: "The flame-plumed bird of volcanic peaks, the phoenix is celebrated in the legends of every people for its renewal from the ashes of its own pyre and is held in reverence by the elves of the high."
 ---
 
 ## The Flame-Plumed Bird of the High Mountains

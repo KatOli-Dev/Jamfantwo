@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahran
+description: "Sahran is the principal port of the warm Sahrani coastal strip, its evaporation pans and warehouses sustaining a centuries-old trade in salt that connects the inland valleys to the markets of the."
 ---
 
 ## A City of the Warm Coast

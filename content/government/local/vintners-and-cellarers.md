@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vintners and Cellarers
+description: "The standing guild regulating the trade in wine and ale across the cold north, keeping standards of vintners and brewers and adjudicating disputes among merchants and tavern-keepers."
 ---
 
 ## The Guild of Wine and Ale Merchants

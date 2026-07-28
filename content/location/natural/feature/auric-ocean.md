@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Auric Ocean
+description: "The warmer eastern ocean whose golden sunsets give it its name, carrying the heaviest maritime traffic in the known world between Aethelar and Sahrana through steady currents and spirited summer."
 ---
 
 ## The Golden Sunsets and the Eastern Sea

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Elven Woodland Art"
+description: "The artistic practice of the elves of Aethelar, rooted in cooperation with the living forest, from the shaping of growing trees to the carving of fallen timber and the use of natural colours."
 ---
 
 ## The Art of the Forest

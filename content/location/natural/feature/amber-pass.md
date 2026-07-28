@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amber Pass
+description: "The most reliable highland crossing between Ashara and Thessara, named for the amber resin gathered from the forest soil, paved with volcanic stone that drains well and served by springs that remain."
 ---
 
 ## The Amber Resin and the Highland Trade

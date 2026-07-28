@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stonebrook Compact
+description: "The river agreement modelled upon the Greywash Compact, regulating the navigation, the fishery, and the use of the banks of the principal river of the highland region of Aethelar."
 ---
 
 ## The Highland River Agreement

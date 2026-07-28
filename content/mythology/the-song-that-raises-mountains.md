@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Song That Raises Mountains
+description: "The dwarven myth of the active song that raised mountains from a flat and silent world, a process that continues in the present through the stone-singers who shape the living stone."
 ---
 
 ## The Voice That Shaped the World

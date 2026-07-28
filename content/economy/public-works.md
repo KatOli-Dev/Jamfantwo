@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Public Works
+description: "The roads, bridges, harbours, aqueducts, walls, and towers that the sovereign or city council builds and maintains for the benefit of the population."
 ---
 
 ## The Infrastructure That the Sovereign Provides

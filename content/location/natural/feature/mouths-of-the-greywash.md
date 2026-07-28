@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greywash Mouths
+description: "The broad delta where the Greywash divides into three principal channels at the western edge of the continent, enclosing two islands of silt and marsh that support salmon and eel fisheries regulated."
 ---
 
 ## Three Channels and Two Islands of Silt

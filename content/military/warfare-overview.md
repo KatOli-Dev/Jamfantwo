@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Warfare of the Known World"
+description: "A comprehensive overview of military traditions across Aethelar, Sahrana, and Morvind, examining how geography, resources, and history have shaped the diverse ways in which the realms make war."
 ---
 
 ## The Character of War

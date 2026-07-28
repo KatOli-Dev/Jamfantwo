@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Slavery and Indenture
+description: "The systems of bound labour in the known world, from chattel slavery in Sahrana to indentured servitude and debt bondage in Aethelar, varying by region and legal tradition."
 ---
 
 ## The Systems of Bound Labour

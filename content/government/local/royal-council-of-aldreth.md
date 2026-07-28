@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Royal Council of Aldreth
+description: "The principal advisory body to the crown of Aldreth, composed of senior officials, merchants, and military commanders whose interests shape the governance of the eastern coast."
 ---
 
 ## The King's Advisory Body and the Administration of the Realm

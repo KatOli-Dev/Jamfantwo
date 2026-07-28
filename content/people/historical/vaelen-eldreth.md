@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vaelen Eldreth
+description: "The ancient scholar who compiled the Known-World Codex, the first comprehensive natural history of the known world, after three decades of travel and systematic observation."
 ---
 
 ## The High Chronicler of the Natural World

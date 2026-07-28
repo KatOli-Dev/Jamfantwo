@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amurra Republic
+description: "Merchant-governed city-state on the northern coast of Sahrana. Its council of spice-trading families controls the trade in the most valuable commodity of the known world."
 ---
 
 ## City-State of the Spice Trade

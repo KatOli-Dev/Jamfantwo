@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heartwood Fellowship
+description: "The standing body of wardens and trappers tending the Heartwood and surrounding forests, regulating the chase, keeping forest bounds, and adjudicating disputes among forest-margin villages."
 ---
 
 ## Overview

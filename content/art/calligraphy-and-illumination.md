@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Calligraphy and Illumination"
+description: "The art of beautiful writing and page decoration across the known world, from the rounded Aldreth hand to the cursive Kharesh script and the gilded illuminations of the scriptoria."
 ---
 
 ## The Art of the Written Letter

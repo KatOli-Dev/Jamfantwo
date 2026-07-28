@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Marches Border Councils
+description: "The local governing bodies of the Northern Marches frontier settlements, managing the boundary between settled land and forest and regulating logging, hunting, and watchtowers."
 ---
 
 ## The Local Councils of the Frontier Settlements

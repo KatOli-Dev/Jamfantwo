@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Dragon and the Phoenix
+description: "The ancient enmity between the mountain dragon and the sky phoenix threatened to consume the world, and their reconciliation through a third party established the balance all now enjoy."
 ---
 
 ## The Ancient Enmity

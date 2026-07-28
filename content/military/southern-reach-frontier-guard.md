@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Southern Reach Frontier Guard"
+description: "The professional regiments of the Southern Reach Frontier Guard, drawn from the realm's famed military academies, defend the passes of the Thunderback Range and the border lands beyond."
 ---
 
 ## The Academy Forts

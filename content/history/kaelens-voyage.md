@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kaelen's Voyage
+description: "The expedition by which Kaelen and the pilots of Khalisar first reached the great island of the Kharesh in the early generations of the Long Peace, opening a new chapter in the maritime trade of the."
 ---
 
 ## First Eastern Crossing to the Kharesh

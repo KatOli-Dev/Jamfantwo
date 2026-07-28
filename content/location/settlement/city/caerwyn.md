@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caerwyn
+description: "Caerwyn's shipyards are the foremost on the eastern coast, turning timber from the inland forests into the sturdy vessels that carry Aethelar's trade across the Auric Ocean and beyond."
 ---
 
 ## Foremost Shipbuilding Centre of the Eastern Coast

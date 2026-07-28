@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nessara
+description: "The northernmost of the Sahrani city-states, Nessara guards the boundary where fertile coast gives way to arid country, its vineyards and olive groves producing wine and oil prized across the."
 ---
 
 ## A Coastal City-State at the Edge of the Fertile Strip

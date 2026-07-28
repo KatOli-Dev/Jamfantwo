@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Twin-Reaches Peace
+description: "The treaty that concluded the Twin-Reaches Wars, signed at the temple of the Sea Mother's Court at Khalisar in the early years of Sera's reign and regarded as the foundation of the Long Peace."
 ---
 
 ## Treaty That Ended the Twin-Reaches Wars

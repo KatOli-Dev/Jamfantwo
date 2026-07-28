@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brackenford
+description: "A western inland town at the head of the Amber Vale, Brackenford stands at a river crossing between mountain foothills and lowlands. Humans and dwarves exchange grain for metalwork at its market."
 ---
 
 ## A Western Inland Town at the Foothills of the Spine

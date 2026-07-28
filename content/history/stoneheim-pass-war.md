@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Pass War
+description: "A brief but sharp engagement between the Stoneheim Holds and a coalition of lowland princes over the tolls of Stonespire Pass, concluded by a peace that has endured to the present day."
 ---
 
 ## Conflict over the Mountain Tolls

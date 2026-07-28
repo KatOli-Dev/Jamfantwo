@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fur-Bearing Creatures
+description: "The sable, marten, fox, and beaver of northern and temperate regions are trapped for their pelts, which are made into warm garments and decorative objects from the simplest to the finest."
 ---
 
 ## The Animals of the Winter Coat

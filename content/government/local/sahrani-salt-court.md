@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Salt Court
+description: "The standing body regulating the harvest, trade, and export of salt along the Sahrani coast, keeping standards and adjudicating disputes among salt-makers and salt-merchants."
 ---
 
 ## The Standing Body of the Salt-Makers and Merchants

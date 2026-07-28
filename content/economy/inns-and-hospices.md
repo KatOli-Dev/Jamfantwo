@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inns and Hospices
+description: "The commercial inns and charitable hospices that provide shelter and refreshment for travellers along the roads and trade routes connecting the settlements of the known world."
 ---
 
 ## The Provision of Shelter and Refreshment for the Traveller

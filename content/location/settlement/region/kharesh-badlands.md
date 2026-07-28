@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Badlands
+description: "A broken corridor of ravines and mesas at the desert margin, the Kharesh Badlands are crossed by ancient caravan routes connecting the fertile northern coast to the deep interior of Sahrana."
 ---
 
 ## The Broken Corridor at the Desert Margin

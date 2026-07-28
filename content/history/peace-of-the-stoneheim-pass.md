@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Peace of the Stoneheim Pass
+description: "The treaty that concluded the Stoneheim Pass War, signed in the great hall of Stoneheim and establishing the compromise that has governed the tolls of Stonespire Pass to the present day."
 ---
 
 ## The Treaty That Ended the Mountain War

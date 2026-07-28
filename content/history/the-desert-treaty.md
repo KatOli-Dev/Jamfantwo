@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desert Treaty
+description: "The principal instrument governing relations between the Kharesh Tribes and the Vashari Pact, negotiated after a century of conflict over the control of the trade routes and oases of the desert."
 ---
 
 ## The Accord of the Sahrani Sands

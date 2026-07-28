@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Hermit and the Flame
+description: "The Still Flame teaches through the parable of a hermit who kept a fire burning through the longest winter, showing that the smallest flame faithfully tended can become the light of the world."
 ---
 
 ## The Solitary Keeper

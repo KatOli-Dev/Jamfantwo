@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ravenscrag
+description: "A mountain settlement in the far interior of Morvind, Ravenscrag is the most remote permanent settlement in the land, its dwarves mining iron and copper from the peaks in the deepest gorge."
 ---
 
 ## A Mountain Settlement in the Far Interior of Morvind

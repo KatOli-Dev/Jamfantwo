@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Milling and Baking
+description: "The grinding of grain into flour at the water mill and the baking of bread, trades regulated by the guilds and essential to the daily nourishment of every settled community."
 ---
 
 ## The Grinding of Grain and the Making of Bread

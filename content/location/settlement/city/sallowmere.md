@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sallowmere
+description: "Sallowmere is the gateway between the temperate eastern coast and the warm southern seas, its sandbar harbour hosting the monsoon trade that connects Aethelar to the markets of Sahrana."
 ---
 
 ## A Southern Port on the Eastern Aethelaran Coast

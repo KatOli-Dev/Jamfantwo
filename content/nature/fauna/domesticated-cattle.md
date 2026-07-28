@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Domesticated Cattle
+description: "The bovine herds of Aethelar provide meat, milk, leather, and draft power, and centuries of breeding have produced distinct breeds suited to each region's pastures and climate."
 ---
 
 ## The Bovine Herds of Aethelar

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Auric Passage
+description: "The busiest maritime route in the known world crosses the Auric Ocean between Eldreth and the Sahrani coast, carrying spices, dyes, and precious stones northward and grain, cloth, and iron southward."
 ---
 
 ## The Busiest Maritime Route in the Known World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Minotaurs
+description: "Bovine people of the labyrinthine highlands, whose horned heads and great strength mark them as one of the eldest peoples of Aethelar."
 ---
 
 ## Bovine People of the Labyrinthine Highlands

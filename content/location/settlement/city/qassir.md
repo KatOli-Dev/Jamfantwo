@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Qassir
+description: "Qassir is the primary eastern port of Sahrana, its harbour the gateway to the Auric Isles and the tortolan communities, where merchants manage the valuable island trade that links the coast to the."
 ---
 
 ## A Port City on the Auric Coast

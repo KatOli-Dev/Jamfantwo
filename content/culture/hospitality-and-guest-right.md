@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hospitality and Guest Right
+description: "The sacred institution of guest right as practised across the known world, from the three-day custom of the temperate lands to the camp-fire hospitality of the plains peoples and the desert laws of."
 ---
 
 ## The Sacred Bond

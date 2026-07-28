@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hydra
+description: "A many-headed reptilian beast of the swamps, the hydra is capable of regrowing severed heads and is hunted with fire and spear by the marsh communities that share its territory."
 ---
 
 ## Many-Headed Beast of the Swamp

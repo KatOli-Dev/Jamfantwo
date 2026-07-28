@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valdmark Holding Courts
+description: "The local courts and councils governing the river valley settlements of Valdmark, administering justice, managing irrigation, and regulating the agricultural economy of the interior."
 ---
 
 ## The Courts and Councils of the Interior Valley

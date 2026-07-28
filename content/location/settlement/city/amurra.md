@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amurra
+description: "Amurra is the wealthy centre of the spice trade, its harbour the sole outlet for the rare aromatics cultivated in the Sahrani interior foothills, graded and shipped to every continent by its powerful."
 ---
 
 ## Wealthy Port and Centre of the Spice Trade

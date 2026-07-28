@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deep Speech
+description: "Percussive rhythms struck upon living rock by dwarven miners and tunnel wardens, carrying warnings, acknowledgments, and shift-calls through miles of stone galleries."
 ---
 
 ## Communication Through Stone

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Attunement Practice
+description: "Attunement brings the practitioner's own pattern into sympathy with the subject, forming the foundation without which no working of the Art may succeed."
 ---
 
 ## The Foundation of Every Working

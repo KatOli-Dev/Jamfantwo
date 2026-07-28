@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Textiles and Cloth
+description: "The production of wool, linen, cotton, and silk cloth, woven on the looms of village and town workshops and traded through the markets of the three continents."
 ---
 
 ## The Making of Fabric from the Fibres of the World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Camel Calls
+description: "Vocal and percussive signals by which camel drivers and salawa guides of Sahrana direct camels across the Kharesh, conveying rise, halt, advance, and every movement of the caravan."
 ---
 
 ## Directing the Caravan

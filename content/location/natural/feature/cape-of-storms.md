@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Storm Cape
+description: "The dark headland at the western edge of Nordheim where two currents meet, producing sudden gales and dense fogs that pilots read by the colour of the water, the sound of waves, and the flight of."
 ---
 
 ## The Dark Headland and the Meeting of Currents

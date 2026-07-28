@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Arachne
+description: "Enigmatic people of the deep caverns, combining a humanoid upper form with the trunk and eight legs of a spider. They preserve no oral traditions of their origins, or do not share them with outsiders."
 ---
 
 ## Enigmatic Denizens of the Deep

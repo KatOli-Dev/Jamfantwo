@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Highgate
+description: "Highgate commands the most important pass through the mountain spine, its great gate and massive fortifications controlling all overland traffic between the eastern and western halves of Aethelar."
 ---
 
 ## City That Commands the Mountain Pass

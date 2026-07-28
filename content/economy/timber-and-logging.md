@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timber and Logging
+description: "The logging of oak, ash, beech, and pine from the forests of Aethelar, supplying timber for shipbuilding, construction, and fuel under the regulation of guilds and sovereigns."
 ---
 
 ## The Forest Industries of Aethelar

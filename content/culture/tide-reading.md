@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tide-Reading
+description: "The disciplined study of the movements of the seas and oceans, developed in the academies of the Amurra Republic, whose tide tables guide the navigators of every great port."
 ---
 
 ## The Science of the Waters

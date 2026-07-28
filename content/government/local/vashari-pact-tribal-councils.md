@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vashari Pact Councils
+description: "The governing bodies of the Vashari Pact alliance of inland caravan cities, coordinating the caravan trade across the Kharesh through councils elected by the member cities."
 ---
 
 ## The Governing Councils of the Inland Caravan Cities

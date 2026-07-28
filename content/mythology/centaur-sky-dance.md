@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Centaur Sky Dance
+description: "The centaurs enact the world's continuing creation through the Sky Dance, a performed pattern of movement that shapes the constellations and affirms their role as co-creators of reality."
 ---
 
 ## The Dance That Formed the Plains

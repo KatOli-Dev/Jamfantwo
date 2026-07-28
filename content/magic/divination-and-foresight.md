@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Divination and Foresight
+description: "Some traditions read the patterns of what is yet to come through methods of foresight, though the nature and limits of such perception are vigorously disputed among them."
 ---
 
 ## Reading the Patterns of What Is to Come

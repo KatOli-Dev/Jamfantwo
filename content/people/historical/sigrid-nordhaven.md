@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sigrid Nordhaven
+description: "The queen who built the Northern Fleet and transformed Nordhaven from a modest coastal kingdom into the dominant maritime power of the Stormfall Sea."
 ---
 
 ## The Queen of the Northern Fleet

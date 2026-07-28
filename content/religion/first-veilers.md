@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First Veilers
+description: "The First Veilers are the hermits who founded the path of the Sunless Veils, withdrawing from market towns to quiet valleys where the veils of the bright world could be lifted through silence."
 ---
 
 ## The Hermits Who Founded the Path

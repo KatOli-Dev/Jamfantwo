@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Theatre and Performance"
+description: "The living arts of story and spectacle, from the verse plays of the Aldreth playhouses to the forest dances of the elves and the street carnival of the Amurra Republic."
 ---
 
 ## The Art of Living Presentation

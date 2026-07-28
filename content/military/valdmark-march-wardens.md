@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Valdmark March Wardens"
+description: "The mounted March Wardens of Valdmark patrol the eastern border ceaselessly, living in the saddle and guarding the settled lands against the dangers of the wilderness beyond."
 ---
 
 ## The Watchers of the Border

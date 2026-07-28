@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Art and Craft in the Art
+description: "The Art bears a name that ties it to the making of beautiful things, and the traditions recognise that the reshaping of pattern is akin to the discipline of craft."
 ---
 
 ## The Relation between Making and Reshaping

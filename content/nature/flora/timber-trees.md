@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timber Trees
+description: "Oak for ships, ash for spears and bows, pine for the houses of the north, and ironwood for the gears of mills \u2014 the timber trees of the known world are managed across generations for the."
 ---
 
 ## Oak and the Shipbuilding of Aethelar

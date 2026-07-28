@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dunesend
+description: "A caravan stop at the edge of the Kharesh, Dunesend is the last outpost before the deep desert, provisioning caravans bound for the sands and offering the first refuge to those who emerge from them."
 ---
 
 ## A Caravan Stop at the Edge of the Kharesh

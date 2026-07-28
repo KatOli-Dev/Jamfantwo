@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tanning and Leather
+description: "The transformation of animal hides into leather through soaking, scraping, and curing, supplying the material for shoes, belts, saddles, bags, and countless other articles of daily use."
 ---
 
 ## The Transformation of Hides into Useful Material

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Karhold Realm Garrison"
+description: "The garrison forces of the Karhold Realm, professional soldiers who serve for life in the frozen north, experts in winter warfare and the defence of the passes that guard the realm from invasion."
 ---
 
 ## The Frozen Watch

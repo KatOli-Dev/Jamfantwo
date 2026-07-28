@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spices and Dyes
+description: "Saffron, cardamom, black pepper, indigo, madder, and kermes from the Sahrani interior, carried by caravan to the coastal markets under the regulation of merchant houses and spice guilds."
 ---
 
 ## The Treasures of the Sahrani Interior

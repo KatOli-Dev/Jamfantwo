@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caelindis Sylvancourt
+description: "The speaker of the elven Sylvan Court and chief magistrate of the woodland communities, her tenure marked by careful stewardship of the great forest and renewed ties with neighbouring human kingdoms."
 ---
 
 ## The Speaker of the Sylvan Court

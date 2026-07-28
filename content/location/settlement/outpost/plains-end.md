@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plains' End
+description: "A watchpost and beacon at the eastern limit of the Great Grass Plains, Plains' End guards the frontier where grassland breaks into stony rises, serving soldiers, herdsmen, and the pastoral clans of."
 ---
 
 ## A Watchpost and Beacon at the Eastern Limit of the Grassland

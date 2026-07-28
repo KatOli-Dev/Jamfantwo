@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Saltpan Watch
+description: "A small watchpost and beacon above the southern salt pans of the Sahrani coast, Saltpan Watch oversees the salt harvest and guides pilots navigating the low, featureless shore of the Auric Ocean."
 ---
 
 ## A Small Watchpost Above the Southern Salt Pans

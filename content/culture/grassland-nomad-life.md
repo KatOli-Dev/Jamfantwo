@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grassland Nomad Life
+description: "Daily existence on the Great Grass Plains, where centaurs and human herders follow the herds through the seasons, dwelling in mobile tents and shelters of hide and frame."
 ---
 
 ## The Great Grass Plains

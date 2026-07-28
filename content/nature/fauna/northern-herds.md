@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Herds
+description: "The reindeer, musk oxen, and mountain sheep of Morvind and the Northern Marches provide meat, milk, wool, hides, and transport to communities of the cold regions, where survival depends on the herds."
 ---
 
 ## The Animals of the Cold Regions

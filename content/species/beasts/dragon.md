@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dragon
+description: "The greatest of reptiles, the dragon is a winged creature of fire and scale that inhabits the remotest high mountains, with fewer than a hundred mature individuals surviving in all the known world."
 ---
 
 ## The Greatest of Reptiles

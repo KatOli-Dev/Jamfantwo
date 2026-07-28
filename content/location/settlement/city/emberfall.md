@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Emberfall
+description: "Emberfall rises at the junction of the great southern roads, a bustling crossroads where the commerce of the eastern coast, western interior, and southern plains converges in its busy market square."
 ---
 
 ## Southern Trade Hub at the Road Junction

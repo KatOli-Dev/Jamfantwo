@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Confederation Council
+description: "The governing body of the Plains Confederation, coordinating trade, agriculture, and defence among the central grassland cities and centaur kindreds through consensus and representation."
 ---
 
 ## The Governing Council of the Grassland Alliance

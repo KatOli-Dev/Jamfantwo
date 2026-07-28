@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Salawa
+description: "Jackal-headed people of the arid Sahrani interior, whose bodies bear the mark of the desert and the heat. They share one of the oldest interspecies relationships with the human nomads of the Kharesh."
 ---
 
 ## Jackal-Headed People of the Sahrani Interior

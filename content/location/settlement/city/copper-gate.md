@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Copper Gate"
+description: "Copper Gate stands at the foot of the Crown Range, its smelters and forges processing the rich ores brought down from the mountain mines that have made it the centre of the eastern metal trades."
 ---
 
 ## A Mining City at the Foot of the Crown Range

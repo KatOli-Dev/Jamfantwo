@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Centaur Sky Beliefs
+description: "The centaur kindreds of the Great Grass Plains read the sky and stars for guidance, understanding the patterns of the grasslands as beliefs that govern their way of life without priests or texts."
 ---
 
 ## The Reading of the Sky and the Plains

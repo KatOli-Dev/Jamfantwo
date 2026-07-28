@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First-Hunt Rite
+description: "The coming-of-age ceremony in which young people of temperate regions pursue and take game alone, demonstrating readiness for adult responsibilities in their community."
 ---
 
 ## The Coming-of-Age Hunt

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cyclopes
+description: "Solitary giants distinguished by a single eye set in the centre of the forehead. They inhabit remote islands and coastlines, speaking little and sharing less with outsiders."
 ---
 
 ## Solitary Giants of the Remote Coasts

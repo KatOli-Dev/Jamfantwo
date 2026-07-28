@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Khareshi
+description: "Whistled signals of the Kharesh Tribes carrying news of water, danger, and gathering across miles of open desert, used by herders, scouts, and caravan guides to connect scattered camps."
 ---
 
 ## Whistled Speech of the Desert

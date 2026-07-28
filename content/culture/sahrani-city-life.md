@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani City Life
+description: "Daily life in the coastal city-states of Sahrana, where the salt trade and caravan routes shape the rhythms of courtyard households and the commerce of the suq."
 ---
 
 ## The Coastal City-States

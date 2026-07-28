@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Iren Khalisar
+description: "The chief cartographer of the academy of Khalisar, known for the comprehensive revision of Lien's atlas that has become the foundation of navigation along the warm Sahrani coast."
 ---
 
 ## The Chief Cartographer of the Academy

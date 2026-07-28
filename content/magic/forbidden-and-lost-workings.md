@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Forbidden and Lost Workings
+description: "Some workings are forbidden for the harm they cause or the limits they approach, while others survive only in relics and the accounts of fallen traditions."
 ---
 
 ## Workings That Are Proscribed or No Longer Known

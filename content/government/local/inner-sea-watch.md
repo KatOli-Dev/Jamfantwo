@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inner Sea Watch
+description: "The standing patrol maintained by Khalisar and its neighbours along the southern Greyring, keeping channels clear, directing vessels, and collecting the dues by which it is sustained."
 ---
 
 ## The Standing Patrol of the Sahrani Southern Waters

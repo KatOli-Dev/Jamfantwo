@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Amber Plains"
+description: "The eastern edge of the Great Grass Plains, where tall grasses turn golden in late summer and the people live in seasonal movement with wild horses, bison, and antelope."
 ---
 
 ## The Eastern Edge of the Great Grass Plains

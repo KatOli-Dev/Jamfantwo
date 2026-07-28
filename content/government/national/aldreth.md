@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aldreth
+description: "Human maritime kingdom on the eastern coast of Aethelar. Its capital Eldreth is the continent's wealthiest port, and its commercial rivalry with Vael shapes the politics of the eastern seaboard."
 ---
 
 ## A Realm of Eastern Commerce

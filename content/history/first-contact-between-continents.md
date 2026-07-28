@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First Contacts Between Continents
+description: "The first crossings from Aethelar to Sahrana following Kaelen's Voyage, opening a new world of trade, diplomacy, and conflict that reshaped the relations of the three continents."
 ---
 
 ## The Crossing That Changed the World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Maritime Law"
+description: "The customs, codes, and court decisions that govern salvage, collision, shipwreck, and seafarers' rights across the Stormfall Sea, the Auric Ocean, and the coastal waters beyond."
 ---
 
 ## The Law of the Sea Across the Known World

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Letters on Pattern
+description: "A disputed sequence of seven letters attributed to the Heartwood Fellowship teaches reading, attunement, and reshaping of pattern; it remains the most accessible introduction to the Art."
 ---
 
 ## A Disputed but Influential Text

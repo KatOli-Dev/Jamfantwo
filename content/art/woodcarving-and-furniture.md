@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Woodcarving and Furniture"
+description: "The shaping of timber into objects of use and beauty, from the carved panels of Eldreth and the elven living-wood tradition to the cabinet-making of the Aldreth great houses."
 ---
 
 ## The Craft of Wood

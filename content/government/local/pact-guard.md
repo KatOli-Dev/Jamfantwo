@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pact Guard
+description: "The standing military force of the Vashari Pact, protecting caravan routes across the Kharesh and defending inland settlements at the edge of the great desert."
 ---
 
 ## The Standing Military Force of the Vashari Pact

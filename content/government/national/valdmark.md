@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valdmark
+description: "Human realm of the principal river valley of the Morvind interior. Its capital Valdheim commands the trade in grain and minerals between the coast and the deep interior."
 ---
 
 ## Human Realm of the Morvind Interior Valley

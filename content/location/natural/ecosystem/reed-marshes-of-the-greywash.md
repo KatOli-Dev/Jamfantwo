@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greywash Reed Marshes
+description: "The brackish wetlands where the Greywash meets the sea, their dense reedbeds harvested since the Founding Era for thatching and fish-baskets, crossed by a raised stone road built upon embankments."
 ---
 
 ## Brackish Belt of the Lower Greywash

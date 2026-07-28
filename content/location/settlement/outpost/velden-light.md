@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Light
+description: "A lighthouse settlement on the Aethelaran shore of the Velden Strait, Velden Light guides vessels away from the dark rock reef with its polished mirror lamp and fog bell, serving ships of many."
 ---
 
 ## A Lighthouse Settlement on the Aethelaran Shore

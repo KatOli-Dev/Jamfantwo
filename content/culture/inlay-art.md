@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inlay Art
+description: "The dwarven decorative tradition of setting metal into stone and stone into metal, a craft transmitted from master to apprentice through long apprenticeships in the mountain halls."
 ---
 
 ## The Dwarven Decorative Tradition

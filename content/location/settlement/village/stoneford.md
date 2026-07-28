@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Stoneford"
+description: "A village at the crossing of the River Stone in Aethelar, Stoneford has grown around an ancient bridge that carries the road, serving travellers and a weekly market for the surrounding farms."
 ---
 
 ## A Village at a Stone Bridge Crossing

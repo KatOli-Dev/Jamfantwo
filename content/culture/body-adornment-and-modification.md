@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Body Adornment
+description: "Practices of tattooing, scarification, piercing, and body painting across the known world, each tradition recording the lineage, status, and achievements of the wearer."
 ---
 
 ## The Canvas of the Body

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "South Fallow"
+description: "A farming village on the southern plains of Aethelar, South Fallow takes its name from the fallowing that keeps its fields fertile and its harvests among the most abundant."
 ---
 
 ## A Farming Village of the Southern Plains

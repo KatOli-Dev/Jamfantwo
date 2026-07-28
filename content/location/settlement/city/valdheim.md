@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valdheim
+description: "Valdheim is the agricultural and commercial heart of the Morvind interior, its fertile river valley feeding the continent while its barges carry grain and wool downriver to the coastal markets."
 ---
 
 ## A City in the Principal River Valley of Morvind

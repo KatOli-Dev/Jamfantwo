@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessara
+description: "A long continent of eastern waters, high interior valleys, and warm seas, where rivers, passes, and the deep trench beyond the southern shelf shape the commerce and customs of many peoples."
 ---
 
 ## The Long Continent of Eastern Waters

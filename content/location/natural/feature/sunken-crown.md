@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sunken Crown
+description: "The principal mountain range of Ashara, whose weathered outer slopes form stepped terraces of cultivation rising through cloud forest to high grassland, source of the three great rivers and the amber."
 ---
 
 ## Principal Range of the Warm Continent

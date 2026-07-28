@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thunderback Range
+description: "The young and restless mountain chain traversing Stormfall, whose sharp summits, ash-rich valleys, and frequent earthquakes feed rivers to both coasts while storms pour from its peaks through passes."
 ---
 
 ## Young and Restless Spine of Stormfall

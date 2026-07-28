@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hrolf Nordhaven
+description: "A captain of the Northern Fleet whose voyages into the Greyring Ocean charted unknown islands and opened new trade routes for the kingdom of Nordhaven."
 ---
 
 ## The Captain of the Northern Fleet

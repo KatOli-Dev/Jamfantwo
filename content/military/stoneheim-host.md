@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Stoneheim Host"
+description: "The host of the Stoneheim Holds, the most formidable heavy infantry, armed with dwarven steel and drilled to a precision that has left its battle record unblemished since the Founding Era."
 ---
 
 ## The Dwarven Military Tradition

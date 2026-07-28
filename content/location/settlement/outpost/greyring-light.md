@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greyring Light
+description: "A lighthouse and watchpost at the western entrance to the Velden Strait, Greyring Light guides vessels through treacherous waters where the ocean meets the confined channel, its lamp the first and."
 ---
 
 ## A Lighthouse at the Western Entrance to the Strait

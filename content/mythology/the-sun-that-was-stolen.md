@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Sun That Was Stolen
+description: "When the sun was taken by a serpent, a sorcerer-king, or a desert djinn, darkness fell upon the world and the peoples undertook a great quest to recover the light through cooperation."
 ---
 
 ## The Darkness That Fell Upon the World

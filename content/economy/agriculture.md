@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Agriculture
+description: "The cultivation of grain, vegetables, and fruit across the regions, from the vast fields of the Plains Confederation to the terraced hillsides of Sahrana and the garden plots of the halfling valleys."
 ---
 
 ## The Cultivation of the Soil

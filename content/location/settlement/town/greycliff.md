@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greycliff
+description: "The largest fishing and whaling town on Aethelar's western coast, Greycliff perches on a high cliff of grey stone. Its sheltered harbour and productive fisheries sustain a hardy community of mariners."
 ---
 
 ## The Largest Fishing and Whaling Town of the Western Coast

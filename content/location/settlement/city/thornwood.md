@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Thornwood"
+description: "Thornwood thrives at the edge of Brackenshield Wood, its sawpits and carpenters' quarter processing the finest timber of the eastern forests into the beams and furniture traded across Aethelar."
 ---
 
 ## A City at the Edge of the Brackenshield Wood

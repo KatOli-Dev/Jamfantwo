@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Great Grass Plains
+description: "The rolling sea of tall grasses covering central Aethelar, shaped by great herds and the nomadic kindreds of the centaurs who have ranged across these lands since before any written record."
 ---
 
 ## A Rolling Sea of Tall Grasses

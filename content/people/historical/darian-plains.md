@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Darian of the Plains
+description: "The centaur elder who founded the Plains Confederation, uniting the nomadic kindreds and the settled cities of the central grasslands under the Rights of the Plains."
 ---
 
 ## The Elder Who Founded the Confederation

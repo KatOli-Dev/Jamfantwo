@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cervines
+description: "Deer-headed people of the deep forests, whose antlers and alert senses suit them to a life of quiet movement through woodland. They are a reclusive folk who keep their own counsel."
 ---
 
 ## Deer-Headed Folk of the Deep Forest

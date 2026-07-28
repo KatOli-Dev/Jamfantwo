@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lesser Inland Sea
+description: "The smaller, warmer, and more fertile of the two inland seas of the Southern Reach, whose sheltered basin supports the fig and date orchards of Ashaar, the tortolan communities, and the boatbuilders."
 ---
 
 ## Smaller, Warmer, More Fertile Sister

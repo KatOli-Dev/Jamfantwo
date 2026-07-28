@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Elara Velden
+description: "A master pilot of the Velden Strait whose three decades of experience navigating the narrow channel between the Stormfall Sea and the Auric Ocean are unmatched among the guild."
 ---
 
 ## The Master Pilot of the Strait

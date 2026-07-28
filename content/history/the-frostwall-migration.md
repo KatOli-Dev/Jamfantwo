@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Migration
+description: "The centuries-long movement of peoples from the southern and western regions of Aethelar to the cold and mountainous Frostwall Marches of the far north, drawn by the search for land and resources."
 ---
 
 ## The Movement to the Northern Marches

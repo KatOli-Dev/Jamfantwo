@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Coast League
+description: "Alliance of independent Sahrani city-states along the northern coast. Its members co-ordinate maritime trade and defence across the Auric Ocean, with the council meeting at Khalisar."
 ---
 
 ## Alliance of the Sahrani City-States

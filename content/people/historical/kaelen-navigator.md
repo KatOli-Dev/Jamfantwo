@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kaelen Navigator
+description: "The first mariner to cross the Auric Ocean, whose seventeen-day voyage from Eldreth opened the Auric Passage between Aethelar and Sahrana and transformed the known world."
 ---
 
 ## The First Mariner to Cross the Auric Ocean

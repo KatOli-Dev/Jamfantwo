@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Auric Isles Coastal Patrol"
+description: "The coastal patrol of the Auric Isles, a force of small, swift cutters that navigate the channels of the archipelago, defending the island communities against pirates and raiders from the open ocean."
 ---
 
 ## The Island Defence

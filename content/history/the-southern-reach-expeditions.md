@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Southern Reach Expeditions
+description: "A series of voyages and overland journeys undertaken by the scholars and explorers of the Southern Reach to explore the unknown regions of the Southern Lands and document what was found there."
 ---
 
 ## The Explorations from the Southern Academies

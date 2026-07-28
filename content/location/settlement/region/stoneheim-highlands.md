@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Highlands
+description: "The upper ranges of Morvind ruled by the Stoneheim Holds, where dwarven halls carved into the mountains produce the finest metalwork in the known world."
 ---
 
 ## The Upper Ranges and the Workshop of the Dwarven People

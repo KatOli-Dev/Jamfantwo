@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Aldreth Commercial Code"
+description: "The comprehensive body of commercial law governing contracts, insurance, bills of exchange, and maritime commerce that has shaped trade across Aethelar and been adopted by leagues far beyond Aldreth."
 ---
 
 ## The Foundation of Eastern Commerce

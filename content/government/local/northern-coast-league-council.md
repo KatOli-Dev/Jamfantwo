@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Coast League Council
+description: "The governing body of the Northern Coast League, coordinating trade, navigation, and defence among the Sahrani coastal city-states from its council hall in Khalisar."
 ---
 
 ## The Governing Body of the Sahrani Port Alliance

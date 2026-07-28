@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greyring Ocean
+description: "The cooler western ocean whose steady northward currents and banks of grey mist shroud unexplored trenches and support whaling grounds, fishing ports, and the hardy coastal communities of western."
 ---
 
 ## Grey Rings of Fog and the Western Sea

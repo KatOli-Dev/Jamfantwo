@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "War Galleys and Transports"
+description: "The specialised vessels built for war from the keel up, from the triple-banked triremes of the inland sea to the sturdy transports that carry armies across the Stormfall Sea and the Auric Ocean."
 ---
 
 ## The Ships of War

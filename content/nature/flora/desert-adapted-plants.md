@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desert Plants
+description: "Barrel cactus storing water for travellers, acacia groves marking caravan routes, and the date palms of the oases sustain the Kharesh Tribes and the desert peoples who have mastered the arid lands."
 ---
 
 ## The Flora of the Arid Lands

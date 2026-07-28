@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greywash Compact
+description: "The agreement signed by the magistrates of the principal towns along the Greywash River for the management of the river, the protection of the fisheries, and the regulation of navigation."
 ---
 
 ## The River Agreement of the Long Peace

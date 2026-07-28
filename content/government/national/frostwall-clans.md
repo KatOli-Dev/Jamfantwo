@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Clans
+description: "Confederation of independent dwarven clans inhabiting the remote mountain fastnesses of deep interior Morvind. The fortress of Grimhold guards the approaches to the interior ranges."
 ---
 
 ## Dwarven Confederation of the Deep Interior

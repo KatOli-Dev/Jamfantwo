@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Contract Law"
+description: "The formation, performance, and enforcement of agreements across cultures, from the sophisticated commercial codes of Aldreth to the oral traditions and salt-token contracts of the nomadic peoples."
 ---
 
 ## The Binding of Promises Across Cultures

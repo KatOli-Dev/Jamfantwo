@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Life in Aldreth
+description: "Daily existence in Aldreth, the principal port city of the eastern coast, where the harbour trade, market squares, and counting houses govern the rhythms of a diverse urban population."
 ---
 
 ## The Commercial Port and Its Peoples

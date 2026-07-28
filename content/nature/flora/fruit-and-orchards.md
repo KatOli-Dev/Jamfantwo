@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fruit and Orchards
+description: "Apples for cider, olives for oil, citrus for the tables of Khalisar, and dates sustaining the Kharesh caravans \u2014 the orchards and groves of the known world reflect centuries of careful."
 ---
 
 ## The Orchard Traditions of Aethelar

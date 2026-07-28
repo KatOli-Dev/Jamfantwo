@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Textile Arts"
+description: "The production and decoration of cloth across the known world, from the linen of Aethelar and the silk of the Auric Isles to the embroidery of the north and the goldwork of Aldreth."
 ---
 
 ## The Woven Fabric of Civilisation

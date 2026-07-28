@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Epic Poetry and Storytelling"
+description: "The arts of the spoken word, from the alliterative sagas of the northern clans to the bardic verse of Aethelar and the oral histories of the Sahrani tribes."
 ---
 
 ## The Spoken Word as Art

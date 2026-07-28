@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Dwarven Craft Traditions"
+description: "The philosophy and practice of dwarven craft, from the respectful relationship with the mountain to advanced smelting, alloying, and stonework in the Stoneheim Holds."
 ---
 
 ## The Mountain as Workshop

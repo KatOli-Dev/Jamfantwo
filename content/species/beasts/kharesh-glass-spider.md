@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Glass Spider
+description: "The most feared arthropod of the desert margins, the Kharesh glass spider is named for its translucent carapace and delivers a venomous bite that is among the gravest hazards of the desert crossing."
 ---
 
 ## The Venomous Arachnid of the Desert Margins

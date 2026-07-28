@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormwing Roc
+description: "The largest flying bird in the world, the stormwing roc is a great eagle of the high mountains whose wingspan can carry a sheep from the ground to its eyrie among the peaks."
 ---
 
 ## The Largest Flying Bird

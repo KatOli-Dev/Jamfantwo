@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Halfling Harvest Tales
+description: "The halflings tell of hidden folk who taught them the secrets of seed and soil, cheerful stories of the everyday world that sustain the community without needing to explain the world's origin."
 ---
 
 ## The Small Folk and the Hidden Ones

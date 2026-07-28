@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran Merchant Revolt
+description: "A rebellion of the merchant houses of the Thessaran League against the council, the culmination of a generation of tension over taxes and regulations that reshaped the governance of the League."
 ---
 
 ## The Uprising of the Counting Houses

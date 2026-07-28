@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Taretha
+description: "Taretha is renowned throughout the known world for its vast libraries and scriptoria, a city where scholarship rivals commerce and the knowledge preserved within its walls draws scholars from every."
 ---
 
 ## A City of Libraries and Scholarship

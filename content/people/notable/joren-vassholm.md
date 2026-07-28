@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Joren Vassholm
+description: "The chief healer of the public hospital of Vassholm, compiler of a comprehensive catalogue of remedies that serves as the foundation of healing practice in the cold north."
 ---
 
 ## The Chief Healer of Vassholm

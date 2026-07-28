@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ancestor Veneration
+description: "The dead do not cease to exist but continue to guide their descendants, and the Houses of Memory preserve the names and songs of the ancestors through the discipline of the evening review."
 ---
 
 ## The Reverence for the Departed

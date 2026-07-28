@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharos
+description: "A western land of red mesas, dry valleys, and glass groves whose translucent trees hold water through drought, where short rivers and patient agreements sustain life between ridge and coast."
 ---
 
 ## The Land That Remembers Fire

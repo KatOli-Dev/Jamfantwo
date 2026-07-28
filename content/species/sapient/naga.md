@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Naga
+description: "Serpent people of the warm southern waters, whose humanoid upper body gives way to a muscular scaled tail. They have coexisted with the humans of the Sahrani coast for centuries."
 ---
 
 ## Serpent People of the Warm Waters

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Fire Signs
+description: "Signal fires kindled upon escarpment high points of the Frostwall Marches, where dwarven watchkeepers use numbers, colours, and sequences to convey warnings, assembly, and the watch."
 ---
 
 ## Signal Fires of the Marches

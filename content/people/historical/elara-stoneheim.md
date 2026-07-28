@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Elara Stoneheim
+description: "The queen who unified the scattered Stoneheim Holds, built the Great Forge, and established the coinage and compact that defined dwarven governance in Morvind for centuries."
 ---
 
 ## The Queen Who Expanded the Holds

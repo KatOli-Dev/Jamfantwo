@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Marches Frontier Wars
+description: "A series of conflicts fought between the settlers and militia of the Northern Marches and the peoples of the Frostwall and the Morvind interior, marked by raids and skirmishes across several."
 ---
 
 ## The Conflicts of the Northern Border

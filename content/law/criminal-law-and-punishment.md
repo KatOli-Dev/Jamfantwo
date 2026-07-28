@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Criminal Law and Punishment"
+description: "The definition of crimes, the forms of punishment, and the purposes of criminal justice as understood by kingdoms, leagues, city-states, and nomadic peoples across the continents."
 ---
 
 ## The Regulation of Violence and Wrongdoing

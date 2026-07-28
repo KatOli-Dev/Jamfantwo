@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Known-World Codex
+description: "Vaelen Eldreth's seven books describe the continents, their flora and fauna, their peoples, minerals, waters, and heavens; the Codex is the foundation upon which all natural philosophy is built."
 ---
 
 ## The Foundational Work of Natural Philosophy

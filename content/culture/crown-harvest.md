@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crown Harvest
+description: "The late-summer ceremony of the Amber Vale at which Sera's laws are recited from memory and grain from each district is offered at the granaries as a token of common inheritance."
 ---
 
 ## The Late-Summer Convocation

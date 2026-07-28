@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Torem
+description: "The gateway settlement of the Southern Reach, Torem commands the only pass from the Kharesh into the inland sea basin. Its inns and markets serve caravans arriving weary from the long desert crossing."
 ---
 
 ## The Gateway Settlement of the Southern Reach

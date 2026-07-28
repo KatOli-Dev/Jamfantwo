@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deepreach
+description: "A dwarven mining settlement in the central highlands of Aethelar, Deepreach is carved into the mountain spine. Its mines produce iron, copper, and silver for the forges of the Karhold Realm."
 ---
 
 ## A Dwarven Mining Settlement in the Central Highlands

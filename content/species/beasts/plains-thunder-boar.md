@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plains Thunder Boar
+description: "The largest wild swine of the Great Grass Plains, the thunder boar is a shaggy tusked beast whose ceremonial mounted hunt is the most celebrated pursuit of the Plains Confederation."
 ---
 
 ## The Great Swine of the Grasslands

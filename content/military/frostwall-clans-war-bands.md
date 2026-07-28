@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Frostwall War Bands"
+description: "The war bands of the Frostwall Clans of Morvind, where every adult warrior is hardened by the frozen wastes, bound by kinship to their chieftains and feared across the known world for their ferocity."
 ---
 
 ## The Warrior Clans

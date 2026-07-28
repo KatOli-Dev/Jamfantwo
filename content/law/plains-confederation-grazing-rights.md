@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Plains Confederation Grazing Rights"
+description: "The seasonal rotation system by which the Plains Confederation allocates grassland use among settled farmers and centaur kindreds, preventing overgrazing through collective regulation and annual."
 ---
 
 ## The Regulation of the Grassland Commons

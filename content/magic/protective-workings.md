@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Protective Workings
+description: "Wards and shields resist the entry of unwanted influences upon places, objects, and persons, establishing patterns that turn aside harm."
 ---
 
 ## Wards, Shields, and the Defence of Pattern

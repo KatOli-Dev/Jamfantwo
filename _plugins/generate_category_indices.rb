@@ -22,7 +22,8 @@ module Jekyll
       sorted.map do |p|
         t = p.data['title'] ||
             File.basename(p.path, File.extname(p.path)).tr('-', ' ').split.map(&:capitalize).join(' ')
-        "- [#{t}](#{p.url})"
+        desc = p.data['description']
+        desc.nil? || desc.empty? ? "- [#{t}](#{p.url})" : "- [#{t}](#{p.url}) — #{desc}"
       end.join("\n")
     end
   end

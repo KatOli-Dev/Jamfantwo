@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden
+description: "Velden commands the northern entrance to the Velden Strait, its lighthouses and skilled pilots guiding vessels through the narrow passage that connects the Greyring Ocean to the warm coastal waters."
 ---
 
 ## A City Commanding the Northern Strait

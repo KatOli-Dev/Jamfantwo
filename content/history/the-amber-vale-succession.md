@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amber Vale Succession
+description: "The period of uncertainty and conflict following the death of Sera, when three claimants contested the throne of the Amurra Republic, each supported by a faction of magistrates and merchants."
 ---
 
 ## The Contest for the Throne of Vael

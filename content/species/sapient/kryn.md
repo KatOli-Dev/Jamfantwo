@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kryn
+description: "Insectoid people of the deep underground, adapted to a colonial existence in the lightless spaces beneath the mountains. Their communication is chemical and tactile rather than spoken."
 ---
 
 ## Insectoid Colonists of the Deep Underground

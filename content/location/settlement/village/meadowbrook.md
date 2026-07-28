@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Meadowbrook"
+description: "A farming village in the Amber Vale of central Aethelar, Meadowbrook lies along a tributary stream whose waters feed fields and pastures that make it one of the oldest settlements in the region."
 ---
 
 ## A Farming Village in the Amber Vale

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Guild Charters"
+description: "The documents by which sovereigns grant trades the right to organise, set quality standards, adjudicate internal disputes, and regulate their practice within cities across the known world."
 ---
 
 ## The Contract Between Sovereign and Trade

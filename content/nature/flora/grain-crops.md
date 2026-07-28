@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grain Crops
+description: "From the wheat of Aethelar's river valleys to the rice of Sahrana's flooded paddies and the rye of Morvind's uplands, the grain crops form the foundation of civilisation and the most regulated sector."
 ---
 
 ## Wheat and the Breadbasket of Aethelar

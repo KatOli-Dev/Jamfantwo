@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Markets and Fairs
+description: "The weekly markets and annual fairs where buyers and sellers gather to exchange goods, regulated by the guilds and councils of the towns and cities where they are held."
 ---
 
 ## The Gathering of the Buyers and the Sellers

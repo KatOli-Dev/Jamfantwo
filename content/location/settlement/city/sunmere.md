@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sunmere
+description: "The largest city of the southern Aethelaran plains, Sunmere prospers on warm-climate agriculture and trade with the centaur kindreds who range across the open grassland beyond its irrigated fields."
 ---
 
 ## The Largest City of the Southern Aethelaran Plains

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Geography
+description: "The known world comprises three continents and two great oceans, with smaller seas and straits that shape travel, trade, and the spread of peoples across the landmasses."
 ---
 
 ## The Three Continents and Their Waters

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Auric Isles Port Councils
+description: "The local governing bodies of the Auric Isles harbour settlements, managing harbours, fishing fleets, and trade under authority derived from the confederation's maritime charter."
 ---
 
 ## The Governing Councils of the Island Harbours

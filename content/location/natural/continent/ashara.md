@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ashara
+description: "A warm land of river basins, forested escarpments, and long inland waterways where seasonal floods renew the soil and river councils govern the movement of water and trade."
 ---
 
 ## The Land of Many Waters

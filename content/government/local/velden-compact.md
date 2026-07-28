@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Compact
+description: "The commercial and regulatory agreement governing the Velden Strait towns, ensuring safe passage of vessels and fair collection of tolls and pilotage fees between the two continents."
 ---
 
 ## The Joint Governance of the Strait Towns

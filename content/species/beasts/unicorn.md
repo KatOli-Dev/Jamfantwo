@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Unicorn
+description: "The single-horned beast of the deepest forest glades, the unicorn is a creature of singular beauty and purity, held in reverence by the elves and celebrated in the ritual hunts of the Vaelic court."
 ---
 
 ## The Single-Horned Beast of the Deep Forest

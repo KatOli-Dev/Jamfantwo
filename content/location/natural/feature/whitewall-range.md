@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Whitewall Range
+description: "The long mountain chain dividing northern Nordheim from its southern forests, a spine of pale stone whose western passes, central refuge halls, eastern glaciers, and southern valleys sustain herders,."
 ---
 
 ## The Pale Stone Spine of Nordheim

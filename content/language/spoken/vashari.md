@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vashari
+description: "The flowing southern speech of the deep Sahrana uplands, spoken around the inland lakes and within the Southern Reach, musical in register and rich in words for water and fish."
 ---
 
 ## Vashari in Brief

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordheim
+description: "A northern continent of tundra, conifer forest, and glacier-scoured mountains, where summer light drives urgent growth and every community shares rules for shelter, rescue, and the migration routes."
 ---
 
 ## The Northern Home

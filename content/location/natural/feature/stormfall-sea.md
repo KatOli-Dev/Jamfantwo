@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormfall Sea
+description: "The shallow sea separating Morvind from Aethelar, named for the gales that move across it during autumn and winter, yet a vital passage for trade navigated by skilled mariners through treacherous."
 ---
 
 ## The Sea That Separates Morvind from Aethelar

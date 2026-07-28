@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Old Vaelic
+description: "Coloured banners flown from castle towers of the River Vael valley, carrying signals of assembly, alarm, and the king's business from garrison to garrison."
 ---
 
 ## Banner Signals of the Vael

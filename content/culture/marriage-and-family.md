@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Marriage and Family
+description: "The institutions of kinship across the known world, from the three-generation households of the Vael valley to the extended kinship networks of the plains and the lineage-based families of the."
 ---
 
 ## The Foundations of Kinship

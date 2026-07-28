@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First-Light Cape
+description: "The easternmost headland of the principal continent, a high rocky point named for the dawn light that strikes its cliffs before any other land, marked by a beacon of Khalisar's Watch that guides the."
 ---
 
 ## The Easternmost Headland

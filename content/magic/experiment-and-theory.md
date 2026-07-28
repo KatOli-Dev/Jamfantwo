@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Experiment and Theory
+description: "The traditions study the Art through systematic experiment and theory, publishing discoveries for the instruction of practitioners across the known world."
 ---
 
 ## The Systematic Study of the Art

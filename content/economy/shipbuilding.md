@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shipbuilding
+description: "The construction of vessels from small fishing boats to great merchant cogs in the shipyards of Eldreth and other port cities, regulated by the guilds of the shipwrights."
 ---
 
 ## The Construction of Vessels for Trade and War

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Painting and Fresco"
+description: "The application of pigment to surface, from the wet-plaster frescoes of the Still Flame temples to the layered glazes of Amurran panel painting."
 ---
 
 ## The Art of Colour on Surface

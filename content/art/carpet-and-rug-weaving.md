@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Carpet and Rug Weaving"
+description: "The weaving of heavy textiles for floor and wall, focussing on the knotted-pile carpets of the Plains Confederation and the Kharesh Tribes and their geometric patterns."
 ---
 
 ## The Woven Floor and Wall

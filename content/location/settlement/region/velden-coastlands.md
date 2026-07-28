@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Coastlands
+description: "The settlements on both shores of the Velden Strait, where pilots guide vessels through the narrow channel connecting the Stormfall Sea to the Auric Ocean."
 ---
 
 ## The Communities of the Narrow Channel

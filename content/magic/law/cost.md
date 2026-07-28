@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cost
+description: "The Art exacts a price in body and mind: weariness, strain, backflow, drift, and reverberation. These are not penalties but the necessary cost of reshaping the medium, borne by every practitioner."
 ---
 
 ## The Price of Reshaping the World

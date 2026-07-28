@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Magic Overview
+description: "The Art is the working of resonance upon pattern, a discipline rather than a faith, studied as one would study any exacting craft."
 ---
 
 ## The Art as Discipline, Not Faith

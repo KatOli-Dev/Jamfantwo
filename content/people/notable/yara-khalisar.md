@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Yara Khalisar
+description: "A senior advisor to the Khalisar Council and leading theorist of the arcane arts, responsible for maintaining the protective wards and regulating practitioners within the city."
 ---
 
 ## A Practitioner of the Council

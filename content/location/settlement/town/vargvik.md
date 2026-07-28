@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vargvik
+description: "The northernmost settlement in Morvind, Vargvik clings to a narrow inlet on a remote coast. Its pilots navigate treacherous reefs to a harbour sheltered from the cold northern sea."
 ---
 
 ## A Remote Coastal Town on the Northern Morvind Shore

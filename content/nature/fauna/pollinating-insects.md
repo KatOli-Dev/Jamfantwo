@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pollinators and Honey
+description: "The bees and other insects that carry pollen between flowers are valued for the honey and wax they produce and for their role in the fertility of crops and wild plants across all three continents."
 ---
 
 ## The Insects of the Flower and the Hive

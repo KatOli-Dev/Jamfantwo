@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostic
+description: "The grave tundra speech of interior Nordheim, spoken in the Frostwall Marches and Whitewall refuges, rich in words for snow, ice, and the patient business of the long winter."
 ---
 
 ## Frostic Defined

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lien Wind
+description: "The cartographer of Khalisar who compiled the first complete atlas of the Auric Ocean, providing consistent charts that guided pilots and merchants across the warm coast for generations."
 ---
 
 ## The Cartographer of the Warm Coast

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prices and Livelihood
+description: "The cost of bread, ale, food, and labour across the regions, reflecting the underlying realities of production, transport, and trade that shape the economic life of each region."
 ---
 
 ## The Cost of Living across the Continents

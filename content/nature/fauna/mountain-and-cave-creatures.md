@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mountain and Cave Creatures
+description: "The animals of the Crown Range and caves beneath the three continents have adapted to high winds and thin air or perpetual darkness, and many of these specialised creatures are found nowhere else."
 ---
 
 ## The Animals of the High and the Dark Places

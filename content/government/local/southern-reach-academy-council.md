@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Southern Reach Academy Council
+description: "The governing body of the Southern Reach academies, combining scholarly governance with political administration for the federation of communities in far southern Sahrana."
 ---
 
 ## The Scholarly Governing Body of the Far Southern Academies

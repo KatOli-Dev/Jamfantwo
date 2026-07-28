@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kadeem Qassir
+description: "The wealthiest merchant prince of the port city-state of Qassir, master of the island trade that connects the Sahrani coast to the Auric Isles and the northern continents."
 ---
 
 ## The Merchant Prince of the Eastern Shore

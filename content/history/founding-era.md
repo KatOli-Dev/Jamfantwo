@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Founding Era
+description: "The early centuries in which the principal cities of the three continents established themselves as centres of trade, governance, and learned traditions, poorly documented but foundational to the."
 ---
 
 ## The Age That Shaped the Continent

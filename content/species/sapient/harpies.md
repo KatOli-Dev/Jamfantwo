@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Harpies
+description: "Ancient people of the high cliffs, whose arms also serve as wings and whose bodies are adapted entirely for flight. Their presence in remote peaks is attested in the oldest mountain records."
 ---
 
 ## Ancient People of the High Cliffs

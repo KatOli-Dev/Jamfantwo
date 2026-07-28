@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gift Giving Traditions
+description: "The customs of giving across the known world, from the harvest gifts of the Vael valley to the bride prices of the plains and the crafted works exchanged in the dwarven halls."
 ---
 
 ## The Language of the Gift

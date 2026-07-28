@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Creation Myths
+description: "The peoples of the world preserve many accounts of the beginning, from the dwarven Stone Song to the teachings of the Sunless Veils, and the Cloisters hold that the diversity of these stories is."
 ---
 
 ## The Many Beginnings of the World

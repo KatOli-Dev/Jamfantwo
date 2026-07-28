@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thane Karhold
+description: "The legendary founder of the Karhold Realm who united the scattered dwarven clans of the Aethelar mountain spine under the Compact of the Deep and built the great hall of Karhold."
 ---
 
 ## The Founder of the Karhold Realm

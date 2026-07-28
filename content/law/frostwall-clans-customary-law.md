@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Frostwall Clans Customary Law"
+description: "The unwritten laws of the dwarven clans of the deep interior, governing the forge, the defence of the passes, and the resolution of disputes through clan chiefs and councils."
 ---
 
 ## The Legal Order of the Deep Interior

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vael Water Law"
+description: "The ancient law of the River Vael, establishing collective management of dykes, channels, and flood defences through water commissioners and courts that have sustained the Amber Vale for centuries."
 ---
 
 ## The Law of the River

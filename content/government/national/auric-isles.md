@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Auric Isles
+description: "Confederation of island communities scattered across the Auric Ocean. Its council at Tidesmeet co-ordinates trade and mutual support among the island settlements of the eastern sea."
 ---
 
 ## Alliance of the Eastern Ocean

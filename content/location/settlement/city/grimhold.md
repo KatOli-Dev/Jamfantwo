@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grimhold
+description: "Grimhold is a dwarven fortress-city carved into the most rugged peaks of the Morvind interior, its living-rock walls and deep forges guarding the passes that connect the remote ranges to the coast."
 ---
 
 ## Dwarven Fortress-City in the Deep Interior

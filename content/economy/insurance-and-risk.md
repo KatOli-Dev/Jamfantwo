@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Insurance and Risk
+description: "The spreading of maritime and caravan risk through guild funds and merchant house contributions, most developed in the insurance system of the Northern Coast League."
 ---
 
 ## Spreading Risk Among the Many

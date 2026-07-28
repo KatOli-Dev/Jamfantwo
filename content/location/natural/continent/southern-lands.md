@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Southern Lands
+description: "A cold southern continent of ice fields, tundra, and deep caverns warmed by hidden springs, where travelling peoples follow herds and herds follow the retreat of snow across long seasons."
 ---
 
 ## Cold Continent of the Far South

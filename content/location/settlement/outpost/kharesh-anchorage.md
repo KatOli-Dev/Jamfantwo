@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Anchorage
+description: "A factory and watchpost on the southern coast of the Kharesh, the Anchorage is the principal point of contact between the three continents and the Kharesh Spirits, governing trade from a sheltered."
 ---
 
 ## A Factory and Watchpost on the Southern Kharesh Coast

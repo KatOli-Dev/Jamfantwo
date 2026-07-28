@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordhaven
+description: "Nordhaven is the greatest port of Morvind and the hub of the Stormfall crossing, its sturdy ships and deep harbour connecting the metal-rich interior of the continent to the markets of Aethelar."
 ---
 
 ## The Greatest Port of Morvind

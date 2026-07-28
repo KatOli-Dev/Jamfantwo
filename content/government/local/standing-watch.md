@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Standing Watch
+description: "The company of frontier watchmen maintaining beacons and border patrols in the northern reaches of Aethelar, holding the duty of the watch across the towers and passes of the Northern Marches."
 ---
 
 ## The Body of Frontier Watchmen

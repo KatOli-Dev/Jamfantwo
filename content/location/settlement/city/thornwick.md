@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thornwick
+description: "Thornwick is the oldest human settlement in the northern river valleys, its ancient walls and narrow streets bearing witness to centuries of agriculture and trade on the fertile alluvial plain."
 ---
 
 ## A Northern City of the Ancient River Valleys

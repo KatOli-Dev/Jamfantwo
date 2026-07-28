@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Freshwater Fish
+description: "The salmon, trout, pike, and perch of the rivers and lakes of Aethelar and Morvind, and the warm-water fish of Sahrana's Green Crescent, are the principal source of protein for inland settlements."
 ---
 
 ## The Fish of the Rivers and the Lakes

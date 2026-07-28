@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sael Pactguard
+description: "The commander of the collective force of the Vashari Pact, responsible for securing the caravan routes across the Kharesh and defending the inland cities from raiders."
 ---
 
 ## The Captain of the Pact Guard

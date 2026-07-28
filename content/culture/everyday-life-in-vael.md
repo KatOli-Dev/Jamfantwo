@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Everyday Life in Vael
+description: "The daily round of the Vael river valley, where farming, fishing, and village craftwork follow the cycles of the river and the turning of the agricultural year."
 ---
 
 ## The Rhythm of the River Valley

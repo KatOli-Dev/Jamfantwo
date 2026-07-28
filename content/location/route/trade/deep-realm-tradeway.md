@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deep Realm Tradeway
+description: "The principal road through Aethelar's mountain spine connects the underground halls of Karhold to the lowland markets, carrying dwarven metalwork and ore outward and necessities inward."
 ---
 
 ## Principal Road Through the Mountain Spine

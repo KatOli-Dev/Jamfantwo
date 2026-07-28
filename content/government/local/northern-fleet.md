@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Fleet
+description: "The standing fleet of the Nordhaven kingdom, guardian of the Stormfall Sea trade and the most formidable naval force in northern waters, commanded by an admiral appointed by the king."
 ---
 
 ## The Standing Fleet of the Nordhaven Kingdom

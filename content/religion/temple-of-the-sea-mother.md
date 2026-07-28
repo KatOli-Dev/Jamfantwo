@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Temple of the Sea Mother
+description: "The Temple of the Sea Mother in Khalisar is the principal house of worship of the maritime deity, a complex of halls and chapels along the waterfront where rites and offerings are conducted."
 ---
 
 ## The Great Temple of the Warm Coasts

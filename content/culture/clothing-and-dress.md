@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Clothing and Dress
+description: "The materials and styles of dress across the known world, from the wool and linen of the Vael valley to the leather and beadwork of the plains and the woven cloth of the dwarven halls."
 ---
 
 ## The Necessity and the Art

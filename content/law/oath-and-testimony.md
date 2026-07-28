@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Oath and Testimony"
+description: "The forms and consequences of oath-taking across the known world, from the salt oath of the Kharesh Tribes to the river oath of Vael, and the severe penalties for perjury."
 ---
 
 ## The Binding Power of the Spoken Word

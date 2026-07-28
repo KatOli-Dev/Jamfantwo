@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plains' High Days
+description: "The summer cycle of festivals when the peoples of the Great Grass Plains gather for council, horse fairs, and the ceremonial hunt of the thunder boar."
 ---
 
 ## The Summer Cycle of the Grasslands

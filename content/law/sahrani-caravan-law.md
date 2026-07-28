@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sahrani Caravan Law"
+description: "The customary and written law governing desert caravans across Sahrana, the rights of caravan masters, guides, and merchants, and the code of hospitality that protects travellers on the trade routes."
 ---
 
 ## The Law of the Desert Routes

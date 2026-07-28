@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chroniclers' College
+description: "The principal historiographical institution of the Auric Isles, maintaining the central archives and chronicles of the confederation under the authority of the high chronicler."
 ---
 
 ## The Keeper of the Confederation's Memory

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Finnian Brackenford
+description: "The halfling merchant who built the permanent market at Brackenford, creating the principal point of exchange between the lowland peoples and the dwarven communities of the mountain spine."
 ---
 
 ## The Merchant Who Built the Market

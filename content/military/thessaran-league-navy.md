@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Thessaran League Navy"
+description: "The combined fleet of the Thessaran League, a force of swift galleys drawn from the member cities of the Greater Inland Sea, bound by the principle of mutual defence against pirates and marauders."
 ---
 
 ## A League of Ships

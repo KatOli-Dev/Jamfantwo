@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sunfire Steppe
+description: "The sun-baked grassland east of the Stonespire, where pastoralists follow their flocks in a seasonal pattern unchanged since the Founding Era beneath the harsh summer light."
 ---
 
 ## Sun-Baked Grassland East of the High Stone

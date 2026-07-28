@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Plague
+description: "A severe epidemic that swept the coastal regions of Sahrana in the middle period of the present age, distinct from the Stone Plague but sharing features in its spread and impact upon the population."
 ---
 
 ## The Sickness That Devastated the Desert Coast

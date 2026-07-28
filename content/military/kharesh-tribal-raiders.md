@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Kharesh Tribal Raiders"
+description: "The raiding tradition of the Kharesh Tribes, where young warriors prove their worth through raids that serve as both rite and economic necessity in a land of scarce resources."
 ---
 
 ## The Raiding Tradition

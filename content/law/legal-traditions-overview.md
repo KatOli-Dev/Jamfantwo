@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Legal Traditions"
+description: "The three great legal traditions of the known world: the codified law of settled kingdoms, the customary oral law of nomadic peoples, and the mixed tradition of confederations and leagues."
 ---
 
 ## Foundations of Law Across the Known World

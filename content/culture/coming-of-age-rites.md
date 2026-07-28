@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coming of Age Rites
+description: "The ceremonies marking the transition from childhood to adulthood across the cultures of the known world, from the Vaelic rite of the Still Flame to the centaur First Hunt and the dwarven binding."
 ---
 
 ## The Threshold of Adulthood

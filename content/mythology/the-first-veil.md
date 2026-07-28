@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The First Veil
+description: "The Sunless Veils teach that the world was once covered by a great veil hiding true reality, and the first lifting of that veil revealed the truth that no written text can capture."
 ---
 
 ## The Uncovering of the Hidden

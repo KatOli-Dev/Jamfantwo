@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Wastes
+description: "The unmapped deep interior of Sahrana beyond the caravan routes, where the nomads of the Kharesh Tribes navigate shifting dunes, salt flats, and rocky uplands."
 ---
 
 ## The Deep and Unmapped Interior of Sahrana

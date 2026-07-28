@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Amurra Republic Legion"
+description: "The legion of the Amurra Republic, the largest standing army in the south of Aethelar, where every citizen serves six years in defence of the Republic that grants his rights and protects his property."
 ---
 
 ## The Citizen Soldier

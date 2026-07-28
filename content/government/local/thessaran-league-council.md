@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran League Council
+description: "The governing body of the Thessaran League, coordinating trade, navigation, and defence among the eastern Aethelar port cities through representatives from each member city."
 ---
 
 ## The Governing Body of the Eastern Port Confederation

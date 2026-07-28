@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grey Coast Holdings
+description: "An alliance of the western Aethelar fishing and whaling towns, united by their dependence on the Greyring Ocean and co-operating on trade, navigation, and defence."
 ---
 
 ## An Alliance of the Western Fishing and Whaling Towns

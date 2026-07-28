@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Source
+description: "Resonance is the principle by which like acts upon like, the source from which the Art draws. The practitioner walks the paths of sympathy between patterns, bound by the order they did not make."
 ---
 
 ## The Principle from Which the Art Draws

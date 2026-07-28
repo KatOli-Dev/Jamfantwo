@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "White Harbour"
+description: "White Harbour is the principal port of the northern Aethelaran coast, its deep estuary sheltered by pale limestone cliffs serving as the seat of the Northern Coast League and the gateway to the."
 ---
 
 ## A Major Port on the Northern Coast of Aethelar

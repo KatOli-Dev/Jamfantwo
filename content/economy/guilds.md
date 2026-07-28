@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guilds and Trades
+description: "The institutions by which merchants and craftsmen regulate their trades, maintain standards, and protect their common interests, chartered by the sovereign or council of each city."
 ---
 
 ## The Institutions of Trade and Craft

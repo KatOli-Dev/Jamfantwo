@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim
+description: "The greatest dwarven hall of Morvind, Stoneheim is carved into living rock for miles, its legendary forges and mines producing the finest metalwork in the known world from the depths beneath the."
 ---
 
 ## The Greatest Dwarven Hall of Morvind

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Iron Hills"
+description: "The eastern foothills of the Crown Range, where seams of high-quality iron ore have supported mines, smelters, and forges that supply the industries of lowland Aethelar."
 ---
 
 ## A Hilly Region Rich in Iron Ore

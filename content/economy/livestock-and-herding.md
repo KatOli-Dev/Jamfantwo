@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Livestock and Herding
+description: "Cattle, sheep, goats, pigs, and horses kept by ranchers, herders, and the centaur kindreds, providing meat, milk, wool, leather, and draught power across every settled region."
 ---
 
 ## The Keeping of Beasts for Use and Sustenance

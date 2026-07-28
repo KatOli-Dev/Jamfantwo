@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lian Greywash
+description: "A river pilot of the Greywash whose unmatched knowledge of the currents, shallows, and hazards of the great watercourse makes him the most respected pilot on the Morvind coast."
 ---
 
 ## The Pilot of the River

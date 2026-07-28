@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Peace of the Three Banners
+description: "The treaty that concluded the Three-Banners War, establishing the council of the three confederations to regulate the grazing of the central grasslands and ending the most destructive conflict the."
 ---
 
 ## The Treaty That Ended the Great Plains War

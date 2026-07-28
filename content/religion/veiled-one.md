@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Veiled One
+description: "The Veiled One is the stillness beyond the last veil, the divine reality toward which the Sunless Veils aspire, a presence that cannot be described in the language of the bright world."
 ---
 
 ## The Stillness Beyond the Last Veil

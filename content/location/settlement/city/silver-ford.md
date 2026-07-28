@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Silver Ford"
+description: "Silver Ford takes its name from the pale stone riverbed gleaming beneath the waters of the Greywash, a crossing that has grown into a prosperous market town serving the trade of the middle valley."
 ---
 
 ## A City on the Greywash River

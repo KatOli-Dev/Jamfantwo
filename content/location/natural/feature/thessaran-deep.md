@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran Deep
+description: "A long, narrow trench off the southern coast of Thessara whose cold upwelling drives the most productive fisheries of the warm sea, marked by floating stone buoys and watched by pilots who read the."
 ---
 
 ## The Trench That Feeds the Southern Fisheries

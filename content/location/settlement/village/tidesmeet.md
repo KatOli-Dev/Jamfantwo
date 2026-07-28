@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tidesmeet
+description: "A settlement on a volcanic island where two oceanic currents converge in the Auric Ocean, Tidesmeet is the primary harbour and resupply point for vessels crossing between Aethelar and Sahrana."
 ---
 
 ## A Settlement on a Volcanic Island in the Auric Ocean

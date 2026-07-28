@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Manticore
+description: "One of the great monstrosities of the rocky country, the manticore bears a maned head and leonine body and hunts with a tail that discharges spines with force sufficient to penetrate a horse."
 ---
 
 ## Monstrosity of the Rocky Country

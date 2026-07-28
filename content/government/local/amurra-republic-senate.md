@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amurra Republic Senate
+description: "The merchant council governing the wealthy port city-state of Amurra, representing the spice-trading families who control the city's economy and its northern Sahrana trade routes."
 ---
 
 ## The Governing Council of the Spice Port

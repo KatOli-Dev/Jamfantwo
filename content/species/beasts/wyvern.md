@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wyvern
+description: "The winged reptile of coastal cliffs and inland marshes, the wyvern is a distant kinsman of the dragon and a familiar hazard to fishermen and reed-cutters across the three continents."
 ---
 
 ## The Winged Reptile of Cliffs and Marshes

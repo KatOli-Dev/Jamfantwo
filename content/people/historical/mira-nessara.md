@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mira Nessara
+description: "The healer who led the response to the Stone Plague in Nessara, whose meticulous records of cases and remedies became the foundation of the present understanding of the disease."
 ---
 
 ## The Healer Who Faced the Stone Plague

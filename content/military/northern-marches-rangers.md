@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Northern Marches Rangers"
+description: "The rangers of the Northern Marches, woodsmen and trackers who patrol the deep forests in small bands, serving as the eyes and first line of defence for the isolated settlements of the realm."
 ---
 
 ## The Guardians of the Wilderness

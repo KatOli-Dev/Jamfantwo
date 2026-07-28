@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mill Cross"
+description: "A market town at a crossing of the River Mill, Mill Cross stands where eastern lowland and southern hill roads converge. The mill has ground grain for the surrounding farms for centuries."
 ---
 
 ## A Market Town at a River Crossing

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Pinehold"
+description: "A timber town at the edge of the Aethelar Heartwood, Pinehold is the centre of logging and woodworking in the central highlands. Its sawmills and timber yards supply markets across the continent."
 ---
 
 ## A Timber Town at the Edge of the Aethelar Heartwood

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Avaros
+description: "The agricultural heart of the Aethelaran grasslands, Avaros feeds a continent from its vast granaries and stockyards, where settled farmers and centaur herders exchange the bounty of the deep-soiled."
 ---
 
 ## Agricultural Heart of the Central Grasslands

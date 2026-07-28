@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grey Coast
+description: "The western seaboard of Aethelar facing the Greyring Ocean, where a confederation of port towns and fishing villages maintain independence through maritime skill and mutual co-operation."
 ---
 
 ## The Western Seaboard of Aethelar

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Iron Ridge"
+description: "A mining town of the Stoneheim Highlands, Iron Ridge stands on iron-rich rock that feeds the dwarven realm's forges. The mines and smelters sustain a company town owned by the mining guild."
 ---
 
 ## A Mining Town in the Stoneheim Highlands

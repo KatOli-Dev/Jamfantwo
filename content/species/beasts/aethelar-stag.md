@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aethelar Stag
+description: "The largest deer in the known world, the Aethelar stag is the noblest beast of the chase in the central kingdoms, its antlers adorning the halls of kings and its hunt governed by the most elaborate."
 ---
 
 ## The Great Deer of Aethelar

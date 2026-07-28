@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Laying the Stone Roads
+description: "The construction of a continuous network of paved roads across the inland valleys and the Stoneheim Highlands, financed by transit fees and undertaken by the magistrates over more than a century."
 ---
 
 ## Paved Roads Across the Highlands and Valleys

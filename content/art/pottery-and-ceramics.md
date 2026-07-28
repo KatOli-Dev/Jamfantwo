@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Pottery and Ceramics"
+description: "The shaping and firing of clay into vessels, from the wheel-thrown ware of Nessara to the vitrified stoneware of the dwarven holds and the coiled pottery of the plains."
 ---
 
 ## The Transformation of Clay

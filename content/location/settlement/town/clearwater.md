@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Clearwater"
+description: "A farming town on the Clearwater tributary of the River Vael, Clearwater is known for its pure stream and quality grain. The weekly market draws farmers from across the fertile valley."
 ---
 
 ## A Farming Town in the Vael Tributaries

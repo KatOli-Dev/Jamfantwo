@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pasture and Fodder Plants
+description: "The spear grass of the Great Grass Plains, the clovers of improved pastures, and the alpine meadows of Morvind sustain the herds that underpin the livestock economy of all three continents."
 ---
 
 ## The Grasses That Sustain the Herds

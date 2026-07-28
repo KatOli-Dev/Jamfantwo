@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Thessaran Merchant Courts"
+description: "The commercial courts of the Thessaran League, where experienced merchant judges resolve disputes swiftly through a hierarchy of local, regional, and league courts, applying the customs of trade."
 ---
 
 ## The Commercial Justice of the Eastern Ports

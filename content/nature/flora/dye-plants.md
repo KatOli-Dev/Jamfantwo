@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dye Plants
+description: "Madder red, woad blue, indigo of Sahrana, and the kermes crimson of the high priests \u2014 the dye plants transform plain cloth into garments that mark station and origin across the three continents."
 ---
 
 ## The Colours of the Known World

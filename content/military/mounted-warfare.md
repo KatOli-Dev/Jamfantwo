@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mounted Warfare"
+description: "The use of horses in war across the known world and the realms built around the mounted warrior, from the light skirmishers of Sahrana to the armoured lancers of Aethelar."
 ---
 
 ## The Horse in War

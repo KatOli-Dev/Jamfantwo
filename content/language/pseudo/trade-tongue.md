@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trade Tongue
+description: "Hand signals of the great marketplaces, used by merchants of every nation to negotiate prices and terms across the noise of crowded bazaars and the barriers of many languages."
 ---
 
 ## Hand Signals of the Marketplace

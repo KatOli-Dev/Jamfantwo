@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caerhaven
+description: "The easternmost Aethelaran settlement of the Velden Strait, Caerhaven is a staging point for vessels entering the Auric Ocean. Its anchorage and pilot families sustain a prosperous community."
 ---
 
 ## The Easternmost Aethelaran Settlement of the Strait

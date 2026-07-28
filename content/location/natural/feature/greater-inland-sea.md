@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greater Inland Sea
+description: "The largest body of fresh water in the far south of Sahrana, central feature of the Southern Reach, whose calm waters support a network of boat routes connecting Vereth and the lakeside communities."
 ---
 
 ## Largest Fresh Water of the Far South

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Memory Houses
+description: "The Memory Houses are the quiet establishments of the song-half of the Shield and Song, where singers keep local songs and traditions and maintain the memory of the communities they serve."
 ---
 
 ## The Establishments of the Song-Half

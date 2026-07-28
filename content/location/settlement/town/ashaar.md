@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ashaar
+description: "The southernmost settlement of the Southern Reach, Ashaar lies on the Lesser Inland Sea. Its fertile fields and fisheries sustain a self-sufficient community far from the northern caravan routes."
 ---
 
 ## The Southernmost Settlement of the Southern Reach

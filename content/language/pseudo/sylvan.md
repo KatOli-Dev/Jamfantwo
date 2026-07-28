@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sylvan
+description: "Bird calls, wood knocks, and leaf rustles by which the elves of Aethelar and Morvind communicate through deep woodland without the spoken voice."
 ---
 
 ## Forest Signals

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh
+description: "The vast desert interior of Sahrana, a land of shifting erg dunes and rocky uplands where nomads and caravans follow ancient routes between hidden oases, carrying salt, spices, and rare dyes to the."
 ---
 
 ## A Great Emptiness Far from Empty

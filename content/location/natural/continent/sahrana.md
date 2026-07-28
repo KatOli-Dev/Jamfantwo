@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrana
+description: "The southernmost continent, where fertile coastal city-states face a warm sea while the great Kharesh desert stretches inland toward remote highlands and the inland seas of the Southern Reach."
 ---
 
 ## The Southernmost Continent

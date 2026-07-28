@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greyring Whale
+description: "The largest cetacean of the cold western ocean, the Greyring whale filters krill through its baleen and sustains a centuries-old fishery conducted from the ports of the western Aethelaran coast."
 ---
 
 ## The Great Baleen Whale of the Western Ocean

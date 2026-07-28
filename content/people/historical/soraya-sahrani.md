@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Soraya Sahrani
+description: "Poet and navigator of Khalisar whose cycles of verse celebrate the harbours and sea of the Sahrani coast, and whose Pilot's Companion charted the waters of the Auric Ocean."
 ---
 
 ## The Poet and Navigator of the Coast

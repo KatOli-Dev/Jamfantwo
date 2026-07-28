@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dustford
+description: "A southern river town at the grasslands' edge, Dustford marks the last reliable ford before the river enters the arid Emberlands. Caravans between plains and dry country provision here."
 ---
 
 ## A Southern River Town at the Edge of the Grasslands

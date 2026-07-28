@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fishing and Whaling
+description: "The harvest of herring, cod, mackerel, tuna, and great whales from the Greyring and Auric Oceans, sustaining coastal communities from Morvind to the shores of Sahrana."
 ---
 
 ## The Harvest of the Seas

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kameni
+description: "The precise stonemason's tongue of the Aethelar mountain spine, spoken in the Stoneheim Highlands and trade towns, rich in words for metal, stone, and the craft of the guilds."
 ---
 
 ## About Kameni

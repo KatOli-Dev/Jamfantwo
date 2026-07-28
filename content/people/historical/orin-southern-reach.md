@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Orin of the Southern Reach
+description: "The scholar and cartographer who charted the Greater Inland Sea and the southern coast of Sahrana, establishing the systematic methods that transformed the practice of cartography."
 ---
 
 ## The Scholar Who Mapped the Southern Seas

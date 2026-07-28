@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brewing and Distilling
+description: "The brewing of ale and beer from grain, the fermentation of wine from grapes, and the distilling of spirits, trades regulated by the guilds of every city."
 ---
 
 ## The Production of Fermented and Distilled Beverages

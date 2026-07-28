@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Owlbear
+description: "A great monstrosity of the deep forest bearing the horned head of an owl upon the heavy body of a bear, the owlbear is an ambush predator held in singular dread by foresters of the three continents."
 ---
 
 ## Monstrosity of the Deep Forest

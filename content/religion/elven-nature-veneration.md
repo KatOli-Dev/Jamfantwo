@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Elven Nature Veneration
+description: "The elven peoples venerate forests, waters, and woodland creatures as manifestations of the divine, a spiritual way of being rather than a formal religion of temples and priests."
 ---
 
 ## The Spiritual Life of the Forest Peoples

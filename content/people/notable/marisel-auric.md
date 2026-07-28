@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Marisel Auric
+description: "The chief chronicler of the Auric Isles confederation, keeper of the archives who published a comprehensive multi-volume history that is the standard reference for maritime history."
 ---
 
 ## The High Chronicler of the Auric Isles

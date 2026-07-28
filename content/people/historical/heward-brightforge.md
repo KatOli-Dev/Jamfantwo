@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Heward Brightforge
+description: "The semi-legendary founder of the hill smiths' tradition, remembered for establishing the discipline of the forge fire and the patient tending of the flame that defines the Forged Flame."
 ---
 
 ## The Founder Remembered by Title Alone

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vintner's Bridge Toll
+description: "A toll-house and watchpost at the great bridge crossing the Vintner's Vale, collecting the modest levy that funds upkeep of the road and arches maintained by the Vintners and Cellarers."
 ---
 
 ## A Toll-House at the Crossing of the Vintner's Vale

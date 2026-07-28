@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormfall Sea Legends
+description: "Sailors and fishermen of the northern coasts tell of the Serpent of the Deeps, vanishing islands, ghost ships, and dancing lights that haunt the treacherous waters of the Stormfall Sea."
 ---
 
 ## The Waters That Connect the North

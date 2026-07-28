@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Harbour Accord
+description: "The agreement that extended the principles of the Twin-Reaches Peace to the maritime trade passing through the Velden Strait, establishing harbour fees, navigation rules, and an office of maritime."
 ---
 
 ## The Agreement with the Velden Strait Ports

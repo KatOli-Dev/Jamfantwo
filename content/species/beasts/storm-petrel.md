@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Storm Petrel
+description: "The most numerous seabird of the Stormfall Sea, the storm petrel is a small dark bird whose pattering flight upon the surface is held by mariners as a herald of approaching weather."
 ---
 
 ## The Small Dark Seabird of the Stormfall Sea

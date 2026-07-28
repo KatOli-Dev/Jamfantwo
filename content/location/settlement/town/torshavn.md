@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Torshavn
+description: "A southeastern Morvind port near the Velden Strait, Torshavn serves vessels approaching or leaving the passage. Warm Auric and cold Stormfall waters create rich fishing grounds off its coast."
 ---
 
 ## A Southeastern Morvind Port Near the Strait

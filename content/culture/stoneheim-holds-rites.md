@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Holds Rites
+description: "The cycle of seasonal observances in the dwarven mountain halls, marking the opening of new workings, the reaching of mineral veins, and the renewal of gallery supports."
 ---
 
 ## The Dwarven Seasonal Cycle

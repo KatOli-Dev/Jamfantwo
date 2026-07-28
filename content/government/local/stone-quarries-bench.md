@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stone Quarries' Bench
+description: "The standing body regulating the quarries of the southern Morvind flank, keeping stone standards and adjudicating disputes among quarrymen, masons, and merchants of the region."
 ---
 
 ## The Standing Body of Master Masons and Quarrymen

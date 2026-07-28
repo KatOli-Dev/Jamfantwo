@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Fortifications and Siegecraft"
+description: "The art of defence and the science of siege across the known world, from the dwarf-hewn walls of Stoneheim to the wooden palisades of the Northern Marches, and the engineers who build and break them."
 ---
 
 ## The Art of Defence

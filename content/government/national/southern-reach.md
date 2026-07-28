@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Southern Reach
+description: "Federation of communities inhabiting the fertile highlands and inland seas beyond the Kharesh desert. Its council at Vereth manages water resources and trade with the north."
 ---
 
 ## Federation of the Far Southern Highlands

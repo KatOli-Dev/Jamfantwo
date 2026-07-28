@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Orin Aldmere
+description: "The elusive founder of the Reading Cloisters, a court scholar who withdrew from royal service to establish the discipline of nouns and the long reading of sacred texts."
 ---
 
 ## The Founder without a Personal Name

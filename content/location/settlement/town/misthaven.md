@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Misthaven
+description: "A western port on the Greyring Ocean shrouded by persistent fog, Misthaven navigates by the sound of bells and horns. The fog that conceals the harbour is regarded by the people as a guardian."
 ---
 
 ## A Western Port Shrouded by Persistent Fog

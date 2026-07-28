@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Khari
+description: "The economical desert speech of the Kharesh interior, spoken by caravan tribes and oasis communities, rich in words for sand, wind, stars, and the patient business of the long crossing."
 ---
 
 ## Khari in Brief

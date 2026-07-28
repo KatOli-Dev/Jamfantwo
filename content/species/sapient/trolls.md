@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trolls
+description: "The largest sapient people save the giants, bound to the deep places of the world. Their remains are found in the deepest cave layers, often beneath the oldest dwarven workings."
 ---
 
 ## Deep-Bound Denizens of Mountain and Forest

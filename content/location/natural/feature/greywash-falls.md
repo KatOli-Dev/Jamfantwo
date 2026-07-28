@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greywash Falls
+description: "A series of cascades where the Greywash descends from the Vintner's Vale in three principal drops, powering mills that produce the flour of the lower river and supporting a salmon and trout fishery."
 ---
 
 ## Cascades, Mills, and the Flour of the Lower River

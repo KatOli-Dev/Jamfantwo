@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Winter Telling
+description: "The principal cultural observance of the Frostwall Clans, when families gather around the hearth through the deepest winter to tell the stories of the ancestors and preserve the clan memory."
 ---
 
 ## The Season of the Ancestral Stories

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hafnir
+description: "Hafnir serves as the Morvind-side port of the Velden Strait, its licensed pilots and transit warehouses supporting the vessels that navigate the narrow passage between the Stormfall Sea and the Auric."
 ---
 
 ## Morvind-Side Port at the Strait

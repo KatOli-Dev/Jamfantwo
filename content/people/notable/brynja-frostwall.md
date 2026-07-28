@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brynja Frostwall
+description: "The chieftain of the dwarven Frostwall Clans, responsible for the defence of the deep interior passes against the war bands that threaten the most remote region of Morvind."
 ---
 
 ## The Chieftain of the Frostwall Clans

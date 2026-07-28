@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Salt
+description: "Salt production along the Sahrani coast, regulated by the Sahrani Salt Court, supplying the preservative essential to every household and industry across the three continents."
 ---
 
 ## The White Gold of the Sahrani Coast

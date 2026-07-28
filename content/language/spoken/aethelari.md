@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aethelari
+description: "The flexible common tongue of the Aethelar heartland, spoken in markets and council chambers across the river valleys, and the second language of every species trading in the central plains."
 ---
 
 ## Aethelari and Its Domain

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Childhood and Education
+description: "The rearing and teaching of children across the known world, from the farm work and temple lessons of the Vael valley to the campfire education of the plains and the apprenticeships of the dwarven."
 ---
 
 ## The Beginnings of Life

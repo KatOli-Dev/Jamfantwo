@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vael
+description: "Old and prosperous human kingdom of the great River Vael valley in Aethelar. Its capital Vaelmouth commands river trade, and its grain exports make it a rival to Aldreth."
 ---
 
 ## Kingdom of the Great River Valley

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Durnin Deepdelver
+description: "A dwarven explorer of the deep caves beneath the mountains of Morvind whose systematic expeditions have pushed the boundaries of the known subterranean world further than any before."
 ---
 
 ## The Explorer of the Depths

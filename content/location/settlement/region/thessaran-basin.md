@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran Basin
+description: "The fertile lowlands of eastern Aethelar drained by great rivers flowing to the Auric Ocean, where the grain and wool of the interior sustain the ports of the Thessaran League."
 ---
 
 ## The Fertile Lowlands of the Eastern Aethelaran Interior

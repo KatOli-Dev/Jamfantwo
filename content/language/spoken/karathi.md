@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Karathi
+description: "The resonant speech of the Morvind interior highlands, spoken in the great dwarven halls and highland valleys, rich in words for stone and forged metal, and the common medium of the mountain trade."
 ---
 
 ## Karathi Explained

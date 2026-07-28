@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Bridge of Starlight
+description: "Mountain peoples tell of a bridge woven from starlight that once connected the highest peaks, allowing the exchange of knowledge and songs before its destruction left the valleys isolated."
 ---
 
 ## The Connection Between the Mountains

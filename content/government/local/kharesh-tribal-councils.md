@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Tribal Councils
+description: "The flexible governing bodies of the Kharesh nomadic confederation, coordinating movement across the desert, managing water sources and grazing lands, and regulating the caravan trade."
 ---
 
 ## The Councils of the Desert Nomads

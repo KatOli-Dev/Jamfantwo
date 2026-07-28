@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vintner's Vale
+description: "The sheltered trough descending from the Morvind Uplands where vineyards and orchards have supplied the wines of the cold north since the Founding Era, held in particular esteem by the merchants of."
 ---
 
 ## Sheltered Trough of the Greywash Headwaters

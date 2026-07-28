@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Healing and Restoration
+description: "The mending of living patterns is among the most demanding disciplines of the Art, for living things resist reading and reshaping with a vigour that dead matter does not."
 ---
 
 ## The Art Applied to the Mending of Pattern

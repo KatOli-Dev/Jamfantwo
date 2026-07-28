@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Torvin Ironhand
+description: "The most renowned smith of the dwarven people, whose legendary blades Stormrend and Dawn's Edge set the standard of metalwork that smiths of every continent still measure their craft against."
 ---
 
 ## The Smith of Legend

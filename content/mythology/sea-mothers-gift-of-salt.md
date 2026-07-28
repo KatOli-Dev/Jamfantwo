@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Sea Mother's Gift of Salt
+description: "The Sahrani tell how the Sea Mother wept and her salt tears became the sea, and she taught the first people to gather salt from the flats for preservation, healing, and hospitality."
 ---
 
 ## The Tears That Became the Sea

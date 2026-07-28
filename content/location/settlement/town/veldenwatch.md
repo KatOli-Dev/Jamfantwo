@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Veldenwatch
+description: "Veldenwatch is the Morvind-side town of the Velden Strait, commanding the northern approach between Stormfall Sea and Auric Ocean. Its pilotage guild trains navigators for the treacherous waters."
 ---
 
 ## The Morvind-Side Town of the Velden Strait

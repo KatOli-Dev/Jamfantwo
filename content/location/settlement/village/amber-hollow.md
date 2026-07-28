@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amber Hollow
+description: "A settlement in the wooded foothills of the Stoneheim Highlands, Amber Hollow serves caravans travelling between the dwarven halls of Stoneheim and the human settlements of western Morvind."
 ---
 
 ## A Small Settlement in the Wooded Foothills

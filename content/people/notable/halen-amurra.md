@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Halen Amurra
+description: "The magister of the Amurran Academy and foremost authority on Tide-Reading and Spherical Cartography, author of treatises that guide navigators across the Auric Ocean."
 ---
 
 ## The Magister of the Amurran Academy

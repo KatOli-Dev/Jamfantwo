@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eldreth
+description: "The wealthiest city of the eastern coast, Eldreth is the commercial heart of the known world, its deep harbour and banking houses connecting Aethelar to Sahrana and the islands through a vast."
 ---
 
 ## Wealthiest Port on the Eastern Coast

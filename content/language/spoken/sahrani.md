@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani
+description: "The elegant coastal tongue of northern Sahrana, spoken in the port-cities and bazaars, rich in words for spice, dye, and woven cloth, and the medium of the Auric trade."
 ---
 
 ## Sahrani Introduced

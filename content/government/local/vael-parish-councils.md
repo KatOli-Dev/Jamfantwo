@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vael Parish Councils
+description: "The local governing bodies of the River Vael communities, maintaining the river and its banks, administering local justice, and managing common lands under the authority of the Vael crown."
 ---
 
 ## The Local Administration of the River Communities

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coldmoor
+description: "A settlement on the cold steppes of Morvind, Coldmoor is the only permanent community in the region, its people sustaining herds on the hardy grassland and maintaining routes across the open country."
 ---
 
 ## A Settlement on the Cold Steppes of Morvind

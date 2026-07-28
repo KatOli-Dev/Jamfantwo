@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Population
+description: "A survey of the sapient species dwelling across the known world, from the common peoples to the rarest inhabitants of mountain peak, deep cavern, and ocean floor."
 ---
 
 ## A Survey of Sapient Species

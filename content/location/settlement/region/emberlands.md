@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Emberlands
+description: "The warm, dry frontier of southern Aethelar, where red-stone badlands and scrub country are crossed by caravan roads linking well-towns and mining camps to the settled plains."
 ---
 
 ## The Warm, Dry Frontier of Southern Aethelar

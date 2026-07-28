@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Coast Bell Codes
+description: "Bell strokes sounded from fishing boats and town towers along the northern coast of Sahrana to signal nets, catches, tides, storms, and harbour movements."
 ---
 
 ## Bell Signalling on the Coast

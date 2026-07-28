@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Banking and Credit
+description: "The counting houses of merchant families and the vaults of guilds that provide credit, safekeeping of silver, and bills of exchange to sustain commerce across the three continents."
 ---
 
 ## The Arrangements of Silver and Trust

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sands' Assembly
+description: "The great gathering of the Kharesh tribes at a designated oasis, where the council of elders resolves disputes over water and grazing and plans the management of the desert."
 ---
 
 ## The Council at the Oasis

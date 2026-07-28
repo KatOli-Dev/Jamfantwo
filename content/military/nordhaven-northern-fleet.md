@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Nordhaven Northern Fleet"
+description: "The Northern Fleet of Nordhaven, built to withstand storms and shifting ice in the northern Stormfall Sea, guards the sea-lanes to Morvind and the realm's northern fishing grounds."
 ---
 
 ## The Northern Seas

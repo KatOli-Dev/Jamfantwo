@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Confederation Plains
+description: "The vast central grasslands of Aethelar, where the Plains Confederation reconciles settled farmers with the nomadic centaur kindreds following the herds across open horizons."
 ---
 
 ## The Vast Grasslands of Central Aethelar

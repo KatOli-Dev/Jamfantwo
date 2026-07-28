@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crown Range
+description: "The crescent highlands forming the spine and watershed of Thessara, whose stair-stepped plateaus, high meadows, and ancient limestone basin carry the road between coasts through passes watched by."
 ---
 
 ## The Crescent Highlands of Thessara

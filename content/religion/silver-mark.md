@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Silver Mark
+description: "The Silver Mark is the tradition of commercial faith practised by merchants and assayers, holding that honest measure and just weight are the foundation of fair trade pleasing to the divine."
 ---
 
 ## The Faith of the Honest Scale

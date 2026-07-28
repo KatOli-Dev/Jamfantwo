@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Heartwood March"
+description: "The shifting borderland between the Aethelar Heartwood and the settled farmlands, where timber, charcoal, and the crafts of the forest sustain villages at the edge of the woodland."
 ---
 
 ## The Border Region Between the Heartwood and Settled Lands

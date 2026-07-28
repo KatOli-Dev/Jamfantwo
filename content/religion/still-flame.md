@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Still Flame
+description: "The Still Flame is a practical tradition that teaches the flame upon the hearth, the warmth of the body, and the light of the sun are all of one nature, honoured by tending rather than by explaining."
 ---
 
 ## The Faith That Keeps the Hearth

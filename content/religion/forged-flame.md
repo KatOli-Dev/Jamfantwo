@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Forged Flame
+description: "The Forged Flame is a tradition of workshop devotion among smiths and craftspeople, centred upon the understanding that the fire of the forge is a sacred presence and making is a form of devotion."
 ---
 
 ## The Fire of the Workshop

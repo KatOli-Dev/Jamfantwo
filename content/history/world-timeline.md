@@ -1,6 +1,7 @@
 ---
 layout: default
 title: World Timeline
+description: "A compilation of the major events of recorded history from the earliest period to the present day, constructed from the chronicles of the various nations and peoples of the three continents."
 ---
 
 ## Compilation of Recorded Events

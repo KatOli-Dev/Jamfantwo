@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormic
+description: "The thunderback speech of Stormfall, spoken in the dark fjords and highland valleys, suited to the description of storms, mountains, and the long western maritime trade."
 ---
 
 ## Stormic Described

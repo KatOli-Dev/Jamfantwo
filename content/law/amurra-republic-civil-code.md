@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Amurra Republic Civil Code"
+description: "The most systematic legal document in Sahrana, governing persons and family, property, contracts, inheritance, commercial practice, and the administration of justice in the Amurra Republic."
 ---
 
 ## The Systematic Law of the Spice Trade

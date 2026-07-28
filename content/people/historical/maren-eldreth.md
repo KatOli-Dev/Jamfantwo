@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maren Eldreth
+description: "The queen of Aldreth who established the Commercial Code of Eldreth, the first systematic body of commercial law governing contracts and maritime trade across the eastern coast."
 ---
 
 ## The Merchant-Queen of Aldreth

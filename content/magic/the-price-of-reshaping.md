@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Price of Reshaping
+description: "Every working of the Art exacts a cost from the practitioner, recorded in body and mind, in the subject's pattern, and in the space between them."
 ---
 
 ## The Costs That Every Practitioner Bears

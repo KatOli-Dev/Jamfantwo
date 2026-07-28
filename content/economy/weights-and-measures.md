@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Weights and Measures
+description: "The standards of weight, length, and volume by which goods are measured and valued in the markets, maintained by the guilds and magistrates of every city."
 ---
 
 ## The Standards by Which Value Is Determined

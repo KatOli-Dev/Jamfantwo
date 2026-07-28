@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Oren Greywash
+description: "The magistrate who negotiated the Greywash Compact, abolishing the multiplicity of river tolls and establishing a single transit fee that opened the Greywash to reliable trade."
 ---
 
 ## The Magistrate of the Greywash Compact

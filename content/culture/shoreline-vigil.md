@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shoreline Vigil
+description: "The autumn observance of the Stormfall Coast, when boats are drawn up before the gales, lanterns are lit upon the headlands, and the crews lost to the sea are remembered at the cairn."
 ---
 
 ## The Autumn Storm Season Observance

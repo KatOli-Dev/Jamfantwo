@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Iron-Backed Bear
+description: "The largest terrestrial predator of the Morvind Uplands, the iron-backed bear takes its name from the grey patch upon its shoulders and is held in wary respect by the dwarves of the mountain holds."
 ---
 
 ## Largest Terrestrial Predator of the Morvind Uplands

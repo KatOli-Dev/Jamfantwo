@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Death and Remembrance
+description: "Funerary customs and beliefs about the afterlife across the known world, from the earth burial of the Still Flame to the sea committal of the Deep Mourning and the stone entombment of the dwarves."
 ---
 
 ## The Final Passage

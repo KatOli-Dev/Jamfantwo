@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sera Ambervale
+description: "The unifier of the central lowlands who forged the warring principalities of the river valleys into the Vael, establishing its code of law and founding the city of Vaelmouth."
 ---
 
 ## The Unifier of the Central Lowlands

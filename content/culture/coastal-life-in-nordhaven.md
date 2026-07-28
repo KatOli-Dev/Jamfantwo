@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coastal Life in Nordhaven
+description: "Daily existence on the northern shores of the Stormfall Sea, where fishing fleets, whaling crews, and longhouse households endure the harsh rhythms of the northern climate."
 ---
 
 ## The Northern Shores

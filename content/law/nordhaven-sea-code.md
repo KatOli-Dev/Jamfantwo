@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Nordhaven Sea Code"
+description: "The maritime code governing salvage, collision liability, shipwreck, and the admiralty court of Nordhaven, whose provisions guide seafarers across the Stormfall Sea and beyond."
 ---
 
 ## The Maritime Law of the Stormfall Sea

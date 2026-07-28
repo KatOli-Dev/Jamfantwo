@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Veil Cloister
+description: "The Veil Cloister is the central house of the Sunless Veils in the inland valleys of Aethelar, a humble stone and timber building where the long discipline of the veils is sustained."
 ---
 
 ## The Central Establishment of the Sunless Veils

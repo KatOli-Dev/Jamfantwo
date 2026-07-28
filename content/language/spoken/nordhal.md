@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordhal
+description: "The direct harbour speech of the southern Nordheim coast, spoken in fishing towns and sheltered bays, rich in words for timber, boat, and the long-night customs of the north."
 ---
 
 ## Nordhal Outlined

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desert Nomad Life
+description: "Life among the Kharesh and Vashari tribes of the great deserts, where camel herds, woven tents, and the waters of distant wells define the rhythms of camp and caravan."
 ---
 
 ## The Deep Sands

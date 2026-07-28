@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostbeak
+description: "A settlement on a high plateau in the Morvind interior, Frostbeak is sustained by flocks of mountain sheep whose wool is prized throughout the continent for its warmth and softness."
 ---
 
 ## A Settlement on a High Plateau of the Morvind Interior

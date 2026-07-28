@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eldreth Library
+description: "Founded by Vaelen Eldreth himself, the library houses the original manuscript of the Known-World Codex and remains the principal repository of natural philosophy on the continent of Aethelar."
 ---
 
 ## The Great Repository of Natural Philosophy

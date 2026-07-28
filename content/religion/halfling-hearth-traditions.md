@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Halfling Hearth Traditions
+description: "The halfling communities of the lowland valleys maintain domestic spiritual practices centred upon the household, garden, and table, weaving reverence for home and family into daily rituals."
 ---
 
 ## The Domestic Spiritual Practices of the Lowland Valleys

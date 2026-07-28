@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vael Army"
+description: "The standing army of the river kingdom of Vael, founded by Halric Vael and shaped by the currents of the great river, a force built for rapid movement and the defence of its fortified crossings."
 ---
 
 ## Origin and Purpose

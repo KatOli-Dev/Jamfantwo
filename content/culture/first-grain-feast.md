@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First-Grain Feast
+description: "The late-summer agricultural observance in which the community elder cuts the first sheaf, leads the procession to the granary, and blesses the first loaves of the new harvest."
 ---
 
 ## The Harvest-Opening Celebration

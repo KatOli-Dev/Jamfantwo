@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharesh Mirage Legends
+description: "The mirages of the Kharesh are not mere illusions but the desert's memory, revealing visions of ancient rivers, lost cities, and truths that appear only to those worthy to see them."
 ---
 
 ## The Dancers of Light

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Strait
+description: "A narrow channel less than two miles wide at its narrowest, connecting the Auric Ocean to the Stormfall Sea between Morvind and Aethelar, where reversing currents demand the skill of specialist."
 ---
 
 ## The Narrows Gate Between Two Oceans

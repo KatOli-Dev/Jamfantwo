@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Karhold
+description: "The greatest dwarven city of the Aethelaran mountain spine, Karhold's granite halls extend for miles into the range, its forges and mines producing metalwork prized throughout the lowlands and beyond."
 ---
 
 ## Greatest Dwarven City of Aethelar

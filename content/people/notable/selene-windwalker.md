@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Selene Windwalker
+description: "An elven practitioner of the Sylvan Court whose knowledge of the ancient northern forests and skill as a mediator make her a trusted advisor between the elven communities and the Northern Marches."
 ---
 
 ## The Voice of the Sylvan Court

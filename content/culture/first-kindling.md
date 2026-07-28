@@ -1,6 +1,7 @@
 ---
 layout: default
 title: First Kindling
+description: "The winter festival of the Still Flame observed on the longest night, when the great bonfire is kindled and hearth fires throughout the community are lit anew for the season."
 ---
 
 ## The Festival of the Winter Fire

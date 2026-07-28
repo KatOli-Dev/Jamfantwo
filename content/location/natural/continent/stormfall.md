@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormfall
+description: "A storm-shaped land of the far west, where the Thunderback Range divides dark fjords from warm southern estuaries and every community builds for wind, weather, and the return of winter gales."
 ---
 
 ## A Storm-Shaped Continent

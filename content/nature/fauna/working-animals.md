@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Working Animals
+description: "The oxen, donkeys, and mules that carry loads, pull ploughs, and power mills are the foundation of agriculture, transport, and industry in every region of the known world."
 ---
 
 ## The Beasts of the Labour and the Burden

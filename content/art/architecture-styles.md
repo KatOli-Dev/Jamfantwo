@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Architecture"
+description: "The design and construction of buildings across the known world, from the rock-carved halls of the dwarven holds to the timber longhouses of the northern clans and the stone keeps of the southern."
 ---
 
 ## The Shaping of Shelter and Monument

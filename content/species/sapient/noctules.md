@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Noctules
+description: "Bat-like people of the deep caves, whose bodies are adapted for flight in total darkness. Their oral traditions are conveyed through high-frequency vocalisation unintelligible to other peoples."
 ---
 
 ## Bat-Like People of the Deep Caves

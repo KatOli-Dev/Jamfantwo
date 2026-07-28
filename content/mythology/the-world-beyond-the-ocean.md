@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The World Beyond the Ocean
+description: "Sailors and dreamers speak of lands beyond the ordinary voyager's reach where the laws of nature differ, including the Islands of the Blessed where worthy souls dwell in eternal spring."
 ---
 
 ## The Edge of the Known

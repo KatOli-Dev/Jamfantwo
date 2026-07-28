@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Centaurs
+description: "People of the central grasslands, combining a humanoid upper body with the lower form of a large quadruped. Their ancient trackways and ring-shaped encampments mark the plains of Aethelar."
 ---
 
 ## Children of the Plains

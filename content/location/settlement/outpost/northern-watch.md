@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Watch
+description: "A fortified settlement on a high ridge of the Northern Marches, Northern Watch observes the coast and the inland road, providing shelter and early warning for travellers between the interior and the."
 ---
 
 ## A Fortified Settlement on the Northern March Ridge

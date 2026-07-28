@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deep Mourning
+description: "The principal funeral rite of coastal communities, in which the bodies of those whose lives were bound to the sea are washed with salt water and committed to the deep waters."
 ---
 
 ## The Maritime Funeral Rite

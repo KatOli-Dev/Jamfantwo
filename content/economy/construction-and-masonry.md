@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Construction and Masonry
+description: "The trades of the mason and the carpenter who build dwellings, temples, fortifications, and infrastructure from stone, timber, brick, and lime across the three continents."
 ---
 
 ## The Building of the Works of Stone and Timber

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Long Winter
+description: "Three consecutive years of severe cold and prolonged snowfall that affected Aethelar and the neighbouring coasts of Sahrana and Morvind, causing widespread hardship and crop failures."
 ---
 
 ## The Year the Sun Dimmed

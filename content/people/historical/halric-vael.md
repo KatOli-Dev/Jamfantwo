@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Halric Vael
+description: "The thirty-sixth monarch of the Vaelic dynasty whose thirty-eight-year reign consolidated the institutions of the kingdom and maintained the longest unbroken peace of the royal succession."
 ---
 
 ## The Thirty-Eighth-Year King

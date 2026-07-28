@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Burning of Eldreth
+description: "The great fire that destroyed a substantial portion of the merchant city of Eldreth in the late fifth century, consuming warehouses, markets, and dwellings over the course of three days."
 ---
 
 ## The Great Fire of the Merchant City

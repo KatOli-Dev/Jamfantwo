@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Feasting and Dining
+description: "Customs of the shared meal across the known world, from the daily fare of the Vael valley to the festival feasts of the plains and the banquets of the dwarven halls."
 ---
 
 ## The Shared Meal

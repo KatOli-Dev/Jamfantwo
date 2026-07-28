@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Weeds and Invasive Plants
+description: "Thistle, bindweed, nettle, and gorse compete with cultivated crops across the known world, while introduced species such as water hyacinth and prickly pear demand constant management from farmers and."
 ---
 
 ## The Problem Plants of the Known World

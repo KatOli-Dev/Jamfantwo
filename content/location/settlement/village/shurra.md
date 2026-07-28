@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shurra
+description: "An oasis deep in the Kharesh of Sahrana, Shurra is the most remote permanent settlement in the desert, its spring-fed gardens providing water and provisions vital to caravans crossing the interior."
 ---
 
 ## An Oasis Settlement Deep in the Kharesh

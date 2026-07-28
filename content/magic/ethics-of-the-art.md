@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ethics of the Art
+description: "The traditions of the Art hold that reshaping pattern is an act of consequence, and every practitioner bears responsibility for the effects of their workings upon the world."
 ---
 
 ## The Principles That Govern the Practice

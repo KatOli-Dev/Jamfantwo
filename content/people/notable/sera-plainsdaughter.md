@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sera Plainsdaughter
+description: "A centaur elder of the Plains Confederation and a member of the council, Sera advocates for the nomadic kindreds and works to maintain the balance between settled and roaming peoples."
 ---
 
 ## The Elder of the Council

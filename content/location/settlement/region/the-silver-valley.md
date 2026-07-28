@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Silver Valley"
+description: "A deep gorge in the Crown Range of Aethelar, the Silver Valley draws miners from across the mountain spine to work the richest silver veins known on the continent."
 ---
 
 ## A Mining Region in the Mountain Spine

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Desert Trail
+description: "The southern branch of the Sahrani caravan network follows a direct course through scarce water and uncertain landmarks, carrying coastal goods inward and desert products northward."
 ---
 
 ## Southern Branch into the Deeper Kharesh

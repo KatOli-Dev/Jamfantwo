@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Redhollow
+description: "A southern frontier settlement at the grasslands' edge, Redhollow stands where red soil marks the meeting of plains and Emberlands. It is the southernmost outpost of the Plains Confederation."
 ---
 
 ## A Southern Frontier Settlement at the Edge of the Grasslands

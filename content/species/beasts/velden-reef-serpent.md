@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Reef Serpent
+description: "The largest marine reptile of the Velden Strait, the reef serpent is a long-bodied ambush predator of warm coastal waters, respected by fishermen and pearl divers who read the signs of its presence."
 ---
 
 ## The Long-Bodied Predator of the Strait

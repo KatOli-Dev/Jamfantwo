@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Marches
+description: "Frontier principality of the northern forests of Aethelar. It guards the boundary between settled lands and the deep woodland, co-operating with the elves of the forest."
 ---
 
 ## Frontier Principality of the Northern Forests

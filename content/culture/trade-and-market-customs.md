@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trade and Market Customs
+description: "The institutions and customary laws governing exchange across the known world, from the weekly market towns of the Vael valley to the great harbour trade of Aldreth and the border fairs of the plains."
 ---
 
 ## The Foundation of Exchange

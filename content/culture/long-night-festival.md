@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Long Night Festival
+description: "The midwinter solstice celebration observed across the temperate and northern regions, with hilltop beacons, feasting, the exchange of gifts, and the night-long vigil of the elders."
 ---
 
 ## The Midwinter Solstice Celebration

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stonemarch
+description: "A frontier settlement on the eastern marches of the Stoneheim Highlands, Stonemarch maintains a dwarven causeway and keeps watch over the approaches to the highland halls from the open country."
 ---
 
 ## A Frontier Settlement on the Eastern Marches

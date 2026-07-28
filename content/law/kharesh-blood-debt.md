@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Kharesh Blood Debt"
+description: "The customary obligation of compensation for killings and serious offences among the Kharesh Tribes, paid in livestock to restore social balance and prevent the destructive cycle of blood revenge."
 ---
 
 ## The Obligation of Compensation and Honour

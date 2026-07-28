@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trade and Tariffs
+description: "The movement of goods along maritime and overland routes connecting the three continents, with tariffs and tolls levied by sovereigns and guilds as a source of revenue and negotiation."
 ---
 
 ## The Movement of Goods and the Charges upon Them

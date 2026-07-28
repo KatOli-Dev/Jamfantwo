@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Religious Traditions
+description: "The peoples of the known world attend the divine in many ways, from temple faiths and contemplative orders to philosophical doctrines and the varied traditions of the different species."
 ---
 
 ## The Varieties of the Divine Attended

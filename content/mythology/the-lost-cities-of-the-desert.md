@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Lost Cities of the Desert
+description: "The nomads of the Kharesh tell of cities swallowed by the sands when their people grew arrogant, with Ubar the City of a Thousand Pillars being the most famous among them."
 ---
 
 ## The Sands That Swallowed the Past

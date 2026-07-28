@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sea Mother's Court
+description: "The Sea Mother's Court is the principal temple of the maritime deity in Khalisar, a complex of halls, courtyards, and harbour-side chapels where sailors pray for safe passage and protection."
 ---
 
 ## The Great Temple of the Warm Coasts

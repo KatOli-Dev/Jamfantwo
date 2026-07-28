@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Corvids
+description: "Avian people of the high forests, whose sharp minds and feather covering mark them as among the cleverest of sapient peoples."
 ---
 
 ## Winged Minds of the High Forest

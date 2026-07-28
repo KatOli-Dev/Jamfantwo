@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vaelmouth
+description: "Vaelmouth commands the mouth of the great River Vael, its harbour the gateway through which the produce of the continent's most fertile valley reaches the markets of the Auric Ocean and beyond."
 ---
 
 ## A City at the Mouth of the Great River

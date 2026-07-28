@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dune Worm
+description: "The great annelid of the deep Kharesh sand, the dune worm cycles nutrients beneath the desert and is the subject of campfire tales that scholars of the coastal academies have debated for centuries."
 ---
 
 ## The Great Annelid of the Deep Sand

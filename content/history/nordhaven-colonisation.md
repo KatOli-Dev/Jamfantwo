@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nordhaven Colonisation
+description: "The difficult enterprise by which human settlers from the northern shores of Aethelar crossed the Stormfall Sea to establish permanent settlements upon the cold and mountainous coast of Morvind."
 ---
 
 ## The Human Settlement of the Cold Coast

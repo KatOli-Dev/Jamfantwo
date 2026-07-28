@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vintic
+description: "The warm vintner's tongue of the southern Aethelar heartland, spoken in the Vintner's Vale and Emberlands, rich in words for vine, grape, and the patient observance of the harvest."
 ---
 
 ## Vintic Introduced

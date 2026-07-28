@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Seasonal Calendar
+description: "The systems of timekeeping used by the different cultures of the known world, from the solar calendar of the Vael valley to the lunar months of the plains and the forge-based calendar of the dwarven."
 ---
 
 ## The Measurement of Time

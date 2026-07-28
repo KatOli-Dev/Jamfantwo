@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Griffin
+description: "A great beast of eagle and lion, the griffin is the foremost predator of the open grasslands and has been trained to the saddle by the knights of Nordhaven and the mounted peoples of the plains."
 ---
 
 ## The Winged Predator of the Open Country

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aethelar Heartwood
+description: "The vast temperate forest of central and northern Aethelar, ancient home of the elves whose presence over centuries has shaped the woodland into something at once wild and deliberately cultivated."
 ---
 
 ## The Great Temperate Forest of Aethelar

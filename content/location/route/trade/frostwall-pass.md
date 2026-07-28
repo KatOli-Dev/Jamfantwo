@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Pass
+description: "The seasonal crossing through the Frostwall escarpment connects the Morvind ranges to the high valleys beyond, carrying ore and metalwork southward and grain northward in summer."
 ---
 
 ## Summer Crossing Through the Escarpment

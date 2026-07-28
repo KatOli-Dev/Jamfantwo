@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Jewellery and Adornment"
+description: "The varied traditions of jewellery across the known world, from the amber of the Stormfall Coast to the enamel of Eldreth, and the purposes of adornment among the northern, Aldreth, and Sahrani."
 ---
 
 ## The Ornament of the Body

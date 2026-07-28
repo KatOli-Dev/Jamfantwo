@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Magical Phenomena
+description: "Resonances that arise from the order of the world itself, not from the workings of practitioners, appear in places of strong resonance and in the behaviour of the seas and skies."
 ---
 
 ## The World's Own Resonances

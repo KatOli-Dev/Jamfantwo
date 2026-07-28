@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Leatherworking"
+description: "The preparation of animal hides and their shaping into garments, armour, and equipment, examining the tanning methods and working traditions from the Aethelar Heartwood to the plains."
 ---
 
 ## The Working of Hide

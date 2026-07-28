@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vines and Wine
+description: "The velden noir and golden muscat of the Vintners Vale, the amber wine of Khalisar, and the table wines of the Aldreth sustain a trade regulated by guilds that guard the secrets of the vintner's art."
 ---
 
 ## The Vineyards of the Vintners Vale

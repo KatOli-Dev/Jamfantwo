@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessa Nordhaven
+description: "The naval commander who established the standing fleet of Nordhaven and cleared the Stormfall Sea of corsair fleets in a three-year campaign that secured the northern trade routes."
 ---
 
 ## The Admiral Who Cleared the Stormfall Sea

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran League
+description: "Confederation of eastern Aethelar port cities co-ordinating maritime trade and defence. Its membership includes the shipyards of Caerwyn and the great port of Eldreth."
 ---
 
 ## Confederation of Eastern Port Cities

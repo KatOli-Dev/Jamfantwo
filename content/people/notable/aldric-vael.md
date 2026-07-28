@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aldric Vael
+description: "The thirty-seventh monarch of the Vaelic dynasty, ruler of the central river kingdom of Aethelar, whose reign has been marked by careful stewardship and the maintenance of peace."
 ---
 
 ## The Current Ruler of the Vaelic Dynasty

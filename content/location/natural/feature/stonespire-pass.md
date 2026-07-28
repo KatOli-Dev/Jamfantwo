@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stonespire Pass
+description: "The broad saddle between the Stonespire and the Sentinel carrying the paved road from the cold north to the warm coast, watched by garrisons of the Northern Roads Watch who maintain refuge quarters."
 ---
 
 ## Saddle Between the Two High Peaks

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aeliana Truevoice
+description: "The mysterious Oracle of Nessara whose prophecies shaped the politics of the Sahrani coast for more than a century, beginning with the accurate warning of the western raiding fleet."
 ---
 
 ## The Oracle of Nessara

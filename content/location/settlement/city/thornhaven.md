@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thornhaven
+description: "Thornhaven sits at the junction of river and mountain pass, its harbour the eastern terminus of the overland route across the mountain spine linking the coast to the interior highlands."
 ---
 
 ## An Eastern Trade City at the River Mouth

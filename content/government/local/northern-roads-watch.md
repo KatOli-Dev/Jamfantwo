@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Roads Watch
+description: "The standing patrol maintained by northern towns to keep the great roads safe for merchants, pilgrims, and messengers, composed of mounted and foot patrols along the principal routes."
 ---
 
 ## The Standing Patrol of the Cold North Roads

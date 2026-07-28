@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Currency and Coinage
+description: "The silver standard that governs trade across the known world, with the weight and fineness of coin maintained by the guilds of the mints and the assayers of every market."
 ---
 
 ## The Silver Standard and Coin Circulation

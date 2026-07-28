@@ -1,6 +1,7 @@
 ---
 layout: default
 title: River Vael
+description: "The greatest waterway of Aethelar, rising among the western foothills and flowing eastward through the Amber Vale to Vaelmouth, its annual flood renewing the valley's fertility and sustaining the."
 ---
 
 ## Greatest Waterway of Aethelar

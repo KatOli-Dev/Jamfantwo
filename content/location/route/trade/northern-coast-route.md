@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Northern Coast Route
+description: "The coastal shipping passage along Sahrana's northern shore links the city-states of the Northern Coast League, carrying spices, wine, and salt through its sheltered waters."
 ---
 
 ## Coastal Passage of the Sahrani City-States

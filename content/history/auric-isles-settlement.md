@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Settlement of the Auric Isles
+description: "One of the great maritime enterprises of the present age, by which the peoples of Aethelar established a permanent presence upon the volcanic island chain lying in the eastern Auric Ocean."
 ---
 
 ## The Colonisation of the Eastern Islands

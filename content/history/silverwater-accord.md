@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Silverwater Accord
+description: "The river agreement modelled upon the Greywash Compact, regulating the navigation, the fishery, and the use of the banks of the principal river of the eastern coastal plain of Aethelar."
 ---
 
 ## The Eastern River Agreement

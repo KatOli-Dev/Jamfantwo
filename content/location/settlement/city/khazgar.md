@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Khazgar
+description: "Khazgar is carved into the richest vein of ore in the Morvind interior, its integrated forges producing steel and metalwork that ranks among the finest in the dwarven world."
 ---
 
 ## Underground City of Renowned Metalwork

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vashari
+description: "Vashari commands the terminus of the great caravan routes crossing the Kharesh, its sophisticated water systems and fortified walls sustaining the primary hub of inland trade at the desert's edge."
 ---
 
 ## An Inland City at the Desert's Edge

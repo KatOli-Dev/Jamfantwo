@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reading Cloisters
+description: "The Reading Cloisters are the houses of the Unwritten Name where readers maintain libraries, schedule study, and gather for conferences, places of meeting rather than retreat."
 ---
 
 ## The Houses of the Unwritten Name

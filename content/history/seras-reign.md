@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sera's Reign
+description: "The thirty-year reign of the queen who concluded the Twin-Reaches Wars and began the Long Peace, remembered as a period of consolidation and the foundation of the public order of the Republic."
 ---
 
 ## The Queen Who Ended the Wars

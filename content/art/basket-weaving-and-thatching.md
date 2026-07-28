@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Basket Weaving and Thatching"
+description: "The ancient crafts of working plant fibres into containers and coverings, examining the coiled, twined, and plaited techniques of the marsh and forest peoples."
 ---
 
 ## The Fibre Crafts of the Known World

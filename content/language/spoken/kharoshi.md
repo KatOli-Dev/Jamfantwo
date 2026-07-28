@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kharoshi
+description: "The mineral-rich common tongue of Kharos, spoken at the eastern harbours and highland mines, precise in words for red stone and glass, and the medium of the western trade."
 ---
 
 ## Kharoshi Introduced

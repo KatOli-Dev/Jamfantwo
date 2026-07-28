@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sea Fish and Seafood
+description: "The fish and shellfish taken from the Auric Ocean, the Greyring Ocean, and the Stormfall Sea sustain coastal peoples and support inshore and deep-sea fishing vessels."
 ---
 
 ## The Bounty of the Oceans and the Coasts

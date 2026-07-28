@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Khalisar
+description: "The greatest of the Sahrani city-states, Khalisar is the wealthiest and most influential port on the northern coast, its harbour the hub of continental trade and its libraries among the most."
 ---
 
 ## Greatest of the Sahrani City-States

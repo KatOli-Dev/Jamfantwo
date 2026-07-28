@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cartage and Transport
+description: "The transport of goods by wagon and cart over land, the most costly aspect of commerce, regulated by the guilds of carters who set rates and maintain service standards."
 ---
 
 ## The Movement of Goods by Land

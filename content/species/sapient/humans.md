@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Humans
+description: "A generalist people whose bodies show no strong mark of any single environment, suggesting origins in a place of great variety. They share a closer kinship with dwarves than with elves."
 ---
 
 ## Generalist Lineage of Great Adaptability

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Serren
+description: "Serren is the principal market for grain and cattle of the inland valleys, founded on a fertile plain where converging rivers sustain the farmers and merchants who gather in its busy public square."
 ---
 
 ## A City of the Inland Valleys

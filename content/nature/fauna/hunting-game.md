@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hunting Game
+description: "The deer, boar, bear, hare, and game birds of the fields and forests are pursued for food and sport, and the traditions of the hunt are among the oldest practices of the peoples of the known world."
 ---
 
 ## The Wild Prey of the Three Continents

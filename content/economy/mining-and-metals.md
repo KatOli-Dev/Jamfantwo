@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mining and Metals
+description: "The extraction of iron, copper, tin, silver, and gold from the mountains of Morvind and the highlands of Aethelar, including the deep dwarven workings of the Stoneheim Holds."
 ---
 
 ## The Riches of the Ground

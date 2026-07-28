@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aethelar
+description: "The largest known continent, a central land of ancient forests, rolling grasslands, and a mountain spine that divides two oceans, home to the greatest diversity of peoples and kingdoms in the world."
 ---
 
 ## The Central Continent

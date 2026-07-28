@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Moneylending and Usury
+description: "The lending of silver at interest by counting houses and merchant families, regulated by guilds and councils and debated by the learned and pious of the known world."
 ---
 
 ## The Lending of Silver and the Charge of Interest

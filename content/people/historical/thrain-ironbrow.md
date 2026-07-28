@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thrain Ironbrow
+description: "The founding king of the Karhold Realm who united the scattered dwarven clans of the mountain spine, carving the great halls of Karhold from the living rock after the destruction of his ancestral."
 ---
 
 ## The Founding King of the Karhold Realm

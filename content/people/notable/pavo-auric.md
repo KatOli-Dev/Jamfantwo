@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pavo Auric
+description: "The presiding representative of the Auric Isles confederation, responsible for coordinating the trade routes, maintaining the collective fleet, and managing relations among the island communities."
 ---
 
 ## The Leader of the Isles

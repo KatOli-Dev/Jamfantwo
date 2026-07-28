@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Apprenticeship and Training
+description: "The Art is transmitted from master to apprentice through years of guided practice, each tradition shaping its instruction around the patterns to which it is attuned."
 ---
 
 ## The Making of a Practitioner

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Long Peace
+description: "The long stretch of years without general war between the principal cities that followed the Twin-Reaches Peace, marked by border skirmishes and disputes but no open conflict among the great powers."
 ---
 
 ## Generations Without General War

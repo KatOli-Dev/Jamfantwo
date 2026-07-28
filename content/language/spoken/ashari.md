@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ashari
+description: "The fluid river speech of Ashara, spoken along the great inland waterways and eastern ports, rich in words for boat, water, and rice, and the medium of the long river trade."
 ---
 
 ## Domain of Ashari

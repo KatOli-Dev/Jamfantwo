@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hearth-Halls
+description: "The Hearth-Halls are the plain houses of worship of the Still Flame, structures of stone and timber in which the central fire is kept burning without ceasing, tended by the hearth-keepers."
 ---
 
 ## The Plain Structures of the Still Flame

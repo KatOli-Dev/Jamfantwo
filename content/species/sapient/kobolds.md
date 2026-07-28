@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kobolds
+description: "Small reptilian people of the caves and shallow tunnels, whose fine scales and infrared vision suit them to darkness. Their oral traditions preserve extensive accounts of ancient cave networks."
 ---
 
 ## Scaled Tunnel-Dwellers of Ancient Lineage

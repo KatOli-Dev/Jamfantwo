@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Property and Inheritance"
+description: "The ordering of land tenure and inheritance from the primogeniture of the eastern kingdoms to the equal division of Sahrani city-states and the collective holdings of nomadic kindreds."
 ---
 
 ## The Ordering of Ownership Across Cultures

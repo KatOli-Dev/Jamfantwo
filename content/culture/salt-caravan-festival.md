@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Salt Caravan Festival
+description: "The festival marking the departure of the first salt caravan from the Sahrani coast, with the blessing of the caravan and the celebration of its departure for the interior."
 ---
 
 ## The Festival of the Departing Caravan

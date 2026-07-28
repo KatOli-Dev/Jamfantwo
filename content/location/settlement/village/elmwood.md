@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Elmwood"
+description: "A village at the fringe of the Aethelar Heartwood, Elmwood lies where the great forest gives way to open farmland, its people sustaining themselves by farming and timber from the elm woodlots."
 ---
 
 ## A Village in the Aethelar Heartwood Fringe

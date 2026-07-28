@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Four Laws
+description: "The Source, the Medium, the Limit, and the Cost are the four principles that govern every working of the Art across all traditions of practice."
 ---
 
 ## The Principles That Govern Every Working

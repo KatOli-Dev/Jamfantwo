@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Still Flame
+description: "The monotheistic faith of the central lowlands, centred on the worship of an eternal and uncreated flame that sustains the order of the world, founded by the Prophet of the Lowlands."
 ---
 
 ## The Monotheistic Faith of the Central Lowlands

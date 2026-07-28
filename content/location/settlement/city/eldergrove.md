@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eldergrove
+description: "Eldergrove stands at the edge of the ancient northern forests, its careful timber trade governed by a centuries-old compact with the elves who dwell within the woodland depths."
 ---
 
 ## At the Edge of the Ancient Forests

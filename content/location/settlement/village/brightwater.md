@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brightwater
+description: "A coastal settlement on the Velden Coastlands of Aethelar, Brightwater takes its name from a clear spring that provides the purest water to vessels passing through the eastern approaches to the."
 ---
 
 ## A Coastal Settlement by the Clear Spring

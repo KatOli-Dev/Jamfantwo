@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pattern Reading
+description: "The first discipline taught in every tradition, pattern reading demands a stillness of body and mind from which all later skill in the Art proceeds."
 ---
 
 ## The First Discipline of the Practitioner

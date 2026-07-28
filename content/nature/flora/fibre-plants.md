@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fibre Plants
+description: "Flax, hemp, jute, and reed provide the cloth, rope, thatching, and paper that sustain daily life across the three continents, each fibre extracted by skilled hands through generations of craft."
 ---
 
 ## The Plants of the Cloth and the Cordage

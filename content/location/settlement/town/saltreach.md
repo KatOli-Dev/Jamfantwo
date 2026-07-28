@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Saltreach
+description: "A western fishing settlement at the southern edge of the cliff coast, Saltreach is the smallest of the Grey Coast Holdings. Fishermen work treacherous reef waters and gather salt from cliff-top pools."
 ---
 
 ## A Western Fishing Settlement at the Southern Edge of the Cliffs

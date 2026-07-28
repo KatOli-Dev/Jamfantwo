@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Drowned Isles
+description: "A chain of small, rocky islands running northward off the western cliffs into the Greyring Ocean, where fishing villages in sheltered bays and lighthouses of the Inner Sea Watch sustain the western."
 ---
 
 ## Rocky Chain Off the Western Cliffs

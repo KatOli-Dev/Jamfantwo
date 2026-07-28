@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Wanderer Tales
+description: "A mysterious figure appears in times of crisis across every continent, offering riddles and parables that the recipient understands only after the danger has passed and the Wanderer has departed."
 ---
 
 ## The Stranger Who Appears

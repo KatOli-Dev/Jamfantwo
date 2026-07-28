@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ironhollow
+description: "A dwarven industrial settlement in the eastern ranges of Morvind, Ironhollow is the centre of iron production in the dwarven realm. Its smelteries feed the forges of Stoneheim and Khazgar."
 ---
 
 ## A Dwarven Industrial Settlement in the Eastern Ranges

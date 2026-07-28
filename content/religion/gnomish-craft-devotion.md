@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gnomish Craft Devotion
+description: "The gnomish peoples of the woodland hills practise a spiritual life centred upon the craft of making, understanding the work of the hands as a form of prayer and an honour to the divine."
 ---
 
 ## The Making as a Form of Prayer

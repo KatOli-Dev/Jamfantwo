@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fernmoor
+description: "A northern settlement at the boundary of forest and plain, Fernmoor lies where the woodlands give way to the grasslands. Its market is a meeting point for humans, elves, and centaurs of the region."
 ---
 
 ## A Northern Settlement at the Boundary of Forest and Plain

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eastern Reach
+description: "A long continent of broad river plains and shifting reefs beyond the Auric Ocean, where port councils, river assemblies, and reef wardens maintain the routes that join inland and sea."
 ---
 
 ## The Arm Reaching into Sunrise

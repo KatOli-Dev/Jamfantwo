@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Limifelids
+description: "Semi-aquatic people of the wetlands and river deltas, whose cat-like features and permeable skin mark them as creatures of the boundary between water and land."
 ---
 
 ## Semi-Aquatic People of the Marsh

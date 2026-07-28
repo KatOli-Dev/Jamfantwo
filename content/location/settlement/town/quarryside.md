@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quarryside
+description: "The seat of the Stone Quarries' Bench, Quarryside is a town of masons and quarrymen in the Morvind foothills. Its dressed stone is prized across the cold north for its quality and colour."
 ---
 
 ## A Town of the Cold North at the Meeting of Quarries and Foothills

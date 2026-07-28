@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Drahima
+description: "Drahima's dye works produce the most vivid colours in the known world, its indigo vats and madder workshops giving the city a brightness unmatched anywhere on the Sahrani coast."
 ---
 
 ## City of Dye Works and Vivid Colours

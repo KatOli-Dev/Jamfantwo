@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Expansion Era
+description: "The period in which the dwarven people of the Stoneheim Highlands extended their territory across the mountain ranges of Aethelar, transforming from scattered holds into a unified and powerful realm."
 ---
 
 ## The Age of Dwarven Growth

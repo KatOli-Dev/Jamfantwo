@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reachi
+description: "The clipped common tongue of the Eastern Reach, spoken along the great estuaries and river plains, suited to the pilot's craft and the long maritime trade across the Auric Ocean."
 ---
 
 ## Reachi Explained

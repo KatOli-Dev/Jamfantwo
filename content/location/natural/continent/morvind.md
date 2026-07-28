@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Morvind
+description: "A rugged northern continent of high mountains and narrow fjords, where dwarven halls yield fine metalwork and coastal ports carry that craft across the Stormfall Sea to markets far south."
 ---
 
 ## Mountains Define Every Feature

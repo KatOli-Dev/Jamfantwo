@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hands Joined
+description: "The principal marriage custom of the temperate lands, encompassing betrothal, the exchange of rings and vows before the community, and the feast that follows the formal union."
 ---
 
 ## The Marriage Bond of the Temperate Lands

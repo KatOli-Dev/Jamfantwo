@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valdmark Unification
+description: "The joining of the independent holdings of the Valdmark region under a single government in the late fifth century, the culmination of a generation of diplomacy and military campaigns."
 ---
 
 ## The Joining of the Northern Holdings

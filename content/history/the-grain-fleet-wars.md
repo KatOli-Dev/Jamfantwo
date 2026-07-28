@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grain Fleet Wars
+description: "A series of conflicts between the Northern Coast League and the Thessaran League over the grain shipments essential to the survival of the densely populated eastern cities of Aethelar."
 ---
 
 ## The Conflicts Over the Eastern Grain

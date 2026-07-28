@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spirit Places and Sacred Groves
+description: "The spirits of groves, springs, and mountains are older than the formal religions, honoured by every people with customs that vary from the elves' ancient groves to the halflings' intimate."
 ---
 
 ## The Spirits of the Land

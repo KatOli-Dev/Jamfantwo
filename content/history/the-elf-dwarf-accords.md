@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Elf-Dwarf Accords
+description: "Among the most ancient surviving instruments of the present age, setting the terms of the relationship between the elves of the Aethelar Heartwood and the dwarves of the Stoneheim Highlands for the."
 ---
 
 ## The Ancient Binding of Two Peoples

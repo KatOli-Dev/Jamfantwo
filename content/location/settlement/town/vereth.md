@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vereth
+description: "The largest settlement of the Southern Reach, Vereth lies on the northern shore of the Greater Inland Sea. The town is the seat of the federation council and the centre of inland sea trade."
 ---
 
 ## The Largest Settlement of the Southern Reach

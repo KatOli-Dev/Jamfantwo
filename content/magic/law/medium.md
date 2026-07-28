@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Medium
+description: "Pattern is the configuration of a thing as a whole, the medium on which the Art operates. The practitioner learns to read pattern through patient attention and to reshape it through disciplined will."
 ---
 
 ## The Substance upon Which the Art Operates

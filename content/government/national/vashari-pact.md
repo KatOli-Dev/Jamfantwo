@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vashari Pact
+description: "Alliance of inland caravan cities at the edge of the Kharesh desert. Its council at Vashari regulates trade routes, water sources, and the movement of goods between coast and interior."
 ---
 
 ## Alliance of the Inland Caravan Cities

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brackenshield Wood
+description: "The managed woodland on the eastern flank of the Morvind Uplands, held under the Heartwood Fellowship whose careful stewardship yields abundant timber and game for the towns of the Vintner's Vale."
 ---
 
 ## Woodland Between Upland and Vale

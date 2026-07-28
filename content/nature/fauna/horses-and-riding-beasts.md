@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Horses and Riding Beasts
+description: "The most valued of domesticated animals, the horse serves transport, warfare, agriculture, and sport across the three continents, and the breeds and riding traditions are as varied as the regions."
 ---
 
 ## The Horse of the Three Continents

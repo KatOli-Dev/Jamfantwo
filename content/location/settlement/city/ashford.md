@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ashford
+description: "Ashford's stone bridge and converging roads make it the primary hub of communication in the northern river valleys, a bustling crossroads where the traffic of the north crosses the broad river."
 ---
 
 ## Major River Crossing of the Northern Valleys

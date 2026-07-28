@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Salt Meadows"
+description: "A salt-producing coastal town on the Auric Ocean, Salt Meadows sits at the mouth of a river flowing through broad salt marshes. Evaporation pans and salt-meadow sheep sustain the community."
 ---
 
 ## A Salt-Producing Coastal Town

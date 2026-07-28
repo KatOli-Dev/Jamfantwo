@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Unwritten Name
+description: "The Unwritten Name is a philosophical doctrine centred upon the discipline of nouns, teaching that every name for the divine names something less than the divine, and attention to language is a path."
 ---
 
 ## The Doctrine of the Discipline of Nouns

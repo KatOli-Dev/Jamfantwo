@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Pick
+description: "A road station at the junction where the Stoneheim Highland Road divides toward the central halls, eastern mines, and lower coast, serving wagons, miners, and merchants crossing the mountain routes."
 ---
 
 ## A Road Station at the Highland Junction

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ember Ridge
+description: "The broken volcanic range traversing Kharos, a chain of ridges, vents, and hot springs whose silica-bark glass groves, dark ringing stone, and three-season climate sustain the highland communities."
 ---
 
 ## The Broken Backbone of Kharos

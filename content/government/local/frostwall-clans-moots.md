@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frostwall Clan Moots
+description: "The periodic assemblies of the Frostwall Clans of the deep Morvind interior, responsible for coordinating defence, mining operations, and dispute resolution among the dwarven clans."
 ---
 
 ## The Assemblies of the Deep Interior Clans

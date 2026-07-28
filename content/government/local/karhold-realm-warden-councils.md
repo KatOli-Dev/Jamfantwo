@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Karhold Warden Councils
+description: "The administrative bodies governing the holds and territories of the Karhold Realm, managing mines, forges, local justice, and the halls and roads of the dwarven mountain kingdom."
 ---
 
 ## The Wardens and Councils of the Mountain Kingdom

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stoneheim Bench Marks
+description: "Chisel-cut signs recording distance, direction, and warning upon dwarven gallery walls, read by sight or touch by every dwarf who walks the tunnels of the Stoneheim Holds."
 ---
 
 ## Cut Signs of the Deep Galleries

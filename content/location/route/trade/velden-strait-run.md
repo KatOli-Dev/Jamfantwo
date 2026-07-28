@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Velden Strait Run
+description: "The narrow channel between the Auric Ocean and the Stormfall Sea is the only navigable passage between northern and southern seas, channelling the wealth of three continents."
 ---
 
 ## The Only Passage Between Auric and Stormfall

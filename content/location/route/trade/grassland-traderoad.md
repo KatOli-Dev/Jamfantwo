@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grassland Traderoad
+description: "The network of routes across the Great Grass Plains links the cities of the Plains Confederation, carrying grain, horses, and livestock eastward and cloth, metal, and coastal goods westward."
 ---
 
 ## Routes Across the Open Grass

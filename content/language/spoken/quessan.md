@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quessan
+description: "The carefully preserved speech of the elven communities, rich in words for forest and kinship, spoken in councils and festivals, and transmitted with exceptional care across the generations."
 ---
 
 ## Quessan Defined

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thessaran Coastal Route
+description: "The chain of coastal waters and harbour roads along eastern Aethelar connects the port cities of the Thessaran League, carrying grain, timber, iron, and imported goods through sheltered waters."
 ---
 
 ## Chain of Harbour Roads Along the Eastern Shore

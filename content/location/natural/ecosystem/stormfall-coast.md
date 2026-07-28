@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stormfall Coast
+description: "The rugged southern shoreline of Morvind, a realm of high cliffs, deep fjords, and narrow coastal plains shaped by storms, inhabited by resilient communities whose livelihood comes from the sea."
 ---
 
 ## High Cliffs, Deep Fjords, and the Narrow Plains

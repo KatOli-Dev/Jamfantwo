@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kosar Desert-Walker
+description: "The celebrated guide of the Kharesh tribes who opened the direct caravan route across the deep desert of Sahrana, connecting the northern and southern coasts through a chain of discovered water."
 ---
 
 ## The Guide of the Kharesh

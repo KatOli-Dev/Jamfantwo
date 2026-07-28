@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amber Crawler
+description: "The largest shelled creature of the inland waters of Aethelar, the amber crawler is a great crayfish whose amber shell and powerful claws sustain a valued fishery along the rivers of the Vael."
 ---
 
 ## The Great Crayfish of the Inland Waters

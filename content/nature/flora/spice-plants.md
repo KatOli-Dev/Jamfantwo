@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spice Plants
+description: "Saffron, cardamom, black pepper, and the rare sunroot grow in Sahrana's irrigated gardens and hidden desert groves, their trade enriching the city-states and the merchant guilds that control the."
 ---
 
 ## The Aromatic Treasures of Sahrana

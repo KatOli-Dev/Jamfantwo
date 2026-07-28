@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prejudices
+description: "Documented instances of tension between the peoples of the known world, recorded by chroniclers as notable departures from the general disposition toward peaceful coexistence."
 ---
 
 ## The Nature of Prejudice in the Known World

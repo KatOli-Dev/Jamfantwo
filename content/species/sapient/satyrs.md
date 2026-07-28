@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Satyrs
+description: "Goat-legged people of the woodland fringes, whose cloven hooves and agile frame suit them to the borderlands of the wild. They have coexisted with the elves of Aethelar for centuries."
 ---
 
 ## Goat-Legged People of the Woodland Edge

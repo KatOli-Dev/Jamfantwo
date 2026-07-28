@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sahrani Caravan Feast
+description: "The culinary tradition of the inland cities and caravan routes of Sahrana, a communal meal of stew, rice, and sweet dishes served upon the arrival and departure of caravans at the oases."
 ---
 
 ## The Desert Trade Cuisine

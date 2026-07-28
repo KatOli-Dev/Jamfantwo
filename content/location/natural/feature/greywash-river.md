@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Greywash River
+description: "The principal river of the cold north, gathering streams from the Stoneheim Highlands and flowing past Khalisar and Vassholm to the sea at Nessara, governed by the historic compact that established."
 ---
 
 ## Principal River of the Cold North

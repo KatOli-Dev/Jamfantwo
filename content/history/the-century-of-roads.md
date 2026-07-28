@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Century of Roads
+description: "The hundred-year period in the middle of the present age when the principal road networks connecting the cities and regions of the three continents were built, transforming travel and trade."
 ---
 
 ## The Age of the Great Highways

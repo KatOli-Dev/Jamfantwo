@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ashen Heath
+description: "The grey-soiled western coastlands between the Morvind Uplands and the Greyring Ocean, where isolated fishing villages and sheep farms preserve a way of life unchanged for centuries."
 ---
 
 ## Grey Soil Between the Uplands and the Sea

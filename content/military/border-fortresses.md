@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Border Fortresses"
+description: "The great fortresses that guard the frontiers of the realms of Aethelar, from the dwarf-hewn Dwarf-Wall to the river forts of Vael, and the garrisons that hold them against all comers."
 ---
 
 ## The Guardians of the Frontiers
