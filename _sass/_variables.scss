@@ -1,0 +1,29 @@
+@use "sass:color";
+
+$color-bg: #14172a;
+$color-bg-2: #1a1d36;
+$color-accent: #e2b04a;
+$color-accent-dim: #b8902f;
+$color-accent-warm: #c98745;
+$color-text: #d4d4d8;
+$color-heading: #f0e6d2;
+$color-muted: #8b8b9a;
+$color-link-hover: #f5cd70;
+
+$color-glass: rgba(255, 255, 255, 0.05);
+$color-glass-strong: rgba(255, 255, 255, 0.10);
+$color-glass-soft: rgba(255, 255, 255, 0.03);
+$color-glass-fallback: rgba(20, 23, 42, 0.94);
+$color-glass-edge: rgba(255, 255, 255, 0.14);
+$color-glass-edge-soft: rgba(255, 255, 255, 0.08);
+$color-glass-edge-strong: rgba(255, 255, 255, 0.30);
+$color-glass-border-warm: rgba(226, 176, 74, 0.22);
+
+$font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+$font-mono: "SF Mono", "Fira Code", "Source Code Pro", Menlo, Consolas, monospace;
+
+$max-width: 750px;
+$spacing: 1.5rem;
+$radius-card: 18px;
+$radius-chip: 12px;
+$min-tap: 2.75rem;

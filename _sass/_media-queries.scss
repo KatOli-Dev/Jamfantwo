@@ -1,0 +1,347 @@
+@use "variables" as *;
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body,
+  header,
+  main,
+  footer {
+    background-image: none !important;
+  }
+
+  header .brand,
+  header ul > li > a,
+  header .dropdown-toggle {
+    background: rgba(255, 255, 255, 0.06) !important;
+  }
+
+  header .dropdown-menu {
+    background: $color-glass-fallback !important;
+    box-shadow: none !important;
+    border-color: $color-glass-edge-soft !important;
+  }
+
+  main {
+    background: $color-glass-fallback !important;
+  }
+}
+
+@media (forced-colors: active) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    background: Canvas;
+    color: CanvasText;
+    background-image: none;
+  }
+
+  header,
+  main,
+  footer {
+    background: Canvas;
+    color: CanvasText;
+    border-color: CanvasText;
+    box-shadow: none;
+  }
+
+  main a,
+  footer a,
+  header ul > li > a,
+  header .dropdown-toggle,
+  header .dropdown-group ul a {
+    color: LinkText;
+    text-decoration-color: LinkText;
+
+    &:hover,
+    &:focus {
+      color: LinkText;
+    }
+  }
+
+  a:focus-visible,
+  .skip-link:focus {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+  }
+
+  header .brand,
+  header ul > li > a,
+  header .dropdown-toggle {
+    background: Canvas !important;
+    color: CanvasText !important;
+    border-color: CanvasText !important;
+  }
+
+  header .dropdown-menu {
+    background: Canvas !important;
+    border-color: CanvasText !important;
+    box-shadow: none !important;
+  }
+
+  header .dropdown-group ul a {
+    background: Canvas !important;
+    color: CanvasText !important;
+    border-color: transparent !important;
+
+    &:hover,
+    &:focus {
+      border-color: CanvasText !important;
+    }
+  }
+
+  header .brand::before,
+  main h1::before,
+  main h1::after,
+  main h2::before,
+  main hr::after {
+    background: Highlight !important;
+    box-shadow: none !important;
+  }
+
+  main h2,
+  main h3,
+  main h4 {
+    color: CanvasText;
+  }
+
+  .skip-link {
+    background: Highlight !important;
+    color: HighlightText !important;
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 0.7rem 0.85rem;
+
+    nav {
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .nav-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+    }
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-menu {
+      overflow: hidden;
+      max-height: 0;
+      opacity: 0;
+      visibility: hidden;
+      width: 100%;
+      transition: max-height 0.35s ease, opacity 0.25s ease, visibility 0.25s ease;
+
+      &.nav-menu-open {
+        max-height: 80vh;
+        opacity: 1;
+        visibility: visible;
+      }
+
+      ul {
+        flex-direction: column;
+        align-items: stretch;
+        width: 100%;
+
+        > li > a {
+          justify-content: center;
+          width: 100%;
+          text-align: center;
+        }
+      }
+    }
+
+    .dropdown {
+      .dropdown-toggle {
+        width: 100%;
+        justify-content: center;
+      }
+
+      .dropdown-menu {
+        position: static;
+        transform: none;
+        min-width: auto;
+        width: 100%;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem;
+        margin-top: 0.35rem;
+        opacity: 1;
+        visibility: visible;
+        box-shadow: none;
+        border-color: $color-glass-edge-soft;
+        display: none;
+
+        &.dropdown-menu-open {
+          display: grid;
+        }
+
+        .dropdown-group {
+          .dropdown-group-label {
+            margin-bottom: 0.35rem;
+          }
+
+          ul a {
+            padding: 0.25rem 0.35rem;
+            font-size: 0.85rem;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            hyphens: auto;
+          }
+        }
+      }
+    }
+  }
+
+  main {
+    margin: $spacing $spacing;
+    padding: $spacing $spacing * 0.85;
+    background: none;
+    border: none;
+    border-radius: 0;
+    overflow: visible;
+    box-shadow: none;
+
+    &::before {
+      display: none;
+    }
+
+    h1 {
+      font-size: 1.85rem;
+    }
+
+    h2 {
+      font-size: 1.45rem;
+    }
+
+    h3 {
+      font-size: 1.15rem;
+    }
+
+    h4 {
+      font-size: 1.05rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
+
+@media (max-width: 380px) {
+  header {
+    padding: 0.65rem 0.85rem;
+  }
+
+  main {
+    margin: 0.85rem 0.4rem;
+    padding: 0.9rem 0.65rem;
+    background: none;
+    border: none;
+    border-radius: 0;
+    overflow: visible;
+    box-shadow: none;
+
+    &::before {
+      display: none;
+    }
+
+    h1 {
+      font-size: 1.55rem;
+      margin-bottom: 1.5rem;
+
+      &::before {
+        margin-bottom: 0.45rem;
+      }
+
+      &::after {
+        width: 90px;
+      }
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      padding-left: 0.9rem;
+    }
+
+    h3 {
+      font-size: 1.05rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.95rem;
+    }
+
+    ul,
+    ol {
+      padding-left: 1.4rem;
+    }
+
+    blockquote {
+      margin-left: 0.85rem;
+      padding-left: 0.85rem;
+    }
+  }
+
+  .skip-link {
+    left: 0.5rem;
+    padding: 0.6rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .nav-home {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    .nav-menu ul {
+      gap: 0.35rem;
+
+      > li > a {
+        font-size: 0.9rem;
+        padding: 0.35rem 0.7rem;
+      }
+    }
+
+    .dropdown .dropdown-menu {
+      gap: 0.75rem;
+      padding: 0.75rem;
+    }
+  }
+}
+
+@media (hover: none) and (pointer: coarse) {
+  header .brand:hover,
+  header ul > li > a:hover,
+  header .dropdown-toggle:hover {
+    transform: none;
+  }
+}

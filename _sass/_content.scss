@@ -1,0 +1,317 @@
+@use "sass:color";
+@use "variables" as *;
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: $max-width;
+  margin: $spacing * 1.5 auto;
+  padding: $spacing * 1.85 $spacing * 1.4;
+  background:
+    radial-gradient(ellipse 110% 80% at 22% 18%, rgba($color-accent, 0.09) 0%, transparent 65%),
+    radial-gradient(ellipse 110% 80% at 82% 88%, rgba($color-accent-warm, 0.07) 0%, transparent 70%),
+    radial-gradient(ellipse 70% 60% at 50% 55%, rgba($color-accent, 0.04) 0%, transparent 75%),
+    $color-glass-fallback;
+  border: 1px solid $color-glass-edge-soft;
+  border-radius: $radius-card;
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    inset 0 1px 0 $color-glass-edge-strong,
+    inset 0 -1px 0 rgba(0, 0, 0, 0.18),
+    0 26px 50px -12px rgba(0, 0, 0, 0.55),
+    0 10px 24px rgba(0, 0, 0, 0.32);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 1px 1px auto 1px;
+    height: 50%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
+    border-radius: 17px 17px 0 0;
+    pointer-events: none;
+  }
+
+  h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: $color-heading;
+    text-align: center;
+    margin-bottom: $spacing * 1.5;
+    letter-spacing: 0.02em;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+
+    &::before {
+      content: "";
+      display: block;
+      width: 9px;
+      height: 9px;
+      margin: 0 auto 0.6rem;
+      background: $color-accent;
+      transform: rotate(45deg);
+      box-shadow:
+        -18px 0 0 -1px $color-accent-dim,
+        18px 0 0 -1px $color-accent-dim,
+        0 0 10px rgba($color-accent, 0.5);
+    }
+
+    &::after {
+      content: "";
+      display: block;
+      width: 140px;
+      height: 1px;
+      margin: 0.85rem auto 0;
+      background: linear-gradient(90deg, transparent, $color-accent, transparent);
+      box-shadow: 0 0 10px rgba($color-accent, 0.4);
+    }
+  }
+
+  h2,
+  h3,
+  h4 {
+    color: $color-heading;
+    line-height: 1.25;
+    letter-spacing: 0.01em;
+  }
+
+  h2 {
+    margin: $spacing * 1.75 0 $spacing * 0.5;
+    font-size: 1.7rem;
+    padding-left: 1.1rem;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.35em;
+      bottom: 0.35em;
+      width: 3px;
+      background: linear-gradient(180deg, $color-accent 0%, $color-accent-dim 100%);
+      border-radius: 1px;
+      box-shadow: 0 0 10px rgba($color-accent, 0.55);
+    }
+  }
+
+  h3 {
+    margin: $spacing * 1.25 0 $spacing * 0.4;
+    font-size: 1.3rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    color: $color-text;
+  }
+
+  h4 {
+    margin: $spacing 0 $spacing * 0.3;
+    font-size: 1.15rem;
+    color: $color-heading;
+  }
+
+  p {
+    margin-bottom: $spacing;
+    font-size: 1.1rem;
+  }
+
+  a {
+    color: $color-accent;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.08em;
+    text-decoration-color: $color-accent-dim;
+    text-underline-offset: 0.18em;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $color-link-hover;
+      text-decoration-color: $color-link-hover;
+    }
+  }
+
+  strong {
+    color: $color-heading;
+    font-weight: 700;
+  }
+
+  em {
+    color: color.adjust($color-text, $lightness: 5%);
+  }
+
+  ul,
+  ol {
+    margin-top: $spacing;
+    margin-bottom: $spacing;
+    padding-left: 2rem;
+  }
+
+  li + li {
+    margin-top: 0.25rem;
+  }
+
+  code {
+    font-family: $font-mono;
+    font-size: 0.9em;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    border: 1px solid $color-glass-edge-soft;
+    color: $color-accent;
+  }
+
+  pre {
+    background: rgba(0, 0, 0, 0.6);
+    border: 1px solid $color-glass-edge-soft;
+    border-left: 3px solid $color-accent-dim;
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin-bottom: $spacing;
+
+    code {
+      background: none;
+      border: none;
+      padding: 0;
+      color: $color-text;
+    }
+  }
+
+  blockquote {
+    border-left: 3px solid $color-accent-dim;
+    padding: 0.5rem 0 0.5rem $spacing;
+    margin: 0 0 $spacing $spacing;
+    color: $color-muted;
+    font-style: italic;
+    background: rgba(0, 0, 0, 0.22);
+    border-radius: 6px;
+    position: relative;
+
+    &::before,
+    &::after {
+      content: "";
+      display: block;
+      width: 80px;
+      max-width: 30%;
+      border-top: 1px solid rgba(184, 144, 47, 0.4);
+    }
+
+    &::before {
+      margin-bottom: 0.5rem;
+    }
+
+    &::after {
+      margin-top: 0.5rem;
+    }
+  }
+
+  nav[aria-label="Breadcrumb"] {
+    margin-bottom: $spacing * 0.5;
+
+    ol {
+      display: flex;
+      flex-wrap: wrap;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      gap: 0.25rem;
+      font-size: 0.85rem;
+    }
+
+    li {
+      margin: 0;
+      padding: 0;
+      color: $color-muted;
+
+      & + li::before {
+        content: "/";
+        margin: 0 0.35rem;
+        color: $color-muted;
+        opacity: 0.5;
+      }
+
+      a {
+        color: $color-accent-dim;
+        text-decoration: none;
+
+        &:hover,
+        &:focus {
+          color: $color-link-hover;
+          text-decoration: underline;
+        }
+      }
+
+      &[aria-current="page"] {
+        color: $color-muted;
+      }
+    }
+  }
+
+  .nav-home {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 1.5rem;
+    margin: $spacing * 2 0;
+
+    .nav-group {
+      h2 {
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: $color-accent-dim;
+        margin: 0 0 0.5rem;
+        padding: 0 0 0.35rem;
+        border-bottom: 1px solid $color-glass-edge-soft;
+
+        &::before {
+          display: none;
+        }
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+
+        a {
+          display: block;
+          padding: 0.3rem 0.4rem;
+          font-size: 0.95rem;
+          color: rgba(255, 255, 255, 0.7);
+          text-decoration: none;
+          border-radius: 6px;
+          border: 1px solid transparent;
+          transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+
+          &:hover,
+          &:focus {
+            color: $color-heading;
+            background: rgba(255, 255, 255, 0.05);
+            border-color: $color-glass-edge-soft;
+          }
+        }
+      }
+    }
+  }
+
+  hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, $color-glass-edge, transparent);
+    margin: $spacing * 2 0;
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 7px;
+      height: 7px;
+      background: $color-accent;
+      transform: translate(-50%, -50%) rotate(45deg);
+      box-shadow: 0 0 10px rgba($color-accent, 0.55);
+    }
+  }
+}

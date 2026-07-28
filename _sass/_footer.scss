@@ -1,0 +1,40 @@
+@use "variables" as *;
+
+footer {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.015) 0%, rgba(255, 255, 255, 0.05) 100%),
+    $color-bg;
+  border-top: 1px solid $color-glass-border-warm;
+  text-align: center;
+  padding: $spacing $spacing;
+  font-size: 0.9rem;
+  color: $color-muted;
+  position: relative;
+  margin-top: $spacing;
+
+  &::before {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 1px;
+    margin: 0 auto 0.85rem;
+    background: linear-gradient(90deg, transparent, $color-accent-dim, transparent);
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: $color-accent-dim;
+    text-decoration-line: underline;
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.18em;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: $color-link-hover;
+    }
+  }
+}

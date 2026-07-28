@@ -1,3 +1,5 @@
+require 'set'
+
 module Jekyll
   class CategoryIndexPage < Jekyll::Page
     def initialize(site, base, dir, pages)
@@ -11,6 +13,7 @@ module Jekyll
       self.data = {}
       self.data['layout'] = 'default'
       label = dir.sub(%r{^content/}, '').split('/').last
+      label = label || dir.split('/').last || 'Index'
       self.data['title'] = label.tr('-', ' ').split.map(&:capitalize).join(' ')
     end
 
@@ -40,10 +43,14 @@ module Jekyll
         pages_by_dir[dir] << p
       end
 
+      indexed_dirs = Set.new
+
       pages_by_dir.each do |dir, pages|
         full_dir = File.join(site.source, dir)
-        next if File.exist?(File.join(full_dir, 'index.md'))
-        next if File.exist?(File.join(full_dir, 'index.html'))
+        if File.exist?(File.join(full_dir, 'index.md')) || File.exist?(File.join(full_dir, 'index.html'))
+          indexed_dirs << dir
+          next
+        end
         next if dir == 'content'
 
         content_pages = pages.reject do |p|
@@ -53,6 +60,26 @@ module Jekyll
         next if content_pages.empty?
 
         site.pages << CategoryIndexPage.new(site, site.source, dir, content_pages)
+        indexed_dirs << dir
+      end
+
+      Dir.glob('**/', base: content_root).sort.reverse.each do |subdir|
+        next if subdir == '/'
+        dir_path = "content/#{subdir}".chomp('/')
+        full_dir = File.join(content_root, subdir)
+
+        next if dir_path == 'content'
+        next if indexed_dirs.include?(dir_path)
+
+        children = Dir.glob('*/', base: full_dir).sort
+        child_indices = children.map { |child|
+          child_dir = File.join(dir_path, child.chomp('/'))
+          site.pages.find { |p| File.dirname(p.path) == child_dir && p.name == 'index.md' }
+        }.compact
+
+        next if child_indices.empty?
+
+        site.pages << CategoryIndexPage.new(site, site.source, dir_path, child_indices)
       end
     end
   end
