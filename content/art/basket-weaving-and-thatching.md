@@ -22,7 +22,7 @@ The plaited basket is a third type, made by the interweaving of flat strips of f
 
 ## The Basketry of the Marsh Peoples
 
-The peoples of the marshes and the riverbanks of the known world are the most accomplished basket weavers, for the reeds and the rushes that grow in the wetlands are the finest materials for the craft. The reed marshes of the [Greywash River](/content/location/natural/feature/greywash-river) produce the reeds that are the standard of quality for the basket weavers of Aethelar, and the baskets that are woven from the Greywash reeds are exported to every region.
+The peoples of the marshes and the riverbanks of the known world are the most accomplished basket weavers, for the reeds and the rushes that grow in the wetlands are the finest materials for the craft. The reed marshes of the [Greywash River](/content/location/natural/feature/greywash-river) produce the reeds that are the standard of quality for the basket weavers of [Aethelar](/content/location/natural/continent/aethelar), and the baskets that are woven from the Greywash reeds are exported to every region.
 
 The marsh peoples have developed a range of techniques for the working of the reeds, suited to the different types of reeds that the marshes provide. The bulrush of the shallow water is used for the large storage baskets that are the principal containers of the marsh households. The reed of the deeper water is used for the finer baskets that are used for the serving of food and the decoration of the home.
 
@@ -34,13 +34,13 @@ The peoples of the forests of [Aethelar](/content/location/natural/continent/aet
 
 The vines of the forest are used for the production of the flexible baskets that are used for the carrying of the forest produce. The vines are gathered in the autumn, when they are dry and flexible, and they are woven into baskets that are light and strong and that can be carried on the back of the gatherer.
 
-The [elves](/content/species/sapient/elves) of the [Sylvan Court](/content/government/local/sylvan-court) are the most accomplished of the forest basket weavers, for they have worked with the fibres of the forest for longer than any other people. The elven baskets are woven from the fibres of the forest plants that the elves have cultivated for the purpose, and the elven baskets are among the most beautiful objects that the Elven Woodland Art produces.
+The [elves](/content/species/sapient/elves) of the [Sylvan Court](/content/government/local/sylvan-court) are the most accomplished of the forest basket weavers, for they have worked with the fibres of the forest for longer than any other people. The elven baskets are woven from the fibres of the forest plants that the elves have cultivated for the purpose, and the elven baskets are among the most beautiful objects that the [Elven Woodland Art](/content/art/elven-woodland-art) produces.
 
 ## The Basketry of the Sahrani Deserts
 
-The peoples of the [Sahrani](/content/location/natural/continent/sahrana) deserts use the fibres of the desert plants for the weaving of their baskets. The leaves of the date palm are the principal material, stripped into thin strips and woven into baskets that are suited to the dry climate of the desert. The palm leaf baskets are light and strong, and they do not rot in the dry air of the desert.
+The peoples of the [Sahrani](/content/location/natural/continent/sahrana) deserts use the fibres of the [desert plants](/content/nature/flora/desert-adapted-plants) for the weaving of their baskets. The leaves of the date palm are the principal material, stripped into thin strips and woven into baskets that are suited to the dry climate of the desert. The palm leaf baskets are light and strong, and they do not rot in the dry air of the desert.
 
-The Sahrani basket weavers also use the fibres of the desert grasses, the esparto and the halfa that grow in the dry regions of the south. The grasses are gathered in the spring, when they are at their strongest, and they are woven into baskets that are used for the storage of the dates and the grains that are the staples of the Sahrani diet.
+The [Sahrani](/content/language/spoken/sahrani) basket weavers also use the fibres of the desert grasses, the esparto and the halfa that grow in the dry regions of the south. The grasses are gathered in the spring, when they are at their strongest, and they are woven into baskets that are used for the storage of the dates and the grains that are the staples of the Sahrani diet.
 
 ## The Thatching of Roofs
 

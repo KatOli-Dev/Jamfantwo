@@ -8,13 +8,13 @@ description: "The legion of the Amurra Republic, the largest standing army in th
 
 The legion of the [Amurra Republic](/content/government/national/amurra-republic)
 is the largest and most disciplined standing army in the southern regions of
-Aethelar. It is a force of citizen soldiers, men who serve not for pay or
+[Aethelar](/content/location/natural/continent/aethelar). It is a force of citizen soldiers, men who serve not for pay or
 plunder but out of obligation to the Republic that grants them their rights and
 protects their property. The legion is the embodiment of the Republican ideal:
 that those who enjoy the benefits of citizenship must be willing to defend them
 with their lives.
 
-The Amurra Republic was founded on the principle that military power should be
+The [Amurra Republic](/content/government/national/amurra-republic) was founded on the principle that military power should be
 vested in the citizenry rather than in a professional class of warriors or a
 hereditary nobility. Every male citizen of the Republic is required to serve in
 the legion for a period of six years between the ages of eighteen and thirty,
@@ -52,7 +52,7 @@ own provisions, cooking equipment, and tools for digging trenches and building
 palisades. A legion on the march looks like a moving village, with each soldier
 carrying the equipment he needs to construct a fortified camp at the end of
 the day's march. The ability to build a defensible camp every night is one of
-the hallmarks of the Amurra legion, and it has saved the legion from disaster
+the hallmarks of the [Amurra](/content/location/settlement/city/amurra) legion, and it has saved the legion from disaster
 on more than one occasion.
 
 ## Training

@@ -15,7 +15,7 @@ and isolated, separated by stretches of wilderness that can take days to cross.
 The Rangers are the force that patrols this wilderness, protecting the
 settlements from the dangers that lurk in the deep woods and on the high moors.
 
-The Northern Marches Rangers are not a conventional military force. They are
+The [Northern Marches](/content/government/national/northern-marches) Rangers are not a conventional military force. They are
 woodsmen, hunters, and trackers who have turned their skills to the service of
 the realm. They operate in small groups, moving silently through the forest,
 living off the land, and appearing where they are least expected. They are the
@@ -127,6 +127,6 @@ The Rangers have served with distinction in every conflict that has touched the
 Northern Marches. They fought in the [Three-Banners War](/content/history/three-banners-war),
 providing intelligence and conducting raids behind enemy lines. They played a
 key role in the [Stoneheim Pass War](/content/history/stoneheim-pass-war),
-guiding dwarven forces through the passes of the Whitewall Range. Their
+guiding dwarven forces through the passes of the [Whitewall Range](/content/location/natural/feature/whitewall-range). Their
 reputation for skill, courage, and reliability is unmatched, and they are
 regarded as one of the finest light infantry forces in the known world.

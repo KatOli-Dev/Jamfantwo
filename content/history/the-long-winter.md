@@ -12,11 +12,11 @@ The Long Winter is recorded in the chronicles of every people of the present age
 
 ## The Onset of the Winter
 
-The autumn of the year 512 was unusually cold and wet. The harvest was poor in the principal grain-growing regions of Aethelar, as the rain had rotted the crops in the fields and the cold had slowed the ripening. The farmers reported that the autumn birds had departed early and that the animals of the forests were behaving strangely, gathering in large numbers at the edge of the settlements as if seeking the shelter of the human habitations.
+The autumn of the year 512 was unusually cold and wet. The harvest was poor in the principal grain-growing regions of [Aethelar](/content/location/natural/continent/aethelar), as the rain had rotted the crops in the fields and the cold had slowed the ripening. The farmers reported that the autumn birds had departed early and that the animals of the forests were behaving strangely, gathering in large numbers at the edge of the settlements as if seeking the shelter of the human habitations.
 
 The first snow of the winter fell in the middle of autumn, much earlier than was usual. The snow was followed by a period of cold that did not relent. The rivers began to freeze in the late autumn, and the harbours of the northern coast were blocked with ice by the beginning of the winter proper. The snow continued to fall, and the drifts accumulated to a depth that the oldest inhabitants of the cities could not remember having seen.
 
-The cold was the most severe in the northern regions of Aethelar and in the highlands of Morvind. The temperatures fell below the levels that the people of the north had experienced in their lifetimes, and the cold penetrated even the well-insulated dwellings of the dwarven holds. The frost was so deep that the ground was frozen to a depth of several feet, and the wells and the springs that the people depended upon for their water were frozen solid.
+The cold was the most severe in the northern regions of Aethelar and in the highlands of [Morvind](/content/location/natural/continent/morvind). The temperatures fell below the levels that the people of the north had experienced in their lifetimes, and the cold penetrated even the well-insulated dwellings of the dwarven holds. The frost was so deep that the ground was frozen to a depth of several feet, and the wells and the springs that the people depended upon for their water were frozen solid.
 
 ## The First Year
 
@@ -24,7 +24,7 @@ The first year of the Long Winter was the hardest for the populations of the thr
 
 The chronicles of the period record the measures that the authorities took to address the shortage. The councils of the principal cities imposed rationing, distributing the remaining grain in small portions to the citizens. The councils also sent expeditions to the countryside to collect any food that could be found, including the nuts and the berries that the animals had not eaten and the roots that could be dug from the frozen ground.
 
-The shortage of food was most severe in the cities of the [Northern Coast League](/content/government/national/northern-coast-league) and the kingdom of [Nordhaven](/content/government/national/nordhaven), which were the furthest from the grain-growing regions of the south. The chronicles of Nordhaven record that the citizens were reduced to eating the bark of the trees and the leather of their shoes, and that many of the old and the weak died of starvation before the winter ended.
+The shortage of food was most severe in the cities of the [Northern Coast League](/content/government/national/northern-coast-league) and the kingdom of [Nordhaven](/content/government/national/nordhaven), which were the furthest from the grain-growing regions of the south. The chronicles of [Nordhaven](/content/location/settlement/city/nordhaven) record that the citizens were reduced to eating the bark of the trees and the leather of their shoes, and that many of the old and the weak died of starvation before the winter ended.
 
 The shortage of fuel was also severe. The forests were buried under the snow, and the wood that the people gathered for their fires was wet and difficult to burn. The peat and the coal that the people used as fuel were also difficult to extract from the frozen ground, and the supplies that had been stored in the autumn were exhausted before the winter ended.
 
@@ -34,7 +34,7 @@ The second year of the Long Winter was not as hard as the first, as the people h
 
 The harvest of the year 513 was even worse than the harvest of the previous year. The fields were still covered with snow in the spring, and the farmers were unable to plant the crops in time for the summer growing season. The crops that were planted did not grow well, as the summer was cool and wet and the sun was weak. The harvest that was gathered in the autumn was a small fraction of the normal yield.
 
-The shortage of food continued, and the councils of the principal cities were forced to import grain from the warmer regions of the south. The grain was shipped from the ports of the Sahrani coast, which had been less severely affected by the winter. The [Kharesh Tribes](/content/government/national/kharesh-tribes) and the [Vashari Pact](/content/government/national/vashari-pact) provided grain to the cities of the north at prices that were reasonable by the standards of the period, and the trade that was established between the southern and the northern ports in the years of the Long Winter continued after the winter had ended.
+The shortage of food continued, and the councils of the principal cities were forced to import grain from the warmer regions of the south. The grain was shipped from the ports of the [Sahrani](/content/language/spoken/sahrani) coast, which had been less severely affected by the winter. The [Kharesh Tribes](/content/government/national/kharesh-tribes) and the [Vashari Pact](/content/government/national/vashari-pact) provided grain to the cities of the north at prices that were reasonable by the standards of the period, and the trade that was established between the southern and the northern ports in the years of the Long Winter continued after the winter had ended.
 
 The second winter was also marked by an increase in the incidence of disease. The people were weakened by the shortage of food and by the cold, and they were more susceptible to the illnesses that circulated in the crowded cities. The chronicles record outbreaks of a respiratory sickness that affected the old and the young most severely, and the mortality from the sickness was added to the mortality from the starvation and the cold.
 
@@ -48,7 +48,7 @@ The spring of the year 515 was a time of hope and of hard work. The fields were 
 
 ## The Impact of the Winter
 
-The Long Winter was one of the most severe climatic events of the present age, causing widespread hardship and loss of life across the three continents. The population of Aethelar and the neighbouring coasts of Sahrana and Morvind was reduced by the famine and the disease, and it took a generation for the population to return to the level that it had been before the winter.
+The Long Winter was one of the most severe climatic events of the present age, causing widespread hardship and loss of life across the three continents. The population of Aethelar and the neighbouring coasts of [Sahrana](/content/location/natural/continent/sahrana) and Morvind was reduced by the famine and the disease, and it took a generation for the population to return to the level that it had been before the winter.
 
 The winter also had a lasting impact upon the economy of the present age. The trade between the northern and the southern regions was transformed by the experience of the winter, as the merchants of the north established new connections with the ports of the south that continued after the winter had ended. The economies of the northern cities were also transformed, as the councils invested in the storage of grain and the construction of granaries that would protect the cities from future shortages.
 

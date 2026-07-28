@@ -14,7 +14,7 @@ The cost of the transport by land is many times the cost of the transport by sea
 
 The roads of the known world are of the varying quality, from the paved stone roads of the dwarven holds to the dirt tracks that cross the open plains. The quality of the road determines the speed and the safety of the travel, and the merchants who transport the goods will choose the road that offers the best combination of the distance and the condition.
 
-The Stoneheim Highland Road that connects the interior of Morvind to the coastal ports is the finest road in the known world, paved with the stone for its entire length and maintained by the guilds of the holds. The Grassland Traderoad that crosses the Great Grass Plains is a road of the packed earth, marked by the passage of the countless wagons and the hooves of the horses and the cattle. The Kharesh Caravan Way that crosses the desert of Sahrana is not a road in the ordinary sense but a route of the waypoints and the oases that the caravan follows.
+The [Stoneheim Highland Road](/content/location/route/trade/stoneheim-highland-road) that connects the interior of [Morvind](/content/location/natural/continent/morvind) to the coastal ports is the finest road in the known world, paved with the stone for its entire length and maintained by the guilds of the holds. The [Grassland Traderoad](/content/location/route/trade/grassland-traderoad) that crosses the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) is a road of the packed earth, marked by the passage of the countless wagons and the hooves of the horses and the cattle. The [Kharesh Caravan Way](/content/location/route/trade/kharesh-caravan-way) that crosses the desert of [Sahrana](/content/location/natural/continent/sahrana) is not a road in the ordinary sense but a route of the waypoints and the oases that the caravan follows.
 
 The bridges and the fords that cross the rivers are the critical points of the road network, and the maintenance of the bridges is the responsibility of the sovereign or the council that controls the territory. The bridge that is washed away by the flood or the ford that is made impassable by the rising of the water can disrupt the trade of the entire region, and the merchants who depend on the route will petition the sovereign for the repair of the crossing.
 
@@ -32,7 +32,7 @@ The caravan is the form of the transport that is used for the long-distance trad
 
 The organisation of the caravan is the work of the caravan master, who is the merchant or the agent who arranges the schedule, the route, and the protection of the caravan. The caravan master must know the road and the watering places and the condition of the tribes and the bandits along the route, and the master's judgment determines the safety and the success of the journey.
 
-The caravan of the Kharesh Caravan Way is the most famous of the caravans of the known world, crossing the desert of the Sahrana interior from the oasis of Dunesend to the markets of the coast. The caravan travels in the cool of the night and the early morning, resting in the heat of the day at the oases that are spaced along the route. The camels and the salawa horses that are the mounts of the caravan are the animals that have been bred for the endurance of the desert conditions, and the caravan cannot make the journey without the reliable supply of the water and the forage.
+The caravan of the [Kharesh](/content/location/natural/feature/kharesh) Caravan Way is the most famous of the caravans of the known world, crossing the desert of the Sahrana interior from the oasis of [Dunesend](/content/location/settlement/outpost/dunesend) to the markets of the coast. The caravan travels in the cool of the night and the early morning, resting in the heat of the day at the oases that are spaced along the route. The camels and the salawa horses that are the mounts of the caravan are the animals that have been bred for the endurance of the desert conditions, and the caravan cannot make the journey without the reliable supply of the water and the forage.
 
 ## The Rates and the Regulation
 
@@ -40,7 +40,7 @@ The guild of the waggoners in each city sets the rates that the carters may char
 
 The rate for the transport of the grain from the plains to the coast is set at a penny per mile per hundredweight, and the merchant who ships the grain must pay the rate to the waggoner who carries it. The rate for the transport of the metal goods from the mountains is higher, for the roads of the mountains are more difficult than the roads of the plains, and the risk of the damage to the load is greater.
 
-The waggoner who violates the regulations of the guild is subject to the fine and the suspension from the practice of the trade. The guild of the waggoners of Eldreth is among the oldest and the most respected of the guilds of the city, and the standards that the guild maintains are the model upon which the guilds of the other cities are built.
+The waggoner who violates the regulations of the guild is subject to the fine and the suspension from the practice of the trade. The guild of the waggoners of [Eldreth](/content/location/settlement/city/eldreth) is among the oldest and the most respected of the guilds of the city, and the standards that the guild maintains are the model upon which the guilds of the other cities are built.
 
 ## The Porters and the Hand Carts
 
@@ -52,11 +52,11 @@ The hand cart is a small vehicle that is pushed or pulled by the hand, and the h
 
 The transport of the livestock from the grazing regions to the markets of the cities is a specialised branch of the transport trade, requiring the knowledge of the handling of the animals and the routes that are suitable for the passage of the herds. The drover is the person who accompanies the herd on the journey, and the drover's trade is a skilled occupation that requires the knowledge of the animals and the management of their movement.
 
-The drove road is the route that is used for the movement of the livestock from the interior to the coast, and the drove roads of the Plains Confederation are among the oldest routes of the known world. The drove roads are wide tracks of the beaten earth, lined with the watering places and the grazing grounds where the animals may rest on the journey.
+The drove road is the route that is used for the movement of the livestock from the interior to the coast, and the drove roads of the [Plains Confederation](/content/government/national/plains-confederation) are among the oldest routes of the known world. The drove roads are wide tracks of the beaten earth, lined with the watering places and the grazing grounds where the animals may rest on the journey.
 
 ## The Cartage of the Different Regions
 
-The cartage trade of the mountains is the most difficult of the transport trades, for the roads of the mountains are steep and narrow and the weather is severe. The waggoners of the Stoneheim Holds are the most skilled in the known world, and the wagons that they drive along the mountain roads are the most carefully built of any region.
+The cartage trade of the mountains is the most difficult of the transport trades, for the roads of the mountains are steep and narrow and the weather is severe. The waggoners of the [Stoneheim Holds](/content/government/national/stoneheim-holds) are the most skilled in the known world, and the wagons that they drive along the mountain roads are the most carefully built of any region.
 
 The cartage trade of the plains is the most efficient of the transport trades, for the roads of the plains are straight and level and the distances are long. The waggoners of the Plains Confederation drive their teams at a steady pace across the open country, and the wagons of the plains are the most numerous of any region.
 

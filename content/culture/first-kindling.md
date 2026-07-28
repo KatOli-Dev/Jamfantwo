@@ -6,7 +6,7 @@ description: "The winter festival of the Still Flame observed on the longest nig
 
 ## The Festival of the Winter Fire
 
-The First Kindling is the principal winter festival of the [Still Flame](/content/religion/still-flame), observed in the hearth-halls throughout the lands where the faith is practised on the longest night of the year. The festival marks the awakening of the first fire and the gift of warmth and light that the Still Flame represents, and it is the occasion upon which the faithful renew their connection to the fire that sustains the community through the darkness of the winter.
+The First Kindling is the principal winter festival of the [Still Flame](/content/religion/still-flame), observed in the hearth-halls throughout the lands where the faith is practised on the longest night of the year. The festival marks the awakening of the first fire and the gift of warmth and light that the [Still Flame](/content/religion/still-flame) represents, and it is the occasion upon which the faithful renew their connection to the fire that sustains the community through the darkness of the winter.
 
 The festival is observed by the communities of the [Aldreth](/content/government/national/aldreth) and the [Vael](/content/government/national/vael) and by the scattered communities of the Still Flame throughout the central and southern regions of [Aethelar](/content/location/natural/continent/aethelar). The observance is also maintained by the hearth-keepers of the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the [Karhold Realm](/content/government/national/karhold-realm), whose smiths and craftfolk have adopted the festival as a complement to their own traditions of the forge fire.
 
@@ -52,9 +52,9 @@ The gift of the ember is the expression of the Still Flame's teaching that the f
 
 The observance of the First Kindling varies from region to region, reflecting the different conditions and the different traditions of the communities that celebrate it. The communities of the [Aldreth](/content/government/national/aldreth) observe the festival in the form established by the central lowlands, with the great bonfire kindled at the hearth-hall and the hearth fires lit from the bonfire.
 
-The communities of the [Vael](/content/government/national/vael) observe the festival with a greater emphasis on the vigil and the reflection, reflecting the contemplative character of the Vaelic tradition. The hearth fires of the Vael are not kindled from a central bonfire but from a flame that has been preserved from the previous year, and the continuity of the flame is a matter of great importance to the Vaelic communities.
+The communities of the [Vael](/content/government/national/vael) observe the festival with a greater emphasis on the vigil and the reflection, reflecting the contemplative character of the Vaelic tradition. The hearth fires of the [Vael](/content/government/national/vael) are not kindled from a central bonfire but from a flame that has been preserved from the previous year, and the continuity of the flame is a matter of great importance to the Vaelic communities.
 
-The communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) observe the festival in the forges and the workshops, with the forge fire serving as the hearth fire and the smiths and the craftfolk serving as the hearth-keepers. The First Kindling of the Stoneheim Holds is a more austere observance than the festival of the lowlands, reflecting the practical character of the dwarven tradition.
+The communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) observe the festival in the forges and the workshops, with the forge fire serving as the hearth fire and the smiths and the craftfolk serving as the hearth-keepers. The First Kindling of the [Stoneheim Holds](/content/government/national/stoneheim-holds) is a more austere observance than the festival of the lowlands, reflecting the practical character of the dwarven tradition.
 
 Related topics:
 - [still flame](/content/religion/still-flame)

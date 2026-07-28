@@ -24,7 +24,7 @@ temperatures high enough to separate the metal from the rock, and the resulting
 bloom is hammered to remove impurities and to shape the metal into bars. Steel
 is made by adding carbon to iron in a controlled process, producing a metal
 that is harder and tougher than iron alone. The best steel comes from the
-Stoneheim Holds, where the ores are rich and the smiths have mastered the
+[Stoneheim Holds](/content/government/national/stoneheim-holds), where the ores are rich and the smiths have mastered the
 techniques of carburisation and quenching.
 
 ## Swords
@@ -44,7 +44,7 @@ force of the blow at a single point, allowing the rider to strike with
 devastating effect while passing at speed. The sabre is lighter than the
 longsword and is worn suspended from a waist belt, ready for quick drawing.
 
-The short sword of Vael, the vaelspatha, is a stabbing weapon designed for use
+The short sword of [Vael](/content/government/national/vael), the vaelspatha, is a stabbing weapon designed for use
 in the close confines of a shield wall or a riverboat deck. It has a broad
 blade of about eighteen inches, tapering to a sharp point. The vaelspatha is
 carried as a secondary weapon, used when the spear is lost or when the
@@ -58,7 +58,7 @@ offence and defence. The spear is typically eight to ten feet in length, with a
 head of iron or steel that is socketed onto the shaft. The shaft is of ash,
 oak, or another dense wood, chosen for its strength and flexibility.
 
-The long spear of the Stoneheim Holds is twelve feet in length, used in the
+The long spear of the [Stoneheim](/content/location/settlement/city/stoneheim) Holds is twelve feet in length, used in the
 dense phalanx formation that is the hallmark of dwarf infantry. The length of
 the spear allows the rear ranks to reach over the front ranks, presenting a
 wall of points that no enemy can approach without risk. The Stoneheim spear is
@@ -68,7 +68,7 @@ is difficult to treat.
 The pike is an even longer weapon, eighteen to twenty feet in length, used by
 the infantry of the [Amurra Republic](/content/government/national/amurra-republic).
 The pike is unwieldy in individual combat but devastating in formation, and the
-Amurra legions have used their pike phalanxes to defeat cavalry charges that
+[Amurra](/content/location/settlement/city/amurra) legions have used their pike phalanxes to defeat cavalry charges that
 would have broken any other infantry.
 
 ## Bows and Missile Weapons
@@ -86,7 +86,7 @@ The composite bow is a more sophisticated weapon, built from layers of horn,
 sinew, and wood. The composite bow is shorter than the longbow but stores more
 energy, delivering a faster arrow that retains its force at longer ranges. The
 composite bow is the weapon of the horse archer, used by the Plains
-Confederation, the Vashari Pact, and the Kharesh Tribes.
+Confederation, the [Vashari Pact](/content/government/national/vashari-pact), and the [Kharesh Tribes](/content/government/national/kharesh-tribes).
 
 The crossbow is used by some realms, particularly in siege warfare. The
 crossbow fires a bolt that is shorter and heavier than an arrow, and it can
@@ -123,11 +123,11 @@ The shield is the oldest form of defence, carried by soldiers of every culture.
 The round shield, three feet in diameter, is the most common form, made from
 wood planking covered with leather or rawhide and reinforced with an iron rim
 and a central boss. The round shield is used by the infantry of Vael, the
-cavalry of the Plains Confederation, and the warriors of the Frostwall Clans.
+cavalry of the [Plains Confederation](/content/government/national/plains-confederation), and the warriors of the [Frostwall Clans](/content/government/national/frostwall-clans).
 
 The kite shield, longer and narrower than the round shield, provides better
 protection for the legs and is used by cavalry. The rectangular shield, or
-scutum, is used by the Amurra Republic legion, providing cover for the entire
+scutum, is used by the [Amurra Republic legion](/content/military/amurra-republic-legion), providing cover for the entire
 body when the legionaries form their shield wall. The dwarves of Stoneheim use
 a round shield of iron-bound wood that is smaller than the human round shield
 but thicker and heavier.

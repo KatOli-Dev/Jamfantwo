@@ -10,7 +10,7 @@ The [Frostwall Clans](/content/government/national/frostwall-clans) inhabit the
 coldest and most inhospitable regions of [Morvind](/content/location/natural/continent/morvind),
 a land of frozen tundra, glacial valleys, and windswept coasts where the
 struggle for survival is the central fact of existence. The war bands of the
-Frostwall Clans are not a standing army in the manner of the southern realms.
+[Frostwall Clans](/content/government/national/frostwall-clans) are not a standing army in the manner of the southern realms.
 They are gatherings of warriors who follow a successful chieftain, bound by
 ties of kinship, loyalty, and the promise of plunder. Every adult male in the
 clans is a warrior, trained from childhood in the use of weapons and hardened
@@ -88,8 +88,8 @@ the memories of the things they have done.
 
 The Frostwall war bands are most active in the summer months, when the weather
 is mild enough to allow travel by sea. The war bands use longships to cross the
-stormy northern waters, raiding the coasts of the Karhold Realm and the
-northern shores of Aethelar. The raids are swift and brutal, with the war
+stormy northern waters, raiding the coasts of the [Karhold Realm](/content/government/national/karhold-realm) and the
+northern shores of [Aethelar](/content/location/natural/continent/aethelar). The raids are swift and brutal, with the war
 bands landing at dawn, taking what they can carry, and sailing away before the
 defenders can organise a response.
 

@@ -8,7 +8,7 @@ description: "The elven peoples venerate forests, waters, and woodland creatures
 
 The elven peoples of the known world practise a form of the spiritual life that is centred upon the veneration of the living world, the forests and the waters and the creatures of the woodland that the elves regard as the manifestations of the divine. The elven veneration is not a religion in the manner of the temple faiths of the human coastal cities, for the elves do not maintain the temples or the priests or the formal doctrines. The veneration is a way of the being in the world, a recognition of the sacredness of the natural order and a practice of the attention to the life that surrounds the elven community.
 
-The elves of the ancient temperate forests of Aethelar are the oldest and the most numerous of the elven populations, and the practices that they maintain are the foundation of the elven spiritual life. The elves of the smaller populations in Morvind and Sahrana have adapted the practices to the different conditions of the regions, but the core of the veneration remains the same across the elven communities.
+The elves of the ancient temperate forests of [Aethelar](/content/location/natural/continent/aethelar) are the oldest and the most numerous of the elven populations, and the practices that they maintain are the foundation of the elven spiritual life. The elves of the smaller populations in [Morvind](/content/location/natural/continent/morvind) and [Sahrana](/content/location/natural/continent/sahrana) have adapted the practices to the different conditions of the regions, but the core of the veneration remains the same across the elven communities.
 
 ## The Forest as the Temple
 
@@ -44,7 +44,7 @@ The keepers of the lore are the elves who have learned the songs and the stories
 
 ## The Elven Veneration and the Other Traditions
 
-The elven veneration is not a tradition that seeks the converts, and the elves do not maintain the correspondence with the human traditions in the manner that the Still Flame maintains the correspondence with the Unwritten Name. The elves regard the veneration as the practice of the elven people, and the other peoples who come to live in the elven forests are not required to observe the elven rites.
+The elven veneration is not a tradition that seeks the converts, and the elves do not maintain the correspondence with the human traditions in the manner that the [Still Flame](/content/religion/still-flame) maintains the correspondence with the [Unwritten Name](/content/religion/unwritten-name). The elves regard the veneration as the practice of the elven people, and the other peoples who come to live in the elven forests are not required to observe the elven rites.
 
 The elves maintain a distant respect for the human traditions, regarding them as the practices of a people who are more removed from the natural world. The elves do not criticise the human traditions, but they do not see in them the understanding of the spirits that the elves have cultivated through the centuries of the life in the forest.
 

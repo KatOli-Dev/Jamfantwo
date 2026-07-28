@@ -6,7 +6,7 @@ description: "The broad saddle between the Stonespire and the Sentinel carrying 
 
 ## Saddle Between the Two High Peaks
 
-At the head of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands), where the range narrows to a saddle between two of the highest peaks, a broad, rocky pass carries the road from the cold north into the warm coast. The pass has been a landmark of the inland valleys since the [Founding Era](/content/history/founding-era) and is called the [Stonespire](/content/location/natural/feature/stonespire) Pass for the peaks flanking it on either side. It is bounded on the north by the cliffs of the higher Stonespire, on the south by the descent to the foothills of the warm coast, on the east by the peak called the Sentinel, and on the west by the peak called the Watcher.
+At the head of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands), where the range narrows to a saddle between two of the highest peaks, a broad, rocky pass carries the road from the cold north into the warm coast. The pass has been a landmark of the inland valleys since the [Founding Era](/content/history/founding-era) and is called the [Stonespire](/content/location/natural/feature/stonespire) Pass for the peaks flanking it on either side. It is bounded on the north by the cliffs of the higher [Stonespire](/content/location/natural/feature/stonespire), on the south by the descent to the foothills of the warm coast, on the east by the peak called the Sentinel, and on the west by the peak called the [Watcher](/content/religion/watcher).
 
 The pass has been the principal route of the land trade between the cold north and the warm coast since the [Founding Era](/content/history/founding-era) and has been the subject of careful engineering by the magistrates of the towns of both regions. It is one of the most distinctive natural features of the three continents and is held in particular esteem by the merchants and travellers who make their living upon the road.
 
@@ -18,7 +18,7 @@ The pass is subject to occasional closure when winter snow blocks the road, and 
 
 ## Sentinel, Watcher, and the Hardy Vegetation
 
-The peaks flanking the pass are among the highest of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) and are the home of the hardy vegetation that the climate supports. The lower slopes support the conifers that the Reading the Ground has catalogued, and the higher slopes support only the lichens and mosses that the cold allows. The peaks are the home of smaller mammals that birds of prey feed upon and the wild goats that the hunters of the holds pursue in season.
+The peaks flanking the pass are among the highest of the [Stoneheim Highlands](/content/location/settlement/region/stoneheim-highlands) and are the home of the hardy vegetation that the climate supports. The lower slopes support the conifers that the Reading the Ground has catalogued, and the higher slopes support only the lichens and mosses that the cold allows. The peaks are the home of smaller mammals that [birds of prey](/content/nature/fauna/birds-of-prey) feed upon and the wild goats that the hunters of the holds pursue in season.
 
 The peaks have been the subject of careful survey by the pilots of the Distance-Craft, establishing their heights with care. They are the most distinctive landmarks of the inland valleys and are held in high esteem by the magistrates and merchants of the towns of both regions.
 

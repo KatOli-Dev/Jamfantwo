@@ -20,7 +20,7 @@ Satyr senses are acute, particularly hearing and sense of balance. Their ears ar
 
 Satyrs live eighty to one hundred and twenty years under favourable conditions. They mature at a pace comparable to humans, reaching full stature by their late teens. Satyr women carry their young for approximately seven months before giving birth, and births are usually single, though twins are not uncommon. Infant mortality is low in settled communities, as the woodland fringe is a relatively sheltered environment and satyr communities are attentive to the care of their young.
 
-Satyr populations grow steadily when conditions are favourable, and the woodland fringes of Aethelar have supported stable satyr communities for many centuries. The satyr way of life is oriented around the kindred and the glade, and the bonds of community are strong and enduring. The elders of a satyr kindred are valued for their memory of songs, stories, and the history of the woodland, and the transmission of this oral tradition from one generation to the next is the most important function of satyr culture.
+Satyr populations grow steadily when conditions are favourable, and the woodland fringes of [Aethelar](/content/location/natural/continent/aethelar) have supported stable satyr communities for many centuries. The satyr way of life is oriented around the kindred and the glade, and the bonds of community are strong and enduring. The elders of a satyr kindred are valued for their memory of songs, stories, and the history of the woodland, and the transmission of this oral tradition from one generation to the next is the most important function of satyr culture.
 
 ## Woodland Fringes of Aethelar
 
@@ -30,7 +30,7 @@ Smaller populations are found in the wooded uplands of [Morvind](/content/locati
 
 ## Fruits, Nuts, and Woodland Harvest
 
-The satyr diet mixes plant and animal foods, reflecting the varied resources of the woodland fringe. Fruits, nuts, berries, and tender shoots form the staple, gathered from trees and shrubs of the forest edge and supplemented by cultivated herbs and vegetables grown in small garden plots near the settlement. Mushrooms and fungi are gathered from the woodland floor, and satyr knowledge of edible and useful fungi is extensive, rivalling that of the [gnomes](/content/species/sapient/gnomes).
+The satyr diet mixes plant and animal foods, reflecting the varied resources of the woodland fringe. Fruits, nuts, berries, and tender shoots form the staple, gathered from trees and shrubs of the forest edge and supplemented by cultivated herbs and vegetables grown in small garden plots near the settlement. [Mushrooms and fungi](/content/nature/flora/mushrooms-and-fungi) are gathered from the woodland floor, and satyr knowledge of edible and useful fungi is extensive, rivalling that of the [gnomes](/content/species/sapient/gnomes).
 
 Meat is eaten in moderation, chiefly small game such as rabbits, birds, and fish from woodland streams. Satyrs are capable hunters but not dedicated ones, and the hunt is regarded as a pleasant diversion rather than a central activity. Meals are occasions for music, storytelling, and the strengthening of kindred bonds. Fermentation is practised for the making of wine from wild grapes and other fruits, and the satyr gift for winemaking is recognised throughout the regions where they are known.
 

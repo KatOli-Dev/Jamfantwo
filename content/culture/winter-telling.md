@@ -30,7 +30,7 @@ The stories of the final weeks of the Winter Telling are the stories of the year
 
 ## The Aurora and the Ancestors
 
-The ancestors are believed to inhabit the northern lights, the aurora that dances across the winter sky of Morvind. The Frostwall peoples watch the aurora for signs of the ancestors' presence, and they interpret the colours and the patterns of the lights as messages from the dead.
+The ancestors are believed to inhabit the northern lights, the aurora that dances across the winter sky of [Morvind](/content/location/natural/continent/morvind). The Frostwall peoples watch the aurora for signs of the ancestors' presence, and they interpret the colours and the patterns of the lights as messages from the dead.
 
 The aurora is the visible presence of the ancestors in the winter sky, and the stories that are told during the Winter Telling are the interpretations of the messages that the aurora has sent. The storyteller who sees a pattern of green light in the aurora will tell the story of the ancestor who is associated with that colour, and the family will listen for the message that the ancestor intends.
 

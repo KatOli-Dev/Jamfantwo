@@ -12,7 +12,7 @@ The wood is held under the care of the [Heartwood Fellowship](/content/governmen
 
 ## Sheltered by the Surrounding Uplands
 
-The wood enjoys a climate sheltered by the surrounding uplands, milder than the higher forest to the north. Summers are warm and winters cold but rarely severe, and the growing season is sufficient for the timber trees that the Fellowship manages. The wood receives steady rainfall from the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) throughout much of the year, supplemented by snow-melt that descends from the uplands in spring. The combination of shelter and reliable moisture allows the trees to grow to a size that is unusual for woodlands at this latitude.
+The wood enjoys a climate sheltered by the surrounding uplands, milder than the higher forest to the north. Summers are warm and winters cold but rarely severe, and the growing season is sufficient for the [timber trees](/content/nature/flora/timber-trees) that the Fellowship manages. The wood receives steady rainfall from the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) throughout much of the year, supplemented by snow-melt that descends from the uplands in spring. The combination of shelter and reliable moisture allows the trees to grow to a size that is unusual for woodlands at this latitude.
 
 Occasional storms bring down weaker trees and damage the understorey, requiring labour from the foresters to clear fallen trees and repair damage. These storms have reinforced the careful management of the bounds that the Fellowship maintains, as the gaps created by fallen trees must be managed to prevent erosion on the steeper slopes.
 

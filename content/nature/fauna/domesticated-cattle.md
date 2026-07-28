@@ -6,7 +6,7 @@ description: "The bovine herds of Aethelar provide meat, milk, leather, and draf
 
 ## The Bovine Herds of Aethelar
 
-The domesticated cattle that are raised in the fields and the pastures of Aethelar are the foundation of the livestock economy of the northern continent, providing the meat, the milk, the leather, and the draft power that sustain the population of the settlements. The cattle of Aethelar are of several distinct breeds, each of which has been developed over centuries for the purposes that the breed serves and for the conditions of the region where the cattle are raised.
+The domesticated cattle that are raised in the fields and the pastures of [Aethelar](/content/location/natural/continent/aethelar) are the foundation of the livestock economy of the northern continent, providing the meat, the milk, the leather, and the draft power that sustain the population of the settlements. The cattle of Aethelar are of several distinct breeds, each of which has been developed over centuries for the purposes that the breed serves and for the conditions of the region where the cattle are raised.
 
 The management of the cattle is the principal occupation of the farming communities in the regions where the pasture is abundant and the climate is mild. The cattle are pastured in the fields and the meadows during the summer months, and the cattle are brought into the barns and the byres in the winter, where the animals are fed on the hay and the fodder that have been harvested in the summer.
 
@@ -36,7 +36,7 @@ The long-horned cattle are raised for the meat and the leather, and the herds of
 
 ## The Milk Cattle of the Sahrani Coast
 
-The milk cattle of the Sahrani coast are not as numerous as the cattle of Aethelar, for the climate of Sahrana is not ideal for the cattle, but the herds that are maintained by the dairy farmers of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) provide the milk and the cheese that are consumed in the coastal settlements.
+The milk cattle of the [Sahrani](/content/language/spoken/sahrani) coast are not as numerous as the cattle of Aethelar, for the climate of [Sahrana](/content/location/natural/continent/sahrana) is not ideal for the cattle, but the herds that are maintained by the dairy farmers of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) provide the milk and the cheese that are consumed in the coastal settlements.
 
 The milk cattle of Sahrana are a breed that has been developed from the stock that was imported from Aethelar in the centuries past, and the Sahrani cattle are adapted to the warm climate of the coast. The cattle are kept in the shade of the trees and the buildings during the heat of the day, and the cattle are milked in the cool of the morning and the evening.
 

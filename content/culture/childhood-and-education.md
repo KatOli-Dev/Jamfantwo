@@ -12,9 +12,9 @@ The earliest years of childhood are the same across most cultures. The infant is
 
 ## The Education of the Vaelic Child
 
-In the Vael river valley, the education of the child begins at the age of five or six, when the child is introduced to the tasks of the household and the fields. The child of the farming household learns the work of the farm by participating in it, starting with the simpler tasks of tending the smaller animals and gathering the eggs and the vegetables from the garden and progressing to the more demanding work of the fields as the child grows older.
+In the [Vael](/content/government/national/vael) river valley, the education of the child begins at the age of five or six, when the child is introduced to the tasks of the household and the fields. The child of the farming household learns the work of the farm by participating in it, starting with the simpler tasks of tending the smaller animals and gathering the eggs and the vegetables from the garden and progressing to the more demanding work of the fields as the child grows older.
 
-The formal education of the Vaelic child is conducted by the priest of the [Still Flame](/content/religion/still-flame), who teaches the children of the parish the principles of the faith and the elementary skills of reading and writing. The school is held in the temple or in the village hall, and the children attend in the winter months when the demands of the farm work are lighter. The curriculum includes the memorisation of the scriptures of the Still Flame, the learning of the basic prayers and the rituals, and the study of the traditional histories of the valley.
+The formal education of the Vaelic child is conducted by the priest of the [Still Flame](/content/religion/still-flame), who teaches the children of the parish the principles of the faith and the elementary skills of reading and writing. The school is held in the temple or in the village hall, and the children attend in the winter months when the demands of the farm work are lighter. The curriculum includes the memorisation of the scriptures of the [Still Flame](/content/religion/still-flame), the learning of the basic prayers and the rituals, and the study of the traditional histories of the valley.
 
 The education of the girls of the Vael valley includes additional instruction in the domestic arts: the weaving, the preserving, and the management of the household that will be the girl's responsibility as an adult. The education of the boys includes instruction in the crafts and trades that the community requires: the smithing, the carpentry, and the stonework that are the foundation of the valley's material culture.
 
@@ -32,9 +32,9 @@ The apprenticeship is a period of strict discipline and intensive training. The 
 
 ## The Education of the Sahrani Child
 
-The children of the [Sahrani city-states](/content/culture/sahrani-city-life) are educated in the traditions of the mercantile culture that is the foundation of the Sahrani civilisation. The child of the merchant household learns the principles of accounting and the management of trade from the earliest years, assisting in the counting house and accompanying the parent to the suq and the harbour.
+The children of the [Sahrani city-states](/content/culture/sahrani-city-life) are educated in the traditions of the mercantile culture that is the foundation of the [Sahrani](/content/language/spoken/sahrani) civilisation. The child of the merchant household learns the principles of accounting and the management of trade from the earliest years, assisting in the counting house and accompanying the parent to the suq and the harbour.
 
-The formal education of the Sahrani child is conducted by the scribes of the temple, who teach the children of the city the skills of reading and writing in the [Sahrani](/content/language/spoken/sahrani) language and the [Trade Tongue](/content/language/pseudo/trade-tongue). The curriculum includes the study of the traditional histories of the city-states, the principles of the law that governs the trade, and the religious traditions that are the foundation of the community's identity.
+The formal education of the Sahrani child is conducted by the scribes of the temple, who teach the children of the city the skills of reading and writing in the [Sahrani](/content/language/spoken/sahrani) language and the [Trade Tongue](/content/language/pseudo/trade-tongue). The curriculum includes the study of the traditional histories of the city-states, the principles of the law that governs the trade, and the [religious traditions](/content/religion/pantheon-overview) that are the foundation of the community's identity.
 
 ## The Coming of Age
 

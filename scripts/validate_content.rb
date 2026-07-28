@@ -28,6 +28,12 @@ AN_BEFORE_CONSONANT_RE = article_exception_regex('an_before_consonant')
 LINK_TEXT_EXCEPTION_PATTERNS = (VALIDATOR_CONFIG.dig('link_text_exceptions', 'universal') || [])
   .map { |e| Regexp.new(e['pattern'].to_s) }
 
+STYLE_PATTERNS = (VALIDATOR_CONFIG['style_constraints'] || {}).flat_map do |category, entries|
+  entries.map do |entry|
+    { regex: Regexp.new(entry['pattern'].to_s, Regexp::IGNORECASE), note: entry['note'].to_s }
+  end
+end
+
 # Mirror of the filtering in _includes/content-list.html. A content page is
 # considered listed by the homepage index if any rule matches. Keep this list
 # in sync with the include.
@@ -210,6 +216,11 @@ def check_file(file)
     fail(file, fm_line_offset, "front matter missing 'title'")
   end
 
+  desc = fm['description']
+  if desc.nil? || desc.to_s.strip.empty?
+    fail(file, fm_line_offset, "front matter missing 'description'")
+  end
+
   expected = expected_opening(rel)
   body_lines = body.lines
   headings = []
@@ -243,6 +254,11 @@ def check_file(file)
     end
     if line =~ /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/
       fail(file, line_no, "pictograph/emoji not allowed")
+    end
+    STYLE_PATTERNS.each do |sp|
+      if line =~ sp[:regex]
+        fail(file, line_no, sp[:note])
+      end
     end
     line.scan(/(\b)a\s+([aeiouAEIOU][\w\[\(]*)/) do |_, word|
       base = word.sub(/\A[\[\(]+/, '')

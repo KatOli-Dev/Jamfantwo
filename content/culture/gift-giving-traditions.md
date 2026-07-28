@@ -12,7 +12,7 @@ The gift creates an obligation of reciprocity, the expectation that the receiver
 
 ## The Gifts of the Vael Valley
 
-The gift giving customs of the Vael river valley are governed by the traditions of the [Still Flame](/content/religion/still-flame) and the customary law of the parish. The principal occasions for the giving of gifts are the festivals of the agricultural year and the ceremonies that mark the passage of the individual through the stages of life.
+The gift giving customs of the [Vael](/content/government/national/vael) river valley are governed by the traditions of the [Still Flame](/content/religion/still-flame) and the customary law of the parish. The principal occasions for the giving of gifts are the festivals of the agricultural year and the ceremonies that mark the passage of the individual through the stages of life.
 
 The [Crown Harvest](/content/culture/crown-harvest) is the principal occasion for the giving of gifts in the Vael valley, when the community gathers to celebrate the bringing in of the harvest and to exchange the gifts that acknowledge the bonds between the households. The gifts are typically the products of the household's labour: the grain, the preserves, the cloth, or the craft goods that the household has produced. The value of the gift is less important than the gesture of the giving, and the household that gives generously is respected for the generosity.
 
@@ -36,7 +36,7 @@ The gifts of the naming ceremony and the binding ceremony are the tokens that ma
 
 ## The Gifts of the Sahrani Coast
 
-The gift giving customs of the [Sahrani city-states](/content/culture/sahrani-city-life) reflect the mercantile culture of the coast, in which the gift is an instrument of the commercial relationship. The principal gifts of the Sahrani coast are the goods of the trade, the spices, the silks, and the precious metals that are the currency of the commercial exchange.
+The gift giving customs of the [Sahrani city-states](/content/culture/sahrani-city-life) reflect the mercantile culture of the coast, in which the gift is an instrument of the commercial relationship. The principal gifts of the [Sahrani](/content/language/spoken/sahrani) coast are the goods of the trade, the spices, the silks, and the precious metals that are the currency of the commercial exchange.
 
 The gift of the salt is the most important of the Sahrani gifts, the symbol of the bond that is created by the sharing of the meal. The guest who has shared the salt of the host is bound by the obligation of the gratitude, and the host who has offered the salt is bound by the obligation of the protection. The gift of the salt is the foundation of the trust that the trade requires, and the Sahrani merchants maintain the custom of the salt in every transaction.
 

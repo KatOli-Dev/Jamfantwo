@@ -6,7 +6,7 @@ description: "The northernmost settlement in Morvind, Vargvik clings to a narrow
 
 ## A Remote Coastal Town on the Northern Morvind Shore
 
-Vargvik is a remote coastal town on the northern coast of [Morvind](/content/location/natural/continent/morvind), situated on a stretch of shore that is among the most isolated and inhospitable in the known world. The town stands at the head of a narrow inlet cutting deep into the cliffs; its harbour is sheltered but difficult to reach, for the approach requires navigation through a maze of reefs and shoals that have wrecked many vessels. Vargvik is the northernmost permanent settlement in Morvind, and its people are among the most hardy and self-reliant in the known world.
+Vargvik is a remote coastal town on the northern coast of [Morvind](/content/location/natural/continent/morvind), situated on a stretch of shore that is among the most isolated and inhospitable in the known world. The town stands at the head of a narrow inlet cutting deep into the cliffs; its harbour is sheltered but difficult to reach, for the approach requires navigation through a maze of reefs and shoals that have wrecked many vessels. Vargvik is the northernmost permanent settlement in [Morvind](/content/location/natural/continent/morvind), and its people are among the most hardy and self-reliant in the known world.
 
 ## The Glacier-Carved Inlet and the Mapless Approach
 
@@ -40,7 +40,7 @@ The relationship between the coastal humans and the steppe lupines is one of cau
 
 ## The Midwinter Feast and the Traditions of Isolation
 
-The culture of Vargvik is shaped by the isolation and severity of the environment. The community is noted for its self-reliance and attachment to traditions that have sustained the town through the centuries. The songs and stories of Vargvik are the songs and stories of the sea and the hunt; the tradition of storytelling is a valued part of cultural life, for the long winter evenings are spent sharing old tales and singing old songs. The stories tell of great storms striking the coast, wrecks found on the reefs, and the skill of hunters who braved ice and currents in pursuit of marine mammals that sustain the town.
+The culture of Vargvik is shaped by the isolation and severity of the environment. The community is noted for its self-reliance and attachment to traditions that have sustained the town through the centuries. The songs and stories of Vargvik are the songs and stories of the sea and the hunt; the tradition of storytelling is a valued part of cultural life, for [the long winter](/content/history/the-long-winter) evenings are spent sharing old tales and singing old songs. The stories tell of great storms striking the coast, wrecks found on the reefs, and the skill of hunters who braved ice and currents in pursuit of marine mammals that sustain the town.
 
 The festivals of Vargvik are modest affairs, but the annual feast of the midwinter is a cherished tradition marking the turning of the year and the beginning of the long retreat toward spring. The feast is held in the great hall of the town, and the entire community gathers for the occasion, for the midwinter is the darkest and coldest time of the year, and the feast is a celebration of the endurance and solidarity that sustain the community through the months of isolation.
 

@@ -9,7 +9,7 @@ description: "The Aldreth Fleet, the most powerful naval force in the known worl
 The fleet of [Aldreth](/content/government/national/aldreth) is the largest and
 most capable naval force in the known world, a position the eastern trading
 realm has held since the closing years of the [Long
-Peace](/content/history/long-peace). Aldreth's wealth derives from sea-borne
+Peace](/content/history/long-peace). [Aldreth](/content/government/national/aldreth)'s wealth derives from sea-borne
 commerce, and the fleet exists to protect that commerce from pirates,
 competitors, and the naval forces of rival realms. Without the fleet, the
 merchant ships of Aldreth would be vulnerable to attack along every route they
@@ -20,7 +20,7 @@ The Aldreth Fleet is not merely a defensive force. It projects power across the
 [Stormfall Sea](/content/location/natural/feature/stormfall-sea), enforces
 trade agreements, and maintains the flow of goods that sustains the Aldreth
 economy. The fleet's commanders are among the most influential figures in the
-realm, and the shipyards of Eldreth employ thousands of carpenters, sailmakers,
+realm, and the shipyards of [Eldreth](/content/location/settlement/city/eldreth) employ thousands of carpenters, sailmakers,
 and ropeworkers. A significant portion of the realm's budget is devoted to
 naval expenditure, and the fleet is maintained at full readiness at all times,
 even during periods of peace.
@@ -32,8 +32,8 @@ different area of operation. The Home Squadron guards the approaches to
 Eldreth and the coastal waters of Aldreth itself, providing close protection
 for the merchant shipping that enters and leaves the great harbour. The Eastern
 Squadron patrols the trade routes toward the [Auric
-Isles](/content/government/national/auric-isles) and the far eastern reaches of
-the Stormfall Sea, where piracy has historically been a problem. The Western
+Isles](/content/government/national/auric-isles) and the far [eastern reach](/content/location/natural/continent/eastern-reach)es of
+the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), where piracy has historically been a problem. The Western
 Squadron operates toward the [Greater Inland
 Sea](/content/location/natural/feature/greater-inland-sea) and the approaches
 to [Vaelmouth](/content/location/settlement/city/vaelmouth), keeping the

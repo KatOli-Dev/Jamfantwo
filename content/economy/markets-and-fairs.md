@@ -22,9 +22,9 @@ The market day is the busiest day of the week in the town, and the population of
 
 The fair is a larger and a grander event than the weekly market, held once or twice a year in the larger towns and the cities. The fair attracts the merchants from the distant regions, who bring the goods that are not available in the ordinary markets. The fair is the occasion for the trade in the luxury goods, the spices and the dyes and the silks and the precious stones that are the products of the distant lands.
 
-The fair of Eldreth is the largest and the most famous of the fairs of the known world, held in the autumn after the harvest and attended by the merchants from every region of the three continents. The fair of Eldreth is held in the great market square of the city, and the stalls and the booths fill the square and the adjoining streets for a period of two weeks. The fair is the occasion for the exchange of the grain and the cloth and the metalwork and the spices and the dyes and the countless other goods that pass through the harbour of the city.
+The fair of [Eldreth](/content/location/settlement/city/eldreth) is the largest and the most famous of the fairs of the known world, held in the autumn after the harvest and attended by the merchants from every region of the three continents. The fair of Eldreth is held in the great market square of the city, and the stalls and the booths fill the square and the adjoining streets for a period of two weeks. The fair is the occasion for the exchange of the grain and the cloth and the metalwork and the spices and the dyes and the countless other goods that pass through the harbour of the city.
 
-The fair of Khalisar is the second great fair of the known world, held in the spring before the sailing season and attended by the merchants from the Sahrani coast and the interior and from the northern cities. The fair of Khalisar is the occasion for the trade in the spices and the dyes and the precious stones of the Sahrani interior, and the merchants who attend the fair are the wealthiest and the most influential of the southern cities.
+The fair of [Khalisar](/content/location/settlement/city/khalisar) is the second great fair of the known world, held in the spring before the sailing season and attended by the merchants from the [Sahrani](/content/language/spoken/sahrani) coast and the interior and from the northern cities. The fair of Khalisar is the occasion for the trade in the spices and the dyes and the precious stones of the Sahrani interior, and the merchants who attend the fair are the wealthiest and the most influential of the southern cities.
 
 ## The Organisation of the Fair
 
@@ -50,11 +50,11 @@ The guild also maintains the register of the bills of exchange, in which the nam
 
 ## The Fairs of the Different Regions
 
-The fair of Goldmeadow is the principal fair of the Plains Confederation, held in the summer after the harvest of the grain and attended by the merchants from the entire region. The fair of Goldmeadow is the occasion for the trade in the grain and the wool and the leather of the plains, and the merchants who attend the fair are the representatives of the great merchant houses of the coastal cities.
+The fair of [Goldmeadow](/content/location/settlement/city/goldmeadow) is the principal fair of the [Plains Confederation](/content/government/national/plains-confederation), held in the summer after the harvest of the grain and attended by the merchants from the entire region. The fair of Goldmeadow is the occasion for the trade in the grain and the wool and the leather of the plains, and the merchants who attend the fair are the representatives of the great merchant houses of the coastal cities.
 
-The fair of Karhold is the principal fair of the mining regions, held in the autumn before the winter closes the passes and attended by the merchants from the Stoneheim Holds and the Karhold Realm. The fair of Karhold is the occasion for the trade in the metalwork and the minerals and the dwarf-forged steel that is the principal product of the region.
+The fair of [Karhold](/content/location/settlement/city/karhold) is the principal fair of the mining regions, held in the autumn before the winter closes the passes and attended by the merchants from the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the [Karhold Realm](/content/government/national/karhold-realm). The fair of Karhold is the occasion for the trade in the metalwork and the minerals and the dwarf-forged steel that is the principal product of the region.
 
-The fair of Amurra is the principal fair of the Sahrani coast, held in the spring and attended by the merchants from the interior and the coastal cities. The fair of Amurra is the occasion for the trade in the spices and the precious stones and the luxury goods that are the products of the Sahrani interior.
+The fair of [Amurra](/content/location/settlement/city/amurra) is the principal fair of the Sahrani coast, held in the spring and attended by the merchants from the interior and the coastal cities. The fair of Amurra is the occasion for the trade in the spices and the precious stones and the luxury goods that are the products of the Sahrani interior.
 
 Related topics:
 - [trade and tariffs](/content/economy/trade-and-tariffs)

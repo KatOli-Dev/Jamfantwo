@@ -6,7 +6,7 @@ description: "The festival marking the departure of the first salt caravan from 
 
 ## The Festival of the Departing Caravan
 
-The Salt Caravan Festival is the principal festival of the [Sahrani](/content/language/spoken/sahrani) coastal communities, observed at the departure of the first salt caravan of the season from the coastal cities to the interior of [Sahrana](/content/location/natural/continent/sahrana). The festival marks the beginning of the trading season and the departure of the caravans that carry the salt harvested from the coastal salt pans to the peoples of the [Kharesh](/content/location/natural/feature/kharesh) and the interior settlements.
+The [Salt](/content/economy/salt) Caravan Festival is the principal festival of the [Sahrani](/content/language/spoken/sahrani) coastal communities, observed at the departure of the first salt caravan of the season from the coastal cities to the interior of [Sahrana](/content/location/natural/continent/sahrana). The festival marks the beginning of the trading season and the departure of the caravans that carry the salt harvested from the coastal salt pans to the peoples of the [Kharesh](/content/location/natural/feature/kharesh) and the interior settlements.
 
 The festival is observed in the principal coastal cities of the [Northern Coast League](/content/government/national/northern-coast-league), including [Khalisar](/content/location/settlement/city/khalisar), [Nessara](/content/location/settlement/city/nessara), and [Sahran](/content/location/settlement/city/sahran), and in the smaller communities along the coast that participate in the salt trade. The festival is also observed by the inland communities that receive the caravans, though the observance takes a different form in the interior than it does on the coast.
 
@@ -22,7 +22,7 @@ The caravan master is responsible for the conduct of the journey and for the saf
 
 The blessing of the caravan is the central observance of the festival, conducted by the priests of the [Sea Mother's Court](/content/religion/sea-mothers-court) at the harbour or at the edge of the salt pans. The priests invoke the Sea Mother's blessing upon the salt and upon the caravan that carries it, asking that the journey be safe and that the salt reach its destination in good condition.
 
-The blessing is conducted with the formality that the tradition requires, with the priests reciting the prayers of the Sea Mother's Court and the faithful responding with the customary words of assent. The caravan master and the drivers kneel before the priests and receive the benediction, and the pack animals are sprinkled with the water that the priests have blessed.
+The blessing is conducted with the formality that the tradition requires, with the priests reciting the prayers of the [Sea Mother's Court](/content/religion/sea-mothers-court) and the faithful responding with the customary words of assent. The caravan master and the drivers kneel before the priests and receive the benediction, and the pack animals are sprinkled with the water that the priests have blessed.
 
 The blessing is followed by the offering of the first salt, the small portion of the salt that is set aside for the Sea Mother and cast into the waters of the harbour. The offering is the acknowledgment of the gift that the Sea Mother gave, and the salt that is cast into the water is returned to the source from which it came.
 

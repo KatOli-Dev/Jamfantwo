@@ -18,7 +18,7 @@ The malted grain is dried and then crushed in the mill, and the crushed malt is 
 
 The fermentation of the ale is conducted in the fermenting vessels that are kept in the cellars of the brewery, where the temperature is cool and stable. The ale is left to ferment for a period of several days, and the yeast rises to the surface and is skimmed off for use in the next batch. The ale that has finished fermenting is then racked into the casks and the barrels, where it is left to mature for a period of weeks or months before it is sold.
 
-The quality of the ale is determined by the quality of the grain, the skill of the brewer in the mashing and the boiling, and the condition of the yeast that is used for the fermentation. The ale that is brewed in the towns of the Plains Confederation is the most highly regarded in the known world, for the grain of the plains is of the finest quality and the brewers of the plains are the most skilled in the trade.
+The quality of the ale is determined by the quality of the grain, the skill of the brewer in the mashing and the boiling, and the condition of the yeast that is used for the fermentation. The ale that is brewed in the towns of the [Plains Confederation](/content/government/national/plains-confederation) is the most highly regarded in the known world, for the grain of the plains is of the finest quality and the brewers of the plains are the most skilled in the trade.
 
 ## The Brewing of the Hops and the Herbs
 
@@ -36,7 +36,7 @@ The harvest of the grapes is the critical period of the wine-making year, for th
 
 The juice of the grapes is set to ferment in the vats and the casks that are kept in the cellars of the wine-making establishment. The fermentation of the wine is conducted by the yeasts that are present on the skins of the grapes, and the sugar of the grape juice is converted into alcohol over a period of weeks. The wine that has finished fermenting is then racked into the casks where it is left to mature for a period of months or years, developing the complexity of the flavour and the aroma that characterise the finest wines.
 
-The regions of the known world that produce the finest wines include the river valleys of Aethelar, where the climate and the soil are ideally suited to the cultivation of the vine, and the coastal hills of Sahrana, where the terraced vineyards produce wines of a character that is distinct from the wines of the north. The wine trade is a significant component of the commerce of the regions that produce it, and the wine merchants who export the wines of the valleys to the markets of the cities are among the wealthiest of the traders.
+The regions of the known world that produce the finest wines include the river valleys of [Aethelar](/content/location/natural/continent/aethelar), where the climate and the soil are ideally suited to the cultivation of the vine, and the coastal hills of [Sahrana](/content/location/natural/continent/sahrana), where the terraced vineyards produce wines of a character that is distinct from the wines of the north. The wine trade is a significant component of the commerce of the regions that produce it, and the wine merchants who export the wines of the valleys to the markets of the cities are among the wealthiest of the traders.
 
 ## The Distillation of Spirits
 
@@ -50,7 +50,7 @@ The spirits that are produced by the distillation are consumed in every region o
 
 The brewing and the distilling trades are regulated by the guilds in every city of any size, and the standards that the guilds maintain are the guarantee of the quality of the products. The guild of the brewers and the vintners sets the standards for the quality of the ale and the wine that are sold in the inns and the taverns, and the guild of the distillers sets the standards for the quality of the spirits that are traded in the markets.
 
-The guild also regulates the prices at which the ale and the wine and the spirits may be sold, protecting the consumer from the excessive charges that the unscrupulous producer might demand. The guild of the brewers and the vintners of Vassholm is one of the oldest and the most respected of the guilds of the trade, and the standards that the guild has maintained for more than two centuries are the model upon which the guilds of the other cities are built.
+The guild also regulates the prices at which the ale and the wine and the spirits may be sold, protecting the consumer from the excessive charges that the unscrupulous producer might demand. The guild of the brewers and the vintners of [Vassholm](/content/location/settlement/city/vassholm) is one of the oldest and the most respected of the guilds of the trade, and the standards that the guild has maintained for more than two centuries are the model upon which the guilds of the other cities are built.
 
 The inns and the taverns are the principal points of sale for the ale and the wine and the spirits that the brewers and the distillers produce. The innkeeper purchases the beverages from the brewers and the distillers and sells them to the customers who come to the inn for the refreshment and the accommodation. The trade of the innkeeper is regulated by the guild of the innkeepers, and the standards of quality that the innkeeper maintains are the measure of the inn's reputation.
 

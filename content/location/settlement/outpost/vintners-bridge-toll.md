@@ -14,7 +14,7 @@ Merchants and travellers who journey along this route regard the post with consi
 
 Five broad arches of stone carry the road across the river. The vintner-houses raised this structure jointly, each contributing according to the size of its vineyards, and the Council has overseen its upkeep from that time to the present. Land trade throughout the vale depends upon these arches; without them merchants would be forced to ford the river at uncertain crossings or delay their journeys by many days. Grain from the eastern fields, timber from the upland forests, casks of wine from every vintner-house all cross by this bridge.
 
-The watchmen inspect the arches at regular intervals and repair the stonework as the inspections require. Each season the master of the Council dispatches a sworn examiner to measure the settlement of the piers and the wear upon the keystones. The records of these examinations, preserved in the Council archives at the principal town-house, document no significant deterioration since the third generation of the Long Peace, when a spring flood scoured the mortar from the westernmost pier and necessitated its repointing.
+The watchmen inspect the arches at regular intervals and repair the stonework as the inspections require. Each season the master of the Council dispatches a sworn examiner to measure the settlement of the piers and the wear upon the keystones. The records of these examinations, preserved in the Council archives at the principal town-house, document no significant deterioration since the third generation of the [Long Peace](/content/history/long-peace), when a spring flood scoured the mortar from the westernmost pier and necessitated its repointing.
 
 ## The Two-Storey Stone Building and the Iron-Bound Chest
 

@@ -36,7 +36,7 @@ The fishery has been the subject of long debate between the towns of the upper r
 
 ## Birds, Mammals, and the River Ecology
 
-The falls support a rich variety of wildlife forming the foundation of the ecology of the falls. The cliffs support seabirds that breed upon the ledges in the spring, including the gulls and cormorants that the Bestiaries and Herbals have catalogued. The slopes support smaller mammals that the birds of prey feed upon, and the waters below the falls support the fish that the fishermen pursue.
+The falls support a rich variety of wildlife forming the foundation of the ecology of the falls. The cliffs support seabirds that breed upon the ledges in the spring, including the gulls and cormorants that the Bestiaries and Herbals have catalogued. The slopes support smaller mammals that the [birds of prey](/content/nature/fauna/birds-of-prey) feed upon, and the waters below the falls support the fish that the fishermen pursue.
 
 The wildlife is the source of much of the food of the villages along the river and the foundation of the careful management of the chase that the river warden maintains. The wildlife has been the subject of careful study by the scholars of the academies, who have recorded the patterns of the birds and the fish in their catalogues.
 

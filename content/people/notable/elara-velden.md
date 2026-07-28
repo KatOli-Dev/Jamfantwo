@@ -6,7 +6,7 @@ description: "A master pilot of the Velden Strait whose three decades of experie
 
 ## The Master Pilot of the Strait
 
-Elara Velden is a master pilot of the [Velden Strait](/content/location/natural/feature/strait-of-velden), the narrow channel that connects the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean) between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). She is one of the most respected pilots in the history of the strait, and her knowledge of its currents, tides, and hazards is the foundation of her reputation.
+Elara [Velden](/content/location/settlement/city/velden) is a master pilot of the [Velden Strait](/content/location/natural/feature/strait-of-velden), the narrow channel that connects the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean) between the southeastern coast of [Morvind](/content/location/natural/continent/morvind) and the northeastern tip of [Aethelar](/content/location/natural/continent/aethelar). She is one of the most respected pilots in the history of the strait, and her knowledge of its currents, tides, and hazards is the foundation of her reputation.
 
 Elara was born in the city of [Velden](/content/location/settlement/city/velden), the settlement that commands the principal crossing of the strait and that serves as the home of the pilots who navigate its waters. The family into which she was born had served as pilots of the strait for several generations, and the knowledge of the channel had been passed down through the family since the early centuries of the city's history.
 
@@ -14,7 +14,7 @@ The education that Elara received was the traditional training of a Velden pilot
 
 ## The Strait and Its Challenges
 
-The Velden Strait is one of the most challenging waterways in the known world. The channel is narrow, the currents are strong, and the tides are unpredictable. The waters of the Stormfall Sea and the Auric Ocean meet in the strait, and the meeting of the two bodies of water creates conditions that can be dangerous for the unwary.
+The [Velden Strait](/content/location/natural/feature/strait-of-velden) is one of the most challenging waterways in the known world. The channel is narrow, the currents are strong, and the tides are unpredictable. The waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the [Auric Ocean](/content/location/natural/feature/auric-ocean) meet in the strait, and the meeting of the two bodies of water creates conditions that can be dangerous for the unwary.
 
 The navigation of the strait requires knowledge of the conditions at every season of the year. The currents vary with the tides and with the winds, and the channels shift with the movement of the sediments that the currents carry. The pilot must know the strait in all its moods, and the knowledge that Elara has accumulated through decades of experience allows her to navigate the strait under any conditions.
 
@@ -40,7 +40,7 @@ The hazards of the strait include rocks that are exposed at low tide, sandbars t
 
 ## The Role in the Velden Compact
 
-The governance of the Velden Strait is based on the Velden Compact, the agreement among the settlements of the coastlands that regulates the pilotage, the tolls, and the maintenance of the navigation aids. The compact is administered by a council of the representatives of the principal settlements, and the pilots of the strait are represented on the council.
+The governance of the Velden Strait is based on the [Velden Compact](/content/government/local/velden-compact), the agreement among the settlements of the coastlands that regulates the pilotage, the tolls, and the maintenance of the navigation aids. The compact is administered by a council of the representatives of the principal settlements, and the pilots of the strait are represented on the council.
 
 Elara has served as the representative of the pilots on the council of the compact for many years, contributing to the decisions that affect the navigation of the strait. The influence that she exercises in the council is based on the respect that her knowledge of the strait commands, and her advice on matters of navigation is valued by the other members of the council.
 
@@ -48,7 +48,7 @@ The maintenance of the navigation aids, the lighthouses, the beacons, and the ma
 
 ## The Reputation of the Master Pilot
 
-Elara Velden is one of the most respected pilots in the history of the strait, and her reputation extends beyond the community of the Velden Coastlands to the captains and the merchants who rely on the safe passage of the channel. The trust that the captains place in her is based on her record of safe voyages and her knowledge of the strait.
+Elara Velden is one of the most respected pilots in the history of the strait, and her reputation extends beyond the community of the [Velden Coastlands](/content/location/settlement/region/velden-coastlands) to the captains and the merchants who rely on the safe passage of the channel. The trust that the captains place in her is based on her record of safe voyages and her knowledge of the strait.
 
 The chronicles of the guild of the Velden pilots will record Elara as one of the most skilled and most experienced pilots in the history of the strait. The knowledge that she has accumulated through her decades of service is a resource that the guild values, and the service she has rendered to the guild and to the trade of the strait is a contribution that will be remembered by the generations of pilots that follow.
 

@@ -6,7 +6,7 @@ description: "The guildmaster of the strait pilots of the Velden Strait, who tig
 
 ## The Guildmaster of the Strait Pilots
 
-Brona Veldenwatch is the present chief of the pilot guild of the [Velden Strait](/content/location/natural/feature/strait-of-velden), the brotherhood of mariners who guide larger vessels through the narrow and treacherous waters of the channel. She was elected guildmaster by the fellows of the guild in the four hundred and seventeenth year of the [Velden Compact](/content/government/local/velden-compact), succeeding her predecessor, who had held the office for the customary term of five years. Brona is forty-nine years old. Her tenure has been marked by a tightening of guild standards and the acquisition of two new pilot vessels that have extended the reach of the guild's services.
+Brona [Veldenwatch](/content/location/settlement/town/veldenwatch) is the present chief of the pilot guild of the [Velden Strait](/content/location/natural/feature/strait-of-velden), the brotherhood of mariners who guide larger vessels through the narrow and treacherous waters of the channel. She was elected guildmaster by the fellows of the guild in the four hundred and seventeenth year of the [Velden Compact](/content/government/local/velden-compact), succeeding her predecessor, who had held the office for the customary term of five years. Brona is forty-nine years old. Her tenure has been marked by a tightening of guild standards and the acquisition of two new pilot vessels that have extended the reach of the guild's services.
 
 ## Apprenticeship on Her Father's Boat
 

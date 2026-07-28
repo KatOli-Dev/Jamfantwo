@@ -8,7 +8,7 @@ description: "The river agreement modelled upon the Greywash Compact, regulating
 
 The Stonebrook Compact is the name given by the chroniclers of the highlands of [Aethelar](/content/location/natural/continent/aethelar) to the river agreement modelled upon the [Greywash Compact](/content/history/greywash-compact), regulating the navigation, the fishery, and the use of the banks of the principal river of the highland region. The compact was negotiated between the magistrates of the highland towns and the representatives of the mining and forestry communities that depended upon the river for the transport of goods and for their livelihood.
 
-The compact was adopted in the middle period of the recorded history of the highlands and followed the same structure as the Greywash Compact, establishing similar rules for the use of the river and similar offices for the administration of those rules. The compact was the first river agreement of the highlands and served as the model for later agreements in the neighbouring valleys.
+The compact was adopted in the middle period of the recorded history of the highlands and followed the same structure as the [Greywash Compact](/content/history/greywash-compact), establishing similar rules for the use of the river and similar offices for the administration of those rules. The compact was the first river agreement of the highlands and served as the model for later agreements in the neighbouring valleys.
 
 ## The Conditions of the Highland River
 

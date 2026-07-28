@@ -54,7 +54,7 @@ Protective workings may also be established against natural forces such as fire,
 
 The [Velden Compact](/content/government/local/velden-compact) is the tradition most skilled in protective workings against natural forces, for the Compact's practitioners must protect their vessels from the constant threat of storm and sea. The Compact has developed methods of protection that are among the most effective of any tradition, and the Compact's records contain several accounts of vessels that were saved from destruction by the protective workings of the Compact's practitioners.
 
-The [Khalisar Council](/content/government/local/khalisar-council) has also developed methods of protection against natural forces, particularly against the fires that threaten the cities of the Sahrani interior. The Council's practitioners are skilled in the establishment of wards that resist the spread of flame, and the Council's methods have saved several cities from destruction in the recorded history of the region.
+The [Khalisar Council](/content/government/local/khalisar-council) has also developed methods of protection against natural forces, particularly against the fires that threaten the cities of the [Sahrani](/content/language/spoken/sahrani) interior. The Council's practitioners are skilled in the establishment of wards that resist the spread of flame, and the Council's methods have saved several cities from destruction in the recorded history of the region.
 
 ## The Limits of Protective Workings
 

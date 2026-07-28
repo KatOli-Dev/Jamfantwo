@@ -12,7 +12,7 @@ The weaving of cloth is conducted in the workshops of the towns and the villages
 
 ## The Wool Trade of the Highlands
 
-Wool is the most common textile fibre in the known world, produced from the fleece of the sheep that are kept in the highlands and the hill country of Aethelar and the uplands of Morvind. The wool of the highland sheep is of the finest quality, and the cloth that is woven from it is the most sought-after textile in the markets of the coastal cities. The wool is shorn from the sheep in the late spring, after the weather has warmed and the sheep have shed the heaviest of their winter fleece.
+Wool is the most common textile fibre in the known world, produced from the fleece of the sheep that are kept in the highlands and the hill country of [Aethelar](/content/location/natural/continent/aethelar) and the uplands of [Morvind](/content/location/natural/continent/morvind). The wool of the highland sheep is of the finest quality, and the cloth that is woven from it is the most sought-after textile in the markets of the coastal cities. The wool is shorn from the sheep in the late spring, after the weather has warmed and the sheep have shed the heaviest of their winter fleece.
 
 The processing of the wool is a sequence of operations that begins with the washing of the fleece to remove the dirt and the grease that the wool has accumulated through the winter. The washed wool is then combed to align the fibres, and the combed wool is spun into thread on the spinning wheel. The spinning of the wool is conducted in the households of the hill country, where the women of the family spin the thread that the men will weave into cloth in the workshops of the valleys.
 
@@ -28,11 +28,11 @@ The spinning of the linen thread is conducted on the same spinning wheels that a
 
 ## The Cotton of the Warm Coasts
 
-Cotton is the cloth that is woven from the fibres of the cotton plant, which is cultivated in the warm coastal regions of Sahrana and the islands of the warm seas. The cotton plant requires a long growing season and a reliable supply of water, and the fields where the cotton is grown are irrigated from the rivers and the wells that the farmers have dug. The cotton is harvested in the autumn, after the bolls have opened and the white fibres are exposed to the sun.
+Cotton is the cloth that is woven from the fibres of the cotton plant, which is cultivated in the warm coastal regions of [Sahrana](/content/location/natural/continent/sahrana) and the islands of the warm seas. The cotton plant requires a long growing season and a reliable supply of water, and the fields where the cotton is grown are irrigated from the rivers and the wells that the farmers have dug. The cotton is harvested in the autumn, after the bolls have opened and the white fibres are exposed to the sun.
 
 The processing of the cotton begins with the ginning, which is the separation of the fibres from the seeds that the boll contains. The gin is a simple machine that consists of a set of rollers that crush the boll and separate the fibres from the seeds, and the ginned cotton is then pressed into bales for transport to the spinning mills. The spinning of the cotton is conducted in the mills of the coastal cities, where the water wheels drive the spinning frames that produce the cotton thread.
 
-The weaving of the cotton is conducted in the workshops of the Sahrani coast, where the weavers produce the cotton cloth that is the principal textile of the warm regions. The cotton cloth is lighter and more breathable than the wool and the linen, and it is the preferred fabric for the clothing of the people who live in the hot climates. The cotton cloth of Sahrana is exported to the colder regions of the north, where it is used for the lining of garments and the making of the underclothing that the northern peoples wear against the cold.
+The weaving of the cotton is conducted in the workshops of the [Sahrani](/content/language/spoken/sahrani) coast, where the weavers produce the cotton cloth that is the principal textile of the warm regions. The cotton cloth is lighter and more breathable than the wool and the linen, and it is the preferred fabric for the clothing of the people who live in the hot climates. The cotton cloth of Sahrana is exported to the colder regions of the north, where it is used for the lining of garments and the making of the underclothing that the northern peoples wear against the cold.
 
 ## The Silk of the Eastern Forests
 

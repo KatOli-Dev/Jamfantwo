@@ -6,15 +6,15 @@ description: "A comprehensive overview of military traditions across Aethelar, S
 
 ## The Character of War
 
-The peoples of Aethelar, Sahrana, and Morvind have waged war since before the
-Founding Era, and the art of conflict has shaped every realm that endures in the
+The peoples of [Aethelar](/content/location/natural/continent/aethelar), [Sahrana](/content/location/natural/continent/sahrana), and [Morvind](/content/location/natural/continent/morvind) have waged war since before the
+[Founding Era](/content/history/founding-era), and the art of conflict has shaped every realm that endures in the
 present age. Warfare across the known world is neither uniform in method nor
-purpose. The open grasslands of the Plains Confederation demand one kind of
-soldier, the frozen passes of the Whitewall Range another, and the busy
-sea-lanes of the Stormfall Sea yet another. Each realm has developed martial
+purpose. The open grasslands of the [Plains Confederation](/content/government/national/plains-confederation) demand one kind of
+soldier, the frozen passes of the [Whitewall Range](/content/location/natural/feature/whitewall-range) another, and the busy
+sea-lanes of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) yet another. Each realm has developed martial
 traditions that reflect its geography, its resources, and its history of
-conflict with neighbours both near and far. The Three-Banners War, the
-Stoneheim Pass War, and the Twin-Reaches Wars each left lasting marks on how
+conflict with neighbours both near and far. The [Three-Banners War](/content/history/three-banners-war), the
+[Stoneheim Pass War](/content/history/stoneheim-pass-war), and the [Twin-Reaches Wars](/content/history/twin-reaches-wars) each left lasting marks on how
 armies are raised, equipped, and commanded. Understanding the military
 landscape of the known world requires an examination of these diverse
 traditions and the common threads that bind them.
@@ -78,7 +78,7 @@ blizzard conditions can make archery unreliable.
 
 ## The Role of Mercenaries
 
-Mercenary companies have been a feature of warfare since before the [Long
+[Mercenary companies](/content/military/mercenary-companies) have been a feature of warfare since before the [Long
 Peace](/content/history/long-peace), and their importance has only grown as
 treasure accumulated in the coffers of the established realms. A well-regarded
 company can tip the balance of a campaign, and the great powers of Aethelar
@@ -95,14 +95,14 @@ uneven.
 Control of the seas is as important as control of the land for the trading
 realms. [Aldreth](/content/government/national/aldreth) fields the largest
 fleet in the known world, a force of deep-water warships that protects the
-eastern trade routes and projects power across the Stormfall Sea.
-[Nordhaven](/content/government/national/nordhaven) matches Aldreth in the
+eastern trade routes and projects power across the [Stormfall](/content/location/natural/continent/stormfall) Sea.
+[Nordhaven](/content/government/national/nordhaven) matches [Aldreth](/content/government/national/aldreth) in the
 northern waters, its fleet designed for the rougher conditions of the
 [Whitewall Range](/content/location/natural/feature/whitewall-range) approaches.
 The [Thessaran League](/content/government/national/thessaran-league) and the
 [Northern Coast League](/content/government/national/northern-coast-league)
-maintain galley fleets suited to the calmer waters of the Greater Inland Sea
-and the sheltered coastal routes. Naval warfare in the known world ranges from
+maintain galley fleets suited to the calmer waters of the [Greater Inland Sea](/content/location/natural/feature/greater-inland-sea)
+and the sheltered coastal routes. [Naval warfare](/content/military/naval-warfare) in the known world ranges from
 ramming actions between war galleys to boarding actions between deep-water
 ships, and the [Auric Isles](/content/government/national/auric-isles) have
 developed a distinctive style of coastal patrol that relies on swift,
@@ -113,9 +113,9 @@ shallow-draft vessels.
 The fortresses of the known world are as varied as the armies that besiege
 them. Dwarven stonework in the [Stoneheim Holds](/content/government/national/stoneheim-holds)
 is considered the finest, with gates and walls that have withstood assault for
-centuries. The river forts of Vael command the crossing points of the great
+centuries. The river forts of [Vael](/content/government/national/vael) command the crossing points of the great
 rivers, while the border keeps of the [Southern Reach](/content/government/national/southern-reach)
-guard the passes through the Thunderback Range. Siegecraft has advanced
+guard the passes through the [Thunderback Range](/content/location/natural/feature/thunderback-range). Siegecraft has advanced
 steadily since the Founding Era, with engineers developing ever more powerful
 torsion engines, rams, and siege towers. The [Stoneheim
 Pass War](/content/history/stoneheim-pass-war) demonstrated that even the best
@@ -125,12 +125,12 @@ the cost in lives is always high.
 ## The Conduct of War
 
 Rules governing the conduct of war exist in every realm, though they are
-observed unevenly. The Greywash Compact codified certain expectations: that
+observed unevenly. The [Greywash Compact](/content/history/greywash-compact) codified certain expectations: that
 non-combatants should be spared where possible, that surrendering garrisons
 should be granted quarter, and that prisoners of sufficient rank should be
 ransomed rather than executed. In practice, these rules are frequently bent or
 broken, especially in conflicts between realms that share no cultural or
-commercial ties. The Kharesh Tribes and the Frostwall Clans do not consider
+commercial ties. The [Kharesh Tribes](/content/government/national/kharesh-tribes) and the [Frostwall Clans](/content/government/national/frostwall-clans) do not consider
 themselves bound by the Compact, and wars along the fringes of the known world
 tend to be more brutal than those fought in the civilised heartland of
 Aethelar.

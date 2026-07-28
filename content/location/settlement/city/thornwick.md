@@ -6,7 +6,7 @@ description: "Thornwick is the oldest human settlement in the northern river val
 
 ## A Northern City of the Ancient River Valleys
 
-Thornwick is a northern city of [Aethelar](/content/location/natural/continent/aethelar), situated in one of the broad river valleys that thread between the ancient forests of the north. The city is among the oldest [human](/content/species/sapient/humans) settlements in Aethelar, its foundations dating to the earliest period of human expansion into the temperate regions of the continent. The river that flows past its walls is one of the principal waterways of the north, and the valley that surrounds it is among the most fertile regions in Aethelar, with rich alluvial soils that have sustained agriculture for centuries. Thornwick is a quiet, prosperous city, proud of its age and heritage, and its long history is visible in every street and wall.
+Thornwick is a northern city of [Aethelar](/content/location/natural/continent/aethelar), situated in one of the broad river valleys that thread between the ancient forests of the north. The city is among the oldest [human](/content/species/sapient/humans) settlements in [Aethelar](/content/location/natural/continent/aethelar), its foundations dating to the earliest period of human expansion into the temperate regions of the continent. The river that flows past its walls is one of the principal waterways of the north, and the valley that surrounds it is among the most fertile regions in Aethelar, with rich alluvial soils that have sustained agriculture for centuries. Thornwick is a quiet, prosperous city, proud of its age and heritage, and its long history is visible in every street and wall.
 
 ## The Broad Valley and Its Alluvial Soils
 

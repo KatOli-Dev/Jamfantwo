@@ -20,7 +20,7 @@ The hunting of the red deer is regulated by the authorities of the [Vael](/conte
 
 ## The Wild Boar of the Brackenshield Wood
 
-The wild boar of the [Brackenshield Wood](/content/location/natural/ecosystem/brackenshield-wood) and the forests of the northern Aethelar is the most dangerous of the game animals, and the hunting of the boar is the sport of the brave and the skilled hunter. The boar is a large and powerful animal with the tusks that can inflict the fatal wounds, and the boar is not a prey that the hunter can take without the risk.
+The wild boar of the [Brackenshield Wood](/content/location/natural/ecosystem/brackenshield-wood) and the forests of the northern [Aethelar](/content/location/natural/continent/aethelar) is the most dangerous of the game animals, and the hunting of the boar is the sport of the brave and the skilled hunter. The boar is a large and powerful animal with the tusks that can inflict the fatal wounds, and the boar is not a prey that the hunter can take without the risk.
 
 The hunting of the boar is conducted with the spears and the dogs, and the dogs are the essential partners of the hunters in the pursuit of the boar. The dogs track the boar and hold the animal at the bay, and the hunter dispatches the boar with the spear when the animal is occupied with the dogs.
 
@@ -28,7 +28,7 @@ The meat of the boar is dark and rich, and the boar is valued for the flavour th
 
 ## The Plains Thunder Boar of the Great Grass Plains
 
-The [Plains Thunder Boar](/content/species/beasts/plains-thunder-boar) of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) is the largest of the game animals of Aethelar, a massive and powerful creature that roams the plains in the herds that number in the hundreds. The thunder boar is a relative of the wild boar of the forests, but the plains thunder boar is larger and faster and more dangerous than the forest boar.
+The [Plains Thunder Boar](/content/species/beasts/plains-thunder-boar) of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) is the largest of the game animals of Aethelar, a massive and powerful creature that roams the plains in the herds that number in the hundreds. The thunder boar is a relative of the wild boar of the forests, but the [plains thunder boar](/content/species/beasts/plains-thunder-boar) is larger and faster and more dangerous than the forest boar.
 
 The hunting of the plains thunder boar is the principal pursuit of the [centaurs](/content/species/sapient/centaurs) and the human herders of the plains region. The hunt is conducted on the horseback, and the hunters surround the herd and drive the animals toward the waiting archers who dispatch the animals with the arrows.
 

@@ -36,7 +36,7 @@ The Council has the power to compel the attendance of parties and witnesses and 
 
 ## The Hall of the Vintners at Vassholm
 
-The Council meets in the hall of the vintners at Vassholm, a substantial building of stone and timber erected more than a century ago by the subscriptions of the members. The hall contains the council chamber, the offices of the clerk, the cellars in which the standard wines and ales are kept, and the archives in which the records of the Council are preserved. The archives are open to the sworn members and to the magistrates and are among the most complete records of any guild in the known world.
+The Council meets in the hall of the vintners at [Vassholm](/content/location/settlement/city/vassholm), a substantial building of stone and timber erected more than a century ago by the subscriptions of the members. The hall contains the council chamber, the offices of the clerk, the cellars in which the standard wines and ales are kept, and the archives in which the records of the Council are preserved. The archives are open to the sworn members and to the magistrates and are among the most complete records of any guild in the known world.
 
 The records of the Council include the register of the sworn members, the register of the judgements, the register of the standards, and the register of the seals. The registers are kept by the clerk, responsible for the accuracy of the entries. The registers have been consulted by magistrates and historians in many a dispute and are the foundation of the Council's reputation for fair dealing and careful administration.
 

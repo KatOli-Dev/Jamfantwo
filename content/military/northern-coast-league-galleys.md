@@ -27,7 +27,7 @@ a month in each before moving on to the next.
 
 ## Ship Design
 
-The standard galley of the Northern Coast League is smaller than the triremes
+The standard galley of the [Northern Coast League](/content/government/national/northern-coast-league) is smaller than the triremes
 of the [Thessaran League](/content/government/national/thessaran-league),
 typically carrying sixty to eighty rowers in a single bank on each side. The
 ships are built low to the water, with a shallow draught that allows them to

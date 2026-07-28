@@ -60,7 +60,7 @@ trireme's speed advantage is outweighed by the quinquereme's endurance.
 
 ## The Deep-Water Warship
 
-The navies of Aldreth and Nordhaven rely on deep-water warships rather than
+The navies of [Aldreth](/content/government/national/aldreth) and [Nordhaven](/content/location/settlement/city/nordhaven) rely on deep-water warships rather than
 galleys for their primary combat power. These ships are built for the open
 ocean, with deep keels, high freeboards, and multiple masts that carry a
 substantial spread of sail. The deep-water warship is slower in calm conditions
@@ -117,7 +117,7 @@ the movement of horses than any other realm.
 
 ## The Landing Craft
 
-The assault landing is one of the most difficult operations in naval warfare.
+The assault landing is one of the most difficult operations in [naval warfare](/content/military/naval-warfare).
 The attacking force must be transported from ship to shore under fire, and the
 soldiers must reach the beach in a condition to fight. The landing craft used
 for this purpose are small, shallow-draft boats that can be beached on the

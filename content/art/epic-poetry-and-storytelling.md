@@ -20,7 +20,7 @@ The recitation of the sagas is a performance that requires a skilled voice and a
 
 ## The Bardic Tradition of Aethelar
 
-The bardic tradition of [Aethelar](/content/location/natural/continent/aethelar) is distinct from the epic tradition of the north. The bards of Aethelar are the poets who serve the courts of the [Aldreth](/content/government/national/aldreth) realm and the [Vael](/content/government/national/vael) realm, composing poems that celebrate the deeds of the nobility and the events of the court. The bards are trained in the academies of the [Chroniclers College](/content/government/local/chroniclers-college), where they study the forms and the techniques of the bardic tradition.
+The bardic tradition of [Aethelar](/content/location/natural/continent/aethelar) is distinct from the epic tradition of the north. The bards of [Aethelar](/content/location/natural/continent/aethelar) are the poets who serve the courts of the [Aldreth](/content/government/national/aldreth) realm and the [Vael](/content/government/national/vael) realm, composing poems that celebrate the deeds of the nobility and the events of the court. The bards are trained in the academies of the [Chroniclers College](/content/government/local/chroniclers-college), where they study the forms and the techniques of the bardic tradition.
 
 The bardic poem is composed in a verse form that is based on rhyme and syllable count, with a regular rhythm that is suited to the accompaniment of the harp. The bardic poem is shorter than the northern saga, typically lasting no more than an hour in performance, and it focusses on a single event or a single character rather than on the extended narrative of the saga.
 
@@ -28,11 +28,11 @@ The bards of Aethelar are also the keepers of the genealogies of the nobility, t
 
 ## The Oral Histories of the Sahrani Tribes
 
-The [Kharesh Tribes](/content/government/national/kharesh-tribes) and the other peoples of [Sahrana](/content/location/natural/continent/sahrana) have a tradition of oral history that is distinct from the epic and bardic traditions of the north. The Sahrani storytellers are the keepers of the history of the tribes, the tales of the ancestors, the wars, and the migrations that have shaped the Sahrani people.
+The [Kharesh Tribes](/content/government/national/kharesh-tribes) and the other peoples of [Sahrana](/content/location/natural/continent/sahrana) have a tradition of oral history that is distinct from the epic and bardic traditions of the north. The [Sahrani](/content/language/spoken/sahrani) storytellers are the keepers of the history of the tribes, the tales of the ancestors, the wars, and the migrations that have shaped the Sahrani people.
 
 The Sahrani storytellers perform in the markets and the camps, gathering the people around them with the power of their voices and the skill of their telling. The stories are told in prose rather than verse, but the language is shaped and patterned in a manner that distinguishes the storytelling from ordinary speech. The storyteller uses the rhythms of the Sahrani language, the repetitions and the parallel structures, to create a narrative that moves the hearers and that fixes the story in the memory.
 
-The Sahrani storytellers also perform the tales of the [Unwritten Name](/content/religion/unwritten-name) faith, the stories of the creation of the world and the nature of the divine. The tales are not written down, for the faith of the Unwritten Name holds that the written word cannot contain the truth that the stories convey. The storytellers are the priests of the faith, and their performances are the ceremonies of the Unwritten Name.
+The Sahrani storytellers also perform the tales of the [Unwritten Name](/content/religion/unwritten-name) faith, the stories of the creation of the world and the nature of the divine. The tales are not written down, for the faith of the [Unwritten Name](/content/religion/unwritten-name) holds that the written word cannot contain the truth that the stories convey. The storytellers are the priests of the faith, and their performances are the ceremonies of the Unwritten Name.
 
 ## The Storytelling of the Plains Confederation
 
@@ -52,6 +52,6 @@ The elven poems are not written down, for the elves do not use writing in the ma
 
 ## The Guilds and the Training of the Poets
 
-The poets and the storytellers of the human realms are organised into [guilds](/content/economy/guilds) that maintain the standards of the craft and regulate the training of the apprentices. The guild of the bards of [Eldreth](/content/location/settlement/city/eldreth) is the oldest and the most influential of the poetic guilds, and the bards of Eldreth are the standard-setters for the craft across the known world.
+The poets and the storytellers of the human realms are organised into [guilds](/content/economy/guilds) that maintain the standards of the craft and regulate the training of the apprentices. The guild of the bards of [Eldreth](/content/location/settlement/city/eldreth) is the oldest and the most influential of the poetic guilds, and the bards of [Eldreth](/content/location/settlement/city/eldreth) are the standard-setters for the craft across the known world.
 
 The training of the poet is a long process, requiring the mastery of the forms and the techniques of the tradition, the memorisation of the established works, and the development of the voice and the presence that the performance requires. The apprentice poet serves a period of study under a master poet, learning the craft through the imitation of the master and the composition of original works under the master's guidance.

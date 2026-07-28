@@ -12,7 +12,7 @@ The diversity of death customs across the known world reflects the diversity of 
 
 ## Burial in the Vael Valley
 
-The burial customs of the Vael river valley are conducted according to the traditions of the Still Flame, which teaches that the body of the deceased is to be returned to the earth from which it was formed. The burial is conducted at the temple of the village, presided over by the priest, and is attended by the family of the deceased and the adult members of the parish.
+The burial customs of the [Vael](/content/government/national/vael) river valley are conducted according to the traditions of the [Still Flame](/content/religion/still-flame), which teaches that the body of the deceased is to be returned to the earth from which it was formed. The burial is conducted at the temple of the village, presided over by the priest, and is attended by the family of the deceased and the adult members of the parish.
 
 The body of the deceased is prepared by the family, who wash the body and dress it in the ceremonial garments that are kept for this purpose. The body is laid in a simple wooden coffin, and the coffin is carried in procession to the burial ground that adjoins the temple. The burial ground is consecrated ground, set apart for the purpose of burial, and the graves are marked by simple stones that bear the name of the deceased and the dates of the birth and the death.
 
@@ -20,7 +20,7 @@ The burial ceremony includes the prayers of the Still Flame, the kindling of a f
 
 ## The Deep Mourning of the Coast
 
-The maritime communities of the known world observe the Deep Mourning, the funeral rite that commits the body of the mariner to the sea. The [Deep Mourning](/content/culture/deep-mourning) is the principal funeral rite of the coastal settlements, observed upon the death of those whose lives were bound to the water.
+The maritime communities of the known world observe the [Deep Mourning](/content/culture/deep-mourning), the funeral rite that commits the body of the mariner to the sea. The [Deep Mourning](/content/culture/deep-mourning) is the principal funeral rite of the coastal settlements, observed upon the death of those whose lives were bound to the water.
 
 The rite begins with the preparation of the body by the family, who wash the body in salt water drawn from the sea and dress the body in the deceased's preferred clothing. The body is placed upon a bier draped with cloth of the colour that the tradition of the community requires, and the bier is transported in procession to the boat that will carry the body to the place of committal.
 
@@ -32,7 +32,7 @@ The burial customs of the [dwarves](/content/species/sapient/dwarves) reflect th
 
 The body of the deceased is prepared by the master of the forge, who washes the body and dresses it in the garments of the craft that the deceased practised. The body is placed upon a stone bier, and the master of the forge conducts the ceremony that commits the body to the rock. The burial chamber is sealed with a stone door, and the name of the deceased is carved into the stone so that the memory of the deceased may be preserved.
 
-The dwarves maintain the [Memory Houses](/content/religion/houses-of-memory), the chambers in which the records of the ancestors are preserved. The Memory Houses contain the genealogies of the lineages, the chronicles of the halls, and the works of the craftsmen who have contributed to the glory of the dwarven people. The Houses of Memory are the most sacred places of the dwarven community, and the dwarves visit them regularly to honour the memory of the ancestors and to consult the records that the ancestors have left.
+The dwarves maintain the [Memory Houses](/content/religion/houses-of-memory), the chambers in which the records of the ancestors are preserved. The [Memory Houses](/content/religion/houses-of-memory) contain the genealogies of the lineages, the chronicles of the halls, and the works of the craftsmen who have contributed to the glory of the dwarven people. The Houses of Memory are the most sacred places of the dwarven community, and the dwarves visit them regularly to honour the memory of the ancestors and to consult the records that the ancestors have left.
 
 ## The Burning of the Plains
 

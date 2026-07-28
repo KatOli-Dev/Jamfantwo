@@ -12,7 +12,7 @@ The plants that are used in the healing arts are gathered from the wild or culti
 
 ## Feverfew and the Treatment of Fevers
 
-Feverfew is among the most widely used medicinal herbs in the known world, its leaves being used in the treatment of the fevers that accompany the seasonal illnesses that afflict the populations of the cities and the settlements. The plant grows wild in the meadows and the waste places of Aethelar, and it is cultivated in the gardens of the healers for the reliability of the supply that is required in the fever season.
+Feverfew is among the most widely used medicinal herbs in the known world, its leaves being used in the treatment of the fevers that accompany the seasonal illnesses that afflict the populations of the cities and the settlements. The plant grows wild in the meadows and the waste places of [Aethelar](/content/location/natural/continent/aethelar), and it is cultivated in the gardens of the healers for the reliability of the supply that is required in the fever season.
 
 The leaves of the feverfew are harvested in the early summer, when the plant is in full leaf and the medicinal compounds are at their highest concentration. The leaves are dried in the shade and stored in sealed pots that preserve their properties for up to a year. The remedy is prepared by infusing the dried leaves in hot water and straining the infusion before it is administered to the patient. The fever that results from the seasonal illnesses usually breaks within a day of the administration of the feverfew infusion, and the patient is left weakened but alive.
 
@@ -20,7 +20,7 @@ The feverfew of the [Aethelar Heartwood](/content/location/natural/ecosystem/aet
 
 ## Willow Bark and the Relief of Pain
 
-The bark of the willow tree is the most widely used remedy for the relief of pain in the known world, its properties being known to the healers of every region and every tradition. The willow grows in the wet soils of the river banks and the marsh edges of Aethelar and Sahrana, and the bark is harvested in the spring when the sap is rising and the medicinal compounds are at their highest concentration.
+The bark of the willow tree is the most widely used remedy for the relief of pain in the known world, its properties being known to the healers of every region and every tradition. The willow grows in the wet soils of the river banks and the marsh edges of Aethelar and [Sahrana](/content/location/natural/continent/sahrana), and the bark is harvested in the spring when the sap is rising and the medicinal compounds are at their highest concentration.
 
 The outer bark of the willow is scraped from the branches and the trunk, and the inner bark is stripped in long pieces that are dried in the sun. The dried bark is ground to a powder that is mixed with water or wine and administered to the patient for the relief of the pain of injuries, the inflammation of the joints, and the headaches that disrupt the daily life of the sufferer. The remedy is not a cure but a palliation that allows the patient to rest and to recover the strength that is needed for the healing of the underlying condition.
 
@@ -44,7 +44,7 @@ The poppy that is cultivated in the gardens of the [Green Crescent](/content/loc
 
 The resin of the poppy is administered in tiny quantities, for the effect of the resin is powerful and the difference between a healing dose and a lethal dose is small. The healers who use the poppy resin are trained in its administration, and the [guilds](/content/economy/guilds) of the apothecaries regulate the trade in the resin with the strictness that the danger of the substance demands. The resin is used in the treatment of the most severe pain, the pain of the major injuries and the terminal illnesses that the other remedies cannot relieve.
 
-The cultivation of the poppy in the gardens of the Green Crescent is regulated by the authorities of the [Vashari Pact](/content/government/national/vashari-pact) and the [Amurra Republic](/content/government/national/amurra-republic), and the trade in the resin is restricted to the apothecaries who hold the licences that are granted by the guilds. The misuse of the poppy resin is a problem that the authorities of the cities are aware of, and the penalties for the possession of the resin without a licence are among the most severe in the legal codes of the Sahrani states.
+The cultivation of the poppy in the gardens of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) is regulated by the authorities of the [Vashari Pact](/content/government/national/vashari-pact) and the [Amurra Republic](/content/government/national/amurra-republic), and the trade in the resin is restricted to the apothecaries who hold the licences that are granted by the guilds. The misuse of the poppy resin is a problem that the authorities of the cities are aware of, and the penalties for the possession of the resin without a licence are among the most severe in the legal codes of the [Sahrani](/content/language/spoken/sahrani) states.
 
 ## The Herbs of the Morvind Highlands
 
@@ -52,13 +52,13 @@ The cold climate of [Morvind](/content/location/natural/continent/morvind) produ
 
 The mountain arnica of the high pastures is used in the treatment of the bruises and the sprains that are the common injuries of the dwarven miners and the human labourers of the region. The flowers of the arnica are harvested in the brief summer and steeped in oil that is applied to the injured area, reducing the swelling and the discolouration that accompany the injury. The preparation must not be applied to broken skin, for the arnica is toxic when absorbed through wounds, and the healers of the north are careful in their use of this potent remedy.
 
-The angelica that grows in the sheltered valleys of the [Valdmark](/content/government/national/valdmark) is used in the treatment of the chest complaints that are the common illnesses of the cold regions. The root of the angelica is harvested in the autumn of the second year of the plant's life, and the root is dried and powdered for use in the preparation of infusions that ease the cough and clear the congestion of the lungs. The angelica of the Valdmark is exported to the markets of Aethelar, where it is valued by the apothecaries of the northern cities.
+The angelica that grows in the sheltered valleys of the [Valdmark](/content/government/national/valdmark) is used in the treatment of the chest complaints that are the common illnesses of the cold regions. The root of the angelica is harvested in the autumn of the second year of the plant's life, and the root is dried and powdered for use in the preparation of infusions that ease the cough and clear the congestion of the lungs. The angelica of the [Valdmark](/content/government/national/valdmark) is exported to the markets of Aethelar, where it is valued by the apothecaries of the northern cities.
 
 ## The Herb Gardens of the Cloisters
 
 The [Reading Cloisters](/content/religion/cloisters-of-reading) maintain the most extensive gardens of medicinal herbs in the known world, the gardens being the source of the remedies that the healers of the cloisters prepare for the care of the sick and the injured who come to the cloisters for treatment. The gardens are laid out in orderly beds that contain the plants of the herbal tradition, arranged according to the purposes that the plants serve and the seasons in which they are harvested.
 
-The cloister gardens are also the centres of the study of herbal medicine, and the scribes of the cloisters compile the herbals and the formularies that record the knowledge of the healing properties of the plants and the methods of preparing the remedies. The herbals of the Reading Cloisters are the most authoritative texts on the subject of medicinal herbs in the known world, and the copies that are made by the scribes are distributed to the healers of the cities and the towns.
+The cloister gardens are also the centres of the study of herbal medicine, and the scribes of the cloisters compile the herbals and the formularies that record the knowledge of the healing properties of the plants and the methods of preparing the remedies. The herbals of the [Reading Cloisters](/content/religion/cloisters-of-reading) are the most authoritative texts on the subject of medicinal herbs in the known world, and the copies that are made by the scribes are distributed to the healers of the cities and the towns.
 
 Related topics:
 - [Spice Plants](/content/nature/flora/spice-plants)

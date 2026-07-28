@@ -8,7 +8,7 @@ description: "The Forged Flame is a tradition of workshop devotion among smiths 
 
 The Forged Flame is the name given to the tradition of workshop devotion practised by smiths and craftspeople in several regions of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind). The tradition is not a single organised faith but a family of related practices centred upon the understanding that the act of making is a form of devotion and that the fire of the forge is a sacred presence. The Forged Flame is the fire the smith kindles in the forge, the heat that transforms the metal, and the light that guides the hands of the maker.
 
-The tradition takes its name from the belief that the first fire kindled in the first forge was a gift from the divine, a flame that was not merely fire but the presence of the maker's spirit made manifest in the world. Every fire kindled in a forge thereafter is a continuation of that first forging, and every object shaped upon the anvil is a participation in the work that began at the first making.
+The tradition takes its name from the belief that the first fire kindled in [the first forge](/content/mythology/the-first-forge) was a gift from the divine, a flame that was not merely fire but the presence of the maker's spirit made manifest in the world. Every fire kindled in a forge thereafter is a continuation of that first forging, and every object shaped upon the anvil is a participation in the work that began at the first making.
 
 ## The Forger as Divine Smith
 
@@ -36,9 +36,9 @@ The attention the smith brings to the work is the same attention the smith bring
 
 The Forged Flame has maintained a correspondence with the [gnomish craft devotion](/content/religion/gnomish-craft-devotion), recognising in the gnomish tradition the same understanding that the work of the hands is a form of devotion and that an object well made honours the divine. Smiths of the Forged Flame have exchanged visits with gnomish workshops, and the two traditions have learned from each other the techniques of the craft and the disciplines of attention.
 
-The Forged Flame has also been recognised by the [Memory Houses](/content/religion/houses-of-memory) of the Shield and Song, whose singers have attended the kindling ceremonies of the Forged Flame and carried reports of those ceremonies back to their houses. The houses of memory regard the Forged Flame as a kindred tradition, sharing the understanding that the discipline of attention is a form of devotion.
+The Forged Flame has also been recognised by the [Memory Houses](/content/religion/houses-of-memory) of the [Shield and Song](/content/religion/shield-and-song), whose singers have attended the kindling ceremonies of the Forged Flame and carried reports of those ceremonies back to their houses. The houses of memory regard the Forged Flame as a kindred tradition, sharing the understanding that the discipline of attention is a form of devotion.
 
-The [Still Flame](/content/religion/still-flame) has also acknowledged the Forged Flame as a kindred tradition, recognising in the forge fire a reflection of the Still Flame that burns in the hearth-halls. The hearth-keepers of the Still Flame have exchanged courtesies with the smiths of the Forged Flame, and the two traditions have maintained a respectful correspondence.
+The [Still Flame](/content/religion/still-flame) has also acknowledged the Forged Flame as a kindred tradition, recognising in the forge fire a reflection of the [Still Flame](/content/religion/still-flame) that burns in the hearth-halls. The hearth-keepers of the Still Flame have exchanged courtesies with the smiths of the Forged Flame, and the two traditions have maintained a respectful correspondence.
 
 Related topics:
 - [gnomish craft devotion](/content/religion/gnomish-craft-devotion)

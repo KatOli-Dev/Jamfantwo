@@ -8,7 +8,7 @@ description: "The grinding of grain into flour at the water mill and the baking 
 
 The milling of grain into flour and the baking of flour into bread are among the most fundamental of the trades that sustain the populations of the settled regions, for bread is the staple food of every household in the temperate and the cold climates. The miller who grinds the grain that the farmers bring to the mill and the baker who transforms the flour into the loaf are the links between the field and the table, and the reliability of their work is the condition of the daily nourishment of the people. The milling and the baking trades are regulated by the guilds in every city of any size, for the supply of bread is too important to be left to the unregulated enterprise of the individual.
 
-The quality of the bread depends on the quality of the grain, the skill of the miller in the grinding, and the skill of the baker in the mixing and the baking of the dough. The grain that is grown in the fertile soils of the Plains Confederation produces the finest flour, and the bread that is baked from the flour of the plains is the most highly regarded in the known world. The grain of the Sahrani highlands is of a lower quality, and the bread that is baked from the Sahrani flour is darker and denser than the bread of the plains.
+The quality of the bread depends on the quality of the grain, the skill of the miller in the grinding, and the skill of the baker in the mixing and the baking of the dough. The grain that is grown in the fertile soils of the [Plains Confederation](/content/government/national/plains-confederation) produces the finest flour, and the bread that is baked from the flour of the plains is the most highly regarded in the known world. The grain of the [Sahrani](/content/language/spoken/sahrani) highlands is of a lower quality, and the bread that is baked from the Sahrani flour is darker and denser than the bread of the plains.
 
 ## The Mill and the Miller
 
@@ -52,7 +52,7 @@ The guild of the bakers regulates the trade in the bread in every city of any si
 
 The baker who violates the regulations of the guild is subject to the fine and the suspension from the practice of the trade. The baker who sells the loaf that is under the standard weight is fined for each loaf that is found to be deficient, and the baker who consistently violates the weight standards may be expelled from the guild.
 
-The guild also maintains the stocks of the grain that the bakers require, purchasing the grain from the farmers and the merchants in the season of the harvest and storing it for the use of the bakers through the year. The guild of the bakers of Eldreth is among the largest and the most influential of the guilds of the city, for the supply of the bread to the population of the great city is a responsibility that the council of the city takes seriously.
+The guild also maintains the stocks of the grain that the bakers require, purchasing the grain from the farmers and the merchants in the season of the harvest and storing it for the use of the bakers through the year. The guild of the bakers of [Eldreth](/content/location/settlement/city/eldreth) is among the largest and the most influential of the guilds of the city, for the supply of the bread to the population of the great city is a responsibility that the council of the city takes seriously.
 
 ## The Millers and the Bakers of the Different Peoples
 

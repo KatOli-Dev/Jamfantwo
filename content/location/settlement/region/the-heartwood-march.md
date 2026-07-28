@@ -6,7 +6,7 @@ description: "The shifting borderland between the Aethelar Heartwood and the set
 
 ## The Border Region Between the Heartwood and Settled Lands
 
-The Heartwood March is a region of [Aethelar](/content/location/natural/continent/aethelar) that lies at the boundary between the Aethelar Heartwood, the great forest that covers the central highlands, and the settled farmlands of the lowlands. The march is a transitional zone of forest and field, a landscape shaped by the centuries-long interaction between the woodland and the communities that have established themselves at its edge. The Heartwood March is not a political unit but a geographical and cultural region, defined by the character of the land and the people who inhabit it.
+The Heartwood March is a region of [Aethelar](/content/location/natural/continent/aethelar) that lies at the boundary between the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), the great forest that covers the central highlands, and the settled farmlands of the lowlands. The march is a transitional zone of forest and field, a landscape shaped by the centuries-long interaction between the woodland and the communities that have established themselves at its edge. The Heartwood March is not a political unit but a geographical and cultural region, defined by the character of the land and the people who inhabit it.
 
 The Heartwood March extends along the western and southern fringes of the great forest, following the line where the trees give way to the open country. The march varies in width from a few miles to many miles, depending on the topography and the history of settlement. The region is a patchwork of woodland, pasture, and field, with the forest pressing in on the settled areas and the settled areas pushing back into the forest.
 
@@ -20,7 +20,7 @@ The border is marked by hedgerows and banks, ditches and fences, the works of ge
 
 The settlements of the Heartwood March are villages and hamlets that have grown at the edge of the forest, their inhabitants living by a combination of farming, woodland management, and the crafts that the forest provides. The settlements are small, for the land that has been cleared from the forest is limited, and the fields that surround them are scattered among the remnants of the woodland.
 
-The largest settlement of the march is the town of Pinehold, which serves as a centre of trade and administration for the region. The town is situated at a point where the forest opens out into a broad valley, and its market attracts farmers, timber merchants, and craftsmen from across the march. The other settlements of the march are smaller, each serving the needs of the surrounding farms and woodlands.
+The largest settlement of the march is the town of [Pinehold](/content/location/settlement/town/pinehold), which serves as a centre of trade and administration for the region. The town is situated at a point where the forest opens out into a broad valley, and its market attracts farmers, timber merchants, and craftsmen from across the march. The other settlements of the march are smaller, each serving the needs of the surrounding farms and woodlands.
 
 ## The Economy of the March
 

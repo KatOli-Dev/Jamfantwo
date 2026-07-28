@@ -12,7 +12,7 @@ The marriage bond is recognised everywhere as a relationship of mutual obligatio
 
 ## Marriage in the Vael Valley
 
-In the Vael river valley, marriage is conducted according to the custom of [Hands Joined](/content/culture/hands-joined), the principal marriage ceremony of the temperate lands. The ceremony is conducted at the temple of the [Still Flame](/content/religion/still-flame), presided over by the priest, and is attended by the families of the spouses and the adult members of the parish.
+In the [Vael](/content/government/national/vael) river valley, marriage is conducted according to the custom of [Hands Joined](/content/culture/hands-joined), the principal marriage ceremony of the temperate lands. The ceremony is conducted at the temple of the [Still Flame](/content/religion/still-flame), presided over by the priest, and is attended by the families of the spouses and the adult members of the parish.
 
 The Vaelic family is a three-generation household, comprising the grandparents, the parents, and the children. The household is headed by the senior capable adult, who manages the household's resources and represents the household in the councils of the parish. The authority of the household head is exercised in consultation with the other adult members of the household, and the decisions of the household are reached through discussion and consensus.
 
@@ -36,7 +36,7 @@ The marriage of the dwarves is a contract between the lineages rather than betwe
 
 ## Marriage in the Sahrani City-States
 
-The marriage customs of the [Sahrani city-states](/content/culture/sahrani-city-life) are governed by the traditions of the mercantile culture that is the foundation of the Sahrani civilisation. The marriage is conducted at the temple of the city, presided over by the priest, and is attended by the families of the spouses and the merchants who are the principal witnesses of the contract.
+The marriage customs of the [Sahrani city-states](/content/culture/sahrani-city-life) are governed by the traditions of the mercantile culture that is the foundation of the [Sahrani](/content/language/spoken/sahrani) civilisation. The marriage is conducted at the temple of the city, presided over by the priest, and is attended by the families of the spouses and the merchants who are the principal witnesses of the contract.
 
 The Sahrani marriage is a contract between the families of the spouses, specifying the amount of the dowry that the bride's family will contribute and the settlement that the groom's family will provide. The marriage is a union of commercial interests as well as personal bonds, and the marriages of the merchant families are arranged to consolidate the economic relationships that connect the trading houses of the city.
 

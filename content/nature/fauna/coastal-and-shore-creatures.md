@@ -14,7 +14,7 @@ The coastal and the shore creatures are of several types. The birds of the shore
 
 The seals of the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) and the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) are the most common of the marine mammals that breed on the shores of the known world. The seals are the large and the sleek animals that are adapted to the life in the sea, and the seals come to the shore to breed and to give birth to the pups.
 
-The seals of the Glasslight Coast are the grey seals that are the common species of the northern waters, and the seals breed in the colonies that are established on the remote beaches and the rocky islands that are not disturbed by the human settlements. The seals are hunted by the coastal peoples for the oil and the pelts, and the seal oil is used in the lamps and the seal pelts are used in the production of the garments and the footwear.
+The seals of the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) are the grey seals that are the common species of the northern waters, and the seals breed in the colonies that are established on the remote beaches and the rocky islands that are not disturbed by the human settlements. The seals are hunted by the coastal peoples for the oil and the pelts, and the seal oil is used in the lamps and the seal pelts are used in the production of the garments and the footwear.
 
 ## The Seabirds of the Coastal Cliffs
 
@@ -24,7 +24,7 @@ The seabirds are the source of the eggs and the meat that the coastal peoples ha
 
 ## The Sea Turtles of the Sahrani Coast
 
-The sea turtles of the Sahrani coast are the reptiles of the warm waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the turtles come to the beaches of the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) and the [Green Crescent](/content/location/natural/ecosystem/green-crescent) to lay the eggs in the sand.
+The sea turtles of the [Sahrani](/content/language/spoken/sahrani) coast are the reptiles of the warm waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the turtles come to the beaches of the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) and the [Green Crescent](/content/location/natural/ecosystem/green-crescent) to lay the eggs in the sand.
 
 The sea turtles are the large and the ancient animals that have nested on the Sahrani beaches for the millennia, and the turtles are the subjects of the protection and the regulation by the authorities of the coastal settlements. The eggs of the turtles are collected by the coastal peoples, and the eggs are the valued food that is eaten fresh or preserved in the oil.
 
@@ -38,7 +38,7 @@ The crabs are gathered by the shore gatherers who walk the tidal flats at the lo
 
 The shellfish of the rocky shores of the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) and the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) are the mussels, the limpets, and the barnacles that cover the rocks of the tidal zone. The shellfish are the filter feeders that strain the plankton from the water, and the shellfish are the prey of the birds and the starfish and the other predators of the shore.
 
-The mussels of the Stormfall Coast are the most common of the shellfish that are gathered by the shore gatherers, and the mussels are eaten fresh or smoked for the preservation.
+The mussels of the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) are the most common of the shellfish that are gathered by the shore gatherers, and the mussels are eaten fresh or smoked for the preservation.
 
 ## The Auric Reef Shark of the Coral Waters
 
@@ -46,9 +46,9 @@ The [Auric Reef Shark](/content/species/beasts/auric-reef-shark) of the coral wa
 
 ## The Storm Petrels and the Stormwing Rocs of the Coasts
 
-The [Storm Petrel](/content/species/beasts/storm-petrel) and the [Stormwing Roc](/content/species/beasts/stormwing-roc) of the coasts are the birds that are the subjects of the legends and the tales of the sailors who travel the seas of the known world. The storm petrel is a small and dark bird that flies through the storms of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), and the petrel is the bird that the sailors regard as the omen of the storm.
+The [Storm Petrel](/content/species/beasts/storm-petrel) and the [Stormwing Roc](/content/species/beasts/stormwing-roc) of the coasts are the birds that are the subjects of the legends and the tales of the sailors who travel the seas of the known world. The [storm petrel](/content/species/beasts/storm-petrel) is a small and dark bird that flies through the storms of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), and the petrel is the bird that the sailors regard as the omen of the storm.
 
-The stormwing roc is a large and powerful bird that nests on the cliffs of the remote islands, and the stormwing roc is the bird that is feared and respected by the sailors who travel the waters where the roc hunts.
+The [stormwing roc](/content/species/beasts/stormwing-roc) is a large and powerful bird that nests on the cliffs of the remote islands, and the stormwing roc is the bird that is feared and respected by the sailors who travel the waters where the roc hunts.
 
 ## The Regulation of the Shore Harvesting
 

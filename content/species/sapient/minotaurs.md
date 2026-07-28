@@ -18,7 +18,7 @@ Minotaur skin is thick and tough, ranging from dark brown to reddish-tan, covere
 
 ## Collective Rearing and Rites of Passage
 
-Minotaurs live eighty to one hundred and twenty years under favourable conditions. They mature at a pace comparable to humans, reaching full stature by their late teens, though they continue to gain strength and mass well into their twenties. Minotaur women carry their young for approximately nine months before giving birth, and births are usually single. The infant is large and well-developed, capable of walking within hours, and grows quickly, reaching adolescence within a decade.
+Minotaurs live eighty to one hundred and twenty years under favourable conditions. They mature at a pace comparable to [humans](/content/species/sapient/humans), reaching full stature by their late teens, though they continue to gain strength and mass well into their twenties. Minotaur women carry their young for approximately nine months before giving birth, and births are usually single. The infant is large and well-developed, capable of walking within hours, and grows quickly, reaching adolescence within a decade.
 
 Minotaur populations grow steadily when the highlands are at peace and pastures are sufficient. The young are raised collectively by the community, with all adults sharing in their care and training. Education is long and thorough, encompassing navigation of the highlands, care of livestock, working of stone and metal, and the history and traditions of the people. A minotaur is not considered fully adult until they have demonstrated competence in all of these, and the rites of passage marking the transition to adulthood are the most significant events in minotaur culture.
 

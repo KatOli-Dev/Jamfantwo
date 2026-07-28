@@ -12,7 +12,7 @@ The production of clothing is one of the principal industries of every settled c
 
 ## The Clothing of the Vael Valley
 
-The clothing of the Vael river valley is adapted to the temperate climate of the region, providing warmth in the winter and protection from the sun in the summer. The principal materials are the wool of the sheep and the flax that the farmers of the valley cultivate for the production of linen. The wool is woven into the heavy cloths that are used for the outer garments of the winter, and the flax is woven into the lighter cloths that are used for the undergarments and the summer clothing.
+The clothing of the [Vael](/content/government/national/vael) river valley is adapted to the temperate climate of the region, providing warmth in the winter and protection from the sun in the summer. The principal materials are the wool of the sheep and the flax that the farmers of the valley cultivate for the production of linen. The wool is woven into the heavy cloths that are used for the outer garments of the winter, and the flax is woven into the lighter cloths that are used for the undergarments and the summer clothing.
 
 The typical dress of the Vaelic farmer consists of a linen shirt, breeches of wool or linen according to the season, and a tunic of heavier wool for the outer layer. The colours are generally those of the natural fibres, though the wealthier households use the dyes that are imported from the coast to achieve the brighter colours that indicate the status of the wearer. The blue dye of the woad plant is the most commonly used colour in the valley, producing the shades of blue that are the characteristic colours of the Vaelic dress.
 
@@ -28,7 +28,7 @@ The centaurs do not wear clothing on the upper body, as the movement of the four
 
 ## The Clothing of the Dwarven Halls
 
-The clothing of the [dwarves](/content/species/sapient/dwarves) is adapted to the conditions of the underground life, where the temperature is constant and the light is artificial. The principal materials are the wool of the mountain sheep and the leather of the goats that are pastured on the mountain slopes. The dwarves also import the cotton and the silk of the southern lands for the garments of the wealthy and the ceremonial occasions.
+The clothing of the [dwarves](/content/species/sapient/dwarves) is adapted to the conditions of the underground life, where the temperature is constant and the light is artificial. The principal materials are the wool of the mountain sheep and the leather of the goats that are pastured on the mountain slopes. The dwarves also import the cotton and the silk of the [southern lands](/content/location/natural/continent/southern-lands) for the garments of the wealthy and the ceremonial occasions.
 
 The typical dress of the dwarven craftsman consists of a tunic of wool, breeches of leather, and a leather apron that protects the clothing from the sparks and the dirt of the forge. The dwarves wear the heavy boots of leather and iron that protect the feet from the sharp stones of the mine. The colours of the dwarven clothing are the earthy colours of the mountain: the browns and the greys and the deep reds that are produced by the mineral dyes of the dwarven mines.
 
@@ -38,7 +38,7 @@ The dwarven women wear a long dress of wool, covered by an apron of leather that
 
 The clothing of the [Sahrani city-states](/content/culture/sahrani-city-life) is adapted to the heat of the southern climate, providing protection from the sun while allowing the air to circulate around the body. The principal materials are the cotton that the farmers of the coast cultivate and the silk that is imported from the distant eastern lands. The cloth is woven in the light weights that are suitable for the hot climate, and the colours are generally the light colours that reflect the heat of the sun.
 
-The typical dress of the Sahrani merchant consists of a long robe of cotton or silk, worn over a shirt of lighter cotton. The robe is fastened at the waist with a sash of woven silk, and the head is covered by the turban that protects the head from the sun and indicates the status of the wearer. The colours of the turban indicate the city of the wearer and the family to which the wearer belongs.
+The typical dress of the [Sahrani](/content/language/spoken/sahrani) merchant consists of a long robe of cotton or silk, worn over a shirt of lighter cotton. The robe is fastened at the waist with a sash of woven silk, and the head is covered by the turban that protects the head from the sun and indicates the status of the wearer. The colours of the turban indicate the city of the wearer and the family to which the wearer belongs.
 
 The women of the Sahrani coast wear a long dress of cotton or silk, covered by a cloak that is worn when the woman leaves the household. The cloak covers the head and the body, providing privacy and protection from the sun. The materials and the decoration of the cloak indicate the wealth and the status of the woman's family.
 

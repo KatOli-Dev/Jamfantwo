@@ -6,7 +6,7 @@ description: "A farming town on the Clearwater tributary of the River Vael, Clea
 
 ## A Farming Town in the Vael Tributaries
 
-Clearwater is a farming town of [Aethelar](/content/location/natural/continent/aethelar) situated on the banks of the Clearwater, a tributary of the [River Vael](/content/location/natural/feature/river-vael), at the point where the stream emerges from the foothills of the western highlands and enters the broad valley of the Vael. The town takes its name from the stream, whose waters are notably clear and pure, and it serves as a centre of trade and administration for the farming communities of the tributary valley. Clearwater is a settlement of modest size but considerable prosperity, built upon the agricultural wealth of the surrounding country.
+Clearwater is a farming town of [Aethelar](/content/location/natural/continent/aethelar) situated on the banks of the Clearwater, a tributary of the [River Vael](/content/location/natural/feature/river-vael), at the point where the stream emerges from the foothills of the western highlands and enters the broad valley of the [Vael](/content/government/national/vael). The town takes its name from the stream, whose waters are notably clear and pure, and it serves as a centre of trade and administration for the farming communities of the tributary valley. Clearwater is a settlement of modest size but considerable prosperity, built upon the agricultural wealth of the surrounding country.
 
 The position of Clearwater at the point where the Clearwater stream enters the Vael valley has made it a natural centre for the trade of the region. The roads that follow the tributary valley converge on the town, and the weekly market attracts farmers and traders from the surrounding country. The prosperity of Clearwater is founded upon the grain that is grown in the fields of the valley and the livestock that is raised on the pastures of the foothills.
 
@@ -14,7 +14,7 @@ The position of Clearwater at the point where the Clearwater stream enters the V
 
 The Clearwater stream rises in the western highlands, where the snowmelt and the springs of the mountains feed a network of small streams that unite to form the Clearwater. The stream flows eastward through a narrow valley that broadens as it approaches the Vael, and the waters of the Clearwater are noted for their clarity and purity, a quality that has given the stream and the town their name.
 
-The Vael tributaries are the streams and rivers that feed the River Vael from the western highlands and the southern hills. The tributaries are numerous, and the valleys that they have carved are among the most fertile agricultural regions in central Aethelar. The Clearwater valley is typical of the tributary valleys, with fields of grain and pastures of grass covering the valley floor and the lower slopes of the hills.
+The Vael tributaries are the streams and rivers that feed the [River Vael](/content/location/natural/feature/river-vael) from the western highlands and the southern hills. The tributaries are numerous, and the valleys that they have carved are among the most fertile agricultural regions in central [Aethelar](/content/location/natural/continent/aethelar). The Clearwater valley is typical of the tributary valleys, with fields of grain and pastures of grass covering the valley floor and the lower slopes of the hills.
 
 ## From Farming Hamlet to Market Town
 

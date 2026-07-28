@@ -24,7 +24,7 @@ The town is also a centre for processing the ferns and herbs that grow in the bo
 
 ## The Peaceful Growth of the Boundary Community
 
-Fernmoor was founded in the middle centuries of human settlement of northern Aethelar, when the boundary country was recognised as a valuable point of exchange between forest and plains peoples. The early settlement was a cluster of inns and storehouses serving traders travelling between forest and plains; the permanent community grew from these commercial beginnings. The town has never been fortified, for the boundary country has been peaceful for many generations, and the absence of walls reflects the security the community has enjoyed throughout its history.
+Fernmoor was founded in the middle centuries of human settlement of northern [Aethelar](/content/location/natural/continent/aethelar), when the boundary country was recognised as a valuable point of exchange between forest and plains peoples. The early settlement was a cluster of inns and storehouses serving traders travelling between forest and plains; the permanent community grew from these commercial beginnings. The town has never been fortified, for the boundary country has been peaceful for many generations, and the absence of walls reflects the security the community has enjoyed throughout its history.
 
 The history of Fernmoor is a history of trade and coexistence. The town has served as the meeting point of forest and plains peoples for centuries, and the weekly market is the oldest and most valued institution of the community. The town's population is drawn from the settled humans of the boundary country and the visitors who come to the market from forest and plains.
 

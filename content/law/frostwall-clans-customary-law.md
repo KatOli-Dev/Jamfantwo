@@ -6,17 +6,17 @@ description: "The unwritten laws of the dwarven clans of the deep interior, gove
 
 ## The Legal Order of the Deep Interior
 
-The Frostwall Clans Customary Law is the body of unwritten law that governs the [Frostwall Clans](/content/government/national/frostwall-clans), the dwarven clans of the deep interior of [Morvind](/content/location/natural/continent/morvind). The customary law is preserved in the memory of the clan elders and recited at the council sessions held at [Grimhold](/content/location/settlement/city/grimhold), the principal fortress-city of the clans. Certain provisions have been inscribed on stone tablets kept in the fortress halls, but the law remains primarily an oral tradition, transmitted across generations by the elders who are its guardians.
+The [Frostwall Clans](/content/government/national/frostwall-clans) Customary Law is the body of unwritten law that governs the [Frostwall Clans](/content/government/national/frostwall-clans), the dwarven clans of the deep interior of [Morvind](/content/location/natural/continent/morvind). The customary law is preserved in the memory of the clan elders and recited at the council sessions held at [Grimhold](/content/location/settlement/city/grimhold), the principal fortress-city of the clans. Certain provisions have been inscribed on stone tablets kept in the fortress halls, but the law remains primarily an oral tradition, transmitted across generations by the elders who are its guardians.
 
-The customary law of the Frostwall Clans reflects the conditions of the deep interior and the values of the dwarven people who inhabit it. The law is shaped by the demands of the harsh environment, the martial traditions of the clans, and the need for collective action in defence of the interior ranges. The law is also shaped by the relationship between the clans and the other peoples of Morvind, including the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the human settlements of the coast.
+The customary law of the Frostwall Clans reflects the conditions of the deep interior and the values of the dwarven people who inhabit it. The law is shaped by the demands of the harsh environment, the martial traditions of the clans, and the need for collective action in defence of the interior ranges. The law is also shaped by the relationship between the clans and the other peoples of [Morvind](/content/location/natural/continent/morvind), including the [Stoneheim Holds](/content/government/national/stoneheim-holds) and the human settlements of the coast.
 
 ## The Sources of the Customary Law
 
 The customary law of the Frostwall Clans derives from several sources, each of which contributes to the body of rules that govern the life of the clans. The first and most important source is the tradition of the clans themselves, the accumulated wisdom of generations of dwarves who have lived and died in the deep interior. The traditions of the clans include the rules of conduct that have been developed to ensure the survival and prosperity of the community in the demanding conditions of the interior.
 
-The second source of the customary law is the decisions of the council of clan chiefs, which meets at Grimhold to resolve disputes and to make rules for the governance of the clans. The decisions of the council are recorded in the oral traditions of the clans, and they are cited as precedent in future disputes. The council has the authority to make new rules when the existing law is silent or when the conditions of the interior require a change in the law.
+The second source of the customary law is the decisions of the council of clan chiefs, which meets at [Grimhold](/content/location/settlement/city/grimhold) to resolve disputes and to make rules for the governance of the clans. The decisions of the council are recorded in the oral traditions of the clans, and they are cited as precedent in future disputes. The council has the authority to make new rules when the existing law is silent or when the conditions of the interior require a change in the law.
 
-The third source of the customary law is the agreements between the clans and the other political entities of Morvind. The treaties and agreements that the clans have made with the Stoneheim Holds, with the human settlements of the coast, and with the other peoples of the interior are part of the customary law, and they are binding on the clans.
+The third source of the customary law is the agreements between the clans and the other political entities of Morvind. The treaties and agreements that the clans have made with the [Stoneheim Holds](/content/government/national/stoneheim-holds), with the human settlements of the coast, and with the other peoples of the interior are part of the customary law, and they are binding on the clans.
 
 ## The Clan and the Individual
 
@@ -64,7 +64,7 @@ The decision of the chief or the council is announced in a gathering of the affe
 
 ## The Relationship with the Law of Stoneheim
 
-The customary law of the Frostwall Clans is related to the law of the Stoneheim Holds, but the two legal systems are distinct and independent. The Frostwall Clans are a confederation of independent clans, not a unified kingdom, and each clan retains its own legal traditions and its own authority to make and enforce law.
+The customary law of the Frostwall Clans is related to the law of the [Stoneheim](/content/location/settlement/city/stoneheim) Holds, but the two legal systems are distinct and independent. The Frostwall Clans are a confederation of independent clans, not a unified kingdom, and each clan retains its own [legal traditions](/content/law/legal-traditions-overview) and its own authority to make and enforce law.
 
 The customary law of the Frostwall Clans has, however, been influenced by the law of the Stoneheim Holds, and the two legal systems share many principles and practices. The law of the forge, the law of defence, and the law of the passes are common to both legal systems, and the decisions of the Stoneheim courts are sometimes cited as persuasive authority in the councils of the Frostwall Clans.
 

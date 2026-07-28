@@ -20,7 +20,7 @@ The mountain goat is a stocky and powerful animal with the thick coat of the whi
 
 The [Morvind snow cat](/content/species/beasts/morvind-snow-cat) of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) is the apex predator of the alpine zone, a large and powerful feline that hunts the mountain goat and the other animals of the high elevations. The snow cat is a solitary and elusive animal that is adapted to the conditions of the snow and the cold, and the white coat of the snow cat provides the camouflage that conceals the cat from the prey and the observer.
 
-The snow cat is the most dangerous of the predators of the Morvind Uplands, and the snow cat is the animal that the herders of the [Valdmark](/content/government/national/valdmark) and the dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) must protect the herds from.
+The snow cat is the most dangerous of the predators of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands), and the snow cat is the animal that the herders of the [Valdmark](/content/government/national/valdmark) and the dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) must protect the herds from.
 
 ## The Marmots and the Pikas of the Talus Slopes
 

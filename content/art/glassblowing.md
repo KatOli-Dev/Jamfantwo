@@ -12,11 +12,11 @@ The raw material of glass is silica, the most abundant mineral in the world, fou
 
 ## The Origins and Spread of Glassblowing
 
-The technique of glassblowing was developed in the workshops of [Amurra](/content/location/settlement/city/amurra) in the generation preceding the present one, and it was from Amurra that the technique spread to the glassmaking centres of the other continents. The Amurran glassmakers discovered that a gathering of molten glass on the end of a hollow pipe could be inflated with the breath of the glassmaker into a bubble that could be shaped by the manipulation of the pipe and the use of simple tools.
+The technique of glassblowing was developed in the workshops of [Amurra](/content/location/settlement/city/amurra) in the generation preceding the present one, and it was from [Amurra](/content/location/settlement/city/amurra) that the technique spread to the glassmaking centres of the other continents. The Amurran glassmakers discovered that a gathering of molten glass on the end of a hollow pipe could be inflated with the breath of the glassmaker into a bubble that could be shaped by the manipulation of the pipe and the use of simple tools.
 
 The technique was a revelation to the glassmakers of the old school, who had been limited to the casting of glass in moulds and the cutting of glass from blocks. The blown glass was thinner and lighter than the cast glass, and it could be shaped into forms that the old techniques could not achieve. The demand for blown glass grew rapidly, and the glassmakers of Amurra could not produce enough to satisfy the merchants who came to the city seeking the new ware.
 
-The glassmakers of [Khalisar](/content/location/settlement/city/khalisar) learned the technique from the Amurran glassmakers and adapted it to the materials and the tastes of the south. The Khalisar glassmakers produce glass of a distinctive greenish tint, caused by the iron in the local sands, and they have developed decorative techniques that suit the colour of the glass. The Khalisar glassmakers also produce glass coloured with the metal oxides that are available in the Sahrani deserts, including the deep blue of cobalt and the turquoise of copper.
+The glassmakers of [Khalisar](/content/location/settlement/city/khalisar) learned the technique from the Amurran glassmakers and adapted it to the materials and the tastes of the south. The [Khalisar](/content/location/settlement/city/khalisar) glassmakers produce glass of a distinctive greenish tint, caused by the iron in the local sands, and they have developed decorative techniques that suit the colour of the glass. The Khalisar glassmakers also produce glass coloured with the metal oxides that are available in the [Sahrani](/content/language/spoken/sahrani) deserts, including the deep blue of cobalt and the turquoise of copper.
 
 ## The Furnace and the Tools
 
@@ -40,7 +40,7 @@ The glassblower produces vessels of many forms, each suited to a particular purp
 
 The bowl is another common form, produced by blowing a bubble and then opening it and shaping the rim with the tools. The bowl is used for the serving of food and for the decoration of the table. The bowl is also produced in the form of the drinking vessel, the cup and the goblet, which are shaped by the manipulation of the bubble and the addition of a stem and a foot.
 
-The window pane is a form of blown glass that serves a different purpose. The window pane is produced by blowing a large bubble and then spinning it on the pontil until the centrifugal force flattens it into a disc. The disc is cut into panes of the required size and shape. The window panes of the [Vashari Pact](/content/government/national/vashari-pact) are the finest in the known world, and the glass of the Vashari sea-temples is admired for its clarity and its colour.
+The window pane is a form of blown glass that serves a different purpose. The window pane is produced by blowing a large bubble and then spinning it on the pontil until the centrifugal force flattens it into a disc. The disc is cut into panes of the required size and shape. The window panes of the [Vashari Pact](/content/government/national/vashari-pact) are the finest in the known world, and the glass of the [Vashari](/content/location/settlement/city/vashari) sea-temples is admired for its clarity and its colour.
 
 ## The Decoration of Glass
 

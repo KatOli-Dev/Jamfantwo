@@ -10,9 +10,9 @@ The levy of the [Plains Confederation](/content/government/national/plains-confe
 is the largest mounted force in the known world, a host of riders that can be
 called together from across the vast grasslands that stretch between the [Crown
 Range](/content/location/natural/feature/crown-range) and the eastern coasts.
-The levy is not a standing army in the manner of the Vael infantry or the
-Aldreth fleet. It is a gathering of free riders who answer the call of the
-Confederation Council when the plains are threatened, and who disperse to their
+The levy is not a standing army in the manner of the [Vael](/content/government/national/vael) infantry or the
+[Aldreth fleet](/content/military/aldreth-fleet). It is a gathering of free riders who answer the call of the
+[Confederation Council](/content/government/local/plains-confederation-council) when the plains are threatened, and who disperse to their
 homes and herds when the danger has passed. This system has served the
 Confederation for centuries and has defeated invading armies that outnumbered
 the levy on paper.
@@ -81,7 +81,7 @@ for long, and the levy excels at making supply impossible for an invader.
 
 ## The Long March
 
-One of the most remarkable capabilities of the Plains Confederation Levy is its
+One of the most remarkable capabilities of the [Plains Confederation](/content/government/national/plains-confederation) Levy is its
 strategic mobility. A riding column can cover sixty miles in a day on good
 terrain, and seventy or eighty if the need is urgent. This speed allows the
 Confederation to concentrate its forces faster than any potential invader can

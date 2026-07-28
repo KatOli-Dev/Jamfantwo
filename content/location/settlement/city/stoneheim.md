@@ -6,7 +6,7 @@ description: "The greatest dwarven hall of Morvind, Stoneheim is carved into liv
 
 ## The Greatest Dwarven Hall of Morvind
 
-Stoneheim is the greatest [dwarven](/content/species/sapient/dwarves) hall of [Morvind](/content/location/natural/continent/morvind) and the capital of the [Stoneheim Holds](/content/government/national/stoneheim-holds), the largest dwarven realm in the known world. The city is carved into the living rock of the interior ranges, and its halls and chambers extend for many miles into the mountains, forming a subterranean complex that is the most extensive and magnificent of any dwarven settlement. Stoneheim is the centre of dwarven civilisation in Morvind, and its wealth, craftsmanship, and political influence are unmatched by any other dwarven community.
+Stoneheim is the greatest [dwarven](/content/species/sapient/dwarves) hall of [Morvind](/content/location/natural/continent/morvind) and the capital of the [Stoneheim Holds](/content/government/national/stoneheim-holds), the largest dwarven realm in the known world. The city is carved into the living rock of the interior ranges, and its halls and chambers extend for many miles into the mountains, forming a subterranean complex that is the most extensive and magnificent of any dwarven settlement. Stoneheim is the centre of dwarven civilisation in [Morvind](/content/location/natural/continent/morvind), and its wealth, craftsmanship, and political influence are unmatched by any other dwarven community.
 
 ## The Cavernous Chambers and the Carved Dwellings
 
@@ -32,7 +32,7 @@ The history of Stoneheim is a history of expansion. The city has grown steadily 
 
 ## Capital of the Stoneheim Holds
 
-Stoneheim is the capital of the Stoneheim Holds, the dwarven realm encompassing the interior ranges of Morvind, and the city is the seat of the king and the council that govern the realm. The population of Stoneheim is almost entirely [dwarven](/content/species/sapient/dwarves), with a small community of [humans](/content/species/sapient/humans) involved in the trade between the city and the coast, and a few [gnomes](/content/species/sapient/gnomes) drawn by the metalwork and craftsmanship for which the city is known.
+Stoneheim is the capital of the [Stoneheim Holds](/content/government/national/stoneheim-holds), the dwarven realm encompassing the interior ranges of Morvind, and the city is the seat of the king and the council that govern the realm. The population of Stoneheim is almost entirely [dwarven](/content/species/sapient/dwarves), with a small community of [humans](/content/species/sapient/humans) involved in the trade between the city and the coast, and a few [gnomes](/content/species/sapient/gnomes) drawn by the metalwork and craftsmanship for which the city is known.
 
 ## Metalwork Caravans and the Coastal Markets
 

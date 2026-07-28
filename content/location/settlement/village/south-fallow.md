@@ -8,7 +8,7 @@ description: "A farming village on the southern plains of Aethelar, South Fallow
 
 South Fallow is a farming village of [Aethelar](/content/location/natural/continent/aethelar) situated on the southern plains, the broad expanse of open country that extends from the foothills of the interior to the coast of the [Auric Ocean](/content/location/natural/feature/auric-ocean). The village takes its name from the practice of fallowing the fields to maintain their fertility, a practice that has been followed by the farmers of the plains for centuries. South Fallow is a settlement of modest size, but it is among the most prosperous of the farming villages of the southern plains, its fields producing abundant harvests of grain and its pastures supporting herds of cattle and flocks of sheep.
 
-The southern plains are the most productive agricultural region of the southern districts of Aethelar, a landscape of broad fields and open pastures that extends for many miles in every direction. The soils of the plains are deep and fertile, and the climate is mild, with warm summers and cool winters, providing ideal conditions for the cultivation of grain and the raising of livestock.
+The southern plains are the most productive agricultural region of the southern districts of [Aethelar](/content/location/natural/continent/aethelar), a landscape of broad fields and open pastures that extends for many miles in every direction. The soils of the plains are deep and fertile, and the climate is mild, with warm summers and cool winters, providing ideal conditions for the cultivation of grain and the raising of livestock.
 
 ## The Southern Plains and the Fallow System
 

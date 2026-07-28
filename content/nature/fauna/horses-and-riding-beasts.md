@@ -12,25 +12,25 @@ The horse was domesticated in the ancient times, and the relationship between th
 
 ## The Warhorses of the Aldreth
 
-The warhorses of the [Aldreth](/content/government/national/aldreth) are the most celebrated of the Aethelaran horse breeds, the animals that carry the knights and the men-at-arms of the Aldreth armies into the battle. The warhorse of the Aldreth is a large and powerful animal, bred for the strength and the courage and the endurance that the warhorse must have to carry the armoured rider through the chaos of the conflict.
+The warhorses of the [Aldreth](/content/government/national/aldreth) are the most celebrated of the Aethelaran horse breeds, the animals that carry the knights and the men-at-arms of the [Aldreth](/content/government/national/aldreth) armies into the battle. The warhorse of the Aldreth is a large and powerful animal, bred for the strength and the courage and the endurance that the warhorse must have to carry the armoured rider through the chaos of the conflict.
 
 The breeding of the warhorses is the preserve of the noble houses and the [guilds](/content/economy/guilds) of the horse breeders, who maintain the studs of the stallions and the mares that produce the foals that are trained for the war. The training of the warhorse is a process that takes years, and the bond between the rider and the horse is developed through the countless hours of the practice and the mutual trust that is the foundation of the partnership.
 
 ## The Ponies of the Morvind Uplands
 
-The ponies of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are the horses of the northern peoples, the animals that carry the riders and the goods of the dwarven and the human communities through the steep and the rocky terrain of the mountains. The Morvind pony is a small and sturdy animal with a thick coat and a steady temperament, the ideal mount for the conditions of the upland trails.
+The ponies of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are the horses of the northern peoples, the animals that carry the riders and the goods of the dwarven and the human communities through the steep and the rocky terrain of the mountains. The [Morvind](/content/location/natural/continent/morvind) pony is a small and sturdy animal with a thick coat and a steady temperament, the ideal mount for the conditions of the upland trails.
 
 The Morvind pony is not as fast as the horses of the lowlands, but the pony is sure-footed and hardy, capable of the carrying of the heavy loads for the long distances over the rough terrain. The dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) use the ponies for the transport of the ores and the metals from the mines to the forges and the markets, and the pony is the principal means of the transport in the upland settlements.
 
 ## The Desert Horses of the Sahrani Coast
 
-The horses of the Sahrani coast are the animals of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip), the breeds that have been developed for the speed and the endurance that are required for the travel in the warm and the arid conditions. The Sahrani horse is a lean and elegant animal with a fine coat and a spirited temperament, the mount of the merchants and the messengers and the raiders who travel the routes of the desert margins.
+The horses of the [Sahrani](/content/language/spoken/sahrani) coast are the animals of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip), the breeds that have been developed for the speed and the endurance that are required for the travel in the warm and the arid conditions. The Sahrani horse is a lean and elegant animal with a fine coat and a spirited temperament, the mount of the merchants and the messengers and the raiders who travel the routes of the desert margins.
 
 The breeding of the Sahrani horses is the preserve of the wealthy families and the merchant houses of [Khalisar](/content/location/settlement/city/khalisar) and [Amurra](/content/location/settlement/city/amurra), who maintain the studs of the finest animals and who compete in the races and the displays of the horsemanship that are the entertainment of the coastal cities.
 
 ## The Wild Horses of the Great Grass Plains
 
-The wild horses of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) are the ancestors of the domesticated breeds of Aethelar, and the herds of the wild horses that still roam the plains are the source of the new bloodlines that the breeders of the region use to refresh the stock of the domestic herds.
+The wild horses of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) are the ancestors of the domesticated breeds of [Aethelar](/content/location/natural/continent/aethelar), and the herds of the wild horses that still roam the plains are the source of the new bloodlines that the breeders of the region use to refresh the stock of the domestic herds.
 
 The wild horses are the animals of the [centaurs](/content/species/sapient/centaurs), who regard the wild horses as the kin and who do not hunt or capture the wild horses for the domestication. The centaurs observe the wild herds and they know the movements and the habits of the horses, and the centaurs are the source of the knowledge of the wild horse that the human and the elven peoples of the plains respect.
 

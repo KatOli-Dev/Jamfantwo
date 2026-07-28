@@ -34,7 +34,7 @@ The peace has been revised from time to time to reflect changes in the size of t
 
 ## The Significance of the Peace
 
-The Peace of the Three Banners is one of the most important treaties in the history of the plains, and it is remembered in the chronicles of the plains as the foundation of the long peace that the grasslands have enjoyed since the conclusion of the Three-Banners War. The peace established the institutions that have governed the use of the summer pastures for the centuries that followed, and it is regarded by the elders of the three confederations as a model of settlement achieved through patient negotiation.
+The Peace of the Three Banners is one of the most important treaties in the history of the plains, and it is remembered in the chronicles of the plains as the foundation of the [long peace](/content/history/long-peace) that the grasslands have enjoyed since the conclusion of the [Three-Banners War](/content/history/three-banners-war). The peace established the institutions that have governed the use of the summer pastures for the centuries that followed, and it is regarded by the elders of the three confederations as a model of settlement achieved through patient negotiation.
 
 The peace is commemorated in the ceremonies of the three confederations, whose elders gather at the great summer camp each year to mark the anniversary of the signing. The ceremonies include the recitation of the terms of the peace, the renewal of the commitments that the confederations made to one another, and the feast that celebrates the unity of the plains. The banners of the three confederations are displayed at the ceremonies, and the elders of each confederation speak the words that the tradition of the peace requires.
 

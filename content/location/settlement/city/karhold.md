@@ -20,7 +20,7 @@ The ventilation of Karhold is among the most impressive engineering achievements
 
 The mining operations of Karhold are the foundation of its wealth. The ore extracted from the depths beneath the city includes iron, copper, tin, and the precious metals that are among the most valued products of the mountain spine. The mines extend for miles below the city, following the veins of ore deeper and further as older workings are exhausted, and the miners of Karhold are among the most skilled and experienced in the known world. The ore extracted is smelted in the forges of the great hall, and the metalwork produced in Karhold is noted for its quality and durability, exported to the markets of the lowlands and the coast.
 
-The metalwork of Karhold includes tools, weapons, armour, and the decorative objects for which dwarven craftsmen are renowned, and the reputation of Karhold's smiths extends throughout Aethelar and beyond. The city is also a centre for the working of stone, and the stonemasons of Karhold are responsible for the construction and maintenance of the city's halls, the fortifications, and the roads and bridges connecting the mountain spine to the lowlands.
+The metalwork of Karhold includes tools, weapons, armour, and the decorative objects for which dwarven craftsmen are renowned, and the reputation of Karhold's smiths extends throughout [Aethelar](/content/location/natural/continent/aethelar) and beyond. The city is also a centre for the working of stone, and the stonemasons of Karhold are responsible for the construction and maintenance of the city's halls, the fortifications, and the roads and bridges connecting the mountain spine to the lowlands.
 
 ## Lost in the Depths of Dwarven History
 

@@ -8,11 +8,11 @@ description: "The salmon, trout, pike, and perch of the rivers and lakes of Aeth
 
 The freshwater fish that are caught in the rivers, the lakes, and the streams of the known world are the principal source of the protein for the populations of the inland settlements, and the fishing of the freshwaters is the industry that sustains the communities of the river valleys and the lake shores. The methods of the freshwater fishing are various and adapted to the conditions of the water and the species of the fish that the fishermen seek.
 
-The freshwater fish of the known world are of many species. The rivers of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind) support the populations of the salmon, the trout, the pike, and the perch, while the rivers and the lakes of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of Sahrana support the species of the warm-water fish that are adapted to the higher temperatures of the southern continent.
+The freshwater fish of the known world are of many species. The rivers of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind) support the populations of the salmon, the trout, the pike, and the perch, while the rivers and the lakes of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of [Sahrana](/content/location/natural/continent/sahrana) support the species of the warm-water fish that are adapted to the higher temperatures of the southern continent.
 
 ## The Salmon of the Rivers of the Greyring Coast
 
-The salmon of the rivers that flow into the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) from the western slopes of Aethelar and the southern coast of Morvind are the most important of the freshwater fish of the northern regions. The salmon is an anadromous fish that spends the adult life in the sea and returns to the rivers of the birth to spawn, and the annual migration of the salmon is the event that defines the rhythm of the life of the river communities.
+The salmon of the rivers that flow into the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) from the western slopes of [Aethelar](/content/location/natural/continent/aethelar) and the southern coast of [Morvind](/content/location/natural/continent/morvind) are the most important of the freshwater fish of the northern regions. The salmon is an anadromous fish that spends the adult life in the sea and returns to the rivers of the birth to spawn, and the annual migration of the salmon is the event that defines the rhythm of the life of the river communities.
 
 The salmon migration occurs in the late summer and the autumn, when the fish ascend the rivers in the vast numbers that darken the waters of the lower reaches. The fishermen of the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) and the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) gather at the weirs and the traps that are built across the rivers to intercept the migrating fish.
 
@@ -22,7 +22,7 @@ The salmon is valued for the flesh that is rich and flavourful, and the salmon i
 
 The trout of the mountain streams of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) and the [Crown Range](/content/location/natural/feature/crown-range) are the fish of the clear and the cold waters, and the trout is the most common of the fish that are caught in the upland streams. The trout is a small and agile fish that feeds on the insects and the smaller fish, and the trout is caught with the line and the hook by the fishermen who work the streams.
 
-The trout of the Morvind Uplands are the most highly valued of the trout, for the fish grow slowly in the cold waters and the flesh is firm and sweet. The dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) fish the streams of the uplands for the trout that supplement the diet of the underground halls.
+The trout of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are the most highly valued of the trout, for the fish grow slowly in the cold waters and the flesh is firm and sweet. The dwarven communities of the [Stoneheim Holds](/content/government/national/stoneheim-holds) fish the streams of the uplands for the trout that supplement the diet of the underground halls.
 
 ## The Pike of the Lakes of Aethelar
 
@@ -34,7 +34,7 @@ The fishing of the pike is conducted with the nets and the traps that are set in
 
 The carp of the ponds and the slow-moving rivers of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) are the most important of the freshwater fish of Sahrana, and the carp is the fish that is cultivated in the ponds that are constructed for the purpose of the fish farming.
 
-The cultivation of the carp in the ponds is the practice that was developed in the Sahrani interior, and the ponds that are built in the floodplains and the valleys of the coastal strip produce the fish that are consumed in the settlements of the region. The carp is fed on the grain and the plant matter that the farmers provide, and the carp that are harvested from the ponds are the large and the fat fish that are valued for the meat.
+The cultivation of the carp in the ponds is the practice that was developed in the [Sahrani](/content/language/spoken/sahrani) interior, and the ponds that are built in the floodplains and the valleys of the coastal strip produce the fish that are consumed in the settlements of the region. The carp is fed on the grain and the plant matter that the farmers provide, and the carp that are harvested from the ponds are the large and the fat fish that are valued for the meat.
 
 ## The Eels of the Reed Marshes
 

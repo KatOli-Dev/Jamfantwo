@@ -18,7 +18,7 @@ against the [Kharesh Tribes](/content/government/national/kharesh-tribes), the
 settled realms of the north, and the internal rivals who have occasionally
 threatened the unity of the Pact.
 
-The cavalry of the Vashari Pact is not a single force but a combination of
+The cavalry of the [Vashari Pact](/content/government/national/vashari-pact) is not a single force but a combination of
 contingents contributed by the member cities and the nomadic clans that have
 sworn allegiance to the Pact. Each contingent is commanded by its own leader,
 and the overall command is exercised by a War-Captain elected by the Pact
@@ -28,9 +28,9 @@ to survive for many generations.
 
 ## The Desert Horse
 
-The horse of the Sahrana desert is a distinct breed, smaller and leaner than
-the horses of Aethelar but possessed of a stamina that no northern horse can
-match. A Vashari desert horse can travel forty miles in a day under a rider,
+The horse of the [Sahrana](/content/location/natural/continent/sahrana) desert is a distinct breed, smaller and leaner than
+the horses of [Aethelar](/content/location/natural/continent/aethelar) but possessed of a stamina that no northern horse can
+match. A [Vashari](/content/location/settlement/city/vashari) desert horse can travel forty miles in a day under a rider,
 carrying water and provisions, and can maintain that pace for a week or more if
 necessary. The horses are fed on dates, barley, and dried grass, and they are
 watered sparingly, a practice that conditions them to the conditions of the
@@ -83,7 +83,7 @@ rides away as if defeated. If the enemy pursues, the cavalry leads them into a
 prepared position, where fresh troops are waiting in ambush or where the ground
 has been chosen to favour the defenders. The feigned retreat has been used
 successfully against enemies of every kind, from the heavy infantry of the
-northern realms to the raiding parties of the Kharesh Tribes.
+northern realms to the raiding parties of the [Kharesh Tribes](/content/government/national/kharesh-tribes).
 
 The success of the tactic depends on the discipline of the cavalry and on the
 credibility of the retreat. The riders must appear genuinely panicked, dropping

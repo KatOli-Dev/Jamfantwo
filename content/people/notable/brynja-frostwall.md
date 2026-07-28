@@ -6,7 +6,7 @@ description: "The chieftain of the dwarven Frostwall Clans, responsible for the 
 
 ## The Chieftain of the Frostwall Clans
 
-Brynja Frostwall is the current chieftain of the Frostwall Clans, the confederation of [dwarven](/content/species/sapient/dwarves) clans of the deep interior of [Morvind](/content/location/natural/continent/morvind). She is one of the most respected leaders of the dwarven people in the present age, and her authority commands the loyalty of the clans that inhabit the most remote and demanding region of the continent.
+Brynja Frostwall is the current chieftain of the [Frostwall Clans](/content/government/national/frostwall-clans), the confederation of [dwarven](/content/species/sapient/dwarves) clans of the deep interior of [Morvind](/content/location/natural/continent/morvind). She is one of the most respected leaders of the dwarven people in the present age, and her authority commands the loyalty of the clans that inhabit the most remote and demanding region of the continent.
 
 Brynja was born in the fortress-city of [Grimhold](/content/location/settlement/city/grimhold), the principal stronghold of the Frostwall Clans, into a family that had produced chieftains for several generations. The family was among the most powerful in the confederation, and its influence extended through the network of alliances and relationships that bound the clans together.
 
@@ -18,11 +18,11 @@ The path that led Brynja to the position of chieftain was marked by her service 
 
 Brynja served in the garrisons that guarded the passes, rising through the ranks to command a company of the warriors who defended the northern approaches. Her skill in the command of the company, her courage in the face of the enemy, and her fairness in dealing with the warriors under her command attracted the attention of the chieftain who then held the position.
 
-The appointment of Brynja as the successor to the chieftain was confirmed by the council of the clan chiefs, who recognised that she possessed the qualities that the leadership of the confederation required. She was formally invested as chieftain in the great hall of Grimhold, in a ceremony that was attended by representatives of all the clans of the confederation.
+The appointment of Brynja as the successor to the chieftain was confirmed by the council of the clan chiefs, who recognised that she possessed the qualities that the leadership of the confederation required. She was formally invested as chieftain in the great hall of [Grimhold](/content/location/settlement/city/grimhold), in a ceremony that was attended by representatives of all the clans of the confederation.
 
 ## The Defence of the Interior
 
-The defence of the deep interior is the principal responsibility of the chieftain of the Frostwall Clans, and Brynja has devoted much of her attention to the maintenance of the fortifications and the garrisons that protect the passes. The threat from the orc and lupine war bands is constant, and the clans must maintain a state of readiness that would be unnecessary in the more settled regions of Morvind.
+The defence of the deep interior is the principal responsibility of the chieftain of the Frostwall Clans, and Brynja has devoted much of her attention to the maintenance of the fortifications and the garrisons that protect the passes. The threat from the orc and lupine war bands is constant, and the clans must maintain a state of readiness that would be unnecessary in the more settled regions of [Morvind](/content/location/natural/continent/morvind).
 
 Brynja has strengthened the fortifications of the principal passes, reinforcing the walls and the towers that command the approaches to the interior. She has also increased the size of the garrisons that guard the passes, ensuring that the warriors who serve there are well trained and well equipped.
 
@@ -40,9 +40,9 @@ The decisions of the council are reached by consensus, for the tradition of the 
 
 The relationship between the Frostwall Clans and the [Stoneheim Holds](/content/government/national/stoneheim-holds) is one of the defining features of the politics of the Morvind interior. The two dwarven realms are connected by the geography of the mountains and the trade routes that cross the passes.
 
-Brynja has maintained the relationship with the Stoneheim Holds that her predecessors established. The trade between the clans and the holds flows through the passes, with the metalwork and the stone of the interior exchanged for the grain and the manufactured goods of the east. The relationship is one of mutual benefit, but it is also a source of tension, for the two realms have different interests and different traditions of governance.
+Brynja has maintained the relationship with the [Stoneheim Holds](/content/government/national/stoneheim-holds) that her predecessors established. The trade between the clans and the holds flows through the passes, with the metalwork and the stone of the interior exchanged for the grain and the manufactured goods of the east. The relationship is one of mutual benefit, but it is also a source of tension, for the two realms have different interests and different traditions of governance.
 
-The negotiations with the Stoneheim Holds are conducted through the envoys that the chieftain dispatches to the eastern capital. Brynja has appointed experienced warriors and traders as her envoys, and they have maintained the channels of communication that the relationship requires.
+The negotiations with the [Stoneheim](/content/location/settlement/city/stoneheim) Holds are conducted through the envoys that the chieftain dispatches to the eastern capital. Brynja has appointed experienced warriors and traders as her envoys, and they have maintained the channels of communication that the relationship requires.
 
 ## The Challenges of the Present Age
 

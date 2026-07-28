@@ -20,7 +20,7 @@ The tattoos of the human herders are applied to the face and the hands, the area
 
 ## The Scarification of the Sahrani Coast
 
-The [Sahrani city-states](/content/culture/sahrani-city-life) practise the art of the scarification as the principal form of the body modification. The scarification of the Sahrani coast is applied with the knives of the metal and the ash of the desert plants, and the patterns that are incised into the skin record the lineage and the status of the individual.
+The [Sahrani city-states](/content/culture/sahrani-city-life) practise the art of the scarification as the principal form of the body modification. The scarification of the [Sahrani](/content/language/spoken/sahrani) coast is applied with the knives of the metal and the ash of the [desert plants](/content/nature/flora/desert-adapted-plants), and the patterns that are incised into the skin record the lineage and the status of the individual.
 
 The scarification of the Sahrani merchants is applied to the arms and the chest, the areas that are visible in the conduct of the trade. The patterns of the Sahrani scarification indicate the trading house of the individual, the rank within the house, and the voyages that the individual has completed. The scarification is applied at the coming of age ceremony and is supplemented at the completion of each significant voyage, the new pattern marking the achievement of the individual.
 
@@ -30,7 +30,7 @@ The scarification of the Sahrani women is applied to the face and the hands, the
 
 The northern peoples of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) practise the art of the piercing as the principal form of the body modification. The piercings of the northern coast are inserted with the needles of the bone and the ornaments of the metal and the stone, and the patterns of the piercings record the achievements of the individual in the sea and in the war.
 
-The piercings of the northern men are concentrated in the ears and the nose, the areas that are visible in the conduct of the trade and the negotiation. The materials of the piercings indicate the wealth and the status of the individual, the gold and the silver marking the wealth of the successful trader and the bone and the stone marking the skill of the hunter. The piercings are accumulated over the course of the individual's life, each new piercing marking a significant achievement.
+The piercings of the northern men are concentrated in the ears and the nose, the areas that are visible in the conduct of the trade and the negotiation. The materials of the piercings indicate the wealth and the status of the individual, the gold and the [silver mark](/content/religion/silver-mark)ing the wealth of the successful trader and the bone and the stone marking the skill of the hunter. The piercings are accumulated over the course of the individual's life, each new piercing marking a significant achievement.
 
 The piercings of the northern women are concentrated in the ears and the lips, the areas that are visible in the domestic life of the household. The materials of the women's piercings indicate the status of the family, and the size of the piercings indicates the number of the children that the woman has borne.
 
@@ -44,7 +44,7 @@ The painting of the dwarves is applied to the face and the hands, the areas of t
 
 The wearing of the ornaments of the metal and the stone is a practice observed by every culture of the known world. The ornaments of the metal include the rings and the bracelets and the necklaces of the precious metals, and the ornaments of the stone include the beads and the pendants of the gems and the minerals. The ornaments are worn by both the men and the women, though the forms and the materials vary according to the culture and the status.
 
-The ornaments of the Vael valley are typically of the silver and the bronze, the metals that the smiths of the valley work. The ornaments of the plains are of the bone and the horn and the leather, the materials that the nomadic life provides. The ornaments of the dwarven people are the masterworks of the [Inlay Art](/content/culture/inlay-art), the works of the metal and the stone that are the pride of the dwarven culture.
+The ornaments of the [Vael](/content/government/national/vael) valley are typically of the silver and the bronze, the metals that the smiths of the valley work. The ornaments of the plains are of the bone and the horn and the leather, the materials that the nomadic life provides. The ornaments of the dwarven people are the masterworks of the [Inlay Art](/content/culture/inlay-art), the works of the metal and the stone that are the pride of the dwarven culture.
 
 ## The Meaning of the Adornment
 

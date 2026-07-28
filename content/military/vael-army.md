@@ -17,7 +17,7 @@ War](/content/history/three-banners-war). The army that exists in the present
 age traces its foundation to that period of crisis and has changed continuously
 since.
 
-The strategic position of Vael demands a force capable of rapid movement along
+The strategic position of [Vael](/content/government/national/vael) demands a force capable of rapid movement along
 the rivers and equally rapid concentration at threatened points. The kingdom
 stretches along both banks of the Vael for much of its length, with
 [Vaelmouth](/content/location/settlement/city/vaelmouth) at its delta and
@@ -31,10 +31,10 @@ knowledge of the terrain to maximum advantage.
 
 The Vael Army is organised into divisions called reaches, each responsible for
 a section of the river. There are six reaches in total: the Delta Reach,
-guarding Vaelmouth and the approaches from the [Stormfall
+guarding [Vaelmouth](/content/location/settlement/city/vaelmouth) and the approaches from the [Stormfall
 Sea](/content/location/natural/feature/stormfall-sea); the Lower Reach,
 covering the fertile middle valley; the Upper Reach, responsible for the
-headwaters and the border with neighbouring territories; the Eastern Reach,
+headwaters and the border with neighbouring territories; the [Eastern Reach](/content/location/natural/continent/eastern-reach),
 watching the approaches from [Aldreth](/content/government/national/aldreth)
 and the eastern plains; the Western Reach, patrolling the western bank and the
 foothills of the [Crown Range](/content/location/natural/feature/crown-range);

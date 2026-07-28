@@ -20,7 +20,7 @@ The hall's stores are divided into common and clan reserves. Common stores inclu
 
 The stable gallery is cut into the rock behind the hall, with separate spaces for pack animals, draft teams, and the shaggy goats kept by the station households. Its doors face away from the prevailing wind, and a covered ramp allows animals to enter without crossing the open yard. The forge is modest and serves the road rather than fine metalwork, repairing crampons, axe heads, wagon braces, harness rings, and shovel blades.
 
-The signal tower rises above the cliff shelf and carries a lantern visible from the next refuge hall in clear weather. During the open season it displays flags indicating road conditions, convoy departures, and the arrival of clan patrols. In winter the tower relies upon smoke by day and shuttered light by night. A message sent along the pass can reach Grimhold before a mounted messenger.
+The signal tower rises above the cliff shelf and carries a lantern visible from the next refuge hall in clear weather. During the open season it displays flags indicating road conditions, convoy departures, and the arrival of clan patrols. In winter the tower relies upon smoke by day and shuttered light by night. A message sent along the pass can reach [Grimhold](/content/location/settlement/city/grimhold) before a mounted messenger.
 
 ## The Dwarven Wardens and the Clan System
 
@@ -42,6 +42,6 @@ The outpost is not a fortress, though its stone construction and narrow entrance
 
 ## From Cave to Permanent Refuge
 
-The original refuge was a seasonal cave used by hunters and road crews. The Frostwall Clans built the first permanent hall after a caravan disappeared in a sudden storm, and they expanded it whenever the growing trade demanded more shelter. The signal tower was added after the road became a regular connection between the remote valleys and the lower ranges.
+The original refuge was a seasonal cave used by hunters and road crews. The [Frostwall Clans](/content/government/national/frostwall-clans) built the first permanent hall after a caravan disappeared in a sudden storm, and they expanded it whenever the growing trade demanded more shelter. The signal tower was added after the road became a regular connection between the remote valleys and the lower ranges.
 
 Frostwall Outpost remains a necessary institution of the pass. It carries no famous cargo and has no great population, yet it protects the workers who keep the road open and the merchants who make the route worth maintaining. Its common stores express the practical solidarity of the clans, while its signal tower joins distant settlements into one system of warning. The outpost's significance lies in the quiet assurance it provides: when weather closes the high road, the people who have reached its gates can wait in safety until the mountains permit them to travel again.

@@ -22,7 +22,7 @@ The course of the war is conventionally divided into two phases: the coalition's
 
 During the first phase, the coalition controlled the approaches of the pass, and the watch-towers were invested from the lowland side. The coalition maintained a close blockade, and the garrison of the northern tower was cut off from relief for several weeks. The garrison held out with a stubbornness the hold chronicles celebrate, though the lowland chroniclers regard their descriptions as excessive. The phase was marked by hardship on both sides.
 
-The second phase began with the arrival of the levies of the allied holds, summoned by the king of Stoneheim and marched by the lesser passes the coalition had not blockaded. The levies descended upon the coalition's lines from the high ground to the north, and the garrison of the northern tower conducted a sortie at the same hour. The coalition, beset upon two sides, withdrew from the approaches with heavy loss.
+The second phase began with the arrival of the levies of the allied holds, summoned by the king of [Stoneheim](/content/location/settlement/city/stoneheim) and marched by the lesser passes the coalition had not blockaded. The levies descended upon the coalition's lines from the high ground to the north, and the garrison of the northern tower conducted a sortie at the same hour. The coalition, beset upon two sides, withdrew from the approaches with heavy loss.
 
 ## The Compromise at Stoneheim
 
@@ -38,7 +38,7 @@ The peace that has prevailed since the conclusion of the war has held for severa
 
 ## Dwarven Memory of the Engagement
 
-The chronicles of the [Stoneheim Holds](/content/government/national/stoneheim-holds) record the war as a brief but glorious engagement, celebrating the stubbornness of the garrison of the northern watch-tower and the discipline of the levies of the allied holds. The chronicles place the war in the context of the long history of the mountain and the lowlands and describe it as a confirmation of the mountain's capacity to defend itself. The names of the warriors who fell in the war are recited at annual ceremonies maintained in their honour.
+The chronicles of the [Stoneheim Holds](/content/government/national/stoneheim-holds) record the war as a brief but glorious engagement, celebrating the stubbornness of the garrison of the [northern watch](/content/location/settlement/outpost/northern-watch)-tower and the discipline of the levies of the allied holds. The chronicles place the war in the context of the long history of the mountain and the lowlands and describe it as a confirmation of the mountain's capacity to defend itself. The names of the warriors who fell in the war are recited at annual ceremonies maintained in their honour.
 
 ## Lowland Memory of the Engagement
 

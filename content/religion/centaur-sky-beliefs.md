@@ -6,7 +6,7 @@ description: "The centaur kindreds of the Great Grass Plains read the sky and st
 
 ## The Reading of the Sky and the Plains
 
-The centaur kindreds of the Great Grass Plains maintain a body of the beliefs and the practices that are centred upon the sky and the stars and the open grasslands. The centaur sky beliefs are not a religion in the manner of the temple faiths or the contemplative orders, and the centaurs do not maintain the priests or the doctrines or the sacred texts. The sky beliefs are the understanding of the order that governs the plains, the recognition of the patterns that the sky reveals and the guidance that the patterns provide for the centaur way of life.
+The centaur kindreds of the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains) maintain a body of the beliefs and the practices that are centred upon the sky and the stars and the open grasslands. The centaur sky beliefs are not a religion in the manner of the temple faiths or the contemplative orders, and the centaurs do not maintain the priests or the doctrines or the sacred texts. The sky beliefs are the understanding of the order that governs the plains, the recognition of the patterns that the sky reveals and the guidance that the patterns provide for the centaur way of life.
 
 The centaurs are a people of the open plains, and the sky is the constant presence in the centaur life. The sky by day is the source of the light and the warmth, and the sky by night is the map by which the centaurs navigate the vast expanse of the grasslands. The stars are the fixed points in the changing world, and the centaurs who read the stars know the directions and the seasons and the times of the movements.
 

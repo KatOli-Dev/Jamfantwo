@@ -12,7 +12,7 @@ The carpet serves both a practical and a decorative purpose. The carpet provides
 
 ## The Materials of the Carpet Weaver
 
-The raw materials of the carpet and rug weaving are the fibres of the animals that are kept by the pastoral peoples. The wool of the sheep is the most common fibre, used for the carpets of the plains and the uplands. The wool of the goat is also used, particularly the fine, soft wool of the angora goat that is kept by the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the peoples of the Sahrani uplands. The wool of the camel is used for the carpets of the desert, for the camel wool is strong and durable and resistant to the conditions of the desert climate.
+The raw materials of the carpet and rug weaving are the fibres of the animals that are kept by the pastoral peoples. The wool of the sheep is the most common fibre, used for the carpets of the plains and the uplands. The wool of the goat is also used, particularly the fine, soft wool of the angora goat that is kept by the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the peoples of the [Sahrani](/content/language/spoken/sahrani) uplands. The wool of the camel is used for the carpets of the desert, for the camel wool is strong and durable and resistant to the conditions of the desert climate.
 
 The fibres are prepared by the spinning, the twisting of the fibres into a thread that is strong enough to withstand the tension of the weaving. The spinning is accomplished with the use of the drop spindle, a simple tool that is used by the weavers of every region. The thread is dyed in the colours that the pattern requires, using the dyes that are available in the region of the weaver.
 

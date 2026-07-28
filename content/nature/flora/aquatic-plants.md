@@ -46,11 +46,11 @@ The species of the brown seaweed that grows in the deeper waters of the coast is
 
 ## The Rice of the Flooded Fields
 
-The rice that is cultivated in the flooded fields of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) is not a wild aquatic plant but a domesticated species that has been adapted to the conditions of the flooded cultivation. The rice is the most important of the aquatic crops, and the cultivation of the rice in the flooded fields is the foundation of the diet and the economy of the Sahrani coast.
+The rice that is cultivated in the flooded fields of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) is not a wild aquatic plant but a domesticated species that has been adapted to the conditions of the flooded cultivation. The rice is the most important of the aquatic crops, and the cultivation of the rice in the flooded fields is the foundation of the diet and the economy of the [Sahrani](/content/language/spoken/sahrani) coast.
 
 The fields that are used for the cultivation of the rice are flooded by the channels that carry the water from the rivers of the interior, and the water in the fields is maintained at a depth of several inches through the growing season. The rice plants grow through the water, and the heads of the grain appear above the surface in the late summer. The water is drained from the fields before the harvest, and the grain is harvested by the reapers who cut the heads of the rice and carry them to the threshing floor.
 
-The cultivation of the rice in the flooded fields is the most productive form of the agriculture in the known world, and the yields of the rice from the fields of the Green Crescent are the highest of any grain crop.
+The cultivation of the rice in the flooded fields is the most productive form of the agriculture in the known world, and the yields of the rice from the fields of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) are the highest of any grain crop.
 
 ## The Water Chestnut of the Lakes of Aethelar
 

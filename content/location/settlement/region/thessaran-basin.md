@@ -12,7 +12,7 @@ The basin is not a single realm but a region of overlapping jurisdictions, inclu
 
 ## Gentle Hills, Slow Rivers, and the Reliable Rainfall
 
-The basin occupies the eastern interior of the continent, stretching from the foothills of the mountain spine in the west to the coastal lowlands and harbours of the eastern shore. The land is gently rolling, with broad valleys and low, rounded hills. The rivers draining the basin are slow and meandering in their lower courses, fed by tributaries descending from the foothills, and their floodplains are among the most fertile in Aethelar. The soil is a deep, dark loam renewed by centuries of cultivation and annual flooding.
+The basin occupies the eastern interior of the continent, stretching from the foothills of the mountain spine in the west to the coastal lowlands and harbours of the eastern shore. The land is gently rolling, with broad valleys and low, rounded hills. The rivers draining the basin are slow and meandering in their lower courses, fed by tributaries descending from the foothills, and their floodplains are among the most fertile in [Aethelar](/content/location/natural/continent/aethelar). The soil is a deep, dark loam renewed by centuries of cultivation and annual flooding.
 
 The climate is mild and temperate, with warm summers and cool winters moderated by the influence of the [Auric Ocean](/content/location/natural/feature/auric-ocean). The prevailing winds from the east bring moisture, and rainfall is reliable throughout the growing season. The fogs rising from the rivers in autumn are a familiar feature, and the morning mists clinging to the valleys in late summer signal the coming harvest. The rivers are the principal feature of the regional geography, their courses having shaped the distribution of population and the pattern of trade. The largest is navigable for much of its length, and the barges carrying goods between interior and coast are a common sight during the navigable season.
 
@@ -24,7 +24,7 @@ The population is the most diverse and numerous of any region of [Aethelar](/con
 
 ## Wheat, Wool, and the Barges of the River Routes
 
-Agriculture is the foundation of the regional economy. Wheat and barley of the basin are among the finest in Aethelar, and the flour milled from them is exported to coastal cities and other regions. The wool of the basin sheep is woven into cloth valued in eastern ports, and the linen produced from flax is exported beyond the [Velden Strait](/content/location/natural/feature/strait-of-velden). Orchards and vineyards produce fruit and wine in abundance.
+[Agriculture](/content/economy/agriculture) is the foundation of the regional economy. Wheat and barley of the basin are among the finest in Aethelar, and the flour milled from them is exported to coastal cities and other regions. The wool of the basin sheep is woven into cloth valued in eastern ports, and the linen produced from flax is exported beyond the [Velden Strait](/content/location/natural/feature/strait-of-velden). Orchards and vineyards produce fruit and wine in abundance.
 
 The rivers are the arteries of commerce. Barges travel them carrying agricultural produce to the harbours of the league. The return trade brings manufactured goods, spices from [Sahrana](/content/location/natural/continent/sahrana), and metalwork from [Morvind](/content/location/natural/continent/morvind) to the inland towns. Tolls collected at locks and weirs along the rivers are a significant source of revenue for inland communities.
 

@@ -31,13 +31,13 @@ traditions.
 
 The warships of the known world can be divided into two broad categories: sail-
 powered ships and oar-powered galleys. Sail-powered ships, such as those used
-by Aldreth and Nordhaven, are built for the open ocean and rely on the wind for
+by [Aldreth](/content/government/national/aldreth) and [Nordhaven](/content/location/settlement/city/nordhaven), are built for the open ocean and rely on the wind for
 propulsion. They carry a crew of sailors to handle the rigging and a
 complement of marines for combat. Their advantages are range and endurance; a
 well-found sailing ship can remain at sea for months and can cross the widest
 stretches of ocean.
 
-Galleys, such as those used by the Thessaran League and the Northern Coast
+Galleys, such as those used by the [Thessaran League](/content/government/national/thessaran-league) and the Northern Coast
 League, rely primarily on oars, with sails used as auxiliary power. Galleys are
 faster in calm conditions and can manoeuvre more nimbly than sailing ships, but
 they are limited in range and endurance by the need to carry a large crew of

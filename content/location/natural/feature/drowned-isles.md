@@ -24,7 +24,7 @@ The bays have been the subject of careful survey by the pilots of the [Inner Sea
 
 ## Seabird Colonies and the Island Ecology
 
-The islands support a rich variety of wildlife forming the foundation of the ecology of the chain. The cliffs support seabirds that breed upon the ledges in the spring, including gulls, cormorants, and smaller auks that the Bestiaries and Herbals have catalogued. The interior of the larger islands supports smaller mammals that birds of prey feed upon, and the surrounding waters support the fish that the fishermen pursue.
+The islands support a rich variety of wildlife forming the foundation of the ecology of the chain. The cliffs support seabirds that breed upon the ledges in the spring, including gulls, cormorants, and smaller auks that the Bestiaries and Herbals have catalogued. The interior of the larger islands supports smaller mammals that [birds of prey](/content/nature/fauna/birds-of-prey) feed upon, and the surrounding waters support the fish that the fishermen pursue.
 
 The wildlife is the source of much of the food of the villages and the foundation of the careful management of the fishery that the elders of the villages maintain. It has been the subject of careful study by the scholars of the academies, who have recorded the patterns of birds and fish in their catalogues.
 
@@ -38,7 +38,7 @@ The fishery has been the subject of long debate between the villages of the isla
 
 The lighthouses of the islands were erected by the council of [Vassholm](/content/location/settlement/city/vassholm) in the early generations of the [Long Peace](/content/history/long-peace) and have been maintained by the [Inner Sea Watch](/content/government/local/inner-sea-watch) ever since. They stand upon the highest points of the larger islands, and their lights are visible far out to sea in clear weather. The keepers are senior seamen of the Watch relieved of duty afloat, who maintain the fires, trim the wicks at dusk, and signal the state of the tide by the colour of the lights they show.
 
-The lighthouses have been the foundation of the safety of navigation around the islands and the refuge of many a pilot caught upon the coast in time of storm. They are among the most important public works of the cold north and are held in high esteem by the pilots and merchants of every city of the coast.
+The lighthouses have been the foundation of the safety of navigation around the islands and the refuge of many a pilot caught upon the coast in time of storm. They are among the most important [public works](/content/economy/public-works) of the cold north and are held in high esteem by the pilots and merchants of every city of the coast.
 
 ## Foundation of the Western Fishery
 

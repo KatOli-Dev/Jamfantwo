@@ -6,7 +6,7 @@ description: "Caerwyn's shipyards are the foremost on the eastern coast, turning
 
 ## Foremost Shipbuilding Centre of the Eastern Coast
 
-Caerwyn is an eastern port city of [Aethelar](/content/location/natural/continent/aethelar) renowned throughout the known world for its shipyards and the vessels they produce. The city stands on a rocky promontory that juts into the [Auric Ocean](/content/location/natural/feature/auric-ocean), and its harbour is sheltered by a natural breakwater of rock that forms a deep, calm basin within sight of the open sea. The combination of a fine harbour, a ready supply of timber from the inland forests, and a long tradition of shipbuilding has made Caerwyn the foremost centre of maritime construction on the eastern coast. Its ships are the backbone of the merchant fleets and naval forces of Aethelar.
+Caerwyn is an eastern port city of [Aethelar](/content/location/natural/continent/aethelar) renowned throughout the known world for its shipyards and the vessels they produce. The city stands on a rocky promontory that juts into the [Auric Ocean](/content/location/natural/feature/auric-ocean), and its harbour is sheltered by a natural breakwater of rock that forms a deep, calm basin within sight of the open sea. The combination of a fine harbour, a ready supply of timber from the inland forests, and a long tradition of shipbuilding has made Caerwyn the foremost centre of maritime construction on the eastern coast. Its ships are the backbone of the merchant fleets and naval forces of [Aethelar](/content/location/natural/continent/aethelar).
 
 ## Slipways, Timber Rafts, and the Master Shipwrights
 

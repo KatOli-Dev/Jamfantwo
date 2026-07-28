@@ -8,7 +8,7 @@ description: "The river agreement modelled upon the Greywash Compact, regulating
 
 The Silverwater Accord is the name given by the chroniclers of the eastern coast of [Aethelar](/content/location/natural/continent/aethelar) to the river agreement modelled upon the [Greywash Compact](/content/history/greywash-compact), regulating the navigation, the fishery, and the use of the banks of the principal river of the eastern coastal plain. The accord was negotiated between the magistrates of the river towns of the eastern coast and the representatives of the farming and fishing communities that depended upon the river for their livelihood, and it established the office of the river warden for the eastern river system.
 
-The accord was adopted several centuries after the Greywash Compact and followed the same structure, establishing similar rules for the use of the river and similar offices for the administration of those rules. The framers of the accord explicitly acknowledged their debt to the Greywash Compact, which they described in the preamble of the accord as the model and the inspiration for their own agreement.
+The accord was adopted several centuries after the [Greywash Compact](/content/history/greywash-compact) and followed the same structure, establishing similar rules for the use of the river and similar offices for the administration of those rules. The framers of the accord explicitly acknowledged their debt to the Greywash Compact, which they described in the preamble of the accord as the model and the inspiration for their own agreement.
 
 ## The Need for Regulation on the Eastern Coast
 

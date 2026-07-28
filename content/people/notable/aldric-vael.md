@@ -6,7 +6,7 @@ description: "The thirty-seventh monarch of the Vaelic dynasty, ruler of the cen
 
 ## The Current Ruler of the Vaelic Dynasty
 
-Aldric Vael is the present ruler of the central river kingdom of [Aethelar](/content/location/natural/continent/aethelar) and the thirty-seventh monarch of the Vaelic dynasty, founded by [Sera Ambervale](/content/people/historical/sera-ambervale) more than six centuries ago. He ascended to the throne in the nine hundred and eleventh year of the [Amurra Republic](/content/government/national/amurra-republic), succeeding his father [Halric](/content/people/historical/halric-vael), who died after a reign of thirty-eight years. Aldric is fifty-six years old. His reign has been marked by careful stewardship of the kingdom's affairs and close attention to the counsel of the valley lords and the capital guilds.
+Aldric [Vael](/content/government/national/vael) is the present ruler of the central river kingdom of [Aethelar](/content/location/natural/continent/aethelar) and the thirty-seventh monarch of the Vaelic dynasty, founded by [Sera Ambervale](/content/people/historical/sera-ambervale) more than six centuries ago. He ascended to the throne in the nine hundred and eleventh year of the [Amurra Republic](/content/government/national/amurra-republic), succeeding his father [Halric](/content/people/historical/halric-vael), who died after a reign of thirty-eight years. Aldric is fifty-six years old. His reign has been marked by careful stewardship of the kingdom's affairs and close attention to the counsel of the valley lords and the capital guilds.
 
 ## Royal Birth and Education at Court
 
@@ -24,7 +24,7 @@ Foreign policy has focused on relations with the [Aldreth](/content/government/n
 
 The court is maintained at [Vaelmouth](/content/location/settlement/city/vaelmouth) in the palace built by [Sera](/content/people/historical/sera-ambervale) above the river confluence. Aldric is attended by the great officers of the household: the lord high steward, the lord chamberlain, and the master of the horse. The council consists of the valley lords, the chief judges, and the guild representatives. It meets regularly under the king's presidency, and its decisions are binding.
 
-Aldric listens patiently to contrary opinions before deciding. His judgment is held in high esteem by the realm's lords, and his appointments to great offices have been made with careful attention to merit. The queen, a lady of the house of the southern reach, is a patron of the arts and learning. The court is noted for the refinement of its entertainments and the dignity of its ceremonies.
+Aldric listens patiently to contrary opinions before deciding. His judgment is held in high esteem by the realm's lords, and his appointments to great offices have been made with careful attention to merit. The queen, a lady of the house of the [southern reach](/content/government/national/southern-reach), is a patron of the arts and learning. The court is noted for the refinement of its entertainments and the dignity of its ceremonies.
 
 ## Governors, Judges, and the King's Bench
 

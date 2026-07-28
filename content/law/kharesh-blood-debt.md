@@ -6,7 +6,7 @@ description: "The customary obligation of compensation for killings and serious 
 
 ## The Obligation of Compensation and Honour
 
-The Kharesh Blood Debt is the customary law of the [Kharesh Tribes](/content/government/national/kharesh-tribes) that governs the payment of compensation for killings, injuries, and other serious offences against the person. The blood debt is the most important institution of the customary law of the desert, for it is the means by which the social order is maintained and the cycle of revenge is prevented in a society that has no formal courts or enforcement institutions.
+The [Kharesh](/content/location/natural/feature/kharesh) Blood Debt is the customary law of the [Kharesh Tribes](/content/government/national/kharesh-tribes) that governs the payment of compensation for killings, injuries, and other serious offences against the person. The blood debt is the most important institution of the customary law of the desert, for it is the means by which the social order is maintained and the cycle of revenge is prevented in a society that has no formal courts or enforcement institutions.
 
 The blood debt is not a punishment in the sense that the settled kingdoms understand punishment. It is an obligation that arises from the commission of a serious offence, requiring the offender or the offender's kindred to pay compensation to the victim or the victim's kindred. The payment of the blood debt restores the balance that has been disturbed by the offence, and it allows the victim's kindred to accept the compensation in place of seeking revenge.
 
@@ -42,7 +42,7 @@ The failure to pay the blood debt has serious consequences under the customary l
 
 The most immediate consequence of the failure to pay the blood debt is the loss of the protection of the code of hospitality. The members of the kindred that has failed to pay may be refused shelter, food, and water by other kindreds, and they may be denied access to the water sources and grazing grounds that are essential to survival in the desert.
 
-The failure to pay the blood debt may also lead to the expulsion of the kindred from the confederation. The elders of the other kindreds may convene a special session of the Sands' Assembly to consider the expulsion of the kindred, and the assembly may vote to expel the kindred if the failure to pay is found to be a violation of the fundamental principles of the confederation.
+The failure to pay the blood debt may also lead to the expulsion of the kindred from the confederation. The elders of the other kindreds may convene a special session of the [Sands' Assembly](/content/culture/sands-assembly) to consider the expulsion of the kindred, and the assembly may vote to expel the kindred if the failure to pay is found to be a violation of the fundamental principles of the confederation.
 
 The expelled kindred is condemned to a life outside the protection of the community, and the members of the kindred must rely on their own resources to survive in the desert. The expulsion of a kindred is the most serious penalty that the customary law of the desert can impose, and it is used only in the most extreme cases.
 
@@ -52,7 +52,7 @@ The blood debt is the means by which the cycle of revenge is prevented in the cu
 
 The elders who determine the blood debt and who witness the payment are responsible for ensuring that the cycle of revenge does not resume. The elders remind the victim's kindred of the obligation to accept the compensation and to forgo revenge, and they warn the offender's kindred of the consequences of further violence.
 
-The blood debt system has been successful in preventing the cycle of revenge from consuming the Kharesh Tribes, and it has allowed the tribes to maintain a stable social order despite the absence of formal courts and enforcement institutions. The system depends upon the authority of the elders, the respect that the members of the tribes have for the customary law, and the recognition that the blood debt is the alternative to endless violence.
+The blood debt system has been successful in preventing the cycle of revenge from consuming the [Kharesh Tribes](/content/government/national/kharesh-tribes), and it has allowed the tribes to maintain a stable social order despite the absence of formal courts and enforcement institutions. The system depends upon the authority of the elders, the respect that the members of the tribes have for the customary law, and the recognition that the blood debt is the alternative to endless violence.
 
 ## The Blood Debt and the Wider Legal Order
 

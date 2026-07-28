@@ -14,7 +14,7 @@ The keeping of the bees is the practice of the beekeepers who manage the hives t
 
 The honey bees of [Aethelar](/content/location/natural/continent/aethelar) are the most common of the social bees, and the hives of the honey bee are kept in the gardens and the orchards of the northern settlements. The honey bee is a small and industrious insect that lives in the colonies of the tens of thousands of the individuals, and the colony is organised into the castes of the queen, the workers, and the drones.
 
-The honey bee is valued for the honey that the bee produces from the nectar of the flowers, and the honey of Aethelar is the principal sweetener that is used in the cooking of the northern settlements. The honey is harvested in the late summer, when the honeycomb is full and the bees have stored the honey for the winter.
+The honey bee is valued for the honey that the bee produces from the nectar of the flowers, and the honey of [Aethelar](/content/location/natural/continent/aethelar) is the principal sweetener that is used in the cooking of the northern settlements. The honey is harvested in the late summer, when the honeycomb is full and the bees have stored the honey for the winter.
 
 The gathering of the honey from the hives is the work of the beekeeper, who must calm the bees with the smoke and remove the honeycomb from the hive. The honey is extracted from the comb by the pressing or the draining, and the honey is stored in the sealed vessels that keep the honey fresh for the years.
 
@@ -32,7 +32,7 @@ The [elves](/content/species/sapient/elves) of the Heartwood are the beekeepers 
 
 ## The Bees of the Green Crescent
 
-The bees of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of Sahrana are the bees that produce the honey from the flowers of the spice plants and the citrus trees that grow in the irrigated gardens of the coast. The honey of the Green Crescent is a dark and rich honey that is flavoured by the blossoms of the orange and the lemon and the spice plants that the bees visit.
+The bees of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of [Sahrana](/content/location/natural/continent/sahrana) are the bees that produce the honey from the flowers of the [spice plants](/content/nature/flora/spice-plants) and the citrus trees that grow in the irrigated gardens of the coast. The honey of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) is a dark and rich honey that is flavoured by the blossoms of the orange and the lemon and the spice plants that the bees visit.
 
 The beekeeping of the Green Crescent is the practice of the gardeners and the farmers who keep the hives in the orchards and the gardens where the bees can pollinate the crops and produce the honey.
 

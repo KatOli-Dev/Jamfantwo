@@ -18,7 +18,7 @@ Kappa senses are well adapted to both aquatic and terrestrial environments. Visi
 
 ## Eggs in Muddy Banks and Watery Youth
 
-Kappa live sixty to ninety years under favourable conditions, maturing at a pace comparable to humans and reaching full stature by their late teens. Kappa women carry their young for approximately seven months before laying a clutch of three to six eggs in a shallow nest dug into the muddy bank of a river or lake. The eggs incubate for a further two months before hatching, and the hatchlings are small and aquatic, spending their first years entirely in the water before developing the legs and lungs that allow them to venture onto land.
+Kappa live sixty to ninety years under favourable conditions, maturing at a pace comparable to [humans](/content/species/sapient/humans) and reaching full stature by their late teens. Kappa women carry their young for approximately seven months before laying a clutch of three to six eggs in a shallow nest dug into the muddy bank of a river or lake. The eggs incubate for a further two months before hatching, and the hatchlings are small and aquatic, spending their first years entirely in the water before developing the legs and lungs that allow them to venture onto land.
 
 Kappa populations grow steadily when the rivers and lakes are clean and water is plentiful. The young are raised communally, with adults sharing in their care and protection. Education is long and practical, encompassing swimming, fishing, knowledge of rivers and currents, and the traditions of the people. A kappa is not considered fully adult until they have mastered all of these; the rites of passage include a journey from the headwaters to the mouth of their river, a test of endurance and knowledge that every kappa must complete.
 
@@ -30,7 +30,7 @@ Smaller populations are found in the rivers and lakes of the [Morvind](/content/
 
 ## Fish, Crustaceans, and Watery Cultivation
 
-The kappa diet mixes aquatic and terrestrial foods, reflecting their amphibious nature. Fish, shelled creatures, and aquatic plants form the staple, gathered from rivers and lakes by techniques including nets, traps, and the patient art of hand-fishing for which kappa are noted. Cucumbers and other watery vegetables are a particular favourite, cultivated in gardens along riverbanks, and the kappa reputation for fine cucumber cultivation is recognised throughout the regions where they are known.
+The kappa diet mixes aquatic and terrestrial foods, reflecting their amphibious nature. Fish, shelled creatures, and [aquatic plants](/content/nature/flora/aquatic-plants) form the staple, gathered from rivers and lakes by techniques including nets, traps, and the patient art of hand-fishing for which kappa are noted. Cucumbers and other watery vegetables are a particular favourite, cultivated in gardens along riverbanks, and the kappa reputation for fine cucumber cultivation is recognised throughout the regions where they are known.
 
 Meat is eaten in moderation, chiefly fish and waterfowl, and meals are prepared and shared by the community. Kappa are skilled in preserving food through drying and salting, storing provisions for winter months when rivers freeze and fishing is poor. Kappa do not brew strong drink, as their constitution is sensitive to alcohol, but they are known for a light fragrant tea made from water herbs, consumed in quantity and offered to guests as a gesture of hospitality.
 

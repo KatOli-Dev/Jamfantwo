@@ -20,7 +20,7 @@ Small streams run off the slopes to the bay, providing the only source of fresh 
 
 The lighthouse at the cape was erected by the council of [Khalisar](/content/location/settlement/city/khalisar) in the early generations of the [Long Peace](/content/history/long-peace) and has been maintained by the [Inner Sea Watch](/content/government/local/inner-sea-watch) ever since. It stands upon the highest point of the headland, and the light is visible far out to sea in clear weather. The keeper is a senior seaman of the Watch relieved of duty afloat, who maintains the fire, trims the wicks at dusk, and signals the state of the tide by the colour of the light shown above the doorway of the lantern room.
 
-The lighthouse has been the foundation of the safety of navigation along the coast and the refuge of many a pilot caught upon the coast in time of storm. It is one of the most important public works of the warm coast and is held in high esteem by the pilots and merchants of every city of the coast.
+The lighthouse has been the foundation of the safety of navigation along the coast and the refuge of many a pilot caught upon the coast in time of storm. It is one of the most important [public works](/content/economy/public-works) of the warm coast and is held in high esteem by the pilots and merchants of every city of the coast.
 
 ## Sheltered Anchorage and the Fishing Village
 
@@ -30,7 +30,7 @@ The bay is the principal anchorage of the cape, used by the fishing boats of the
 
 ## Seabirds, Mammals, and the Careful Fishery
 
-The cape supports a rich variety of wildlife that forms the foundation of its ecology. The cliffs support seabirds that breed upon the ledges in the spring, including the gulls and cormorants that the Bestiaries and Herbals have catalogued. The slopes support smaller mammals that the birds of prey feed upon, and the streams support fish that the fishermen of the village pursue. The ocean supports larger fish taken from boats launched from the beach.
+The cape supports a rich variety of wildlife that forms the foundation of its ecology. The cliffs support seabirds that breed upon the ledges in the spring, including the gulls and cormorants that the Bestiaries and Herbals have catalogued. The slopes support smaller mammals that the [birds of prey](/content/nature/fauna/birds-of-prey) feed upon, and the streams support fish that the fishermen of the village pursue. The ocean supports larger fish taken from boats launched from the beach.
 
 The wildlife has been the subject of careful study by the scholars of the academies, who have recorded the patterns of the birds and fish in their catalogues. The wildlife is the source of much of the food of the village and the foundation of the careful management of the fishery that the elders of the village maintain.
 

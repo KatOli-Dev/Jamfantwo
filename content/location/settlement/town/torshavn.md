@@ -6,7 +6,7 @@ description: "A southeastern Morvind port near the Velden Strait, Torshavn serve
 
 ## A Southeastern Morvind Port Near the Strait
 
-Torshavn is a southeastern port of [Morvind](/content/location/natural/continent/morvind), situated on the coast near the [Velden Strait](/content/location/natural/feature/strait-of-velden) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the southernmost of the Morvind coastal settlements, and its position near the strait gives it a role in the strait trade secondary to [Veldenwatch](/content/location/settlement/town/veldenwatch) but nonetheless significant. Torshavn is a fishing and trading port, and its harbour is a valued stopping point for vessels approaching or leaving the strait from the south.
+Torshavn is a southeastern port of [Morvind](/content/location/natural/continent/morvind), situated on the coast near the [Velden Strait](/content/location/natural/feature/strait-of-velden) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The town is the southernmost of the [Morvind](/content/location/natural/continent/morvind) coastal settlements, and its position near the strait gives it a role in the strait trade secondary to [Veldenwatch](/content/location/settlement/town/veldenwatch) but nonetheless significant. Torshavn is a fishing and trading port, and its harbour is a valued stopping point for vessels approaching or leaving the strait from the south.
 
 ## The Open Bay and the Mixing of Warm and Cold Waters
 
@@ -14,7 +14,7 @@ The harbour of Torshavn is a broad, open bay sheltered by a headland extending f
 
 The fishing fleet of Torshavn is the largest on the southeastern coast; boats venture into waters near the strait where fish are most abundant. The catch is landed at the harbour, salted and dried in curing houses lining the waterfront, and exported to inland markets and the ports of the strait. The fish of Torshavn is a valued commodity in the strait towns, where demand for provisions is constant and supply from local fishing grounds is insufficient.
 
-The fishing grounds off Torshavn are shaped by the mixing of warm Auric waters and cold Stormfall waters near the strait. The convergence of the two currents creates a diverse marine environment sustaining a great variety of fish. Seasonal patterns of fishing are governed by the movement of currents and the migration of fish; the fishermen have developed a detailed knowledge of the waters passed down from generation to generation. The spring run of tuna is the most valuable catch of the year, and the autumn catch is dominated by herring passing through the strait on their southward migration.
+The fishing grounds off Torshavn are shaped by the mixing of warm Auric waters and cold [Stormfall](/content/location/natural/continent/stormfall) waters near the strait. The convergence of the two currents creates a diverse marine environment sustaining a great variety of fish. Seasonal patterns of fishing are governed by the movement of currents and the migration of fish; the fishermen have developed a detailed knowledge of the waters passed down from generation to generation. The spring run of tuna is the most valuable catch of the year, and the autumn catch is dominated by herring passing through the strait on their southward migration.
 
 ## Fishing and the Secondary Role in Strait Commerce
 

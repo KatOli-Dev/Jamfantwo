@@ -10,7 +10,7 @@ The [Karhold Realm](/content/government/national/karhold-realm) is the most
 northerly of the settled realms of [Morvind](/content/location/natural/continent/morvind),
 a cold and mountainous land where winter lasts for nine months of the year and
 where the sun does not rise for weeks at a time during the darkest months. The
-military forces of Karhold are shaped by these conditions. The Karhold Realm
+military forces of [Karhold](/content/location/settlement/city/karhold) are shaped by these conditions. The [Karhold Realm](/content/government/national/karhold-realm)
 does not maintain a large field army in the manner of the southern realms, for
 the population is too small and the resources too scarce. Instead, the realm
 relies on a system of garrison forces that defend the fortified settlements and
@@ -126,7 +126,7 @@ raids and incursions. The Wardens maintain contact with the clan chieftains,
 and there are established protocols for resolving disputes without resort to
 war.
 
-The border with the Frostwall Clans is the most dangerous posting in the
+The border with the [Frostwall Clans](/content/government/national/frostwall-clans) is the most dangerous posting in the
 Karhold Realm. The clans are fierce warriors who know the terrain as well as
 the Karhold soldiers do, and they are not constrained by the rules of the
 [Greywash Compact](/content/history/greywash-compact). The garrisons that face

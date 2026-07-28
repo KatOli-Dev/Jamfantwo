@@ -10,7 +10,7 @@ The shared meal is one of the most important social institutions of the known wo
 
 ## The Daily Meal in the Vael Valley
 
-The daily meals of the Vael river valley are simple affairs, governed by the rhythm of the agricultural year and the resources that the household can command. The morning meal is taken at dawn, before the work of the fields begins, and consists of bread or porridge accompanied by ale or water. The midday meal is taken in the fields, a simple repast of bread and cheese and the preserved meats that the household has prepared. The evening meal is the principal meal of the day, taken after the work is finished, and consists of a stew or a roast accompanied by bread and ale.
+The daily meals of the [Vael](/content/government/national/vael) river valley are simple affairs, governed by the rhythm of the agricultural year and the resources that the household can command. The morning meal is taken at dawn, before the work of the fields begins, and consists of bread or porridge accompanied by ale or water. The midday meal is taken in the fields, a simple repast of bread and cheese and the preserved meats that the household has prepared. The evening meal is the principal meal of the day, taken after the work is finished, and consists of a stew or a roast accompanied by bread and ale.
 
 The evening meal is the occasion at which the household gathers together, seated at the table that occupies the centre of the main room. The head of the household presides at the table, carving the meat and distributing the portions according to the custom of the valley. The meal is preceded by the prayer of the [Still Flame](/content/religion/still-flame), a moment of silence in which the faithful acknowledge the eternal flame that has provided the food.
 
@@ -36,7 +36,7 @@ The ale of the dwarves is the principal beverage of the feast, served in the gre
 
 The dining customs of the [Sahrani city-states](/content/culture/sahrani-city-life) reflect the mercantile culture of the coast, in which the shared meal is an occasion for the conduct of business as well as the enjoyment of food. The principal meal of the day is the evening meal, taken after the heat of the day has passed, when the family gathers in the courtyard to share the dishes that the cooks of the household have prepared.
 
-The Sahrani meal is served on a low table, with the diners seated on cushions around the table. The dishes are shared, placed in the centre of the table for all to take. The principal dishes are the spiced stews that are the foundation of the Sahrani cuisine, accompanied by the flat breads that are baked in the ovens of the household. The meal concludes with the fresh or dried fruits that are the traditional dessert of the Sahrani table.
+The [Sahrani](/content/language/spoken/sahrani) meal is served on a low table, with the diners seated on cushions around the table. The dishes are shared, placed in the centre of the table for all to take. The principal dishes are the spiced stews that are the foundation of the Sahrani cuisine, accompanied by the flat breads that are baked in the ovens of the household. The meal concludes with the fresh or dried fruits that are the traditional dessert of the Sahrani table.
 
 ## The Northern Feast
 

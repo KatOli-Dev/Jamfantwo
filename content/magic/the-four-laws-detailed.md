@@ -46,7 +46,7 @@ The traditions agree on the three limits as stated and agree that the limits are
 
 ## Cost: The Price of Reshaping
 
-The fourth law states that the Art exacts a price, recorded in the body and mind of the practitioner, in the pattern of the subject, and in the world that lies between them. The cost is not a penalty or a punishment but the price of reshaping the medium, and the practitioner who would practise the Art must be prepared to pay it.
+The fourth law states that the Art exacts a price, recorded in the body and mind of the practitioner, in the pattern of the subject, and in the world that lies between them. The cost is not a penalty or a punishment but [the price of reshaping](/content/magic/the-price-of-reshaping) the medium, and the practitioner who would practise the Art must be prepared to pay it.
 
 The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) state the cost under five headings. The first is the effort of reading and reshaping, which manifests as bodily fatigue and a mental weariness that cannot long be maintained. The second is the strain that reshaping places upon the practitioner, a disturbance of the practitioner's pattern felt as stiffness of the joints, heaviness of the limbs, and slowness of the mind. The third is the backflow, the sympathetic effect of reshaping upon the practitioner, for the path of resonance that connects practitioner to subject is two-way, and the reshaping that travels from practitioner to subject is matched by a smaller reshaping travelling from subject to practitioner. The fourth is the drift, the cumulative marks a practitioner bears from a career of practice. The fifth is the reverberation, the tendency of a reshaped pattern to settle back toward its old shape.
 

@@ -11,12 +11,12 @@ is the most formidable heavy infantry force in the known world. Dwarven
 warriors, armed and armoured in the products of their own forges and trained
 from youth in the arts of war, form the core of a military tradition that
 stretches back to the [Founding Era](/content/history/founding-era). The
-Stoneheim Host is not a standing army in the human sense; it is a gathering of
+[Stoneheim](/content/location/settlement/city/stoneheim) Host is not a standing army in the human sense; it is a gathering of
 warriors from the individual holds, each hold contributing a contingent that
 reflects its population and its wealth. The host has never been defeated in a
 pitched battle, a record that the dwarves maintain with considerable pride.
 
-The military strength of the Stoneheim Holds rests on three foundations: the
+The military strength of the [Stoneheim Holds](/content/government/national/stoneheim-holds) rests on three foundations: the
 quality of their equipment, the discipline of their soldiers, and the skill of
 their engineers. Dwarven smiths produce armour and weapons that are superior to
 those of any human realm, using techniques that have been refined over

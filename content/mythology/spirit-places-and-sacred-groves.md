@@ -16,7 +16,7 @@ The sacred groves are the most widespread of the spirit places, and they are fou
 
 The sacred groves are protected by the customs of the communities that live near them, and the trees of the grove are never cut and the ground of the grove is never disturbed. The people do not enter the grove except for the purposes of the ceremonies that honour the spirit, and they do not take anything from the grove except the leaves and the branches that have fallen naturally. The grove is a place apart, a remnant of the world as it was before the people began to shape it to their purposes.
 
-The most famous of the sacred groves is the Heartwood itself, the great tree that the elves believe stands at the centre of the world. The Heartwood is the most sacred of all the spirit places, and the elves maintain the most elaborate traditions of honouring the spirit that dwells within it. The groves that the elves maintain in the forests of Aethelar are the most extensive of the sacred groves in the known world, and the elven traditions of the groves have been studied by the scholars of the Cloisters of Reading for many generations.
+The most famous of the sacred groves is the Heartwood itself, the great tree that the elves believe stands at the centre of the world. The Heartwood is the most sacred of all the spirit places, and the elves maintain the most elaborate traditions of honouring the spirit that dwells within it. The groves that the elves maintain in the forests of [Aethelar](/content/location/natural/continent/aethelar) are the most extensive of the sacred groves in the known world, and the elven traditions of the groves have been studied by the scholars of the Cloisters of Reading for many generations.
 
 ## The Springs of the Hidden
 
@@ -24,7 +24,7 @@ The springs are the second most common of the spirit places, and they are found 
 
 The spirits of the springs are not always benevolent, the people caution, and the spring must be approached with respect. The visitor who comes to the spring with a pure heart and a sincere need will receive the healing that the spirit offers, while the visitor who comes with a false heart or a frivolous purpose will be turned away. The spring must be thanked for the water that it gives, and the offering that the people leave at the spring is a sign of the gratitude that the community feels.
 
-The most famous of the springs in the known world is the Spring of the First Light, which is located on the Cape of the First Light on the eastern coast of Aethelar. The spring is said to have healing properties that exceed those of any other spring, and the people who visit it travel from every continent to seek its waters. The spring is maintained by the community of the First Veilers, who regard the spring as a place where the veil between the worlds is thin.
+The most famous of the springs in the known world is the Spring of the First Light, which is located on the Cape of the First Light on the eastern coast of Aethelar. The spring is said to have healing properties that exceed those of any other spring, and the people who visit it travel from every continent to seek its waters. The spring is maintained by the community of [the First Veil](/content/mythology/the-first-veil)ers, who regard the spring as a place where the veil between the worlds is thin.
 
 ## The Mountains of the Powers
 
@@ -32,13 +32,13 @@ The mountains are the spirit places that inspire the greatest awe, for the mount
 
 The offerings that the people leave at the mountain spirit places are the most elaborate of the offerings that the tradition prescribes. The travellers who cross the mountain passes leave stones at the cairns that mark the high points, and the stones are the signs of the traveller's respect for the spirit of the mountain. The communities that live in the shadow of the mountain conduct ceremonies at the times of the solstices and the equinoxes, and they offer the fruits of the harvest and the products of their craft to the spirit that watches over them.
 
-The Crown Range, the great mountain range that runs through the centre of Aethelar, is the site of the most extensive traditions of mountain spirits in the known world. The dwarves of the Stoneheim Holds maintain the most detailed knowledge of the spirits of the Crown Range, and the elven communities of the lower slopes have their own traditions that complement the dwarven knowledge.
+The [Crown Range](/content/location/natural/feature/crown-range), the great mountain range that runs through the centre of Aethelar, is the site of the most extensive traditions of mountain spirits in the known world. The dwarves of the [Stoneheim Holds](/content/government/national/stoneheim-holds) maintain the most detailed knowledge of the spirits of the Crown Range, and the elven communities of the lower slopes have their own traditions that complement the dwarven knowledge.
 
 ## The Spirit Places of the Hearth
 
 The spirit places are not only the natural features of the landscape; they are also the places where the people live and work, and the household itself is the most intimate of the spirit places. The hearth is the centre of the household's spiritual life, and the spirit of the hearth is the most familiar of the spirits, the presence that the family lives with and that shares the family's joys and sorrows.
 
-The spirit of the hearth is honoured by the practices of the Still Flame, the faith that maintains the hearth-halls and the tradition of the tending of the fire. The Still Flame teaches that the spirit of the hearth is the same spirit that inhabits the great fire of the sun and the inner fire of the body, and the tending of the fire is the means by which the household maintains its connection to the spirit of the world.
+The spirit of the hearth is honoured by the practices of the [Still Flame](/content/religion/still-flame), the faith that maintains the hearth-halls and the tradition of the tending of the fire. The Still Flame teaches that the spirit of the hearth is the same spirit that inhabits the great fire of the sun and the inner fire of the body, and the tending of the fire is the means by which the household maintains its connection to the spirit of the world.
 
 ## The Decline and the Persistence
 

@@ -6,9 +6,9 @@ description: "The seasonal rotation system by which the Plains Confederation all
 
 ## The Regulation of the Grassland Commons
 
-The Plains Confederation Grazing Rights are the body of customary and written law that governs the use of the grasslands for the grazing of livestock by the settled farmers and the nomadic [centaur](/content/species/sapient/centaurs) kindreds of the [Plains Confederation](/content/government/national/plains-confederation). The grazing rights system is one of the oldest and most carefully developed legal institutions of the grasslands, and it is essential to the maintenance of the balance between the settled and nomadic peoples who share the plains.
+The [Plains Confederation](/content/government/national/plains-confederation) Grazing Rights are the body of customary and written law that governs the use of the grasslands for the grazing of livestock by the settled farmers and the nomadic [centaur](/content/species/sapient/centaurs) kindreds of the [Plains Confederation](/content/government/national/plains-confederation). The grazing rights system is one of the oldest and most carefully developed legal institutions of the grasslands, and it is essential to the maintenance of the balance between the settled and nomadic peoples who share the plains.
 
-The grasslands of the confederation are the common heritage of all members of the confederation, and no individual or community may claim exclusive ownership of any portion of the grasslands. The right to graze livestock on the grasslands is allocated by the confederation council according to a system that takes into account the needs of the settled farmers and the nomadic herders, the capacity of the land to support livestock, and the seasonal conditions that affect the growth of grass and the availability of water.
+The grasslands of the confederation are the common heritage of all members of the confederation, and no individual or community may claim exclusive ownership of any portion of the grasslands. The right to graze livestock on the grasslands is allocated by the [confederation council](/content/government/local/plains-confederation-council) according to a system that takes into account the needs of the settled farmers and the nomadic herders, the capacity of the land to support livestock, and the seasonal conditions that affect the growth of grass and the availability of water.
 
 ## The Seasonal Rotation of Grazing Grounds
 
@@ -60,7 +60,7 @@ The council may impose penalties on members of the confederation who violate the
 
 ## The Relationship Between Grazing Rights and the Rights of the Plains
 
-The grazing rights system is part of the larger legal order of the confederation, which is founded on the [Rights of the Plains](/content/law/rights-of-the-plains). The Rights of the Plains establish the principles of participation, representation, and accountability that govern the confederation, and the grazing rights system operates within the framework established by these principles.
+The grazing rights system is part of the larger legal order of the confederation, which is founded on the [Rights of the Plains](/content/law/rights-of-the-plains). The [Rights of the Plains](/content/law/rights-of-the-plains) establish the principles of participation, representation, and accountability that govern the confederation, and the grazing rights system operates within the framework established by these principles.
 
 The allocation of grazing rights is subject to the right of speech at the Open Grass Assembly, and any member of the confederation who is affected by the allocation may speak at the assembly and bring concerns to the attention of the council. The allocation is also subject to the right of petition, and any member may submit a written concern about the allocation to the council.
 

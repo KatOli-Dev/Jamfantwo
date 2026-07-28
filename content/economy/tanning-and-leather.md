@@ -48,7 +48,7 @@ The trade in raw hides and finished leather is a significant component of the li
 
 The finished leather is traded in the markets of the towns and the cities, where the craftsmen who make the leather goods purchase the materials that they need. The price of the leather varies with the quality, the thickness, and the finish, and the merchants who deal in leather maintain the stocks of the different types of leather that the craftsmen require.
 
-The export of leather and leather goods from the regions where the livestock is abundant to the regions where the livestock is scarce is a source of profit for the merchants who undertake the trade. The leather of the Aethelaran plains is exported to the cities of Sahrana and Morvind, where the local supplies of leather are insufficient for the needs of the population. The leather goods of the Aethelaran workshops are also exported, and the saddles and the shoes and the bags that are made in the plains are found throughout the known world.
+The export of leather and leather goods from the regions where the livestock is abundant to the regions where the livestock is scarce is a source of profit for the merchants who undertake the trade. The leather of the Aethelaran plains is exported to the cities of [Sahrana](/content/location/natural/continent/sahrana) and [Morvind](/content/location/natural/continent/morvind), where the local supplies of leather are insufficient for the needs of the population. The leather goods of the Aethelaran workshops are also exported, and the saddles and the shoes and the bags that are made in the plains are found throughout the known world.
 
 ## The Leather of the Other Peoples
 

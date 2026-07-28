@@ -14,7 +14,7 @@ The daily life of the coastal settlements is governed by the sea and the weather
 
 The fishing fleet is the foundation of the northern economy, and the work of the fleet governs the daily routine of every coastal settlement. The fleet puts to sea at dawn, the boats scattering across the coastal waters to the fishing grounds that each community has used for generations. The boats return in the late afternoon, their holds filled with the catch that will be processed on the shore and distributed to the households of the settlement.
 
-The principal fish of the northern waters are cod and herring, both of which are preserved by salting and drying for consumption through the winter months. The fish are cleaned and prepared on the shore by the women and the children, who work at the fish tables throughout the summer season, processing the daily catch and packing it into barrels for storage. The work is hard and constant, but it provides the food that sustains the population through the winter and the trade goods that the settlements exchange for the products of the southern lands.
+The principal fish of the northern waters are cod and herring, both of which are preserved by salting and drying for consumption through the winter months. The fish are cleaned and prepared on the shore by the women and the children, who work at the fish tables throughout the summer season, processing the daily catch and packing it into barrels for storage. The work is hard and constant, but it provides the food that sustains the population through the winter and the trade goods that the settlements exchange for the products of the [southern lands](/content/location/natural/continent/southern-lands).
 
 ## The Whaling and the Sealing
 

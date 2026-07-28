@@ -26,7 +26,7 @@ The pelt of the marten is a lighter and a less valuable fur than the pelt of the
 
 ## The Fox of the Fields and the Uplands
 
-The fox of the fields and the uplands of Aethelar and Morvind is the most widely distributed of the fur-bearing animals, and the fox is hunted for the pelt that is used in the production of the warm garments and the decorative objects. The fox is a cunning and adaptable animal that lives in the range of the habitats from the farmlands to the alpine zone.
+The fox of the fields and the uplands of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind) is the most widely distributed of the fur-bearing animals, and the fox is hunted for the pelt that is used in the production of the warm garments and the decorative objects. The fox is a cunning and adaptable animal that lives in the range of the habitats from the farmlands to the alpine zone.
 
 The pelt of the fox varies in the colour according to the region and the season. The red fox of the lowlands produces the pelt of the warm reddish colour, and the white fox of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) produces the pelt of the pure white colour that is the most valued of the fox pelts.
 

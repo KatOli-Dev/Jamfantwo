@@ -46,7 +46,7 @@ breached, and the dwarves maintain that it never will be.
 
 The Citadel of [Vaelmouth](/content/location/settlement/city/vaelmouth) is the
 most powerful fortress in the river kingdom and one of the strongest in all of
-Aethelar. Built at the point where the Vael River meets the [Stormfall
+[Aethelar](/content/location/natural/continent/aethelar). Built at the point where the [Vael](/content/government/national/vael) River meets the [Stormfall
 Sea](/content/location/natural/feature/stormfall-sea), the Citadel commands the
 approaches to the river and controls access to the interior of the kingdom. The
 walls are of dressed stone, thirty feet high, and are defended by twenty-seven
@@ -97,7 +97,7 @@ common threat.
 ## The Desert Keeps
 
 The [Vashari Pact](/content/government/national/vashari-pact) maintains a
-network of fortresses along the caravan routes of the Sahrana desert. These
+network of fortresses along the caravan routes of the [Sahrana](/content/location/natural/continent/sahrana) desert. These
 keeps are built at oases, where water is available and where the caravans
 must stop. The keeps serve as bases for the desert cavalry, as refuges for
 travellers, and as symbols of the Pact's authority over the desert.

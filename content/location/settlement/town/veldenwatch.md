@@ -6,7 +6,7 @@ description: "Veldenwatch is the Morvind-side town of the Velden Strait, command
 
 ## The Morvind-Side Town of the Velden Strait
 
-Veldenwatch is the [Morvind](/content/location/natural/continent/morvind)-side town of the [Velden Strait](/content/location/natural/feature/strait-of-velden), situated on the northern shore of the strait where it connects the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean). The town is one of the two principal settlements that govern the strait, and its position on the Morvind shore gives it a strategic and commercial significance disproportionate to its modest size. Veldenwatch is the primary point of Morvind-side pilotage and toll collection, and its harbour is the first or last port of call for vessels navigating the strait.
+Veldenwatch is the [Morvind](/content/location/natural/continent/morvind)-side town of the [Velden Strait](/content/location/natural/feature/strait-of-velden), situated on the northern shore of the strait where it connects the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) to the [Auric Ocean](/content/location/natural/feature/auric-ocean). The town is one of the two principal settlements that govern the strait, and its position on the [Morvind](/content/location/natural/continent/morvind) shore gives it a strategic and commercial significance disproportionate to its modest size. Veldenwatch is the primary point of Morvind-side pilotage and toll collection, and its harbour is the first or last port of call for vessels navigating the strait.
 
 ## The Treacherous Passage and the Pilotage Guild School
 

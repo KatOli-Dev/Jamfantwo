@@ -11,8 +11,8 @@ from the earliest conflicts of the [Founding Era](/content/history/founding-era)
 to the present day. A mounted warrior can move faster, carry more equipment,
 and strike from a greater height than a soldier on foot. The realms that have
 mastered mounted warfare have held advantages over their neighbours that could
-not be overcome by numbers alone. The plains of Aethelar, the deserts of
-Sahrana, and the grasslands of the interior have all produced cavalry
+not be overcome by numbers alone. The plains of [Aethelar](/content/location/natural/continent/aethelar), the deserts of
+[Sahrana](/content/location/natural/continent/sahrana), and the grasslands of the interior have all produced cavalry
 traditions that reflect the conditions of their environments.
 
 Not every realm has embraced cavalry to the same degree. The [Stoneheim
@@ -32,11 +32,11 @@ Cavalry in the known world can be divided into several broad categories based
 on their equipment, their training, and their tactical role. Light cavalry are
 mounted on fast, agile horses and are armed with bows or javelins. They are
 used for scouting, screening, and harassment, and they avoid prolonged close
-combat with heavier forces. The riders of the Vashari Pact and the [Kharesh
+combat with heavier forces. The riders of the [Vashari Pact](/content/government/national/vashari-pact) and the [Kharesh
 Tribes](/content/government/national/kharesh-tribes) are primarily light
 cavalry, relying on speed and missile weapons to wear down their enemies.
 
-Medium cavalry ride somewhat heavier horses and wear armour of leather or mail.
+[Medium](/content/magic/law/medium) cavalry ride somewhat heavier horses and wear armour of leather or mail.
 They carry spears or lances in addition to bows, and they are capable of both
 missile combat and close action. The [Northern
 Marches](/content/government/national/northern-marches) field medium cavalry
@@ -53,7 +53,7 @@ disorder and to attacks on their flanks.
 ## Horse Breeds
 
 The quality of a cavalry force depends as much on its horses as on its riders.
-The horses of the Plains Confederation are small and hardy, capable of living
+The horses of the [Plains Confederation](/content/government/national/plains-confederation) are small and hardy, capable of living
 on the grass of the prairie and of travelling long distances without
 foundering. They are not fast by the standards of the southern breeds, but they
 possess an endurance that no southern horse can match.
@@ -61,7 +61,7 @@ possess an endurance that no southern horse can match.
 The desert horses of Sahrana are the fastest in the known world, capable of
 bursts of speed that leave northern horses behind. They are more lightly built
 than the plains ponies, and they require careful feeding and watering, but
-their speed makes them invaluable for the hit-and-run tactics of the Vashari
+their speed makes them invaluable for the hit-and-run tactics of the [Vashari](/content/location/settlement/city/vashari)
 cavalry.
 
 The heavy horses used by the southern realms are bred from stock that was
@@ -113,7 +113,7 @@ grass, but even this supply is limited.
 
 The logistics of cavalry limit the scale and duration of mounted campaigns. A
 large cavalry force cannot remain concentrated for long without denuding the
-pasture around its camp. The Plains Confederation levy disperses after a few
+pasture around its camp. The [Plains Confederation levy](/content/military/plains-confederation-levy) disperses after a few
 weeks of campaigning for this reason, the riders returning to their homes to
 rest and feed their horses before they can be called out again.
 

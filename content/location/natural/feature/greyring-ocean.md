@@ -6,7 +6,7 @@ description: "The cooler western ocean whose steady northward currents and banks
 
 ## Grey Rings of Fog and the Western Sea
 
-The Greyring Ocean lies to the west of [Aethelar](/content/location/natural/continent/aethelar) and to the south of [Morvind](/content/location/natural/continent/morvind). It is the cooler of the two oceans, with steady currents flowing from the polar south toward the equator. Few established trade routes cross the Greyring, and much of its expanse remains unexplored. Sailors who have ventured into its waters speak of long rolling swells and banks of mist that shroud the ocean in grey. The name Greyring is said to derive from the grey rings of fog that encircle the waters on the horizon, visible from the western cliffs of Aethelar on all but the clearest days.
+The Greyring Ocean lies to the west of [Aethelar](/content/location/natural/continent/aethelar) and to the south of [Morvind](/content/location/natural/continent/morvind). It is the cooler of the two oceans, with steady currents flowing from the polar south toward the equator. Few established trade routes cross the Greyring, and much of its expanse remains unexplored. Sailors who have ventured into its waters speak of long rolling swells and banks of mist that shroud the ocean in grey. The name Greyring is said to derive from the grey rings of fog that encircle the waters on the horizon, visible from the western cliffs of [Aethelar](/content/location/natural/continent/aethelar) on all but the clearest days.
 
 ## Cold Northward Flow and the Nutrient Upwelling
 

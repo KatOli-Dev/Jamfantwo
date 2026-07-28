@@ -13,13 +13,13 @@ sense that [Vael](/content/government/national/vael) or
 collection of clans and kinship groups bound together by shared language,
 shared customs, and a shared approach to warfare that has remained largely
 unchanged since before the [Founding Era](/content/history/founding-era). The
-raiding tradition is central to Kharesh identity. Young warriors prove their
+raiding tradition is central to [Kharesh](/content/location/natural/feature/kharesh) identity. Young warriors prove their
 worth by participating in raids, successful war leaders attract followers and
 wealth, and the constant movement of raiding parties prevents any single clan
 from accumulating enough power to dominate the others.
 
 Raiding serves an economic purpose as well as a cultural one. The lands
-inhabited by the Kharesh Tribes are marginal for agriculture, and the herds of
+inhabited by the [Kharesh Tribes](/content/government/national/kharesh-tribes) are marginal for agriculture, and the herds of
 goats, sheep, and camels that form the basis of the tribal economy are
 vulnerable to drought and disease. Raids supplement the tribal income with
 captured goods, livestock, and slaves, and they provide a means of acquiring

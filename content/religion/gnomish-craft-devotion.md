@@ -6,7 +6,7 @@ description: "The gnomish peoples of the woodland hills practise a spiritual lif
 
 ## The Making as a Form of Prayer
 
-The gnomish peoples of the woodland hills practise a form of spiritual life centred upon the craft of making, the work of the hands that transforms raw material into a finished object. Gnomish craft devotion is not a religion in the manner of the temple faiths; gnomes maintain no priests, doctrines, or sacred texts. The craft devotion is the understanding that the act of making is a form of prayer, and that an object well made is an honour to the divine.
+The gnomish peoples of the woodland hills practise a form of spiritual life centred upon the craft of making, the work of the hands that transforms raw material into a finished object. Gnomish craft devotion is not a religion in the manner of the temple faiths; [gnomes](/content/species/sapient/gnomes) maintain no priests, doctrines, or sacred texts. The craft devotion is the understanding that the act of making is a form of prayer, and that an object well made is an honour to the divine.
 
 Gnomes are a people of the hands, and making is the central activity of gnomish life. The gnomish craftsman who works in the forge or the workshop is engaged in a practice both practical and spiritual, and the attention the craftsman brings to the work is the attention the gnome brings to the divine.
 
@@ -54,7 +54,7 @@ The festival is not a competition; gnomes do not judge the work of others as bet
 
 Gnomish craft devotion is not a tradition that seeks converts, and the gnomes do not maintain correspondence with human traditions. Gnomes regard craft devotion as the practice of the gnomish people, and the human faiths as the practices of human peoples.
 
-Gnomes respect human traditions without adopting them, and those who trade with human settlements have learned enough of human beliefs to conduct relations with courtesy. Gnomes recognise in the [Still Flame](/content/religion/still-flame) and the [Forged Flame](/content/religion/forged-flame) the kindred understanding that the work of the hands is a form of devotion, and they have exchanged craftsmen with the Forged Flame on occasion.
+Gnomes respect human traditions without adopting them, and those who trade with human settlements have learned enough of human beliefs to conduct relations with courtesy. Gnomes recognise in the [Still Flame](/content/religion/still-flame) and the [Forged Flame](/content/religion/forged-flame) the kindred understanding that the work of the hands is a form of devotion, and they have exchanged craftsmen with the [Forged Flame](/content/religion/forged-flame) on occasion.
 
 Related topics:
 - [gnomes](/content/species/sapient/gnomes)

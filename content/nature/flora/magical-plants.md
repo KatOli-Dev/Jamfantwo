@@ -20,9 +20,9 @@ The moonflower is protected by the [elves](/content/species/sapient/elves) of th
 
 ## Sunvine and the Concentrated Light
 
-The sunvine is a plant that grows in the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe) of Sahrana, a trailing vine that produces the small and golden flowers that open in the full heat of the day. The sunvine absorbs the light of the sun and concentrates the energy in the leaves and the stems, and the plant that is harvested at the right moment yields a substance that is used in the preparation of the light-based spells of the Art.
+The sunvine is a plant that grows in the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe) of [Sahrana](/content/location/natural/continent/sahrana), a trailing vine that produces the small and golden flowers that open in the full heat of the day. The sunvine absorbs the light of the sun and concentrates the energy in the leaves and the stems, and the plant that is harvested at the right moment yields a substance that is used in the preparation of the light-based spells of the Art.
 
-The sap of the sunvine is collected by the alchemists of the Sahrani coast, who cut the stems of the vine in the early morning and collect the sap that drips from the cut. The sap is distilled and concentrated into a viscous liquid that glows with a faint internal light, and the liquid is used in the construction of the foci that channel the energy of the sun.
+The sap of the sunvine is collected by the alchemists of the [Sahrani](/content/language/spoken/sahrani) coast, who cut the stems of the vine in the early morning and collect the sap that drips from the cut. The sap is distilled and concentrated into a viscous liquid that glows with a faint internal light, and the liquid is used in the construction of the foci that channel the energy of the sun.
 
 The trade in the sunvine sap is regulated by the [Vashari Pact](/content/government/national/vashari-pact), which controls the access to the regions where the sunvine grows and the routes by which the sap is transported to the markets of the coast.
 

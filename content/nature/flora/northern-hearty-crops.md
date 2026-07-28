@@ -20,7 +20,7 @@ The barley straw that remains after the harvest is used as bedding for the anima
 
 ## The Rye of the Upland Slopes
 
-Rye is the grain of the poorest soils and the coldest exposures in the northern regions, and the rye fields of the [Valdmark](/content/government/national/valdmark) and the upland settlements of Morvind are sown in the spring after the snow has melted. The rye plant is more tolerant of cold and of poor soil than any other grain, and the rye of the north produces a crop in seasons when the barley and the oats would fail.
+Rye is the grain of the poorest soils and the coldest exposures in the northern regions, and the rye fields of the [Valdmark](/content/government/national/valdmark) and the upland settlements of [Morvind](/content/location/natural/continent/morvind) are sown in the spring after the snow has melted. The rye plant is more tolerant of cold and of poor soil than any other grain, and the rye of the north produces a crop in seasons when the barley and the oats would fail.
 
 The rye of the north is ground into a dark flour that is used in the baking of the dense and sour bread that is the staple food of the dwarven and the human communities of the region. The bread of the north is baked in large loaves that are stored in the cellars and the pantries of the northern households, and the bread keeps for months without spoiling, providing a store of food that sustains the households through the winter.
 
@@ -28,7 +28,7 @@ The rye is also used in the distillation of a spirit that is the strongest alcoh
 
 ## The Potato of the Present Age
 
-The potato was introduced to the known world in recent centuries and has become a staple crop in the northern regions where the cultivation of the grain crops is difficult and uncertain. The potato is a tuber that grows beneath the ground, and the plant produces a crop in the cool and wet conditions that are the characteristic climate of the northern growing season.
+The potato was introduced to the known world in recent centuries and has become a staple crop in the northern regions where the cultivation of the [grain crops](/content/nature/flora/grain-crops) is difficult and uncertain. The potato is a tuber that grows beneath the ground, and the plant produces a crop in the cool and wet conditions that are the characteristic climate of the northern growing season.
 
 The potato is planted in the spring after the ground has thawed, and the tubers are harvested in the autumn when the leaves of the plant have begun to yellow and die. The potato is a productive crop, yielding more food per acre than the grain crops, and the potato has become a significant part of the diet of the northern peoples.
 

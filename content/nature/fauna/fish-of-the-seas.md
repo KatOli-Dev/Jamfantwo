@@ -32,7 +32,7 @@ The mackerel is caught in the nets that are set around the schools, and the fish
 
 The shellfish that are gathered from the tidal shores of the three continents are the clams, the mussels, the oysters, and the cockles that are the common food of the coastal populations. The shellfish are gathered by the shore gatherers who work the tidal flats and the rocky shores at the low tide.
 
-The oysters of the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) are the most valued of the shellfish in the known world, and the oysters are cultivated in the beds that are managed by the oyster farmers of the coast. The oysters are eaten raw or cooked, and the pearls that are produced by the oysters of the Glasslight Coast are the finest in the known world.
+The oysters of the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) are the most valued of the shellfish in the known world, and the oysters are cultivated in the beds that are managed by the oyster farmers of the coast. The oysters are eaten raw or cooked, and the pearls that are produced by the oysters of the [Glasslight Coast](/content/location/natural/ecosystem/glasslight-coast) are the finest in the known world.
 
 ## The Crabs and the Lobsters of the Rocky Shores
 
@@ -42,7 +42,7 @@ The crab and the lobster are the luxury foods that are served in the inns and th
 
 ## The Greyring Whale and the Whaling Industry
 
-The [greyring-whale](/content/species/beasts/greyring-whale) of the Greyring Ocean is the largest of the animals that are hunted by the peoples of the known world, and the whaling industry of the Greyring coast is one of the most dangerous and the most profitable of the sea industries.
+The [greyring-whale](/content/species/beasts/greyring-whale) of the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) is the largest of the animals that are hunted by the peoples of the known world, and the whaling industry of the Greyring coast is one of the most dangerous and the most profitable of the sea industries.
 
 The whaling is conducted by the specialised ships and the crews that are trained in the hunting of the whale. The whale is harpooned from the small boats that approach the animal, and the whale is towed to the shore where the blubber and the bone are processed. The oil of the whale is used in the lamps and the lubricants of the settlements, and the bone of the whale is used in the production of the tools and the ornaments.
 

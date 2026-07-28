@@ -32,7 +32,7 @@ The maintenance of the signs is the responsibility of the tunnel wardens of the 
 
 ## Bench Marks and Deep Speech
 
-Stoneheim Bench Marks are distinct from the [Deep Speech](/content/language/pseudo/deep-speech) the dwarves employ for long-distance communication of the galleries, though the two systems are used in combination at principal junctions. Deep Speech carries messages that must travel beyond the range of the voice; the Bench Marks record information the dwarf walking the gallery may read upon the wall. The two systems are complementary, and a dwarf skilled in both may walk the length of the longest gallery without a guide. The Bench Marks are also distinct from the spoken language of the dwarves, Khazdul, a true language with grammar and vocabulary, while the bench marks are a code of limited scope conveying only a fixed set of meanings.
+[Stoneheim](/content/location/settlement/city/stoneheim) Bench Marks are distinct from the [Deep Speech](/content/language/pseudo/deep-speech) the dwarves employ for long-distance communication of the galleries, though the two systems are used in combination at principal junctions. [Deep Speech](/content/language/pseudo/deep-speech) carries messages that must travel beyond the range of the voice; the Bench Marks record information the dwarf walking the gallery may read upon the wall. The two systems are complementary, and a dwarf skilled in both may walk the length of the longest gallery without a guide. The Bench Marks are also distinct from the spoken language of the dwarves, Khazdul, a true language with grammar and vocabulary, while the bench marks are a code of limited scope conveying only a fixed set of meanings.
 
 ## Galleries of the Holds
 

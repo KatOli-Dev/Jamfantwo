@@ -34,7 +34,7 @@ Disputes brought before the council include those over water sources, grazing la
 
 ## Reciting the Legends of the Desert
 
-The Assembly is also the occasion for the recitation of the oral traditions of the Kharesh Spirits, conducted by the elders and storytellers who are the guardians of the legends. The recitation is regarded by the tribes as the second of the principal observances of the Assembly, the source of the tribes' continuity with the desert and its powers. The elders of every kindred gather at the Assembly to confirm the legends and settle such disputes as arise between the accounts of different families.
+The Assembly is also the occasion for the recitation of the oral traditions of the [Kharesh](/content/location/natural/feature/kharesh) Spirits, conducted by the elders and storytellers who are the guardians of the legends. The recitation is regarded by the tribes as the second of the principal observances of the Assembly, the source of the tribes' continuity with the desert and its powers. The elders of every kindred gather at the Assembly to confirm the legends and settle such disputes as arise between the accounts of different families.
 
 The recitation is conducted in the customary order of the kindreds, with the elders reciting the legends of the spirits of particular places. The recitation measures the tribes' knowledge of the desert and its ways and is the source of the tribes' care for the water sources and the grazing lands. The legends are entered in the oral traditions by the storytellers, and the recitation is regarded by the tribes as a privilege rather than a duty.
 

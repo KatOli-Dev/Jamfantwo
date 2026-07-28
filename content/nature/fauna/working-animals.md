@@ -30,15 +30,15 @@ The donkeys are used in the caravans that carry the [spices and dyes](/content/e
 
 The mule is the hybrid of the horse and the donkey, and the mule combines the strength and the size of the horse with the hardiness and the endurance of the donkey. The mule is the ideal animal for the transport of the goods through the mountain passes and the rough terrain of the uplands.
 
-The mules that are used in the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) and the [Crown Range](/content/location/natural/feature/crown-range) of Aethelar are the principal means of the transport in the regions where the roads are steep and the wagons cannot pass. The mule trains carry the ores and the metals from the mines in the mountains to the forges and the markets in the valleys, and the mules also carry the goods that are traded between the settlements of the uplands.
+The mules that are used in the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) and the [Crown Range](/content/location/natural/feature/crown-range) of [Aethelar](/content/location/natural/continent/aethelar) are the principal means of the transport in the regions where the roads are steep and the wagons cannot pass. The mule trains carry the ores and the metals from the mines in the mountains to the forges and the markets in the valleys, and the mules also carry the goods that are traded between the settlements of the uplands.
 
 The breeding of the mules is the work of the specialists who maintain the herds of the mares and the jacks that produce the mules for the trade. The mule is sterile and cannot reproduce, and every mule that is used in the work must be produced from the breeding of the horse and the donkey.
 
 ## The Water Buffalo of the Green Crescent
 
-The water buffalo that are used in the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of Sahrana are the animals of the rice paddies and the irrigated fields, and the water buffalo are used for the pulling of the ploughs through the flooded fields where the oxen and the horses cannot work.
+The water buffalo that are used in the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of [Sahrana](/content/location/natural/continent/sahrana) are the animals of the rice paddies and the irrigated fields, and the water buffalo are used for the pulling of the ploughs through the flooded fields where the oxen and the horses cannot work.
 
-The water buffalo is a large and powerful animal that is adapted to the conditions of the wet and the warm environment. The buffalo is covered in the sparse hair and the skin is thick, and the buffalo is able to tolerate the heat and the humidity of the Sahrani coast.
+The water buffalo is a large and powerful animal that is adapted to the conditions of the wet and the warm environment. The buffalo is covered in the sparse hair and the skin is thick, and the buffalo is able to tolerate the heat and the humidity of the [Sahrani](/content/language/spoken/sahrani) coast.
 
 The water buffalo is also valued for the milk that is produced, and the milk of the water buffalo is richer and creamier than the milk of the cow. The cheese that is produced from the milk of the water buffalo in the Sahrani settlements is the soft cheese that is the staple of the diet of the coastal peoples.
 

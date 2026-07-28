@@ -13,7 +13,7 @@ approaches to the [Whitewall Range](/content/location/natural/feature/whitewall-
 are subject to fierce storms, shifting ice floes, and fogs that can reduce
 visibility to a few yards. The ships that sail these waters must be stronger,
 the crews harder, and the captains more skilled than those who ply the milder
-southern routes. The Nordhaven Northern Fleet meets these requirements and has
+southern routes. The [Nordhaven](/content/location/settlement/city/nordhaven) [Northern Fleet](/content/government/local/northern-fleet) meets these requirements and has
 done so since the earliest days of the realm.
 
 Nordhaven's position on the northern coast of [Aethelar](/content/location/natural/continent/aethelar)
@@ -28,7 +28,7 @@ attack from the sea and cut off from the resources that sustain its economy.
 
 ## Ship Design
 
-Nordhaven warships are built to a different standard than those of Aldreth. The
+Nordhaven warships are built to a different standard than those of [Aldreth](/content/government/national/aldreth). The
 hulls are shorter and broader, with a deeper draught that provides stability in
 heavy seas. The bows are reinforced with extra planking and iron strakes to
 withstand contact with floating ice, and the rudders are built larger and
@@ -49,10 +49,10 @@ south, and every hand is expected to contribute to the defence of the ship.
 The Northern Fleet is organised into three divisions. The Home Division guards
 the approaches to [Nordhaven](/content/location/settlement/city/nordhaven)
 itself and patrols the coastal waters of the realm. The Far Patrol operates in
-the waters between Aethelar and Morvind, keeping the sea-lanes open for
+the waters between [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind), keeping the sea-lanes open for
 merchant shipping and deterring the raiders who operate from the islands and
 skerries of the northern ocean. The Ice Watch is a smaller force that sails as
-far north as the ice permits, monitoring the movements of the Frostwall Clans
+far north as the ice permits, monitoring the movements of the [Frostwall Clans](/content/government/national/frostwall-clans)
 and maintaining a presence in waters that few other ships visit.
 
 Each division is commanded by a Sea-Captain who holds authority from the Jarl
@@ -66,7 +66,7 @@ operations of their vessels and for the discipline and training of their crews.
 
 The shipyards of Nordhaven are located in a sheltered harbour that is protected
 from the worst of the northern storms by a headland of dark granite. The yards
-are smaller than those of Eldreth but are no less skilled in their craft. The
+are smaller than those of [Eldreth](/content/location/settlement/city/eldreth) but are no less skilled in their craft. The
 shipwrights of Nordhaven have developed techniques for working with the
 tough, dense timber that grows in the northern forests, timber that resists
 rot and stands up to the punishment of ice and storm.

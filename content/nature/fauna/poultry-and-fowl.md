@@ -6,9 +6,9 @@ description: "Chickens, ducks, geese, and turkeys kept in settlements from Sahra
 
 ## The Birds of the Farmyard and the Village
 
-The poultry and the fowl that are kept in the settlements of the known world are the most widespread of the domesticated animals, providing the eggs, the meat, and the feathers that are used in every household and every industry. The poultry are the animals of the smallholder and the village farmer, and the birds are kept in the yards and the gardens of every settlement from the coasts of Sahrana to the highlands of Morvind.
+The poultry and the fowl that are kept in the settlements of the known world are the most widespread of the domesticated animals, providing the eggs, the meat, and the feathers that are used in every household and every industry. The poultry are the animals of the smallholder and the village farmer, and the birds are kept in the yards and the gardens of every settlement from the coasts of [Sahrana](/content/location/natural/continent/sahrana) to the highlands of [Morvind](/content/location/natural/continent/morvind).
 
-The domesticated birds of the known world are of several species, each of which has been developed over the centuries for the purposes that the bird serves. The chicken is the most common of the poultry, and the chicken is kept in every region where the climate permits the survival of the bird. The duck and the goose are the birds of the wetter regions, and the turkey is the bird of the forest margins of Aethelar.
+The domesticated birds of the known world are of several species, each of which has been developed over the centuries for the purposes that the bird serves. The chicken is the most common of the poultry, and the chicken is kept in every region where the climate permits the survival of the bird. The duck and the goose are the birds of the wetter regions, and the turkey is the bird of the forest margins of [Aethelar](/content/location/natural/continent/aethelar).
 
 ## The Chickens of the Aethelaran Settlements
 

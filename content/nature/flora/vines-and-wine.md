@@ -18,7 +18,7 @@ The grapes that are grown in the Vintners Vale are the product of centuries of s
 
 The principal white grape is the golden muscat, a pale-skinned variety that produces a wine of floral aroma and sweet flavour. The golden muscat is harvested earlier than the velden noir, and the wine that is produced from the golden muscat is consumed in the year of its production, for the wine does not improve with age and must be drunk while it is fresh and lively.
 
-The lesser grape varieties of the vale include the aethelar red and the greywash white, both of which are grown in smaller quantities and used in the blending of the wines that are produced in the valley. The aethelar red is a hardy variety that grows on the higher slopes, producing a wine that is lighter in colour and body than the velden noir. The greywash white is a variety that is grown on the lower slopes, producing a wine that is used as the base for the fortified wines and the spirits that are produced in the valley.
+The lesser grape varieties of the vale include the [aethelar](/content/location/natural/continent/aethelar) red and the greywash white, both of which are grown in smaller quantities and used in the blending of the wines that are produced in the valley. The aethelar red is a hardy variety that grows on the higher slopes, producing a wine that is lighter in colour and body than the velden noir. The greywash white is a variety that is grown on the lower slopes, producing a wine that is used as the base for the fortified wines and the spirits that are produced in the valley.
 
 ## The Wine-Making Process
 
@@ -36,13 +36,13 @@ The ageing of the wine in the oak barrels adds flavour and complexity to the win
 
 ## The Wines of the Green Crescent
 
-The vineyards of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of Sahrana produce wines that are different in character from the wines of Aethelar, the warm climate of the Sahrani coast producing grapes that are higher in sugar and lower in acidity than the grapes of the northern continent. The wines of the Green Crescent are sweet and full-bodied, and they are consumed in the region and exported to the northern markets.
+The vineyards of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) of [Sahrana](/content/location/natural/continent/sahrana) produce wines that are different in character from the wines of Aethelar, the warm climate of the [Sahrani](/content/language/spoken/sahrani) coast producing grapes that are higher in sugar and lower in acidity than the grapes of the northern continent. The wines of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) are sweet and full-bodied, and they are consumed in the region and exported to the northern markets.
 
 The principal wine of the Green Crescent is the amber wine of [Khalisar](/content/location/settlement/city/khalisar), a sweet wine that is produced from grapes that are dried in the sun before pressing to concentrate the sugars. The amber wine is aged in ceramic vessels that are sealed with wax and stored in the cellars of the merchants, and the wine that emerges after years of ageing is a deep golden colour with a flavour of dried fruit and honey.
 
 ## The Table Wines of the Aldreth
 
-The vineyards of the [Aldreth](/content/government/national/aldreth) produce the table wines that are consumed in the daily life of the northern settlements, the wine that accompanies the meals of the working people and the travellers who pass through the region. The wines of the Aldreth are simple and unpretentious, and they are consumed in the year of their production.
+The vineyards of the [Aldreth](/content/government/national/aldreth) produce the table wines that are consumed in the daily life of the northern settlements, the wine that accompanies the meals of the working people and the travellers who pass through the region. The wines of the [Aldreth](/content/government/national/aldreth) are simple and unpretentious, and they are consumed in the year of their production.
 
 The grape varieties that are grown in the Aldreth are the hardy varieties that tolerate the cooler climate of the northern regions, and the wine that is produced from these grapes is lighter in body and lower in alcohol than the wines of the Vintners Vale. The table wine of the Aldreth is served in the taverns and the inns of the northern settlements, and the price of the wine is regulated by the [guilds](/content/economy/guilds) of the vintners and the tavern keepers.
 

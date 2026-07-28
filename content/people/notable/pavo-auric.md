@@ -8,13 +8,13 @@ description: "The presiding representative of the Auric Isles confederation, res
 
 Pavo Auric is the current presiding representative of the [Auric Isles](/content/government/national/auric-isles), the confederation of island communities of the [Auric Ocean](/content/location/natural/feature/auric-ocean). He is one of the most influential figures in the maritime life of the ocean, and his leadership of the confederation in the present age has been marked by the careful management of the relationship between the member islands and the maintenance of the trade routes that connect the Auric to the surrounding continents.
 
-Pavo was born on the island of Tidesmeet, the largest and most influential member of the confederation, into a family of boatbuilders and sailors who had served the confederation for several generations. The family was among the most respected in the island community, and its members had served as representatives on the council of the confederation in earlier generations.
+Pavo was born on the island of [Tidesmeet](/content/location/settlement/village/tidesmeet), the largest and most influential member of the confederation, into a family of boatbuilders and sailors who had served the confederation for several generations. The family was among the most respected in the island community, and its members had served as representatives on the council of the confederation in earlier generations.
 
 The education that Pavo received was the practical training of a sailor and a boatbuilder, supplemented by the formal instruction in the governance of the confederation that the sons of the leading families of the islands received. He learned to handle the vessels that plied the waters of the Auric, to navigate by the stars and the currents, and to build the boats that were the foundation of the island economy.
 
 ## The Path to Leadership
 
-The path that led Pavo to the position of presiding representative was marked by his service to the confederation in a variety of capacities. He served as a representative of Tidesmeet on the council of the confederation, and he served as the captain of the vessels that patrolled the trade routes of the Auric Ocean.
+The path that led Pavo to the position of presiding representative was marked by his service to the confederation in a variety of capacities. He served as a representative of Tidesmeet on the council of the confederation, and he served as the captain of the vessels that patrolled the trade routes of the [Auric Ocean](/content/location/natural/feature/auric-ocean).
 
 The reputation that Pavo established was based on his knowledge of the ocean and his skill in the management of the affairs of the confederation. He was known for his ability to find common ground among the representatives of the different islands, whose interests did not always align, and his fairness in dealing with the members of the confederation was recognised by all who worked with him.
 
@@ -22,7 +22,7 @@ The appointment of Pavo as the presiding representative of the confederation was
 
 ## The Governance of the Confederation
 
-The governance of the Auric Isles is based on the council of representatives from the member islands, which meets regularly at Tidesmeet to coordinate trade, navigation, and mutual support. Pavo, as the presiding representative, chairs the meetings of the council and is responsible for the execution of its decisions.
+The governance of the [Auric Isles](/content/government/national/auric-isles) is based on the council of representatives from the member islands, which meets regularly at Tidesmeet to coordinate trade, navigation, and mutual support. Pavo, as the presiding representative, chairs the meetings of the council and is responsible for the execution of its decisions.
 
 The style of leadership that Pavo has adopted is one of consultation and consensus. He seeks the advice of the other representatives before making decisions, and he works to build the agreements that the confederation requires to function effectively. The approach has been effective in maintaining the cohesion of the confederation during a period when the competing interests of the member islands could have led to fragmentation.
 
@@ -30,7 +30,7 @@ The issues that the council addresses include the coordination of the trade rout
 
 ## The Trade of the Auric
 
-The trade of the Auric Isles is the foundation of the confederation's economy, and the regulation of the trade is one of the principal concerns of the council. The goods that flow through the harbours of the confederation include the spices and dyes of [Sahrana](/content/location/natural/continent/sahrana), the grain and metalwork of [Aethelar](/content/location/natural/continent/aethelar), and the products of the islands themselves.
+The trade of the Auric Isles is the foundation of the confederation's economy, and the regulation of the trade is one of the principal concerns of the council. The goods that flow through the harbours of the confederation include the [spices and dyes](/content/economy/spices-and-dyes) of [Sahrana](/content/location/natural/continent/sahrana), the grain and metalwork of [Aethelar](/content/location/natural/continent/aethelar), and the products of the islands themselves.
 
 Pavo has promoted the policies that support the trade, including the maintenance of the lighthouses, the pilotage services, and the navigation aids that are essential for the safety and efficiency of the ocean routes. The policies that he has advocated have contributed to the growth of the trade, and the volume of goods passing through the harbours of the confederation has increased during his tenure.
 

@@ -34,11 +34,11 @@ The pottery of the plains is fired in open bonfires rather than in enclosed kiln
 
 ## The Ceramic Tiles of the Sahrani Tradition
 
-The [Sahrani Tile and Mosaic](/content/art/sahrani-tile-and-mosaic) tradition is closely related to the pottery arts, for the tiles are made from the same clays and fired in the same kilns as the pottery vessels. The tile-makers of [Sahran](/content/location/settlement/city/sahran) and [Qassir](/content/location/settlement/city/qassir) produce tiles of fired clay that are glazed and decorated with the geometric patterns that are characteristic of the Sahrani decorative tradition.
+The [Sahrani Tile and Mosaic](/content/art/sahrani-tile-and-mosaic) tradition is closely related to the pottery arts, for the tiles are made from the same clays and fired in the same kilns as the pottery vessels. The tile-makers of [Sahran](/content/location/settlement/city/sahran) and [Qassir](/content/location/settlement/city/qassir) produce tiles of fired clay that are glazed and decorated with the geometric patterns that are characteristic of the [Sahrani](/content/language/spoken/sahrani) decorative tradition.
 
 The production of ceramic tiles requires skills that are distinct from the skills of the potter. The tile-maker must produce tiles that are flat and of uniform thickness, for the tiles must fit together without gaps when they are set into the wall. The tile-maker must also control the shrinkage of the clay during firing, for an error in the estimation of the shrinkage can produce tiles that are the wrong size for the pattern they are intended to fill.
 
-The tile-making workshops of [Khalisar](/content/location/settlement/city/khalisar) are the largest in the known world, employing hundreds of craftsmen who produce tiles for the decoration of palaces, temples, and public buildings across the three continents. The tiles of Khalisar are exported to every region where the Sahrani style is admired, and the patterns of the Khalisar tiles are the standard by which the tile-makers of other cities measure their work.
+The tile-making workshops of [Khalisar](/content/location/settlement/city/khalisar) are the largest in the known world, employing hundreds of craftsmen who produce tiles for the decoration of palaces, temples, and public buildings across the three continents. The tiles of [Khalisar](/content/location/settlement/city/khalisar) are exported to every region where the Sahrani style is admired, and the patterns of the Khalisar tiles are the standard by which the tile-makers of other cities measure their work.
 
 ## The Figurative Ceramics of the Amurran Republic
 

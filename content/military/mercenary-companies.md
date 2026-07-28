@@ -26,7 +26,7 @@ companies that are strong enough to ignore the sanctions do so with impunity.
 ## The Iron Hall Company
 
 The Iron Hall Company is the oldest and most prestigious mercenary force
-operating in Aethelar. Founded in the aftermath of the [Three-Banners
+operating in [Aethelar](/content/location/natural/continent/aethelar). Founded in the aftermath of the [Three-Banners
 War](/content/history/three-banners-war), the company was originally composed
 of veterans from the defeated armies, men who had no homes to return to and who
 turned their military skills into a livelihood. The company grew rapidly,
@@ -46,7 +46,7 @@ stricter than in many standing armies.
 
 The Sand Wolves are a mercenary company that operates primarily in
 [Sahrana](/content/location/natural/continent/sahrana), though they have been
-known to accept contracts in the southern reaches of Aethelar as well. The Sand
+known to accept contracts in the [southern reach](/content/government/national/southern-reach)es of Aethelar as well. The Sand
 Wolves specialise in desert warfare and are composed mainly of riders from the
 [Vashari Pact](/content/government/national/vashari-pact) and the [Kharesh
 Tribes](/content/government/national/kharesh-tribes), supplemented by
@@ -56,8 +56,8 @@ The Sand Wolves are mounted on horses and camels, and they are armed with the
 composite bows and curved swords of their homelands. They are employed
 primarily as scouts, raiders, and flank guards, and they are valued for their
 ability to operate in terrain that is difficult for northern infantry. The
-company has a reputation for reliability that is unusual among Sahrana-based
-mercenaries, and it has served the Vashari Pact, the [Amurra
+company has a reputation for reliability that is unusual among [Sahrana](/content/location/natural/continent/sahrana)-based
+mercenaries, and it has served the [Vashari Pact](/content/government/national/vashari-pact), the [Amurra
 Republic](/content/government/national/amurra-republic), and the merchant
 princes of the southern cities.
 
@@ -106,7 +106,7 @@ receives half.
 
 Payment is a frequent source of dispute. Employers who are short of funds may
 delay payment, and companies that are not paid may withdraw from the campaign
-or, in extreme cases, change sides. The Greywash Compact established that a
+or, in extreme cases, change sides. The [Greywash Compact](/content/history/greywash-compact) established that a
 company that is not paid within thirty days of the due date may terminate its
 contract without penalty, but companies that exercise this right often find it
 difficult to obtain future contracts.

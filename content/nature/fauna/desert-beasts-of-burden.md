@@ -8,7 +8,7 @@ description: "The dromedary camels of the Kharesh carry the caravans across the 
 
 The camels of the [Kharesh](/content/location/natural/feature/kharesh) desert are the most important of the desert beasts of burden, and the camel is the animal that makes the crossing of the desert possible for the caravans that carry the trade between the interior and the coast. The camel is a large and distinctive animal that is adapted to the conditions of the arid environment, and the camel is capable of carrying the heavy loads for the long distances without the water.
 
-The camel of the Kharesh is a dromedary with the single hump that stores the fat that the animal draws upon when the food and the water are scarce. The camel can travel for the weeks without the water in the cool season, and the animal can carry the loads of the four hundred pounds or more on the journeys that last for the months.
+The camel of the [Kharesh](/content/location/natural/feature/kharesh) is a dromedary with the single hump that stores the fat that the animal draws upon when the food and the water are scarce. The camel can travel for the weeks without the water in the cool season, and the animal can carry the loads of the four hundred pounds or more on the journeys that last for the months.
 
 ## The Breeds of the Desert Camels
 
@@ -16,7 +16,7 @@ The camels of the Kharesh are of several breeds, each of which has been develope
 
 The pack camel of the caravan trade is a heavier and slower animal that is bred for the strength and the carrying capacity. The pack camel can carry the loads of the five hundred pounds or more, and the pack camel is the animal that carries the [spices and dyes](/content/economy/spices-and-dyes) and the other goods that are traded between the interior and the coast.
 
-The herd of the camels that is kept by the Kharesh Tribes is the foundation of the wealth of the tribe, and the size and the quality of the herd are the measure of the prosperity of the tribe. The camels are the animals that provide the milk, the meat, the hair, and the transport that the desert peoples require.
+The herd of the camels that is kept by the [Kharesh Tribes](/content/government/national/kharesh-tribes) is the foundation of the wealth of the tribe, and the size and the quality of the herd are the measure of the prosperity of the tribe. The camels are the animals that provide the milk, the meat, the hair, and the transport that the desert peoples require.
 
 ## The Care and the Management of the Camels
 
@@ -40,11 +40,11 @@ The goats of the desert margins are the smaller beasts of burden that are used b
 
 The donkeys that are used on the caravan trails of the desert margins are the animals of the shorter routes and the lighter loads. The donkey is smaller and cheaper to maintain than the camel, and the donkey is the animal of the traders and the travellers who cannot afford the camel.
 
-The donkey is used in the caravans that travel the routes of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip), where the water is more abundant and the distances are shorter than the distances of the desert interior. The donkey is also used in the farming of the coastal settlements, and the donkey is the common animal of the Sahrani farmer.
+The donkey is used in the caravans that travel the routes of the [Green Crescent](/content/location/natural/ecosystem/green-crescent) and the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip), where the water is more abundant and the distances are shorter than the distances of the desert interior. The donkey is also used in the farming of the coastal settlements, and the donkey is the common animal of the [Sahrani](/content/language/spoken/sahrani) farmer.
 
 ## The Trade in the Desert Beasts
 
-The trade in the camels and the other beasts of burden is the principal commerce of the desert routes, and the markets of the desert settlements are the venues where the camels and the donkeys are bought and sold. The price of a well-trained camel is the highest of any domesticated animal in Sahrana, and the camel that is proven on the long journeys is the animal that commands the premium price.
+The trade in the camels and the other beasts of burden is the principal commerce of the desert routes, and the markets of the desert settlements are the venues where the camels and the donkeys are bought and sold. The price of a well-trained camel is the highest of any domesticated animal in [Sahrana](/content/location/natural/continent/sahrana), and the camel that is proven on the long journeys is the animal that commands the premium price.
 
 The [guilds](/content/economy/guilds) of the camel breeders and the caravan merchants regulate the trade in the desert beasts, and the guilds maintain the standards of the quality of the animals that are sold in the markets. The traders who deal in the desert beasts are the members of the guilds, and the guilds enforce the regulations that protect the purchasers from the fraud and the misrepresentation.
 

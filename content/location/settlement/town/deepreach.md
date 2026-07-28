@@ -10,7 +10,7 @@ Deepreach is a [dwarven](/content/species/sapient/dwarves) mining settlement in 
 
 ## The Mine Entrances and the Distribution of Ores
 
-The mines of Deepreach are the reason for the settlement and the dominant feature of the community. Mine entrances are cut into the sides of the valleys surrounding the settlement, and the tunnels that extend from them follow veins of ore deep into the mountains. The ore extracted from the mines includes iron, copper, and the rarer metals found in the central highlands; the deposits are among the richest in the mountain spine outside of Karhold itself.
+The mines of Deepreach are the reason for the settlement and the dominant feature of the community. Mine entrances are cut into the sides of the valleys surrounding the settlement, and the tunnels that extend from them follow veins of ore deep into the mountains. The ore extracted from the mines includes iron, copper, and the rarer metals found in the central highlands; the deposits are among the richest in the mountain spine outside of [Karhold](/content/location/settlement/city/karhold) itself.
 
 Mining operations at Deepreach are conducted on a smaller scale than those of Karhold, for the settlement is younger and the workings less extensive, but the miners are skilled and experienced, and the ore produced is of a quality valued in lowland markets. The mines are worked by the community, with each family responsible for a particular set of tunnels; the ore extracted is shared according to each family's contribution to the collective effort. The deepest workings extend more than 200 fathoms below the surface, and the lower levels are kept dry by a system of pumps and channels maintained by a dedicated corps of engineers. Air in the deepest tunnels is moved by great bellows driven by water power, and the temperature in the lower workings is warm throughout the year, for the rock retains the heat of the deep earth.
 
@@ -28,7 +28,7 @@ The social life of Deepreach is centred on the great hall, where the community g
 
 ## The Most Important Mining Settlement of the Central Highlands
 
-Deepreach is the most important mining settlement in the central highlands of Aethelar, and the ore extracted from its mines is a significant contribution to the mineral output of the mountain spine. The settlement is a dependency of the [Karhold Realm](/content/government/national/karhold-realm), and its ore is processed and distributed through the trade network of the realm. The prosperity of Deepreach is built upon the wealth of the surrounding mountains, and the community is a model of dwarven capacity to establish productive settlements in the most remote and demanding environments.
+Deepreach is the most important mining settlement in the central highlands of [Aethelar](/content/location/natural/continent/aethelar), and the ore extracted from its mines is a significant contribution to the mineral output of the mountain spine. The settlement is a dependency of the [Karhold Realm](/content/government/national/karhold-realm), and its ore is processed and distributed through the trade network of the realm. The prosperity of Deepreach is built upon the wealth of the surrounding mountains, and the community is a model of dwarven capacity to establish productive settlements in the most remote and demanding environments.
 
 ## The Silver Veins and the Expansion of the Workings
 

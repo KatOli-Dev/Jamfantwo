@@ -12,7 +12,7 @@ The name carries the history of the family and the lineage, connecting the indiv
 
 ## The Naming Customs of the Vael Valley
 
-The naming customs of the Vael river valley are governed by the traditions of the [Still Flame](/content/religion/still-flame) and the customary law of the parish. The child is given the name at the naming ceremony, which is conducted at the temple when the child is approximately one month old. The ceremony is presided over by the priest, who blesses the child and speaks the name that the parents have chosen.
+The naming customs of the [Vael](/content/government/national/vael) river valley are governed by the traditions of the [Still Flame](/content/religion/still-flame) and the customary law of the parish. The child is given the name at the naming ceremony, which is conducted at the temple when the child is approximately one month old. The ceremony is presided over by the priest, who blesses the child and speaks the name that the parents have chosen.
 
 The Vaelic naming tradition uses the three-part name that is the standard form of the temperate lands. The first name is the given name, chosen by the parents from the traditional stock of Vaelic names or from the names of the ancestors. The second name is the father's name, indicating the lineage of the child. The third name is the place name, indicating the village or the region from which the family comes.
 
@@ -38,7 +38,7 @@ The male names of the dwarves include Balin, Borin, Dalin, Dorin, Falin, Gorin, 
 
 The naming customs of the [Sahrani city-states](/content/culture/sahrani-city-life) reflect the mercantile culture of the coast, in which the name is an element of the commercial reputation. The child is given the name at the naming ceremony, conducted at the temple of the city when the child is approximately forty days old. The ceremony is presided over by the priest, who speaks the name that the parents have chosen and records the name in the register of the city.
 
-The Sahrani naming tradition uses the four-part name that is the standard form of the coast. The first part is the given name, chosen from the traditional stock of Sahrani names. The second part is the father's name, indicating the lineage of the child. The third part is the family name, indicating the trading house or the merchant family to which the child belongs. The fourth part is the city name, indicating the city of the child's birth.
+The [Sahrani](/content/language/spoken/sahrani) naming tradition uses the four-part name that is the standard form of the coast. The first part is the given name, chosen from the traditional stock of Sahrani names. The second part is the father's name, indicating the lineage of the child. The third part is the family name, indicating the trading house or the merchant family to which the child belongs. The fourth part is the city name, indicating the city of the child's birth.
 
 The male names of the Sahrani coast include Ahmad, Bashir, Daoud, Farid, Habib, Jamil, Khalil, Latif, Mahmud, Nasir, Rashid, Samir, Tariq, Wahid, Zahir, Amin, Badr, Dinar, Fadil, Hamid, Jabir, Karim, and Mansur. The female names include Aisha, Badriya, Daliya, Fatima, Habiba, Jamila, Khalida, Latifa, Mahira, Nadia, Rashida, Samira, Tahira, Wahida, Zahira, Amina, Basima, Dalila, Farida, Halima, Jabira, Karima, and Malika.
 

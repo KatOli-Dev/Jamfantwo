@@ -8,7 +8,7 @@ description: "The commercial courts of the Thessaran League, where experienced m
 
 The Thessaran Merchant Courts are the institutions through which commercial disputes are resolved within the [Thessaran League](/content/government/national/thessaran-league), a confederation of eastern coast port cities of [Aethelar](/content/location/natural/continent/aethelar). The merchant courts are the most developed and respected commercial courts in the known world, and their decisions are cited as precedent in merchant courts throughout the continents.
 
-The merchant courts were established by the founding charter of the Thessaran League, which recognised that the prosperity of the member cities depended upon the swift and reliable resolution of commercial disputes. The courts are distinct from the ordinary courts of the member cities, and they have jurisdiction over disputes arising from commercial transactions between merchants of the league and between merchants of the league and foreign traders.
+The merchant courts were established by the founding charter of the [Thessaran League](/content/government/national/thessaran-league), which recognised that the prosperity of the member cities depended upon the swift and reliable resolution of commercial disputes. The courts are distinct from the ordinary courts of the member cities, and they have jurisdiction over disputes arising from commercial transactions between merchants of the league and between merchants of the league and foreign traders.
 
 ## The Structure of the Merchant Courts
 
@@ -64,11 +64,11 @@ The decisions of the merchant courts are also enforced by the courts of the memb
 
 ## The Relationship with the Aldreth Commercial Code
 
-The merchant courts of the Thessaran League apply the commercial code of the league, which is based on the [Aldreth Commercial Code](/content/law/aldreth-commercial-code). The league's commercial code incorporates many of the provisions of the Aldreth code, including the rules for the formation and enforcement of contracts, the regulation of insurance, and the principles of general average.
+The merchant courts of the Thessaran League apply the commercial code of the league, which is based on the [Aldreth Commercial Code](/content/law/aldreth-commercial-code). The league's commercial code incorporates many of the provisions of the [Aldreth](/content/government/national/aldreth) code, including the rules for the formation and enforcement of contracts, the regulation of insurance, and the principles of general average.
 
 The merchant courts also apply the decisions of the Aldreth commercial courts as persuasive authority, and the judges of the merchant courts regularly consult the Aldreth decisions when they are faced with novel questions of commercial law. The relationship between the merchant courts of the league and the commercial courts of Aldreth is one of mutual respect and co-operation, and the two systems of commercial law have developed in parallel for centuries.
 
-The influence of the Aldreth Commercial Code on the merchant courts of the Thessaran League is a testament to the power of the code and the respect that it commands throughout the known world. The code is the most influential body of commercial law in Aethelar, and its adoption by the league has contributed to the uniformity of commercial law across the eastern coast.
+The influence of the [Aldreth Commercial Code](/content/law/aldreth-commercial-code) on the merchant courts of the Thessaran League is a testament to the power of the code and the respect that it commands throughout the known world. The code is the most influential body of commercial law in [Aethelar](/content/location/natural/continent/aethelar), and its adoption by the league has contributed to the uniformity of commercial law across the eastern coast.
 
 ## The Significance of the Merchant Courts
 

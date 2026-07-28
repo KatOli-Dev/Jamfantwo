@@ -7,14 +7,14 @@ description: "The professional regiments of the Southern Reach Frontier Guard, d
 ## The Academy Forts
 
 The [Southern Reach](/content/government/national/southern-reach) occupies a
-region of Aethelar that lies at the foot of the [Thunderback
+region of [Aethelar](/content/location/natural/continent/aethelar) that lies at the foot of the [Thunderback
 Range](/content/location/natural/feature/thunderback-range), a land of rolling
 hills and fertile valleys that has been settled for centuries. The Southern
 Reach is famous throughout the known world for its military academies,
 institutions that train the officers and soldiers who serve not only the Reach
 itself but also many of the other realms of Aethelar. The academies produce
 officers who are skilled in strategy, tactics, and the arts of command, and
-they are the foundation of the Southern Reach's military strength.
+they are the foundation of the [Southern Reach](/content/government/national/southern-reach)'s military strength.
 
 The Frontier Guard is the standing force that protects the borders of the
 Southern Reach. It is a professional force, recruited from the graduates of the
@@ -62,7 +62,7 @@ valuable asset to any regiment.
 
 The Frontier Guard is organised into twelve regiments, each of approximately
 one thousand soldiers. Four regiments are stationed on the southern frontier,
-watching the approaches from the Thunderback Range and the lands beyond. Four
+watching the approaches from the [Thunderback Range](/content/location/natural/feature/thunderback-range) and the lands beyond. Four
 regiments are stationed on the eastern frontier, where the Reach borders the
 less settled regions of the interior. Three regiments are stationed in the
 interior of the Reach, ready to respond to threats anywhere in the realm. One

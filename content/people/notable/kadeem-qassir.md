@@ -6,15 +6,15 @@ description: "The wealthiest merchant prince of the port city-state of Qassir, m
 
 ## The Merchant Prince of the Eastern Shore
 
-Kadeem Qassir is a merchant prince of the city of [Qassir](/content/location/settlement/city/qassir), the port city-state on the eastern coast of [Sahrana](/content/location/natural/continent/sahrana) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the Sahrani shore. He is the wealthiest merchant in the city and one of the most influential figures in the trade that connects the eastern Sahrani coast to the islands of the Auric and the markets of the northern continents.
+Kadeem [Qassir](/content/location/settlement/city/qassir) is a merchant prince of the city of [Qassir](/content/location/settlement/city/qassir), the port city-state on the eastern coast of [Sahrana](/content/location/natural/continent/sahrana) where the [Auric Ocean](/content/location/natural/feature/auric-ocean) meets the [Sahrani](/content/language/spoken/sahrani) shore. He is the wealthiest merchant in the city and one of the most influential figures in the trade that connects the eastern Sahrani coast to the islands of the Auric and the markets of the northern continents.
 
-Kadeem was born in Qassir into a family of merchants who had been involved in the island trade for several generations. The family had built its wealth through the trade with the [Auric Isles](/content/government/national/auric-isles) and the other island communities of the Auric Ocean, and its counting houses and warehouses were among the most substantial in the city.
+Kadeem was born in Qassir into a family of merchants who had been involved in the island trade for several generations. The family had built its wealth through the trade with the [Auric Isles](/content/government/national/auric-isles) and the other island communities of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and its counting houses and warehouses were among the most substantial in the city.
 
 The education that Kadeem received was the practical training of a merchant of the eastern coast. He learned to manage the vessels that carried the goods between the islands and the mainland, to negotiate with the merchants of the different ports, and to assess the risks and the opportunities of the trade. The education was supplemented by the formal instruction that the sons of the leading families of Qassir received in the arts of accounting, law, and governance.
 
 ## The Trading House of Qassir
 
-The trading house that Kadeem inherited from his father was one of the largest in the city, with interests in the spice trade, the cloth trade, and the trade in the precious metals and stones that were produced in the interior of Sahrana. Kadeem expanded the operations of the trading house, establishing branches in the principal ports of the Auric Ocean and extending the network of relationships that supported the trade.
+The trading house that Kadeem inherited from his father was one of the largest in the city, with interests in the spice trade, the cloth trade, and the trade in the precious metals and stones that were produced in the interior of [Sahrana](/content/location/natural/continent/sahrana). Kadeem expanded the operations of the trading house, establishing branches in the principal ports of the Auric Ocean and extending the network of relationships that supported the trade.
 
 The expansion of the trading house was based on Kadeem's recognition that the trade of the eastern coast was growing, and that the city of Qassir was well positioned to benefit from the growth. The position of the city at the meeting of the Sahrani coast and the Auric Ocean gave it advantages in the trade with the islands and the northern continents that the other cities of the Sahrani coast did not share.
 
@@ -22,7 +22,7 @@ The management of the trading house required the coordination of the many activi
 
 ## The Island Trade
 
-The island trade is the most distinctive feature of the commerce of Qassir, and Kadeem's trading house is the leading participant in the trade. The goods that flow through Qassir from the islands include the spices and dyes that are produced in the island communities, the exotic fruits and the shells that are found only in the waters of the Auric, and the products of the islands that are valued in the markets of the mainland.
+The island trade is the most distinctive feature of the commerce of Qassir, and Kadeem's trading house is the leading participant in the trade. The goods that flow through Qassir from the islands include the [spices and dyes](/content/economy/spices-and-dyes) that are produced in the island communities, the exotic fruits and the shells that are found only in the waters of the Auric, and the products of the islands that are valued in the markets of the mainland.
 
 The trade with the islands is conducted through a network of relationships that Kadeem has built over the decades. The merchants of the islands trust him because he has dealt with them fairly and reliably over many years, and they give him the first choice of the goods that arrive in the port. The relationships that he has built are the foundation of his success in the island trade.
 
@@ -38,7 +38,7 @@ The relationship between Qassir and the other cities of the Sahrani coast is a m
 
 ## The Challenges of the Present Age
 
-The trade of Qassir faces challenges in the present age that the founders of the trading house could not have anticipated. The competition from the other ports of the Sahrani coast is increasing, and the merchants of [Khalisar](/content/location/settlement/city/khalisar) and Amurra are seeking to capture a larger share of the island trade. The costs of the trade are also increasing, as the vessels and the crews that the trade requires become more expensive.
+The trade of Qassir faces challenges in the present age that the founders of the trading house could not have anticipated. The competition from the other ports of the Sahrani coast is increasing, and the merchants of [Khalisar](/content/location/settlement/city/khalisar) and [Amurra](/content/location/settlement/city/amurra) are seeking to capture a larger share of the island trade. The costs of the trade are also increasing, as the vessels and the crews that the trade requires become more expensive.
 
 Kadeem has responded to the challenges by diversifying the operations of the trading house. He has expanded into the trade with the northern continents, establishing relationships with the merchants of [Eldreth](/content/location/settlement/city/eldreth) and the other ports of the eastern coast of [Aethelar](/content/location/natural/continent/aethelar). He has also invested in the production of the goods that the trading house trades, acquiring interests in the plantations and the workshops that produce the spices, the cloth, and the other goods that flow through the port.
 

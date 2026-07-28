@@ -12,11 +12,11 @@ The management of the sheep and the goats is the principal occupation of the her
 
 ## The Wool Sheep of the Morvind Uplands
 
-The wool sheep of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are the most important of the sheep breeds of the northern continent, producing the fleece that is the principal source of the wool for the textile industry of the northern settlements. The wool sheep of Morvind are a hardy breed that can survive the harsh conditions of the upland winter, and the fleece of the Morvind sheep is thick and long, providing the wool that is used in the production of the warm garments that the northern peoples require.
+The wool sheep of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are the most important of the sheep breeds of the northern continent, producing the fleece that is the principal source of the wool for the textile industry of the northern settlements. The wool sheep of [Morvind](/content/location/natural/continent/morvind) are a hardy breed that can survive the harsh conditions of the upland winter, and the fleece of the Morvind sheep is thick and long, providing the wool that is used in the production of the warm garments that the northern peoples require.
 
 The sheep are pastured in the alpine meadows of the [Valdmark](/content/government/national/valdmark) and the upland slopes of the Morvind massif, and the flocks are moved to the higher elevations in the summer when the snow has retreated and the grasses are growing. The wool is sheared in the late spring, when the fleece has reached the full length and the sheep are ready for the summer pasture.
 
-The wool of the Morvind sheep is the finest that is produced in the known world for the quality of the fibre, and the wool that is exported from the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) to the markets of Aethelar is valued for the warmth and the durability of the garments that are made from it.
+The wool of the Morvind sheep is the finest that is produced in the known world for the quality of the fibre, and the wool that is exported from the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) to the markets of [Aethelar](/content/location/natural/continent/aethelar) is valued for the warmth and the durability of the garments that are made from it.
 
 ## The Meat Sheep of the Aethelaran Plains
 
@@ -26,13 +26,13 @@ The meat sheep of the [Great Grass Plains](/content/location/natural/ecosystem/g
 
 ## The Sheep of the Sahrani Coastal Strip
 
-The sheep that are raised in the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) and the [Green Crescent](/content/location/natural/ecosystem/green-crescent) are a breed that has been adapted to the warm climate of the southern continent. The Sahrani sheep are smaller than the sheep of the north, and the fleece of the Sahrani sheep is shorter and lighter, providing the wool that is used in the production of the lighter garments that the Sahrani peoples wear.
+The sheep that are raised in the [Sahrani Coastal Strip](/content/location/natural/ecosystem/sahrani-coastal-strip) and the [Green Crescent](/content/location/natural/ecosystem/green-crescent) are a breed that has been adapted to the warm climate of the southern continent. The [Sahrani](/content/language/spoken/sahrani) sheep are smaller than the sheep of the north, and the fleece of the Sahrani sheep is shorter and lighter, providing the wool that is used in the production of the lighter garments that the Sahrani peoples wear.
 
 The Sahrani sheep are raised for the meat and the milk, and the milk of the Sahrani sheep is used in the production of the cheese that is a staple of the Sahrani diet. The cheese that is produced from the sheep milk in the Sahrani coastal settlements is a soft and salty cheese that is consumed fresh or preserved in the oil.
 
 ## The Goats of the Kharesh Margins
 
-The goats that are kept by the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the other peoples of the desert margins are the hardiest of the domesticated animals, capable of surviving in the conditions where the sheep and the cattle cannot live. The goats of the Kharesh are a small and agile breed that can climb the rocky slopes and feed on the sparse vegetation of the desert, and the goats provide the milk, the meat, and the hair that the desert peoples require.
+The goats that are kept by the [Kharesh Tribes](/content/government/national/kharesh-tribes) and the other peoples of the desert margins are the hardiest of the domesticated animals, capable of surviving in the conditions where the sheep and the cattle cannot live. The goats of the [Kharesh](/content/location/natural/feature/kharesh) are a small and agile breed that can climb the rocky slopes and feed on the sparse vegetation of the desert, and the goats provide the milk, the meat, and the hair that the desert peoples require.
 
 The milk of the Kharesh goat is rich and nutritious, and the milk is consumed fresh or fermented into the yoghurt that is a staple of the desert diet. The meat of the goat is the principal meat of the desert settlements, and the goat is slaughtered for the feasts and the special occasions.
 
@@ -42,7 +42,7 @@ The hair of the Kharesh goat is used in the production of the cloth and the tent
 
 The mountain goats of the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) are a domesticated breed that has been developed from the wild goats of the region, and the mountain goats are kept by the dwarven and the human communities of the uplands for the milk and the wool and the meat that the animals provide.
 
-The mountain goats are adapted to the steep and rocky terrain of the uplands, and the goats are pastured on the slopes where the sheep cannot graze. The wool of the mountain goat is the cashmere that is the finest and the most valuable of the animal fibres, and the cashmere that is produced in the Morvind Uplands is exported to the markets of Aethelar and Sahrana.
+The mountain goats are adapted to the steep and rocky terrain of the uplands, and the goats are pastured on the slopes where the sheep cannot graze. The wool of the mountain goat is the cashmere that is the finest and the most valuable of the animal fibres, and the cashmere that is produced in the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands) is exported to the markets of Aethelar and [Sahrana](/content/location/natural/continent/sahrana).
 
 ## The Husbandry of the Sheep and the Goats
 

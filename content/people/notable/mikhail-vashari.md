@@ -6,11 +6,11 @@ description: "The presiding representative of the Vashari Pact, the alliance of 
 
 ## The Leader of the Pact
 
-Mikhail Vashari is the current presiding representative of the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh). He is one of the most influential figures in the political and commercial life of the inland [Sahrani](/content/language/spoken/sahrani) region, and his leadership of the pact in the present age has been marked by the careful management of the relationship between the member cities and the [Kharesh Tribes](/content/government/national/kharesh-tribes).
+Mikhail [Vashari](/content/location/settlement/city/vashari) is the current presiding representative of the [Vashari Pact](/content/government/national/vashari-pact), the alliance of the inland caravan cities at the edge of the [Kharesh](/content/location/natural/feature/kharesh). He is one of the most influential figures in the political and commercial life of the inland [Sahrani](/content/language/spoken/sahrani) region, and his leadership of the pact in the present age has been marked by the careful management of the relationship between the member cities and the [Kharesh Tribes](/content/government/national/kharesh-tribes).
 
 Mikhail was born in the city of [Vashari](/content/location/settlement/city/vashari), the largest and most influential member of the pact, into a family of caravan masters who had plied the desert routes for several generations. The family was among the wealthiest in the city, and its influence extended through the network of relationships that the caravan trade required.
 
-The education that Mikhail received was the practical training of a caravan master, supplemented by the formal instruction in the governance of the pact that the sons of the leading families of the city received. He learned to manage the caravans that crossed the Kharesh, to negotiate with the merchants of the coastal cities and the tribes of the desert, and to navigate the political complexities of the pact.
+The education that Mikhail received was the practical training of a caravan master, supplemented by the formal instruction in the governance of the pact that the sons of the leading families of the city received. He learned to manage the caravans that crossed the [Kharesh](/content/location/natural/feature/kharesh), to negotiate with the merchants of the coastal cities and the tribes of the desert, and to navigate the political complexities of the pact.
 
 ## The Path to Leadership
 
@@ -22,15 +22,15 @@ The style of leadership that Mikhail has adopted is one of consultation and cons
 
 ## The Management of the Caravan Trade
 
-The caravan trade is the foundation of the Vashari Pact's economy, and the management of the trade is the central concern of the council. Mikhail, drawing on his experience as a caravan master and his knowledge of the desert routes, has been instrumental in the development of the policies that govern the trade.
+The caravan trade is the foundation of the [Vashari Pact](/content/government/national/vashari-pact)'s economy, and the management of the trade is the central concern of the council. Mikhail, drawing on his experience as a caravan master and his knowledge of the desert routes, has been instrumental in the development of the policies that govern the trade.
 
-The policies that Mikhail has promoted include the improvement of the infrastructure of the caravan routes, including the maintenance of the wells and the way stations that support the caravans. The policies also include the strengthening of the Pact Guard, the security force that protects the caravans from raiders. The improvements that have been made during Mikhail's tenure have increased the safety and the efficiency of the trade, and the volume of goods passing through the pact's territory has grown.
+The policies that Mikhail has promoted include the improvement of the infrastructure of the caravan routes, including the maintenance of the wells and the way stations that support the caravans. The policies also include the strengthening of the [Pact Guard](/content/government/local/pact-guard), the security force that protects the caravans from raiders. The improvements that have been made during Mikhail's tenure have increased the safety and the efficiency of the trade, and the volume of goods passing through the pact's territory has grown.
 
 The regulation of the caravan trade is another of Mikhail's concerns. The council establishes the rules that govern the conduct of the caravans, including the requirements for the licensing of caravan masters, the standards for the maintenance of the animals, and the procedures for the resolution of disputes. Mikhail has worked to ensure that the regulations are fair and that they are enforced consistently.
 
 ## The Relationship with the Kharesh Tribes
 
-The relationship between the Vashari Pact and the Kharesh Tribes is one of the defining features of the politics of the inland region. The tribes are the nomadic people of the desert, and their knowledge of the Kharesh is essential for the caravan trade. The relationship between the pact and the tribes is one of mutual dependence, but it is also a source of tension, for the interests of the two peoples do not always align.
+The relationship between the Vashari Pact and the [Kharesh Tribes](/content/government/national/kharesh-tribes) is one of the defining features of the politics of the inland region. The tribes are the nomadic people of the desert, and their knowledge of the Kharesh is essential for the caravan trade. The relationship between the pact and the tribes is one of mutual dependence, but it is also a source of tension, for the interests of the two peoples do not always align.
 
 Mikhail has devoted much of his attention to the management of the relationship with the tribes. He has established regular meetings with the elders of the principal tribes, and he has worked to build the trust that the relationship requires. The agreements that have been reached during his tenure have addressed the allocation of water sources, the rights of passage across tribal territories, and the terms of the trade between the pact and the tribes.
 

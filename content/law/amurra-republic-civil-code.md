@@ -6,9 +6,9 @@ description: "The most systematic legal document in Sahrana, governing persons a
 
 ## The Systematic Law of the Spice Trade
 
-The Amurra Republic Civil Code is the body of written law that governs the civil affairs of the [Amurra Republic](/content/government/national/amurra-republic), including contracts, property, inheritance, commercial practice, and the administration of justice. The code is the most systematic legal document in [Sahrana](/content/location/natural/continent/sahrana), and its provisions are the foundation of the legal order of the republic and a model for the other city-states of the [Northern Coast League](/content/government/national/northern-coast-league).
+The [Amurra Republic](/content/government/national/amurra-republic) Civil Code is the body of written law that governs the civil affairs of the [Amurra Republic](/content/government/national/amurra-republic), including contracts, property, inheritance, commercial practice, and the administration of justice. The code is the most systematic legal document in [Sahrana](/content/location/natural/continent/sahrana), and its provisions are the foundation of the legal order of the republic and a model for the other city-states of the [Northern Coast League](/content/government/national/northern-coast-league).
 
-The code was developed over centuries of the republic's existence, drawing upon the commercial customs of the spice trade, the legal traditions of the Sahrani coastal cities, and the influence of the [Aldreth Commercial Code](/content/law/aldreth-commercial-code). The code is maintained by the council of the republic, and additions to the code require the assent of the council. The code is divided into books, each dealing with a distinct area of civil law, and the books are further divided into chapters and sections that organise the provisions by topic.
+The code was developed over centuries of the republic's existence, drawing upon the commercial customs of the spice trade, the [legal traditions](/content/law/legal-traditions-overview) of the [Sahrani](/content/language/spoken/sahrani) coastal cities, and the influence of the [Aldreth Commercial Code](/content/law/aldreth-commercial-code). The code is maintained by the council of the republic, and additions to the code require the assent of the council. The code is divided into books, each dealing with a distinct area of civil law, and the books are further divided into chapters and sections that organise the provisions by topic.
 
 ## Book One: Persons and Family
 
@@ -32,7 +32,7 @@ The code also governs the expropriation of property by the council for public pu
 
 ## Book Three: Contracts and Obligations
 
-The third book of the code governs the formation, performance, and enforcement of contracts. The code follows the principles of the Aldreth Commercial Code, with modifications that reflect the conditions of the Sahrani coast and the needs of the spice trade.
+The third book of the code governs the formation, performance, and enforcement of contracts. The code follows the principles of the [Aldreth Commercial Code](/content/law/aldreth-commercial-code), with modifications that reflect the conditions of the Sahrani coast and the needs of the spice trade.
 
 The code defines a contract as an agreement between competent parties that creates an obligation enforceable by law. The essential elements of a valid contract are the offer, the acceptance, the consideration, and the intention to create legal relations. The code requires that certain contracts be in writing to be enforceable, including contracts for the sale of spices, contracts for the carriage of goods by caravan, and contracts for the loan of money.
 
@@ -52,7 +52,7 @@ The code also governs the administration of estates, including the appointment o
 
 The fifth book of the code governs the practice of commerce in the republic, including the regulation of markets, the inspection of goods, and the licensing of traders. The code establishes the principle that the spice trade is the foundation of the republic's prosperity, and that the regulation of the trade is a matter of public interest that requires the close attention of the council.
 
-The code governs the operation of the markets of the republic, including the hours of trading, the standards of weights and measures, and the fees that must be paid for the use of market stalls. The code also governs the inspection of spices and other goods that are sold in the markets, requiring that all goods be inspected by the council's inspectors before they are offered for sale.
+The code governs the operation of the markets of the republic, including the hours of trading, the standards of [weights and measures](/content/economy/weights-and-measures), and the fees that must be paid for the use of market stalls. The code also governs the inspection of spices and other goods that are sold in the markets, requiring that all goods be inspected by the council's inspectors before they are offered for sale.
 
 The code governs the licensing of traders, requiring that any person who wishes to engage in commerce in the republic obtain a licence from the council. The licence is granted upon payment of a fee and upon proof that the applicant is of good character and has the necessary knowledge and experience to engage in the trade.
 
@@ -70,7 +70,7 @@ The code also governs the enforcement of judgments, providing for the seizure an
 
 ## The Significance of the Code
 
-The Amurra Republic Civil Code is the most systematic legal document in Sahrana, and its influence extends beyond the borders of the republic. The code has been adopted or adapted by other member cities of the Northern Coast League, and its provisions have influenced the development of civil law in the other Sahrani city-states.
+The [Amurra](/content/location/settlement/city/amurra) Republic Civil Code is the most systematic legal document in [Sahrana](/content/location/natural/continent/sahrana), and its influence extends beyond the borders of the republic. The code has been adopted or adapted by other member cities of the [Northern Coast League](/content/government/national/northern-coast-league), and its provisions have influenced the development of civil law in the other Sahrani city-states.
 
 The code is also a symbol of the commercial character of the Amurra Republic. The code reflects the values of the merchant community that governs the republic, emphasising the importance of commerce, the protection of property rights, and the efficient resolution of disputes. The code is a testament to the capacity of the republic to develop a legal system that serves the needs of the spice trade while maintaining the principles of justice and fairness that are the foundation of the rule of law.
 

@@ -16,11 +16,11 @@ The headland is formed of dark rock that continues beneath the channel as a shal
 
 The lighthouse tower is a thick cylinder of pale stone with a gallery near the top. The lamp uses polished metal mirrors and a steady oil flame, with shutters creating the pattern recognised by the pilot guilds. During clear weather the light can be seen from the upper reaches of the strait, but fog reduces its value and makes the bell equally important. The bell sounds at measured intervals when visibility is poor.
 
-The lantern is maintained under league and compact authority. The [Thessaran League](/content/government/national/thessaran-league) supplies some of the oil and metal fittings, while the Velden Compact pays the keepers and oversees the signal code. Contributions are collected from vessels using the strait and from the towns that benefit from safe passage.
+The lantern is maintained under league and compact authority. The [Thessaran League](/content/government/national/thessaran-league) supplies some of the oil and metal fittings, while the [Velden Compact](/content/government/local/velden-compact) pays the keepers and oversees the signal code. Contributions are collected from vessels using the strait and from the towns that benefit from safe passage.
 
 ## The Close-Built Houses and the Emergency Stores
 
-The houses of Velden Light are built close together on the sheltered side of the tower. Thick walls and low roofs reduce the force of the wind, while narrow windows face inland and toward the harbour lights rather than the open sea. The central yard contains a well, a smithy, a covered workbench, and a storehouse for rope, sailcloth, dry timber, and emergency water casks. Ships' crews can purchase basic provisions when weather delays their passage.
+The houses of [Velden](/content/location/settlement/city/velden) Light are built close together on the sheltered side of the tower. Thick walls and low roofs reduce the force of the wind, while narrow windows face inland and toward the harbour lights rather than the open sea. The central yard contains a well, a smithy, a covered workbench, and a storehouse for rope, sailcloth, dry timber, and emergency water casks. Ships' crews can purchase basic provisions when weather delays their passage.
 
 A narrow stair descends from the yard to a landing where two boats are kept above the ordinary tide. The boats are used to carry pilots, inspect the reef markers, and assist vessels that lose a mast or drag an anchor near the headland. The storehouse also holds a reserve of dry clothing and blankets for stranded sailors.
 
@@ -30,7 +30,7 @@ The keepers divide the night into watches, with one person always responsible fo
 
 The pilot clerk maintains the station's main record, entering each passing vessel by name, flag, cargo class, and direction, together with the tide and weather at the time of sighting. The record helps the pilot guilds understand traffic patterns and assists harbour authorities when a ship fails to arrive. It also gives merchants evidence when cargo is lost or delayed, making Velden Light more than a lamp on a rock.
 
-The community receives many visitors but has little room for them. Pilots waiting for a tide sleep in the signal house, while sailors rescued from a damaged vessel occupy the common room. The inhabitants are accustomed to short conversations, foreign accents, and sudden departures. They maintain friendships with families in Caerhaven and Southport, and marriages between the light keepers and the pilot households of those towns are common. The settlement remains small because most young people leave for the larger harbours, but many return after years at sea, bringing new knowledge of lamps, charts, and rescue methods.
+The community receives many visitors but has little room for them. Pilots waiting for a tide sleep in the signal house, while sailors rescued from a damaged vessel occupy the common room. The inhabitants are accustomed to short conversations, foreign accents, and sudden departures. They maintain friendships with families in [Caerhaven](/content/location/settlement/town/caerhaven) and [Southport](/content/location/settlement/town/southport), and marriages between the light keepers and the pilot households of those towns are common. The settlement remains small because most young people leave for the larger harbours, but many return after years at sea, bringing new knowledge of lamps, charts, and rescue methods.
 
 ## The Current, the Reef, and the Compact Patrols
 

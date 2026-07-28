@@ -8,13 +8,13 @@ description: "The low-lying southern shore of Aethelar, where estuaries, lagoons
 
 The Sunken Coast is a low-lying coastal region of [Aethelar](/content/location/natural/continent/aethelar) that lies along the southern shore of the continent, where the land meets the [Auric Ocean](/content/location/natural/feature/auric-ocean). The region takes its name from its elevation, which is so low that the land appears to have sunk beneath the level of the sea, and the coast is characterised by extensive wetlands, lagoons, and tidal flats that are flooded by the highest tides and the storm surges that sweep in from the ocean. The Sunken Coast is a region of challenging conditions, but it is also a region of abundant resources, and the communities that have established themselves along the coast have developed a distinctive way of life adapted to the water and the marsh.
 
-The Sunken Coast extends for many miles along the southern shore, from the mouth of the Greywash River in the west to the approaches of the [Storm Cape](/content/location/natural/feature/cape-of-storms) in the east. The coast is a landscape of broad estuaries, salt marshes, and sandy barrier islands, with the open sea separated from the land by a series of lagoons and channels that are navigable by small boats.
+The Sunken Coast extends for many miles along the southern shore, from the mouth of the [Greywash River](/content/location/natural/feature/greywash-river) in the west to the approaches of the [Storm Cape](/content/location/natural/feature/cape-of-storms) in the east. The coast is a landscape of broad estuaries, [salt](/content/economy/salt) marshes, and sandy barrier islands, with the open sea separated from the land by a series of lagoons and channels that are navigable by small boats.
 
 ## The Subsidence and the Rising Waters
 
 The low elevation of the Sunken Coast is the result of natural processes that have caused the land to sink relative to the sea over a long period. The subsidence of the coast has been gradual, but the effects are visible in the landscape: the drowned valleys that form the estuaries, the salt marshes that have replaced the former farmlands, and the villages that have been abandoned as the water has advanced.
 
-The rising waters of the Auric Ocean have added to the effects of the subsidence, and the coast is now more vulnerable to flooding than it was in earlier centuries. The highest tides and the storm surges that accompany the great storms of the autumn and winter can inundate large areas of the coast, and the communities of the region have developed techniques for living with the water, including the construction of embankments and the raising of houses on stilts.
+The rising waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean) have added to the effects of the subsidence, and the coast is now more vulnerable to flooding than it was in earlier centuries. The highest tides and the storm surges that accompany the great storms of the autumn and winter can inundate large areas of the coast, and the communities of the region have developed techniques for living with the water, including the construction of embankments and the raising of houses on stilts.
 
 ## The Estuaries and the Lagoons
 
@@ -24,7 +24,7 @@ The lagoons of the Sunken Coast are the bodies of water that lie between the bar
 
 ## The Communities of the Coast
 
-The communities of the Sunken Coast are small settlements built on the higher ground that rises above the level of the marsh. The settlements are connected by the channels of the estuaries and the lagoons, and the boats that are the principal means of transport are the foundation of the life of the region. The largest settlement of the coast is the town of Salt Meadows, which serves as a centre of trade and administration for the region.
+The communities of the Sunken Coast are small settlements built on the higher ground that rises above the level of the marsh. The settlements are connected by the channels of the estuaries and the lagoons, and the boats that are the principal means of transport are the foundation of the life of the region. The largest settlement of the coast is the town of [Salt Meadows](/content/location/settlement/town/salt-meadows), which serves as a centre of trade and administration for the region.
 
 The other settlements of the coast are fishing villages and farming hamlets, each built on a patch of higher ground that is protected from the highest floods by embankments and drainage works. The villages are small, and the population of the region is sparse, but the communities are self-sufficient and resilient, adapted to the conditions of the coast.
 
@@ -54,4 +54,4 @@ The festivals and celebrations of the Sunken Coast are centred on the sea and th
 
 ## The Sunken Coast and the Southern Shore
 
-The Sunken Coast is a region of the southern shore of Aethelar that has been shaped by the water and the subsidence of the land. The estuaries, lagoons, and salt marshes of the coast provide the resources that sustain the communities of the region, and the fisheries and the salt pans are the foundation of the economy. The people of the Sunken Coast have adapted to the challenging conditions of the low-lying shore, and the distinctive culture and way of life they have developed are a testament to the resilience and resourcefulness of the inhabitants of the southern coast.
+The Sunken Coast is a region of the southern shore of [Aethelar](/content/location/natural/continent/aethelar) that has been shaped by the water and the subsidence of the land. The estuaries, lagoons, and salt marshes of the coast provide the resources that sustain the communities of the region, and the fisheries and the salt pans are the foundation of the economy. The people of the Sunken Coast have adapted to the challenging conditions of the low-lying shore, and the distinctive culture and way of life they have developed are a testament to the resilience and resourcefulness of the inhabitants of the southern coast.

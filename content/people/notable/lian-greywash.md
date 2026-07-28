@@ -14,7 +14,7 @@ The education that Lian received was the practical training of a river pilot. He
 
 ## The River and Its Challenges
 
-The Greywash is the largest river of the Morvind coast, and its course presents challenges that the pilots of the river must master. The upper reaches of the river are swift and narrow, flowing through the gorges that the water has cut through the rock of the mountains. The middle reaches are broader but are marked by shallows and sandbars that shift with the seasons. The lower reaches are wide and slow, but the estuary is complicated by the tides and the currents of the sea.
+The Greywash is the largest river of the [Morvind](/content/location/natural/continent/morvind) coast, and its course presents challenges that the pilots of the river must master. The upper reaches of the river are swift and narrow, flowing through the gorges that the water has cut through the rock of the mountains. The middle reaches are broader but are marked by shallows and sandbars that shift with the seasons. The lower reaches are wide and slow, but the estuary is complicated by the tides and the currents of the sea.
 
 The navigation of the river requires knowledge of the conditions at every season of the year. The spring floods bring high water and strong currents, the summer brings low water and the exposure of the sandbars, and the autumn and winter bring the storms that can make the estuary treacherous. The pilot must know the river in all its moods, and the knowledge that Lian has accumulated through decades of experience allows him to navigate the river under any conditions.
 

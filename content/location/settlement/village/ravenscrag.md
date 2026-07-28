@@ -6,7 +6,7 @@ description: "A mountain settlement in the far interior of Morvind, Ravenscrag i
 
 ## A Mountain Settlement in the Far Interior of Morvind
 
-Ravenscrag is a mountain settlement in the far interior of [Morvind](/content/location/natural/continent/morvind), situated in a remote valley of the interior ranges where the mountains are at their most rugged and the approaches are the most difficult. The settlement is the most remote permanent community in Morvind, and its people are among the most hardy and self-reliant in the known world. Ravenscrag is a small, isolated settlement whose primary function is the mining of mineral deposits found in the surrounding peaks and the maintenance of the highland routes connecting the far interior to the rest of the continent.
+Ravenscrag is a mountain settlement in the far interior of [Morvind](/content/location/natural/continent/morvind), situated in a remote valley of the interior ranges where the mountains are at their most rugged and the approaches are the most difficult. The settlement is the most remote permanent community in [Morvind](/content/location/natural/continent/morvind), and its people are among the most hardy and self-reliant in the known world. Ravenscrag is a small, isolated settlement whose primary function is the mining of mineral deposits found in the surrounding peaks and the maintenance of the highland routes connecting the far interior to the rest of the continent.
 
 ## The Deep Gorge and the Small Forges
 
@@ -40,7 +40,7 @@ Trade between the dwarves and the corvids is conducted at the highland passes co
 
 ## Songs, Stories, and the Midwinter Feast
 
-The culture of Ravenscrag is shaped by the isolation and severity of the environment. The community is noted for its self-reliance and attachment to traditions that have sustained the settlement through the centuries. The songs and stories of Ravenscrag are the songs and stories of the mountain and the mine; the tradition of storytelling is a valued part of cultural life, for the long winter evenings are spent sharing old tales and singing old songs. The stories tell of the founding of the settlement, the carving of the first chambers, and the opening of the first mines; the heroes of the stories are the dwarves who built the settlement in the most demanding environment in the known world.
+The culture of Ravenscrag is shaped by the isolation and severity of the environment. The community is noted for its self-reliance and attachment to traditions that have sustained the settlement through the centuries. The songs and stories of Ravenscrag are the songs and stories of the mountain and the mine; the tradition of storytelling is a valued part of cultural life, for [the long winter](/content/history/the-long-winter) evenings are spent sharing old tales and singing old songs. The stories tell of the founding of the settlement, the carving of the first chambers, and the opening of the first mines; the heroes of the stories are the dwarves who built the settlement in the most demanding environment in the known world.
 
 The festivals are modest affairs, but the annual feast of the midwinter is a cherished tradition marking the turning of the year and the beginning of the long retreat toward spring. The feast is held in the great chamber of the settlement; the entire community gathers for the occasion, for the midwinter is the darkest and coldest time of the year, and the feast is a celebration of the endurance and solidarity that sustain the community through the months of isolation.
 

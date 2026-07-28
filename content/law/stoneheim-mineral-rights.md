@@ -6,7 +6,7 @@ description: "The ancient dwarven code governing the ownership of mineral wealth
 
 ## The Law of the Deep Veins
 
-The Stoneheim Mineral Rights code is the body of law that governs the extraction of mineral wealth in the [Stoneheim Holds](/content/government/national/stoneheim-holds), establishing the rights of the crown, the holds, and individual miners to the ores, precious metals, and rare minerals that are the foundation of the dwarven economy. The code is the oldest and most comprehensive body of mining law in the known world, and its provisions have been developed over centuries of experience in the extraction of mineral wealth from the depths of the [Morvind](/content/location/natural/continent/morvind) mountains.
+The [Stoneheim](/content/location/settlement/city/stoneheim) Mineral Rights code is the body of law that governs the extraction of mineral wealth in the [Stoneheim Holds](/content/government/national/stoneheim-holds), establishing the rights of the crown, the holds, and individual miners to the ores, precious metals, and rare minerals that are the foundation of the dwarven economy. The code is the oldest and most comprehensive body of mining law in the known world, and its provisions have been developed over centuries of experience in the extraction of mineral wealth from the depths of the [Morvind](/content/location/natural/continent/morvind) mountains.
 
 The code is inscribed on metal plates that are kept in the great hall of [Stoneheim](/content/location/settlement/city/stoneheim), the capital of the holds, and the plates are the authoritative record of the law. Additions to the code require the assent of the king of Stoneheim, and the king's decree is inscribed on a new plate that is added to the collection. The code is divided into chapters dealing with distinct areas of mining law, and each chapter is further divided into sections that organise the provisions by topic.
 
@@ -62,7 +62,7 @@ The code also provides for the arbitration of disputes between the holds, which 
 
 ## The Historical Development of the Code
 
-The Stoneheim Mineral Rights code developed over centuries of experience in the extraction of mineral wealth from the Morvind mountains. The earliest provisions of the code were established by the first kings of Stoneheim, who recognised that the extraction of minerals required a legal framework that balanced the interests of the crown, the holds, and the individual miners.
+The Stoneheim Mineral Rights code developed over centuries of experience in the extraction of mineral wealth from the [Morvind](/content/location/natural/continent/morvind) mountains. The earliest provisions of the code were established by the first kings of Stoneheim, who recognised that the extraction of minerals required a legal framework that balanced the interests of the crown, the holds, and the individual miners.
 
 The code has been expanded and revised by successive kings as new mining techniques have been developed, new minerals have been discovered, and new challenges have arisen. The code now contains provisions governing the extraction of more than fifty different minerals, the use of advanced mining techniques, and the environmental impact of mining operations.
 

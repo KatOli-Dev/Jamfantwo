@@ -6,7 +6,7 @@ description: "The customary and written law governing desert caravans across Sah
 
 ## The Law of the Desert Routes
 
-The Sahrani Caravan Law is the body of customary and written law that governs the operation of caravans across the deserts of [Sahrana](/content/location/natural/continent/sahrana), the rights and obligations of caravan masters, guides, merchants, and drovers, and the regulation of the trade routes that connect the coast to the interior. The caravan law is one of the most important legal institutions of the Sahrani continent, for the caravans that cross the deserts are the lifeline of the interior cities and the foundation of the intercontinental trade in spices, dyes, and other valuable goods.
+The [Sahrani](/content/language/spoken/sahrani) Caravan Law is the body of customary and written law that governs the operation of caravans across the deserts of [Sahrana](/content/location/natural/continent/sahrana), the rights and obligations of caravan masters, guides, merchants, and drovers, and the regulation of the trade routes that connect the coast to the interior. The caravan law is one of the most important legal institutions of the Sahrani continent, for the caravans that cross the deserts are the lifeline of the interior cities and the foundation of the intercontinental trade in spices, dyes, and other valuable goods.
 
 The caravan law is not a single code but a collection of customs, agreements, and regulations that have developed over centuries of desert travel. The law draws upon the customary law of the [Kharesh Tribes](/content/government/national/kharesh-tribes), the commercial codes of the coastal city-states, and the agreements between the tribes and the trading cities that have been negotiated over generations.
 
@@ -20,9 +20,9 @@ The drovers who accompany the caravan are employed by the caravan master under c
 
 ## The Role of the Guides
 
-The guides who lead the caravan across the desert are the most important participants in the caravan, for their knowledge of the routes, water sources, and weather patterns is essential to the success of the journey. The guides are typically members of the Kharesh Tribes, who have inherited the knowledge of the desert from generations of ancestors who have crossed the sands.
+The guides who lead the caravan across the desert are the most important participants in the caravan, for their knowledge of the routes, water sources, and weather patterns is essential to the success of the journey. The guides are typically members of the [Kharesh Tribes](/content/government/national/kharesh-tribes), who have inherited the knowledge of the desert from generations of ancestors who have crossed the sands.
 
-The contract between the caravan master and the guide is governed by the customary law of the Kharesh Tribes, which requires that the guide be treated with respect and that the guide's authority over the navigation of the caravan be recognised. The guide has the right to determine the route, the schedule, and the location of camps, and the guide's decisions may not be overridden by the caravan master or the merchants.
+The contract between the caravan master and the guide is governed by the customary law of the [Kharesh](/content/location/natural/feature/kharesh) Tribes, which requires that the guide be treated with respect and that the guide's authority over the navigation of the caravan be recognised. The guide has the right to determine the route, the schedule, and the location of camps, and the guide's decisions may not be overridden by the caravan master or the merchants.
 
 The guide is entitled to a fee that is determined by the length and difficulty of the journey, the value of the goods being carried, and the reputation of the guide. The fee is paid by the caravan master, who collects a share of the fees paid by the merchants to cover the cost of the guide and other expenses.
 
@@ -56,13 +56,13 @@ The routes are marked by cairns and other landmarks that guide the caravans acro
 
 Disputes arising from the operation of caravans are resolved by the elders of the Kharesh Tribes and by the courts of the coastal cities. Disputes that arise during the journey across the desert are typically resolved by the elders of the kindred whose territory the caravan is crossing, applying the customary law of the desert and the principles of the code of hospitality.
 
-Disputes that arise from the contracts between the merchants and the caravan master are resolved by the commercial courts of the coastal cities, applying the commercial codes of the cities and the principles of the Aldreth Commercial Code. The decisions of the commercial courts are enforced by the authority of the cities and the league.
+Disputes that arise from the contracts between the merchants and the caravan master are resolved by the commercial courts of the coastal cities, applying the commercial codes of the cities and the principles of the [Aldreth Commercial Code](/content/law/aldreth-commercial-code). The decisions of the commercial courts are enforced by the authority of the cities and the league.
 
 Disputes between the tribes and the trading cities over the regulation of the caravan routes are resolved by negotiation between the elders of the tribes and the representatives of the cities. The agreements that result from these negotiations are recorded in writing and are binding on both parties.
 
 ## The Caravan Law and the Intercontinental Trade
 
-The Sahrani Caravan Law is essential to the intercontinental trade that connects Sahrana to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind). The spices, dyes, and other goods that are carried by the caravans from the interior to the coast are the foundation of the trade that flows through the harbours of the Northern Coast League, and the caravan law provides the legal framework within which this trade is conducted.
+The Sahrani Caravan Law is essential to the intercontinental trade that connects [Sahrana](/content/location/natural/continent/sahrana) to the markets of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind). The spices, dyes, and other goods that are carried by the caravans from the interior to the coast are the foundation of the trade that flows through the harbours of the [Northern Coast League](/content/government/national/northern-coast-league), and the caravan law provides the legal framework within which this trade is conducted.
 
 The caravan law ensures that the caravans can cross the desert safely, that the goods are carried reliably, and that the rights of the participants are protected. The law also ensures that the Kharesh Tribes are compensated for their role in guiding and protecting the caravans, and that the relationship between the tribes and the trading cities remains stable and mutually beneficial.
 

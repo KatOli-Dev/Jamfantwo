@@ -42,9 +42,9 @@ The rite of the deep earth is conducted at the times of the great transitions in
 
 ## The Differences Among the Holds
 
-The practices of the ancestor reverence vary among the different dwarven holds, reflecting the different histories and the different conditions of the regions. The Stoneheim Holds, the oldest and the most extensive of the dwarven territories, maintain the most elaborate of the ancestral traditions. The halls of the memory in Stoneheim are the largest and the most complete, and the keepers of the memory in Stoneheim are the most respected of the dwarven scholars.
+The practices of the ancestor reverence vary among the different dwarven holds, reflecting the different histories and the different conditions of the regions. The [Stoneheim Holds](/content/government/national/stoneheim-holds), the oldest and the most extensive of the dwarven territories, maintain the most elaborate of the ancestral traditions. The halls of the memory in [Stoneheim](/content/location/settlement/city/stoneheim) are the largest and the most complete, and the keepers of the memory in Stoneheim are the most respected of the dwarven scholars.
 
-The Karhold Realm, which borders the Stoneheim Holds to the south, has developed the traditions that reflect the closer contact with the human peoples of the region. The Karhold dwarves have adopted some of the human practices, and the halls of the memory in Karhold are less extensive than the halls of Stoneheim. The dwarves of the more isolated holds maintain the older traditions without the variation, and the elders of the isolated holds regard the Stoneheim practices as the standard against which the other holds are measured.
+The [Karhold Realm](/content/government/national/karhold-realm), which borders the Stoneheim Holds to the south, has developed the traditions that reflect the closer contact with the human peoples of the region. The [Karhold](/content/location/settlement/city/karhold) dwarves have adopted some of the human practices, and the halls of the memory in Karhold are less extensive than the halls of Stoneheim. The dwarves of the more isolated holds maintain the older traditions without the variation, and the elders of the isolated holds regard the Stoneheim practices as the standard against which the other holds are measured.
 
 ## The Ancestor Reverence and the Other Traditions
 

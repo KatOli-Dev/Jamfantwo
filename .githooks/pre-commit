@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+# Pre-commit hook: run content validator on staged content files.
+# Skips if no content files are staged.
+
+STAGED = `git diff --cached --name-only --diff-filter=ACMR`
+  .lines
+  .map(&:strip)
+  .select { |f| f.match?(/\A(content\/.*\.md|index\.md)\z/) }
+
+exit 0 if STAGED.empty?
+
+ROOT = `git rev-parse --show-toplevel`.strip
+validator = File.join(ROOT, 'scripts', 'validate_content.rb')
+
+unless File.exist?(validator)
+  $stderr.puts "pre-commit: validator not found at #{validator}, skipping"
+  exit 0
+end
+
+# Run the full validator (it's fast) rather than trying to replicate
+# its logic per-file.  This catches cross-file issues (orphans, etc.).
+exec(validator)

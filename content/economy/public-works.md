@@ -12,7 +12,7 @@ The public works are the most visible expression of the sovereign's authority an
 
 ## The Walls and the Fortifications
 
-The wall of the city is the most important of the public works, for the wall is the defence that protects the population from the attack of the enemy. The wall of Eldreth is the largest and the most complete of the fortifications of the known world, with the walls that rise to a height of thirty feet and the towers that project at intervals to defend the approach. The wall is built of the stone, with the foundations that are sunk deep into the ground to prevent the undermining by the sappers of the enemy.
+The wall of the city is the most important of the public works, for the wall is the defence that protects the population from the attack of the enemy. The wall of [Eldreth](/content/location/settlement/city/eldreth) is the largest and the most complete of the fortifications of the known world, with the walls that rise to a height of thirty feet and the towers that project at intervals to defend the approach. The wall is built of the stone, with the foundations that are sunk deep into the ground to prevent the undermining by the sappers of the enemy.
 
 The maintenance of the wall is a constant expense, for the stone weathers and the mortar crumbles and the repairs must be made at the regular intervals. The guild of the masons of Eldreth is the contractor for the maintenance of the walls, and the guild employs a team of the masons who work on the walls throughout the year.
 
@@ -24,15 +24,15 @@ The harbour is the facility that enables the maritime trade that is the foundati
 
 The maintenance of the harbour is the responsibility of the harbour guild, which collects the tariffs on the cargoes that pass through the quays and uses the revenue for the dredging of the channel and the repair of the quays and the breakwater. The harbour guild is among the most powerful of the institutions of Eldreth, and the master of the guild is a member of the council of the city.
 
-The harbours of the Sahrani coast are smaller but no less important to the trade of the region. The harbour of Khalisar is the principal port of the Northern Coast League, and the harbour has been expanded and improved many times over the centuries. The breakwater of Khalisar is a recent addition, built after the great storm of the century that destroyed the vessels that were anchored in the harbour.
+The harbours of the [Sahrani](/content/language/spoken/sahrani) coast are smaller but no less important to the trade of the region. The harbour of [Khalisar](/content/location/settlement/city/khalisar) is the principal port of the [Northern Coast League](/content/government/national/northern-coast-league), and the harbour has been expanded and improved many times over the centuries. The breakwater of Khalisar is a recent addition, built after the great storm of the century that destroyed the vessels that were anchored in the harbour.
 
 ## The Roads and the Bridges
 
-The roads and the bridges are the public works that connect the cities and the towns of the interior to the coast and to each other. The roads of the plains are the most extensive, and the Grassland Traderoad that crosses the plains from the foothills to the coast is the principal route for the transport of the grain and the wool and the leather that the plains produce.
+The roads and the bridges are the public works that connect the cities and the towns of the interior to the coast and to each other. The roads of the plains are the most extensive, and the [Grassland Traderoad](/content/location/route/trade/grassland-traderoad) that crosses the plains from the foothills to the coast is the principal route for the transport of the grain and the wool and the leather that the plains produce.
 
 The maintenance of the roads is the responsibility of the sovereign or the council through whose territory the road passes. The tolls that are collected at the gates of the cities are used for the repair of the road and the bridges, and the guild of the waggoners is the institution that monitors the condition of the road and reports the need for the repair to the authorities.
 
-The bridges are the most vulnerable parts of the road network, and the bridge that is washed away by the flood is a disaster for the trade of the region. The bridge of Goldmeadow is the largest bridge in the known world, spanning the river that divides the plains in the two parts. The bridge is built of the stone, with the arches that rise high above the water, and the bridge has stood for more than three centuries without the failure.
+The bridges are the most vulnerable parts of the road network, and the bridge that is washed away by the flood is a disaster for the trade of the region. The bridge of [Goldmeadow](/content/location/settlement/city/goldmeadow) is the largest bridge in the known world, spanning the river that divides the plains in the two parts. The bridge is built of the stone, with the arches that rise high above the water, and the bridge has stood for more than three centuries without the failure.
 
 ## The Aqueducts and the Fountains
 

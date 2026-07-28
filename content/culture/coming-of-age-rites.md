@@ -12,9 +12,9 @@ The age at which the coming of age rite is conducted varies with the physical de
 
 ## The Vaelic Rite of the Still Flame
 
-In the Vael river valley, the coming of age rite is conducted within the tradition of the [Still Flame](/content/religion/still-flame) and is one of the principal ceremonies of the religious year. The rite is conducted at the temple of the village, presided over by the priest, and is attended by the family of the child and the adult members of the parish.
+In the [Vael](/content/government/national/vael) river valley, the coming of age rite is conducted within the tradition of the [Still Flame](/content/religion/still-flame) and is one of the principal ceremonies of the religious year. The rite is conducted at the temple of the village, presided over by the priest, and is attended by the family of the child and the adult members of the parish.
 
-The rite begins with the child's formal profession of the faith of the Still Flame, a declaration spoken before the altar and witnessed by the assembled congregation. The child acknowledges the eternal flame as the source of all order and life and commits to the observance of the commandments of the faith. The profession is followed by the blessing of the priest, who anoints the child's forehead with oil from the eternal flame and speaks the words that mark the child's acceptance into the adult community of the faithful.
+The rite begins with the child's formal profession of the faith of the [Still Flame](/content/religion/still-flame), a declaration spoken before the altar and witnessed by the assembled congregation. The child acknowledges the eternal flame as the source of all order and life and commits to the observance of the commandments of the faith. The profession is followed by the blessing of the priest, who anoints the child's forehead with oil from the eternal flame and speaks the words that mark the child's acceptance into the adult community of the faithful.
 
 The rite concludes with the presentation of the child to the parish council, which formally recognises the child's attainment of adult status. The newly recognised adult is now entitled to participate in the councils of the parish, to enter into contracts, and to marry according to the custom of [Hands Joined](/content/culture/hands-joined). The rite is followed by a celebration in the child's household, attended by the family and the neighbours, who bring gifts and share in the feast that marks the occasion.
 
@@ -36,7 +36,7 @@ The completion of the tool is the moment of the child's recognition as an adult.
 
 ## The Sahrani Voyage of the Merchant Child
 
-The coming of age rite of the [Sahrani city-states](/content/culture/sahrani-city-life) is conducted in the context of the trade that is the foundation of the Sahrani civilisation. The rite is called the First Voyage, and it is the moment when the child of the merchant household is first permitted to accompany a trading expedition to a distant port.
+The coming of age rite of the [Sahrani city-states](/content/culture/sahrani-city-life) is conducted in the context of the trade that is the foundation of the [Sahrani](/content/language/spoken/sahrani) civilisation. The rite is called the First Voyage, and it is the moment when the child of the merchant household is first permitted to accompany a trading expedition to a distant port.
 
 The First Voyage begins with the preparation of the child by the elders of the merchant family, who instruct the child in the principles of the trade and the customs of the distant ports. The child is given a small amount of capital, provided by the family, which the child is expected to invest in the purchases that will be made at the destination. The child accompanies the merchant vessel on its journey, learning the skills of the sea and the conduct of the trade.
 

@@ -32,7 +32,7 @@ The musk oxen are not as numerous as the reindeer, and the hunting of the musk o
 
 ## The Mountain Sheep of the Valdmark
 
-The mountain sheep of the [Valdmark](/content/government/national/valdmark) and the uplands of the Morvind massif are the wild and the domesticated animals that provide the wool and the meat for the northern settlements. The mountain sheep are the ancestors of the domesticated breeds that are kept by the northern farmers, and the mountain sheep are the animals that are herded in the summer pastures of the uplands.
+The mountain sheep of the [Valdmark](/content/government/national/valdmark) and the uplands of the [Morvind](/content/location/natural/continent/morvind) massif are the wild and the domesticated animals that provide the wool and the meat for the northern settlements. The mountain sheep are the ancestors of the domesticated breeds that are kept by the northern farmers, and the mountain sheep are the animals that are herded in the summer pastures of the uplands.
 
 The wool of the mountain sheep is thick and warm, and the wool is the principal material for the garments that the northern peoples wear in the winter. The mountain sheep are also valued for the meat, and the mutton of the mountain sheep is the meat of the autumn and the winter.
 
@@ -44,7 +44,7 @@ The protection of the herds from the predators is the constant concern of the he
 
 ## The Trade in the Products of the Northern Herds
 
-The products of the northern herds are the meat, the hides, the wool, and the antlers that are traded in the markets of the northern settlements and the coastal cities. The trade in the reindeer hides is the significant part of the commerce of the north, and the hides that are exported to the markets of Aethelar are valued for the warmth and the durability.
+The products of the northern herds are the meat, the hides, the wool, and the antlers that are traded in the markets of the northern settlements and the coastal cities. The trade in the reindeer hides is the significant part of the commerce of the north, and the hides that are exported to the markets of [Aethelar](/content/location/natural/continent/aethelar) are valued for the warmth and the durability.
 
 The [guilds](/content/economy/guilds) of the furriers and the leatherworkers regulate the trade in the products of the northern herds, and the guilds maintain the standards of the quality of the hides and the wool that are sold in the markets. The trade in the antlers of the reindeer is also significant, for the antlers are used in the production of the tools and the ornaments that the northern craftsmen produce, and the antlers that are shed by the reindeer in the spring are gathered and sold to the merchants who deal in the bone and the horn.
 

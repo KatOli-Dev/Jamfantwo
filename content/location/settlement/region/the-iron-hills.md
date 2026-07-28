@@ -6,7 +6,7 @@ description: "The eastern foothills of the Crown Range, where seams of high-qual
 
 ## A Hilly Region Rich in Iron Ore
 
-The Iron Hills are a region of [Aethelar](/content/location/natural/continent/aethelar) situated in the eastern foothills of the [Crown Range](/content/location/natural/feature/crown-range), where the mountain spine gives way to the rolling lowlands of the interior. The hills take their name from the iron ore that is found in abundance in the rock beneath the soil, and the region has been a source of iron for the forges and smithies of Aethelar for centuries. The Iron Hills are among the most productive iron-mining regions of the continent, and the metal that is extracted from their mines is the foundation of the industries of the eastern districts.
+The Iron Hills are a region of [Aethelar](/content/location/natural/continent/aethelar) situated in the eastern foothills of the [Crown Range](/content/location/natural/feature/crown-range), where the mountain spine gives way to the rolling lowlands of the interior. The hills take their name from the iron ore that is found in abundance in the rock beneath the soil, and the region has been a source of iron for the forges and smithies of [Aethelar](/content/location/natural/continent/aethelar) for centuries. The Iron Hills are among the most productive iron-mining regions of the continent, and the metal that is extracted from their mines is the foundation of the industries of the eastern districts.
 
 The Iron Hills are not a single range but a series of low ridges and rounded hills that extend across a broad area of the eastern foothills. The hills are covered with grass and heath, with stands of oak and birch in the valleys, and the landscape is one of open, rolling country punctuated by the workings of the mines and the settlements of the miners.
 
@@ -18,9 +18,9 @@ The iron ore of the hills is found in several different formations, each with it
 
 ## The Mines and the Mining Settlements
 
-The mines of the Iron Hills are the most extensive in the eastern foothills of the Crown Range. The mines are driven into the hillsides, following the seams of ore as they descend into the rock. The mines are ventilated by shafts that connect the workings to the surface, and the tunnels are supported by timber and stone to prevent collapse. The miners of the Iron Hills are among the most skilled in Aethelar, and the techniques they have developed for the extraction of the ore are the foundation of the prosperity of the region.
+The mines of the Iron Hills are the most extensive in the eastern foothills of the [Crown Range](/content/location/natural/feature/crown-range). The mines are driven into the hillsides, following the seams of ore as they descend into the rock. The mines are ventilated by shafts that connect the workings to the surface, and the tunnels are supported by timber and stone to prevent collapse. The miners of the Iron Hills are among the most skilled in Aethelar, and the techniques they have developed for the extraction of the ore are the foundation of the prosperity of the region.
 
-The mining settlements of the Iron Hills are small towns and villages that have grown around the mines. The largest of the settlements is the town of Copper Gate, which serves as the administrative and commercial centre of the region. The other settlements are smaller, each associated with a particular mine or group of mines. The settlements are connected by roads and tracks that follow the valleys and ridges of the hills.
+The mining settlements of the Iron Hills are small towns and villages that have grown around the mines. The largest of the settlements is the town of [Copper Gate](/content/location/settlement/city/copper-gate), which serves as the administrative and commercial centre of the region. The other settlements are smaller, each associated with a particular mine or group of mines. The settlements are connected by roads and tracks that follow the valleys and ridges of the hills.
 
 ## The Smelters and the Forges
 

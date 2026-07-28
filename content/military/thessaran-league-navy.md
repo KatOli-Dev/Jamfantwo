@@ -16,7 +16,7 @@ single capital; its fleet is administered from the city that holds the rotating
 presidency of the League Council, and the fleet's main anchorage shifts as the
 presidency changes.
 
-The Thessaran League Navy operates primarily in the [Greater Inland
+The [Thessaran League](/content/government/national/thessaran-league) Navy operates primarily in the [Greater Inland
 Sea](/content/location/natural/feature/greater-inland-sea), where the calm
 waters and numerous islands create ideal conditions for galley warfare. The
 fleet's ships are designed for speed and manoeuvrability rather than for
@@ -48,7 +48,7 @@ light catapults.
 The League Navy is organised into squadrons of ten to fifteen ships, each
 squadron commanded by a Nauarch appointed by the League Council. The squadrons
 are assigned to patrol zones that cover the approaches to the member cities and
-the trade routes that cross the Greater Inland Sea. A reserve squadron is
+the trade routes that cross the [Greater Inland Sea](/content/location/natural/feature/greater-inland-sea). A reserve squadron is
 maintained at the main anchorage, ready to respond to any threat that exceeds
 the capacity of the patrol squadrons.
 

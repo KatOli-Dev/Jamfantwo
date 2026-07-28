@@ -20,7 +20,7 @@ Guest right is established by the exchange of traditional gifts that symbolise t
 
 ## Hospitality in the Vael Valley
 
-In the Vael river valley, the duty of hospitality is a sacred obligation imposed by the teachings of the [Still Flame](/content/religion/still-flame). The faithful are taught that the stranger who comes to the door may be a manifestation of the eternal flame, sent to test the generosity of the household. The household must therefore welcome the stranger as the household would welcome the flame itself.
+In the [Vael](/content/government/national/vael) river valley, the duty of hospitality is a sacred obligation imposed by the teachings of the [Still Flame](/content/religion/still-flame). The faithful are taught that the stranger who comes to the door may be a manifestation of the eternal flame, sent to test the generosity of the household. The household must therefore welcome the stranger as the household would welcome the flame itself.
 
 Guest right is enforced by the [Vael Parish Councils](/content/government/local/vael-parish-councils), which have the authority to impose penalties for its violation. The host who violates guest right by failing to provide required hospitality or by causing harm to the guest is subject to penalties including compensation, exclusion from the community, and in the most serious cases, exile from the valley. The guest who abuses the host's hospitality is subject to the same penalties.
 
@@ -52,7 +52,7 @@ Guest right is enforced by the elders of the tribe and by the customary law of t
 
 ## Hospitality of the Sahrani Coast
 
-Guest right among the [Sahrani city-states](/content/culture/sahrani-city-life) is governed by the laws of the salt, the traditional symbol of the commercial bond that connects the merchants of the coast. It is established by the offering of coffee and dates, the traditional refreshment of Sahrani hospitality.
+Guest right among the [Sahrani city-states](/content/culture/sahrani-city-life) is governed by the laws of the salt, the traditional symbol of the commercial bond that connects the merchants of the coast. It is established by the offering of coffee and dates, the traditional refreshment of [Sahrani](/content/language/spoken/sahrani) hospitality.
 
 The traveller who comes to a Sahrani household is welcomed into the courtyard and offered the traditional refreshment. The customs are governed by the rules of the salt, the symbol of the bond between host and guest. The guest who has shared the host's salt is bound by the obligation of gratitude, and the host who has offered the salt is bound by the obligation of protection. The bond of salt is a sacred bond recognised by the customary law of the coast.
 
