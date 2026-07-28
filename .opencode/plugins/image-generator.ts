@@ -10,12 +10,19 @@ const plugin: Plugin = async ({ directory }) => {
 
   let defaultModel: string | undefined;
 
+  let validateApiKey = "";
+  let validateBaseURL = "https://api.openai.com/v1";
+  let validateModel = "google/gemma-4-26b-a4b-it";
+
   try {
     const raw = await readFile(secretsPath, "utf-8");
     const secrets = JSON.parse(raw);
     apiKey = secrets.image?.apiKey ?? secrets.OPENAI_API_KEY ?? "";
     baseURL = secrets.image?.baseURL ?? secrets.OPENAI_BASE_URL ?? "https://api.openai.com/v1";
     defaultModel = secrets.image?.model;
+    validateApiKey = secrets.validator?.apiKey ?? secrets.validate?.apiKey ?? secrets.image?.apiKey ?? secrets.OPENAI_API_KEY ?? "";
+    validateBaseURL = secrets.validator?.baseURL ?? secrets.validate?.baseURL ?? secrets.image?.baseURL ?? secrets.OPENAI_BASE_URL ?? "https://api.openai.com/v1";
+    validateModel = secrets.validator?.model ?? secrets.validate?.model ?? "google/gemma-4-26b-a4b-it";
   } catch {
     /* secrets file absent or malformed — tool will return an error */
   }
@@ -116,6 +123,7 @@ const plugin: Plugin = async ({ directory }) => {
             await mkdir(tempDir, { recursive: true });
 
             const localFiles: string[] = [];
+            const savedPaths: { filename: string; filepath: string; mime: string }[] = [];
             const attachments: {
               type: "file";
               mime: string;
@@ -145,6 +153,7 @@ const plugin: Plugin = async ({ directory }) => {
               const filepath = join(tempDir, filename);
               await writeFile(filepath, buffer);
               localFiles.push(`[${i + 1}] ${filename}`);
+              savedPaths.push({ filename, filepath, mime });
               attachments.push({ type: "file", mime, url: filepath, filename });
             }
 
@@ -153,9 +162,81 @@ const plugin: Plugin = async ({ directory }) => {
                 ? `\n\n(revised prompt: ${json.data[0].revised_prompt})`
                 : "";
 
+            const validateResults: string[] = [];
+            if (validateApiKey && savedPaths.length > 0) {
+              for (const { filename, filepath, mime } of savedPaths) {
+                try {
+                  const imageBuffer = await readFile(filepath);
+                  const base64Image = imageBuffer.toString("base64");
+
+                  const valPayload = {
+                    model: validateModel,
+                    messages: [
+                      {
+                        role: "user",
+                        content: [
+                          {
+                            type: "text",
+                            text:
+                              `You are an image validator. First, check whether this image contains any NSFW content ` +
+                              `(nudity, sexual acts, gore, violence, hate symbols, or other not-safe-for-work material). ` +
+                              `If it does, answer: FAIL — NSFW content detected. ` +
+                              `Otherwise, does this image correctly depict the following? ` +
+                              `Answer PASS or FAIL followed by a brief reason (one sentence). ` +
+                              `Prompt: "${args.prompt}"`,
+                          },
+                          {
+                            type: "image_url",
+                            image_url: {
+                              url: `data:${mime};base64,${base64Image}`,
+                            },
+                          },
+                        ],
+                      },
+                    ],
+                    max_tokens: 100,
+                  };
+
+                  const valRes = await fetch(`${validateBaseURL}/chat/completions`, {
+                    method: "POST",
+                    headers: {
+                      "Content-Type": "application/json",
+                      Authorization: `Bearer ${validateApiKey}`,
+                    },
+                    body: JSON.stringify(valPayload),
+                  });
+
+                  if (!valRes.ok) {
+                    validateResults.push(`    [${filename}] validation API error: HTTP ${valRes.status}`);
+                    continue;
+                  }
+
+                  const valBody = await valRes.text();
+                  const valJson = JSON.parse(valBody);
+                  const content = valJson.choices?.[0]?.message?.content ?? "";
+                  const isPass = /^PASS\b/i.test(content.trim());
+                  const reason = content.replace(/^(PASS|FAIL)\s*:?\s*/i, "").trim();
+
+                  validateResults.push(
+                    isPass
+                      ? `    [${filename}] ✓ ${reason || "matches prompt"}`
+                      : `    [${filename}] ⚠ FAILED — ${reason || "no reason given"}`,
+                  );
+                } catch (valErr: unknown) {
+                  const msg = valErr instanceof Error ? valErr.message : String(valErr);
+                  validateResults.push(`    [${filename}] validation error: ${redact(msg)}`);
+                }
+              }
+            }
+
+            const validationSection =
+              validateResults.length > 0
+                ? `\n\nValidation:\n${validateResults.join("\n")}`
+                : "";
+
             return {
               title: "image_generate",
-              output: `Generated ${localFiles.length} image(s) in temp/:\n${localFiles.join("\n")}${revised}`,
+              output: `Generated ${localFiles.length} image(s) in temp/:\n${localFiles.join("\n")}${revised}${validationSection}`,
               metadata: {
                 model: json.model ?? "unknown",
                 created: json.created,
