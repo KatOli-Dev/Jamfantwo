@@ -2,6 +2,7 @@
 layout: default
 title: Dwarves
 description: "People fashioned by the mountains, whose bodies are suited to the deep places of the earth as no other's are. Their oldest songs hold that the first dwarves were shaped by the stone itself."
+image: /assets/images/species/dwarves.jpg
 ---
 
 ## Shaped by the Mountains

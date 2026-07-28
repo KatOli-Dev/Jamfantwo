@@ -2,6 +2,7 @@
 layout: default
 title: Anurans
 description: "Amphibious people of the marshes and still waters, with smooth permeable skin and webbed limbs adapted to moving freely between water and land."
+image: /assets/images/species/anurans.jpg
 ---
 
 ## Emergence from the First Marsh

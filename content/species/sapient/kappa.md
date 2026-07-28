@@ -2,6 +2,7 @@
 layout: default
 title: Kappa
 description: "Amphibious people of the rivers and lakes, whose shell, dish-crown, and webbed limbs mark them as creatures of fresh water."
+image: /assets/images/species/kappa.jpg
 ---
 
 ## Bound to the Rivers and Lakes

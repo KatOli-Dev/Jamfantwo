@@ -2,6 +2,7 @@
 layout: default
 title: Tortolans
 description: "Tortoise-like people of the warm coasts and islands, whose great shell is the thickest natural armour of any people. They share the Sahrani coast with humans, each at their own pace."
+image: /assets/images/species/tortolans.jpg
 ---
 
 ## Tortoise People of the Warm Coasts
