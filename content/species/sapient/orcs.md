@@ -2,7 +2,6 @@
 layout: default
 title: Orcs
 description: "Large and powerful people of the wilder regions, whose generalised bodies suit harsh conditions and violent exertion. They number among the older inhabitants of the known world."
-image: /assets/images/species/orcs.jpg
 ---
 
 ## Ancient Inhabitants of the Wilder Regions

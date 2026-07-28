@@ -2,7 +2,6 @@
 layout: default
 title: Murids
 description: "Small rat-like people of the underground and settled margins, whose gnawing teeth and flexible frame suit them to the smallest overlooked spaces. They have left no written records of their own."
-image: /assets/images/species/murids.jpg
 ---
 
 ## Rat-Like People of the Margins

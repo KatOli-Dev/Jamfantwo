@@ -2,7 +2,6 @@
 layout: default
 title: Felinids
 description: "Cat-headed hunters of the grasslands and savannas, whose bodies are shaped by open country and the pursuit of prey. Their oral traditions speak of emerging from the tall grass of the first savanna."
-image: /assets/images/species/felinids.jpg
 ---
 
 ## Cat-Headed Hunters of the Grasslands

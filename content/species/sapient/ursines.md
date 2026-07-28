@@ -2,7 +2,6 @@
 layout: default
 title: Ursines
 description: "Massive bear-like people of the northern forests, combining great strength with thick fur and keen smell. Their presence in Aethelar and Morvind predates the oldest elven records."
-image: /assets/images/species/ursines.jpg
 ---
 
 ## Bear-Like People of the Northern Forests

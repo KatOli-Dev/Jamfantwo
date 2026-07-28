@@ -2,7 +2,6 @@
 layout: default
 title: Lacertians
 description: "Reptilian people of the swamps and warm wetlands, whose scaled bodies and aquatic habits suit them to a life in still water. They share the Sahrani marshes with humans and other peoples."
-image: /assets/images/species/lacertians.jpg
 ---
 
 ## Reptilian People of the Warm Wetlands

@@ -2,7 +2,6 @@
 layout: default
 title: Saurians
 description: "Large reptilian people of the warm southern rivers, whose thick scales and powerful tail suggest a lineage of great age. Their presence in Sahrana predates the oldest city-state records."
-image: /assets/images/species/saurians.jpg
 ---
 
 ## Reptilian People of Warm Southern Rivers

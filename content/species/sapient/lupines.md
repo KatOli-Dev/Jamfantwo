@@ -2,7 +2,6 @@
 layout: default
 title: Lupines
 description: "Wolf-headed people of the cold northern steppes, whose thick fur and endurance build suit them to a nomadic predatory life in harsh country."
-image: /assets/images/species/lupines.jpg
 ---
 
 ## Wolf-Headed People of the Cold Steppe

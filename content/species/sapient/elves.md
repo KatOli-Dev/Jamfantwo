@@ -2,7 +2,6 @@
 layout: default
 title: Elves
 description: "The eldest of the thinking peoples, shaped in every feature by the deep forests of Aethelar. Their great variation across widely separated branches suggests a lineage of considerable antiquity."
-image: /assets/images/species/elves.jpg
 ---
 
 ## The Eldest Thinking People

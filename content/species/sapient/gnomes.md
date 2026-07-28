@@ -2,7 +2,6 @@
 layout: default
 title: Gnomes
 description: "Small folk of the woodlands and hills, whose sturdy build and broad hands recall the dwarves in miniature. Their oral traditions predate the arrival of humans or elves in their homelands."
-image: /assets/images/species/gnomes.jpg
 ---
 
 ## Small Folk of the Woodland Hills

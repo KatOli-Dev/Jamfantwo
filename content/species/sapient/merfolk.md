@@ -2,7 +2,6 @@
 layout: default
 title: Merfolk
 description: "Aquatic people of the coastal waters and shallow seas, whose bodies bear no comparison with any land-dwelling species. Whether they descended from land or sea remains unanswered."
-image: /assets/images/species/merfolk.jpg
 ---
 
 ## The Question of Aquatic Origins

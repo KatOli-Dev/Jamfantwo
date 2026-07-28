@@ -2,7 +2,6 @@
 layout: default
 title: Cancrids
 description: "Shelled people of the rocky intertidal coasts, combining a humanoid upper form with the lower shell of a crab or lobster."
-image: /assets/images/species/cancrids.jpg
 ---
 
 ## Crustacean People of the Intertidal Shore

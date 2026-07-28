@@ -2,7 +2,6 @@
 layout: default
 title: Goblins
 description: "Small, numerous people of the marginal habitats, whose populations have proved remarkably resilient in contested ground. They have persisted in difficult places where other peoples have come and gone."
-image: /assets/images/species/goblins.jpg
 ---
 
 ## Adaptable Survivors of the Margins

@@ -2,7 +2,6 @@
 layout: default
 title: Halflings
 description: "Small folk of the lowland valleys, whose generalised bodies show no strong mark of any single environment. Their patient cultivation of the land has shaped the landscape over centuries."
-image: /assets/images/species/halflings.jpg
 ---
 
 ## Oldest Settlers of the Lowland Valleys

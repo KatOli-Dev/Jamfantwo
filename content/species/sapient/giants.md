@@ -2,7 +2,6 @@
 layout: default
 title: Giants
 description: "The largest and most powerful of all sapient species, whose numbers are few and habits reclusive. Their remains are so great that they have been mistaken for formations of rock."
-image: /assets/images/species/giants.jpg
 ---
 
 ## The Greatest of the Sapient Peoples
