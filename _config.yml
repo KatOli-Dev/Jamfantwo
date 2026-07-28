@@ -6,6 +6,11 @@ url: "http://localhost:4000"
 baseurl: ""
 permalink: pretty
 
+incremental: true
+
+sass:
+  style: compressed
+
 exclude:
   - "opencode.json"
   - ".opencode"

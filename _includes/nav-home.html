@@ -1,0 +1,12 @@
+<section class="nav-home" aria-label="Site sections">
+  {%- for group in site.data.navigation.groups %}
+  <div class="nav-group">
+    <h2>{{ group.label }}</h2>
+    <ul>
+      {%- for item in group.items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {%- endfor %}
+</section>

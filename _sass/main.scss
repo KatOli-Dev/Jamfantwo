@@ -588,6 +588,57 @@ main {
     }
   }
 
+  .nav-home {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 1.5rem;
+    margin: $spacing * 2 0;
+
+    .nav-group {
+      h2 {
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: $color-accent-dim;
+        margin: 0 0 0.5rem;
+        padding: 0 0 0.35rem;
+        border-bottom: 1px solid $color-glass-edge-soft;
+
+        &::before {
+          display: none;
+        }
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+
+        a {
+          display: block;
+          padding: 0.3rem 0.4rem;
+          font-size: 0.95rem;
+          color: rgba(255, 255, 255, 0.7);
+          text-decoration: none;
+          border-radius: 6px;
+          border: 1px solid transparent;
+          transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+
+          &:hover,
+          &:focus {
+            color: $color-heading;
+            background: rgba(255, 255, 255, 0.05);
+            border-color: $color-glass-edge-soft;
+          }
+        }
+      }
+    }
+  }
+
   hr {
     border: none;
     height: 1px;

@@ -46,8 +46,7 @@
     {%- if forloop.last %}
           <li aria-current="page">{{ page.title }}</li>
     {%- else %}
-      {%- assign page_match = site.pages | where: "url", cum_url -%}
-          <li>{% if page_match.size > 0 %}<a href="{{ cum_url | relative_url }}">{{ label }}</a>{% else %}{{ label }}{% endif %}</li>
+          <li>{% if site.data.page_urls contains cum_url %}<a href="{{ cum_url | relative_url }}">{{ label }}</a>{% else %}{{ label }}{% endif %}</li>
     {%- endif %}
   {%- endif %}
 {%- endfor %}

@@ -5,7 +5,7 @@ title: Homepage
 
 {{site.description}}
 
-{% include content-list.html %}
+{% include nav-home.html %}
 
 ## Additional Pages
 

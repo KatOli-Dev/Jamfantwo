@@ -32,27 +32,27 @@ module Jekyll
       content_root = File.join(site.source, 'content')
       return unless Dir.exist?(content_root)
 
-      dirs = Dir.glob(File.join(content_root, '**', '')).select { |d| File.directory?(d) }
-      dirs.map! { |d| d.sub(%r{/+$}, '') }
+      pages_by_dir = Hash.new { |h, k| h[k] = [] }
 
-      dirs.each do |dir|
-        next if File.exist?(File.join(dir, 'index.md'))
-        next if File.exist?(File.join(dir, 'index.html'))
+      site.pages.each do |p|
+        next unless p.path.start_with?('content/')
+        dir = File.dirname(p.path)
+        pages_by_dir[dir] << p
+      end
 
-        relative = dir.sub(%r{^#{Regexp.escape(site.source)}/}, '')
-        next if relative == 'content'
+      pages_by_dir.each do |dir, pages|
+        full_dir = File.join(site.source, dir)
+        next if File.exist?(File.join(full_dir, 'index.md'))
+        next if File.exist?(File.join(full_dir, 'index.html'))
+        next if dir == 'content'
 
-        pages = site.pages.select do |p|
-          matches = p.path.start_with?(relative + '/')
-          matches &&
-            !p.path.end_with?('/index.md') &&
-            !p.path.end_with?('/index.html') &&
-            p.path != relative
+        content_pages = pages.reject do |p|
+          p.path.end_with?('/index.md') || p.path.end_with?('/index.html') || p.path == dir
         end
 
-        next if pages.empty?
+        next if content_pages.empty?
 
-        site.pages << CategoryIndexPage.new(site, site.source, relative, pages)
+        site.pages << CategoryIndexPage.new(site, site.source, dir, content_pages)
       end
     end
   end
