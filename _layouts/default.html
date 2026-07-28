@@ -11,8 +11,9 @@
     <meta name="keywords" content="{{ site.keywords | escape }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="color-scheme" content="dark">
-    <meta name="theme-color" content="#14172a">
+    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" content="#14172a" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#f8f4ec" media="(prefers-color-scheme: light)">
     <meta name="referrer" content="no-referrer">
     <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
     <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
@@ -92,6 +93,9 @@
       <p>
         This site was created with the assistance of AI.
       </p>
+      <p>
+        <a href="{{ '/sitemap.xml' | relative_url }}">Sitemap</a>
+      </p>
     </footer>
     <script>
       (function() {
@@ -113,6 +117,28 @@
               dt.setAttribute('aria-expanded', !expanded);
               dm.classList.toggle('dropdown-menu-open');
             }
+          });
+        }
+      })();
+    </script>
+    <script>
+      (function() {
+        var key = 'jamfantwo-theme';
+        var html = document.documentElement;
+        var stored = localStorage.getItem(key);
+
+        if (stored === 'light' || (stored !== 'dark' && window.matchMedia('(prefers-color-scheme: light)').matches)) {
+          html.setAttribute('data-theme', 'light');
+        }
+
+        var btn = document.getElementById('theme-toggle');
+        if (btn) {
+          btn.addEventListener('click', function() {
+            var current = html.getAttribute('data-theme');
+            var next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem(key, next);
+            btn.setAttribute('aria-label', 'Switch to ' + (next === 'light' ? 'dark' : 'light') + ' theme');
           });
         }
       })();

@@ -30,13 +30,13 @@
   }
 
   header .dropdown-menu {
-    background: $color-glass-fallback !important;
+    background: var(--color-glass-fallback) !important;
     box-shadow: none !important;
-    border-color: $color-glass-edge-soft !important;
+    border-color: var(--color-glass-edge-soft) !important;
   }
 
   main {
-    background: $color-glass-fallback !important;
+    background: var(--color-glass-fallback) !important;
   }
 }
 
@@ -192,7 +192,7 @@
         opacity: 1;
         visibility: visible;
         box-shadow: none;
-        border-color: $color-glass-edge-soft;
+        border-color: var(--color-glass-edge-soft);
         display: none;
 
         &.dropdown-menu-open {

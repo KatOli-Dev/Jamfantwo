@@ -46,11 +46,4 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 
 - [ ] **Deploy the site.** CI builds but never publishes. `_config.yml` still has `url: http://localhost:4000`. GitHub Pages, Netlify, or Cloudflare Pages would work.
 - [ ] **In-universe maps.** Even a described "cartographer's view" page or an SVG region map would ground the geography-heavy content.
-- [ ] **Add more perspectival writing.** The style guide asks for multiple perspectives on contentious events. Many category pages (species, locations) stay descriptive/survey mode. A pass to introduce in-universe disagreement would add depth.
-- [ ] **Distinctive world elements.** The world leans toward standard epic fantasy (elves, dwarves, orcs). Consider introducing elements that make it uniquely memorable beyond solid craft.
 - [ ] **SCSS linting.** Leverage existing tooling or a custom script for SCSS checks to avoid new dependencies.
-- [ ] **Validator enhancement.** Add a check that link target parent directories exist (catches phantom paths like `content/belief/`).
-- [ ] **Sitemap link in footer.** Once a sitemap exists, link it from the footer for crawlers.
-- [ ] **Glossary / term index.** Auto-generated index of in-universe terms (e.g., *working*, *pattern*, *hearth-hall*, *Sky Walkers' Way*) extracted from page content, linking back to the pages that define them.
-- [ ] **Print stylesheet.** Add `@media print` styles so pages render cleanly on paper — no navigation, full-width text, visible link URLs.
-- [ ] **Light / dark theme toggle.** Currently forced dark mode. A persisted toggle would let readers choose their preference.

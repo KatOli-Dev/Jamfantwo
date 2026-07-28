@@ -43,3 +43,5 @@ groups:
         url: /content/language/
       - title: History
         url: /content/history/
+      - title: Glossary
+        url: /glossary/

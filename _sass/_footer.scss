@@ -3,12 +3,12 @@
 footer {
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.015) 0%, rgba(255, 255, 255, 0.05) 100%),
-    $color-bg;
-  border-top: 1px solid $color-glass-border-warm;
+    var(--color-bg);
+  border-top: 1px solid var(--color-glass-border-warm);
   text-align: center;
   padding: $spacing $spacing;
   font-size: 0.9rem;
-  color: $color-muted;
+  color: var(--color-muted);
   position: relative;
   margin-top: $spacing;
 
@@ -18,7 +18,7 @@ footer {
     width: 60px;
     height: 1px;
     margin: 0 auto 0.85rem;
-    background: linear-gradient(90deg, transparent, $color-accent-dim, transparent);
+    background: linear-gradient(90deg, transparent, var(--color-accent-dim), transparent);
   }
 
   p {
@@ -26,7 +26,7 @@ footer {
   }
 
   a {
-    color: $color-accent-dim;
+    color: var(--color-accent-dim);
     text-decoration-line: underline;
     text-decoration-thickness: 0.08em;
     text-underline-offset: 0.18em;
@@ -34,7 +34,11 @@ footer {
 
     &:hover,
     &:focus {
-      color: $color-link-hover;
+      color: var(--color-link-hover);
     }
+  }
+
+  p + p {
+    margin-top: 0.25rem;
   }
 }

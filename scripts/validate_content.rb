@@ -345,7 +345,14 @@ def check_internal_links(file, body, line_offset)
       unless source.exist?
         source_alt = ROOT.join(path, 'index.md')
         unless source_alt.exist?
-          fail(file, abs_line, "internal link #{url} does not resolve to a source page")
+          # Check whether the parent directory exists at all; if not,
+          # the path references a non-existent category ("phantom path").
+          parent_dir = File.dirname(source)
+          unless Dir.exist?(parent_dir)
+            fail(file, abs_line, "internal link #{url} points into a non-existent directory (#{parent_dir})")
+          else
+            fail(file, abs_line, "internal link #{url} does not resolve to a source page")
+          end
           next
         end
       end

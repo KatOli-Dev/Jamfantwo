@@ -1,11 +1,8 @@
 @use "variables" as *;
 
 header {
-  background:
-    radial-gradient(ellipse 70% 120% at 25% 50%, rgba($color-accent, 0.07) 0%, transparent 70%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.015) 100%),
-    $color-bg;
-  border-bottom: 1px solid $color-glass-border-warm;
+  background: var(--color-header-bg), var(--color-bg);
+  border-bottom: 1px solid var(--color-glass-border-warm);
   padding: 0.85rem $spacing;
   position: relative;
   z-index: 100;
@@ -16,7 +13,7 @@ header {
     position: absolute;
     inset: 0 0 auto 0;
     height: 1px;
-    background: linear-gradient(90deg, transparent, $color-glass-edge-strong, transparent);
+    background: linear-gradient(90deg, transparent, var(--color-glass-edge-strong), transparent);
   }
 
   &::after {
@@ -24,7 +21,7 @@ header {
     position: absolute;
     inset: auto 0 -1px 0;
     height: 1px;
-    background: linear-gradient(90deg, transparent 5%, $color-accent 50%, transparent 95%);
+    background: linear-gradient(90deg, transparent 5%, var(--color-accent) 50%, transparent 95%);
     opacity: 0.65;
   }
 
@@ -41,7 +38,7 @@ header {
     font-family: $font-serif;
     font-size: 1.25rem;
     font-weight: 700;
-    color: $color-heading;
+    color: var(--color-heading);
     text-decoration: none;
     letter-spacing: 0.03em;
     padding: 0.45rem 1rem;
@@ -52,7 +49,7 @@ header {
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.04) 100%),
       rgba(255, 255, 255, 0.06);
-    border: 1px solid $color-glass-edge;
+    border: 1px solid var(--color-glass-edge);
     border-radius: $radius-chip;
     box-shadow:
       inset 0 1px 0 rgba(255, 255, 255, 0.22),
@@ -67,14 +64,14 @@ header {
       top: 50%;
       width: 7px;
       height: 7px;
-      background: $color-accent;
+      background: var(--color-accent);
       transform: translateY(-50%) rotate(45deg);
-      box-shadow: 0 0 8px rgba($color-accent, 0.55);
+      box-shadow: 0 0 8px rgba(226, 176, 74, 0.55);
     }
 
     &:hover,
     &:focus {
-      color: $color-accent;
+      color: var(--color-accent);
       transform: translateY(-1px);
     }
   }
@@ -95,17 +92,17 @@ header {
       background:
         linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
         rgba(255, 255, 255, 0.04);
-      border: 1px solid $color-glass-edge-soft;
+      border: 1px solid var(--color-glass-edge-soft);
       border-radius: $radius-chip;
       transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 
       &:hover,
       &:focus {
-        color: $color-heading;
+        color: var(--color-heading);
         background:
           linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
           rgba(255, 255, 255, 0.08);
-        border-color: $color-glass-edge;
+        border-color: var(--color-glass-edge);
         transform: translateY(-1px);
       }
     }
@@ -135,7 +132,7 @@ header {
         background:
           linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
           rgba(255, 255, 255, 0.04);
-        border: 1px solid $color-glass-edge-soft;
+        border: 1px solid var(--color-glass-edge-soft);
         border-radius: $radius-chip;
         transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
         cursor: pointer;
@@ -143,11 +140,11 @@ header {
 
         &:hover,
         &:focus {
-          color: $color-heading;
+          color: var(--color-heading);
           background:
             linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
             rgba(255, 255, 255, 0.08);
-          border-color: $color-glass-edge;
+          border-color: var(--color-glass-edge);
           transform: translateY(-1px);
         }
       }
@@ -174,10 +171,10 @@ header {
         padding-top: 0.75rem;
         min-width: 520px;
         background:
-          radial-gradient(ellipse 80% 60% at 30% 30%, rgba($color-accent, 0.06) 0%, transparent 70%),
+          radial-gradient(ellipse 80% 60% at 30% 30%, rgba(226, 176, 74, 0.06) 0%, transparent 70%),
           linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%),
-          $color-bg-2;
-        border: 1px solid $color-glass-edge;
+          var(--color-bg-2);
+        border: 1px solid var(--color-glass-edge);
         border-radius: $radius-card;
         box-shadow:
           inset 0 1px 0 rgba(255, 255, 255, 0.12),
@@ -213,10 +210,10 @@ header {
           font-weight: 700;
           letter-spacing: 0.1em;
           text-transform: uppercase;
-          color: $color-accent-dim;
+          color: var(--color-accent)-dim;
           margin-bottom: 0.5rem;
           padding-bottom: 0.35rem;
-          border-bottom: 1px solid $color-glass-edge-soft;
+          border-bottom: 1px solid var(--color-glass-edge-soft);
         }
 
         ul {
@@ -242,9 +239,9 @@ header {
 
             &:hover,
             &:focus {
-              color: $color-heading;
+    color: var(--color-heading);
               background: rgba(255, 255, 255, 0.05);
-              border-color: $color-glass-edge-soft;
+              border-color: var(--color-glass-edge-soft);
               transform: none;
             }
           }
@@ -265,7 +262,7 @@ header {
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
       rgba(255, 255, 255, 0.04);
-    border: 1px solid $color-glass-edge-soft;
+    border: 1px solid var(--color-glass-edge-soft);
     border-radius: $radius-chip;
     cursor: pointer;
     font-family: inherit;
@@ -276,11 +273,11 @@ header {
       background:
         linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
         rgba(255, 255, 255, 0.08);
-      border-color: $color-glass-edge;
+      border-color: var(--color-glass-edge);
     }
 
     &:focus-visible {
-      outline: 3px solid $color-link-hover;
+      outline: 3px solid var(--color-link-hover);
       outline-offset: 3px;
     }
 
@@ -311,9 +308,61 @@ header {
   .nav-menu {
     display: contents;
   }
+
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    background:
+      linear-gradient(180deg, var(--color-glass-strong) 0%, var(--color-glass-soft) 100%),
+      var(--color-nav-item-bg);
+    border: 1px solid var(--color-glass-edge-soft);
+    border-radius: $radius-chip;
+    cursor: pointer;
+    font-family: inherit;
+    color: rgba(255, 255, 255, 0.78);
+    transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: var(--color-heading);
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
+        rgba(255, 255, 255, 0.08);
+      border-color: var(--color-glass-edge);
+    }
+
+    &:focus-visible {
+      outline: 3px solid var(--color-link-hover);
+      outline-offset: 3px;
+    }
+
+    .theme-icon-sun,
+    .theme-icon-moon {
+      display: block;
+    }
+
+    .theme-icon-moon {
+      display: none;
+    }
+  }
+}
+
+[data-theme="light"] header .theme-toggle {
+  .theme-icon-sun {
+    display: none;
+  }
+
+  .theme-icon-moon {
+    display: block;
+  }
 }
 
 .no-js header .nav-toggle,
-.no-js header .js-search-link {
+.no-js header .js-search-link,
+.no-js header .theme-toggle {
   display: none;
 }
