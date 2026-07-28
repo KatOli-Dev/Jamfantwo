@@ -191,8 +191,18 @@ def check_file(file)
 
   if fm['layout'].nil?
     fail(file, fm_line_offset, "front matter missing 'layout'")
-  elsif fm['layout'].to_s.strip != 'default'
-    fail(file, fm_line_offset, "front matter layout must be 'default' (got #{fm['layout'].inspect})")
+    return
+  end
+
+  layout = fm['layout'].to_s.strip
+  if layout == 'redirect'
+    check_internal_links(file, body, fm_line_offset)
+    return
+  end
+
+  if layout != 'default'
+    fail(file, fm_line_offset, "front matter layout must be 'default' (got #{layout.inspect})")
+    return
   end
 
   title = fm['title']

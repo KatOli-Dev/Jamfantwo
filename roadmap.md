@@ -17,7 +17,9 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [x] **Add search.** Jekyll plugin (`_plugins/generate_search_index.rb`) builds a JSON index on every build/serve; `search.html` page at `/search/` does client-side filtering. Standalone script at `scripts/generate_search_index.rb` for manual use. No external dependencies.
 - [ ] **Deploy the site.** CI builds but never publishes. `_config.yml` still has `url: http://localhost:4000`. GitHub Pages, Netlify, or Cloudflare Pages would work.
 - [x] **Better navigation.** Header only links to Geography, Population, Style, and License — none of the large categories (Species, Locations, History, Magic, etc.). Consider a category dropdown, a secondary nav, or sidebar.
-- [ ] **Add `description` to front matter on every page.** No page has a description meta tag. Even one sentence per page would improve SEO, link previews, and usability.
+- [x] **Add `description` to front matter on every page.** All pages now include a `description` field in front matter per the style guide.
+- [ ] **Consolidate duplicate content.** The Still Flame is covered in both `content/culture/still-flame.md` and `content/religion/still-flame.md` with different titles and vantage points. One page should redirect or merge to eliminate redundancy.
+- [x] **CI for content validation.** There is no CI workflow at all. Add a GitHub Actions workflow that runs `scripts/validate_content.rb` on push and PR to catch regressions before merge.
 
 ---
 
@@ -28,6 +30,10 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [ ] **Denser internal linking.** Many pages reference other topics inline without linking them. A pass to add links where natural would improve discoverability.
 - [ ] **Densify `_config.yml`.** Add `author`, `social`, `lang` declaration, and remove the placeholder `localhost` URL.
 - [ ] **Add RSS/Atom feed.** A custom `_plugins/` script can generate an RSS/Atom feed on build without external gems.
+- [ ] **Pre-commit hook for content validation.** Run the validator automatically before each commit so style regressions never reach the repo.
+- [ ] **Search UX improvements.** Current search is exact substring match. Add fuzzy matching, typo tolerance, and result snippet highlighting for a better experience across 600+ pages.
+- [ ] **"Last modified" dates on pages.** Use git timestamps to show when each page was last updated, giving readers a sense of content freshness. Could be a `_plugins/` script that injects a `last_modified` field into each page's data.
+- [ ] **Validator: check hard style constraints.** The style guide bans slang, modern idioms, addressing readers, or referencing the real world, but the validator does not check these. Add regex patterns to catch violations automatically.
 
 ---
 
@@ -43,3 +49,6 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [ ] **SCSS linting.** Leverage existing tooling or a custom script for SCSS checks to avoid new dependencies.
 - [ ] **Validator enhancement.** Add a check that link target parent directories exist (catches phantom paths like `content/belief/`).
 - [ ] **Sitemap link in footer.** Once a sitemap exists, link it from the footer for crawlers.
+- [ ] **Glossary / term index.** Auto-generated index of in-universe terms (e.g., *working*, *pattern*, *hearth-hall*, *Sky Walkers' Way*) extracted from page content, linking back to the pages that define them.
+- [ ] **Print stylesheet.** Add `@media print` styles so pages render cleanly on paper — no navigation, full-width text, visible link URLs.
+- [ ] **Light / dark theme toggle.** Currently forced dark mode. A persisted toggle would let readers choose their preference.
