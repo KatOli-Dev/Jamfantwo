@@ -319,3 +319,29 @@ main {
 .no-js #js-search {
   display: none;
 }
+
+.banner-wrapper {
+  margin: (-$spacing * 1.85) (-$spacing * 1.4) $spacing * 2;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+
+  .banner-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 1792 / 1024;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    background: linear-gradient(180deg, transparent 0%, $color-glass-fallback 100%);
+    pointer-events: none;
+  }
+}

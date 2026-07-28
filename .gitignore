@@ -3,3 +3,4 @@
 /.jekyll-metadata
 /temp/
 .opencode/node_modules/
+.opencode/secrets.json
