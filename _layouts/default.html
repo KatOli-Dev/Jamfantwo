@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-js" lang="en">
   <head>
     <title>
       {% if page.url == '/' %}{{ site.title | escape }}{% else %}{{ page.title | default: site.title | escape }} - {{ site.initials | escape }}{% endif %}
@@ -16,6 +16,7 @@
     <meta name="referrer" content="no-referrer">
     <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+    <script>document.documentElement.className='js';</script>
   </head>
   <body>
     <a href="#main-content" class="skip-link">

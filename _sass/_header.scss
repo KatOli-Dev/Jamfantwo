@@ -312,3 +312,8 @@ header {
     display: contents;
   }
 }
+
+.no-js header .nav-toggle,
+.no-js header .js-search-link {
+  display: none;
+}

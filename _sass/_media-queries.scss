@@ -216,6 +216,22 @@
     }
   }
 
+  .no-js header {
+    .nav-menu {
+      max-height: none;
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .dropdown-toggle {
+      display: none;
+    }
+
+    .dropdown-menu {
+      display: grid;
+    }
+  }
+
   main {
     margin: $spacing $spacing;
     padding: $spacing $spacing * 0.85;
