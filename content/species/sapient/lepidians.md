@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lepidians
-description: "Moth-like people of the temperate forests, whose scaled wings and antennae suit them to a nocturnal life among the trees."
+description: "Moth-like people of the temperate forests, whose scaled wings and antennae suit them to a nocturnal life among the trees and whose oral traditions are conveyed through patterns of light and scent."
 ---
 
 ## Nocturnal Moth-People of the Forest

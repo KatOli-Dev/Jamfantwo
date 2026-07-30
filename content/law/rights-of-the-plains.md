@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rights of the Plains"
-description: "The five fundamental principles of the Plains Confederation: the right of speech at the Open Grass Assembly, choice of representatives, petition, recall, and challenge of council decisions before a."
+description: "The five principles of the Plains Confederation: the right of speech at the Open Grass Assembly, choice of representatives, petition, recall, and challenge of council decisions before the assembly."
 ---
 
 ## The Founding Principles of the Confederation

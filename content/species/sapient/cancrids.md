@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cancrids
-description: "Shelled people of the rocky intertidal coasts, combining a humanoid upper form with the lower shell of a crab or lobster."
+description: "Shelled people of rocky intertidal coasts of all three continents, combining a humanoid upper form with lower shell of a crab or lobster and communicating through gesture and claw-drumming upon rock."
 ---
 
 ## Crustacean People of the Intertidal Shore

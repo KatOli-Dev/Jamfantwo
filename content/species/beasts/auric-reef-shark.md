@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Auric Reef Shark
-description: "The most numerous predatory shark of the warm Auric waters, the reef shark is a sleek hunter of the coral country whose metallic sheen gives it its name and whose presence marks the health of the."
+description: "The most numerous predatory shark of the warm Auric waters, the reef shark is a sleek hunter of the coral country whose metallic sheen gives it its name and whose presence marks the reef's health."
 ---
 
 ## Predator of the Warm Reefs

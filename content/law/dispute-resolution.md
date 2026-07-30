@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dispute Resolution"
-description: "The means of settling conflicts outside the formal courts: mediation among the nomadic peoples at stone circles and wells, arbitration in the merchant communities, and customary negotiation across."
+description: "The means of settling conflicts outside the formal courts: mediation among nomadic peoples at stone circles and wells, arbitration in merchant communities, and negotiation across regions and borders."
 ---
 
 ## The Means of Settling Conflicts Outside the Courts

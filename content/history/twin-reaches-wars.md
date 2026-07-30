@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Twin-Reaches Wars
-description: "The generations-long conflict between the Amurra Republic and the Vashari Pact for control of the inland valleys and the trade routes across the Stoneheim Highlands, remembered as the most."
+description: "The conflict between the Amurra Republic and the Vashari Pact for control of inland valleys and trade routes across the Stoneheim Highlands, remembered as the most destructive wars of the early age."
 ---
 
 ## Generations of Conflict Between Republic and Pact

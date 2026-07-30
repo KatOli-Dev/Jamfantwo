@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eastern Compact
-description: "The agreement negotiated between the parties of the Twin-Reaches Peace and the city of Serren, extending the principles of the peace to the trade routes connecting the inland valleys to the eastern."
+description: "The agreement negotiated between the parties of the Twin-Reaches Peace and the city of Serren, extending the principles of the peace to the trade routes connecting the inland valleys to eastern coast."
 ---
 
 ## The Agreement with Serren

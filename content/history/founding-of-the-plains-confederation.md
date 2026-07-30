@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Founding of the Plains Confederation
-description: "The gathering of the elders of the principal human and centaur kindreds of the Great Grass Plains in the year 340, uniting into a single confederation for the defence of the grazing lands and summer."
+description: "The gathering of the elders of principal human and centaur kindreds of the Great Grass Plains in year 340, uniting into a single confederation for the defence of the grazing lands and summer camps."
 ---
 
 ## The Alliance of the Grasslands

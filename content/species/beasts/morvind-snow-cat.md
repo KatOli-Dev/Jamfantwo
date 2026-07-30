@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Morvind Snow Cat
-description: "The apex predator of the alpine zone of the Morvind Uplands, the snow cat is a white feline of pure winter coat held in such reverence that its killing is forbidden by the customary law of the."
+description: "The apex predator of the Morvind Uplands, the snow cat is a white feline of pure winter coat held in such reverence that its killing is forbidden by the customary law of the mountain clans."
 ---
 
 ## The White Feline of the High Peaks

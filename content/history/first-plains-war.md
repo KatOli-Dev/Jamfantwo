@@ -1,7 +1,7 @@
 ---
 layout: default
 title: First Plains War
-description: "The conflict fought between the Plains Confederation and a rival confederation of eastern kindreds in the decade after the founding, establishing the Confederation as the dominant power of the."
+description: "The conflict fought between the Plains Confederation and a rival confederation of eastern kindreds in the decade after the founding, establishing the Confederation as the dominant power of the plains."
 ---
 
 ## The First Test of the Confederation

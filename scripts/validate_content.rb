@@ -34,9 +34,8 @@ STYLE_PATTERNS = (VALIDATOR_CONFIG['style_constraints'] || {}).flat_map do |cate
   end
 end
 
-# Mirror of the filtering in _includes/content-list.html. A content page is
-# considered listed by the homepage index if any rule matches. Keep this list
-# in sync with the include.
+# Mirror of the filtering in _plugins/generate_category_indices.rb. A content
+# page is considered listed by the homepage index if any rule matches.
 INDEX_TITLE_RULES = %w[geography population].freeze
 INDEX_PATH_RULES = [
   'content/art/',
@@ -156,12 +155,14 @@ def strip_indented_code(text)
   out = []
   in_block = false
   text.each_line do |line|
-    if line =~ /\A( {4,}|\t)/
+    indented = line =~ /\A(?: {4,}|\t)/
+    blank = line.strip.empty?
+    if indented
       in_block = true
+    elsif in_block && blank
       next
-    elsif line.strip.empty?
-      out << line if !in_block
-      next
+    elsif !in_block && blank
+      out << line
     else
       in_block = false
       out << line
@@ -178,10 +179,6 @@ def count_words(text)
   text.split(/\s+/).reject(&:empty?).length
 end
 
-def expected_opening(rel_path)
-  nil
-end
-
 def check_file(file)
   rel = file.relative_path_from(ROOT).to_s
   text = file.read
@@ -194,6 +191,8 @@ def check_file(file)
 
   fm = parse_front_matter_yaml(fm_text)
   fm_line_offset = fm_text.lines.length + 2
+
+  @page_cache[rel] = { title: fm['title'], description: fm['description'] }
 
   if fm['layout'].nil?
     fail(file, fm_line_offset, "front matter missing 'layout'")
@@ -219,9 +218,10 @@ def check_file(file)
   desc = fm['description']
   if desc.nil? || desc.to_s.strip.empty?
     fail(file, fm_line_offset, "front matter missing 'description'")
+  elsif desc.to_s.strip.length < 120 || desc.to_s.strip.length > 200
+    fail(file, fm_line_offset, "description must be 120-200 characters (got #{desc.to_s.strip.length})")
   end
 
-  expected = expected_opening(rel)
   body_lines = body.lines
   headings = []
   body_lines.each_with_index do |line, idx|
@@ -255,18 +255,26 @@ def check_file(file)
     if line =~ /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/
       fail(file, line_no, "pictograph/emoji not allowed")
     end
+    if line =~ /[\u{FF00}-\u{FFEF}]/
+      fail(file, line_no, "full-width punctuation (copy-paste corruption)")
+    end
     STYLE_PATTERNS.each do |sp|
       if line =~ sp[:regex]
         fail(file, line_no, sp[:note])
       end
     end
-    line.scan(/(\b)a\s+([aeiouAEIOU][\w\[\(]*)/) do |_, word|
-      base = word.sub(/\A[\[\(]+/, '')
+    # Article check is letter-based, not sound-based, so it may produce
+    # false positives/negatives for abbreviations (e.g. "an MBA" is correct
+    # but uses a consonant letter; "a FBI" is wrong but uses a vowel letter).
+    # The exception list in validator_config.yml handles known silent-h and
+    # y-glide words (hour, unicorn, etc.).
+    line.scan(/\ba\s+([aeiouAEIOU][\w\[\(]*)/) do |word|
+      base = word.first.sub(/\A[\[\(]+/, '')
       next if A_BEFORE_VOWEL_RE && base =~ /\A#{A_BEFORE_VOWEL_RE}/i
       fail(file, line_no, "possible article error: 'a #{base}' (use 'an' before vowel)")
     end
-    line.scan(/(\b)an\s+([bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ][\w\[\(]*)/) do |_, word|
-      base = word.sub(/\A[\[\(]+/, '')
+    line.scan(/\ban\s+([bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ][\w\[\(]*)/) do |word|
+      base = word.first.sub(/\A[\[\(]+/, '')
       next if AN_BEFORE_CONSONANT_RE && base =~ /\A#{AN_BEFORE_CONSONANT_RE}/i
       fail(file, line_no, "possible article error: 'an #{base}' (use 'a' before consonant)")
     end
@@ -275,10 +283,6 @@ def check_file(file)
   if headings.empty?
     fail(file, fm_line_offset, "body has no ATX headings")
   else
-    opening = headings.first
-    if expected && opening[2] != expected
-      fail(file, opening[0], "first body heading must be '#{expected}' for this category (got '#{opening[2]}')")
-    end
     headings.each_cons(2) do |a, b|
       jump = b[1] - a[1]
       if jump > 1
@@ -328,18 +332,24 @@ def title_for_path(path)
   source = ROOT.join(path + '.md')
   source = ROOT.join(path, 'index.md') unless source.exist?
   return nil unless source.exist?
+  rel = source.relative_path_from(ROOT).to_s
+  return @page_cache[rel][:title] if @page_cache.key?(rel) && @page_cache[rel][:title]
   text = source.read
   fm_text, _ = parse_front_matter(text)
   return nil if fm_text.nil?
   fm = parse_front_matter_yaml(fm_text)
+  @page_cache[rel] = { title: fm['title'], description: fm['description'] }
   fm['title']
 end
 
 def check_internal_links(file, body, line_offset)
   body.each_line.with_index do |line, idx|
+    abs_line = idx + line_offset + 1
+    line.scan(/\[([^\]]*)\]\(https?:\/\/[^)]+\)/) do |match|
+      warn(file, abs_line, "external link to #{match[0]}")
+    end
     line.scan(/\[([^\]]*)\]\((\/content\/[A-Za-z0-9_\-\/\.]+)\)/) do |match|
       link_text, url = match
-      abs_line = idx + line_offset + 1
       path = url[1..]
       source = ROOT.join(path + '.md')
       unless source.exist?
@@ -366,23 +376,33 @@ def check_internal_links(file, body, line_offset)
   end
 end
 
+@page_cache = {}
+
 CONTENT_FILES = CONTENT_DIR.glob('**/*.md').sort
 
 CONTENT_FILES.each do |f|
   check_file(f)
 end
 
+# Duplicate description check
+seen_descriptions = {}
+@page_cache.each do |rel, data|
+  next unless data[:description]
+  desc = data[:description].strip
+  if seen_descriptions.key?(desc)
+    @failures << "#{rel}:1: duplicate description — also used by #{seen_descriptions[desc]}"
+  else
+    seen_descriptions[desc] = rel
+  end
+end
+
 def collect_content_slugs
-  CONTENT_DIR.glob('**/*.md').map { |f| f.relative_path_from(CONTENT_DIR).to_s.sub(/\.md\z/, '') }
+  CONTENT_FILES.map { |f| f.relative_path_from(CONTENT_DIR).to_s.sub(/\.md\z/, '') }
 end
 
 def linked_from_index
-  CONTENT_FILES.each_with_object({}) do |f, h|
-    rel = f.relative_path_from(ROOT).to_s
-    fm_text, _ = parse_front_matter(f.read)
-    next if fm_text.nil?
-    fm = parse_front_matter_yaml(fm_text)
-    h[rel] = fm['title'] if listed_in_index?(rel, fm['title'])
+  @page_cache.each_with_object({}) do |(rel, data), h|
+    h[rel] = data[:title] if listed_in_index?(rel, data[:title])
   end
 end
 

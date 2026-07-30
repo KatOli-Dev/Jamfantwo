@@ -42,7 +42,7 @@ The site will be available at `http://localhost:4000`. Uses a custom SASS theme 
 
 ## Content Organization
 
-Content is divided into 15 categories under `content/`. Index pages are auto-generated via `_includes/content-list.html` — do not maintain by hand.
+Content is divided into 15 categories under `content/`. Index pages are auto-generated via `_plugins/generate_category_indices.rb` — do not maintain by hand.
 
 ## Validation
 

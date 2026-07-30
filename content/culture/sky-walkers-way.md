@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sky Walkers' Way
-description: "The ancient polytheist religion of the grasslands, whose pantheon of sky gods, earth spirits, and ancestral figures has been worshipped by the peoples of the plains since the earliest recorded."
+description: "The ancient polytheist religion of the grasslands, whose pantheon of sky gods, earth spirits, and ancestral figures has been worshipped by the peoples of the plains since the earliest recorded age."
 ---
 
 ## The Ancient Polytheist Religion of the Grasslands

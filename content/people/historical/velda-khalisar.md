@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Velda Khalisar
-description: "The scholar-practitioner who reformed magical education in Khalisar, establishing the structured curriculum and system of certification that trained practitioners of the arcane arts across the."
+description: "The scholar-practitioner who reformed magical education in Khalisar, establishing the curriculum and certification system that trained practitioners of arcane arts across the Sahrani coast."
 ---
 
 ## The Reformer of Magical Education

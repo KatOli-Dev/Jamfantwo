@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Karhold Pact
-description: "The agreement that established the Karhold Realm as a unified kingdom in the northern regions, negotiated after a century of conflict among northern chieftains for control of trade routes and."
+description: "The agreement that established the Karhold Realm as a unified kingdom in the northern regions, negotiated after a century of northern conflict over trade routes and resources."
 ---
 
 ## The Founding of the Northern Realm
