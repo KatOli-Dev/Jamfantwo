@@ -5,7 +5,7 @@ title: Search
 
 <div id="js-search">
   <form id="search-form" role="search" aria-label="Site search">
-    <label for="search-input" style="display:block;margin-bottom:0.5rem;font-size:1.1rem;">
+    <label for="search-input">
       Search the archive
     </label>
     <input
@@ -14,24 +14,13 @@ title: Search
       placeholder="Type to search…"
       autocomplete="off"
       aria-describedby="search-hint"
-      style="
-        width:100%;
-        font:inherit;
-        font-size:1.1rem;
-        padding:0.65rem 1rem;
-        background:rgba(0,0,0,0.45);
-        border:1px solid rgba(255,255,255,0.12);
-        border-radius:10px;
-        color:#f0e6d2;
-        outline:none;
-      "
     >
-    <span id="search-hint" style="display:block;margin-top:0.4rem;font-size:0.85rem;color:#8b8b9a;">
+    <span id="search-hint">
       Search across all pages by title and text
     </span>
   </form>
 
-  <div id="search-results" aria-live="polite" style="margin-top:2rem;"></div>
+  <div id="search-results" aria-live="polite"></div>
 
   <script>
     (function() {
@@ -190,19 +179,19 @@ title: Search
         scored.sort(function(a, b) { return b.score - a.score; });
 
         if (scored.length === 0) {
-          results.innerHTML = '<p style="color:#8b8b9a;">No results found.</p>';
+          results.innerHTML = '<p>No results found.</p>';
           return;
         }
 
-        var html = '<p style="color:#8b8b9a;margin-bottom:1rem;">' + scored.length + ' page' + (scored.length === 1 ? '' : 's') + ' found</p>';
+        var html = '<p>' + scored.length + ' page' + (scored.length === 1 ? '' : 's') + ' found</p>';
         for (var j = 0; j < scored.length; j++) {
           var m = scored[j].entry;
           var highlightedTitle = highlight(m.title, rawTerms);
           var snippetText = m.snippet.substring(0, 300);
           var highlightedSnippet = highlight(snippetText, rawTerms);
-          html += '<article style="margin-bottom:1.25rem;">' +
-            '<a href="' + m.url + '" style="font-size:1.15rem;font-weight:700;">' + highlightedTitle + '</a>' +
-            '<p style="margin:0.25rem 0 0;font-size:0.95rem;color:#8b8b9a;">' + highlightedSnippet + '</p>' +
+          html += '<article>' +
+            '<a href="' + m.url + '">' + highlightedTitle + '</a>' +
+            '<p>' + highlightedSnippet + '</p>' +
             '</article>';
         }
         results.innerHTML = html;
@@ -218,7 +207,7 @@ title: Search
 </div>
 
 <noscript>
-  <p style="color:#8b8b9a;">
+  <p>
     Search requires JavaScript.
   </p>
 </noscript>

@@ -12,6 +12,12 @@ incremental: true
 sass:
   style: compressed
 
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: "default"
+
 exclude:
   - "opencode.json"
   - ".opencode"

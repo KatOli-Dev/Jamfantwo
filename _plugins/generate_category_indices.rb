@@ -12,8 +12,7 @@ module Jekyll
       self.content = build_content(pages)
       self.data = {}
       self.data['layout'] = 'default'
-      label = dir.sub(%r{^content/}, '').split('/').last
-      label = label || dir.split('/').last || 'Index'
+      label = dir.sub(%r{^content/}, '').split('/').last || 'Index'
       self.data['title'] = label.tr('-', ' ').split.map(&:capitalize).join(' ')
     end
 

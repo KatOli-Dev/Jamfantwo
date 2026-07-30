@@ -137,7 +137,7 @@ main {
   }
 
   em {
-    color: color.adjust(#d4d4d8, $lightness: 5%);
+    color: var(--color-muted);
   }
 
   ul,
@@ -347,5 +347,63 @@ main {
     height: 40%;
     background: linear-gradient(180deg, transparent 0%, var(--color-glass-fallback) 100%);
     pointer-events: none;
+  }
+}
+
+// --- Search page ---
+
+#js-search {
+  #search-form {
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 1.1rem;
+    }
+  }
+
+  #search-input {
+    width: 100%;
+    font: inherit;
+    font-size: 1.1rem;
+    padding: 0.65rem 1rem;
+    background: var(--color-input-bg);
+    border: 1px solid var(--color-glass-edge);
+    border-radius: 10px;
+    color: var(--color-heading);
+    outline: none;
+  }
+
+  #search-hint {
+    display: block;
+    margin-top: 0.4rem;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+  }
+
+  noscript p {
+    color: var(--color-muted);
+  }
+
+  #search-results {
+    margin-top: 2rem;
+
+    p {
+      color: var(--color-muted);
+    }
+
+    article {
+      margin-bottom: 1.25rem;
+
+      a {
+        font-size: 1.15rem;
+        font-weight: 700;
+      }
+
+      p {
+        margin: 0.25rem 0 0;
+        font-size: 0.95rem;
+        color: var(--color-muted);
+      }
+    }
   }
 }

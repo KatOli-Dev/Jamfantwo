@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="{{ site.lang | default: 'en' }}">
   <head>
     <title>
       {% if page.url == '/' %}{{ site.title | escape }}{% else %}{{ page.title | default: site.title | escape }} - {{ site.initials | escape }}{% endif %}
@@ -50,16 +50,7 @@
 {%- for crumb in crumbs %}
   {%- if crumb != '' and crumb != 'content' %}
     {%- assign cum_url = cum_url | append: '/' | append: crumb %}
-    {%- assign label_parts = crumb | replace: '-', ' ' | split: ' ' %}
-    {%- assign label = '' %}
-    {%- for word in label_parts %}
-      {%- assign capped = word | capitalize %}
-      {%- if forloop.first %}
-        {%- assign label = capped %}
-      {%- else %}
-        {%- assign label = label | append: ' ' | append: capped %}
-      {%- endif %}
-    {%- endfor %}
+    {%- capture label -%}{%- for w in crumb | replace: '-', ' ' | split: ' ' -%}{{ w | capitalize }} {% endfor -%}{%- endcapture -%}{%- assign label = label | rstrip -%}
     {%- if forloop.last %}
           <li aria-current="page">{{ page.title }}</li>
     {%- else %}

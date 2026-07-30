@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Still Flame
-description: "The Still Flame is the faith of the hearth and the temple, a tradition that honours the one Flame manifest in every fire, observed both through the simple tending of the household hearth and the formal rites of the institutional church."
+description: "The Still Flame is the faith of hearth and temple, honouring the one Flame manifest in every fire, observed through the tending of the household hearth and formal rites of the institutional church."
 ---
 
 ## The Faith of the Hearth and the Temple
