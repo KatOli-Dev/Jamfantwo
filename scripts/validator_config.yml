@@ -47,7 +47,7 @@ link_text_exceptions:
     - pattern: '\Amoney-changers\z'
       note: 'colloquial term for the dealers in currency and exchange'
 
-# Style constraints: patterns banned by structure.md.
+# Style constraints: patterns banned by the content-page skill.
 # Each entry is a regex matched against a single body line. If any pattern
 # matches, the validator emits a failure with the provided note.
 style_constraints:

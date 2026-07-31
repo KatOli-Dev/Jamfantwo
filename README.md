@@ -36,7 +36,6 @@ The site will be available at `http://localhost:4000`. Uses a custom SASS theme 
 │   ├── religion/     # Faiths and beliefs
 │   └── species/      # Non-human peoples and creatures
 ├── scripts/          # Tooling (validator, etc.)
-├── structure.md      # Style guide and content rules
 └── temp/             # Scratch files (gitignored)
 ```
 
@@ -56,7 +55,7 @@ Runs against source files only; does not require a Jekyll build.
 
 ## Style Guide
 
-See [`structure.md`](structure.md) for the full style guide. Key constraints:
+Content rules are defined in the `content-page` skill at `.opencode/skills/content-page/SKILL.md`. Key constraints:
 
 - At least 1,000 words of body prose per page
 - No dead links (mention in plain text until the page exists)

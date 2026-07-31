@@ -26,7 +26,7 @@
   header .brand,
   header ul > li > a,
   header .dropdown-toggle {
-    background: rgba(255, 255, 255, 0.06) !important;
+    background: var(--color-glass) !important;
   }
 
   header .dropdown-menu {

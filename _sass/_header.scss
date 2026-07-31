@@ -6,7 +6,7 @@ header {
   padding: 0.85rem $spacing;
   position: relative;
   z-index: 100;
-  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.28);
+  box-shadow: var(--color-header-shadow);
 
   &::before {
     content: "";
@@ -47,13 +47,13 @@ header {
     display: inline-flex;
     align-items: center;
     background:
-      linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.04) 100%),
-      rgba(255, 255, 255, 0.06);
+      linear-gradient(180deg, var(--color-glass-highlight) 0%, var(--color-glass) 100%),
+      var(--color-glass-strong);
     border: 1px solid var(--color-glass-edge);
     border-radius: $radius-chip;
     box-shadow:
-      inset 0 1px 0 rgba(255, 255, 255, 0.22),
-      0 4px 12px rgba(0, 0, 0, 0.22);
+      inset 0 1px 0 var(--color-glass-highlight),
+      var(--color-brand-shadow);
     transition: color 0.2s ease, transform 0.2s ease;
     position: relative;
 
@@ -85,13 +85,13 @@ header {
       display: inline-flex;
       align-items: center;
       min-height: $min-tap;
-      color: rgba(255, 255, 255, 0.78);
+      color: var(--color-text);
       text-decoration: none;
       font-size: 0.95rem;
       padding: 0.4rem 0.9rem;
       background:
-        linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
-        rgba(255, 255, 255, 0.04);
+        linear-gradient(180deg, var(--color-glass-strong) 0%, var(--color-glass-soft) 100%),
+        var(--color-glass);
       border: 1px solid var(--color-glass-edge-soft);
       border-radius: $radius-chip;
       transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
@@ -100,8 +100,8 @@ header {
       &:focus {
         color: var(--color-heading);
         background:
-          linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
-          rgba(255, 255, 255, 0.08);
+          linear-gradient(180deg, var(--color-glass-hover) 0%, var(--color-glass) 100%),
+          var(--color-glass-strong);
         border-color: var(--color-glass-edge);
         transform: translateY(-1px);
       }
@@ -125,13 +125,13 @@ header {
         align-items: center;
         gap: 0.35rem;
         min-height: $min-tap;
-        color: rgba(255, 255, 255, 0.78);
+        color: var(--color-text);
         text-decoration: none;
         font-size: 0.95rem;
         padding: 0.4rem 0.9rem;
         background:
-          linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
-          rgba(255, 255, 255, 0.04);
+          linear-gradient(180deg, var(--color-glass-strong) 0%, var(--color-glass-soft) 100%),
+          var(--color-glass);
         border: 1px solid var(--color-glass-edge-soft);
         border-radius: $radius-chip;
         transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
@@ -142,8 +142,8 @@ header {
         &:focus {
           color: var(--color-heading);
           background:
-            linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
-            rgba(255, 255, 255, 0.08);
+            linear-gradient(180deg, var(--color-glass-hover) 0%, var(--color-glass) 100%),
+            var(--color-glass-strong);
           border-color: var(--color-glass-edge);
           transform: translateY(-1px);
         }
@@ -172,13 +172,13 @@ header {
         min-width: 520px;
         background:
           radial-gradient(ellipse 80% 60% at 30% 30%, rgba(226, 176, 74, 0.06) 0%, transparent 70%),
-          linear-gradient(180deg, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.02) 100%),
+          linear-gradient(180deg, var(--color-glass-strong) 0%, var(--color-glass-soft) 100%),
           var(--color-bg-2);
         border: 1px solid var(--color-glass-edge);
         border-radius: $radius-card;
         box-shadow:
-          inset 0 1px 0 rgba(255, 255, 255, 0.12),
-          0 12px 32px rgba(0, 0, 0, 0.5);
+          inset 0 1px 0 var(--color-glass-highlight),
+          var(--color-dropdown-shadow);
         list-style: none;
         opacity: 0;
         visibility: hidden;
@@ -229,7 +229,7 @@ header {
             display: block;
             padding: 0.3rem 0.4rem;
             font-size: 0.9rem;
-            color: rgba(255, 255, 255, 0.7);
+            color: var(--color-text);
             text-decoration: none;
             border-radius: 6px;
             border: 1px solid transparent;
@@ -239,8 +239,8 @@ header {
 
             &:hover,
             &:focus {
-    color: var(--color-heading);
-              background: rgba(255, 255, 255, 0.05);
+              color: var(--color-heading);
+              background: var(--color-glass);
               border-color: var(--color-glass-edge-soft);
               transform: none;
             }
@@ -260,8 +260,8 @@ header {
     height: 44px;
     padding: 8px;
     background:
-      linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%),
-      rgba(255, 255, 255, 0.04);
+      linear-gradient(180deg, var(--color-glass-strong) 0%, var(--color-glass-soft) 100%),
+      var(--color-glass);
     border: 1px solid var(--color-glass-edge-soft);
     border-radius: $radius-chip;
     cursor: pointer;
@@ -271,8 +271,8 @@ header {
     &:hover,
     &:focus {
       background:
-        linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
-        rgba(255, 255, 255, 0.08);
+        linear-gradient(180deg, var(--color-glass-hover) 0%, var(--color-glass) 100%),
+        var(--color-glass-strong);
       border-color: var(--color-glass-edge);
     }
 
@@ -285,7 +285,7 @@ header {
       display: block;
       width: 22px;
       height: 2px;
-      background: rgba(255, 255, 255, 0.78);
+      background: var(--color-text);
       border-radius: 1px;
       transition: transform 0.2s ease, opacity 0.2s ease;
     }
@@ -323,15 +323,15 @@ header {
     border-radius: $radius-chip;
     cursor: pointer;
     font-family: inherit;
-    color: rgba(255, 255, 255, 0.78);
+    color: var(--color-text);
     transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
 
     &:hover,
     &:focus {
       color: var(--color-heading);
       background:
-        linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.04) 100%),
-        rgba(255, 255, 255, 0.08);
+        linear-gradient(180deg, var(--color-glass-hover) 0%, var(--color-glass) 100%),
+        var(--color-glass-strong);
       border-color: var(--color-glass-edge);
     }
 
