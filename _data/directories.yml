@@ -1,0 +1,121 @@
+# Descriptions for content directories.
+# Each key is a directory path relative to the project root (without trailing slash).
+# The `description` appears on the generated index page beneath the title.
+# The optional `title` overrides the auto-generated title.
+#
+# Example:
+#
+#   content/species/sapient:
+#     title: Sapient Species
+#     description: The thinking peoples of the known world.
+
+content/species:
+  description: The living things of the known world, from sapient peoples to the creatures and plants that share the land.
+
+content/species/sapient:
+  description: The thinking peoples of the known world, from humans and elves to anurans and corvids.
+
+content/art:
+  description: The arts, crafts, and creative traditions practised across the known world.
+
+content/culture:
+  description: The customs, festivals, rites, and daily traditions of the peoples of the known world.
+
+content/economy:
+  description: The trade goods, industries, and economic systems that connect the peoples of the known world.
+
+content/government:
+  description: The political structures, governance, and institutions of the peoples of the known world.
+
+content/government/local:
+  description: The local and municipal forms of governance found across the known world.
+
+content/government/national:
+  description: The great realms, leagues, and confederations that rule the nations of the known world.
+
+content/history:
+  description: The recorded events, eras, and turning points of the known world's past.
+
+content/language:
+  description: The languages and writing systems of the known world, both spoken and constructed.
+
+content/language/pseudo:
+  description: Constructed and invented languages devised for the peoples of the known world.
+
+content/language/spoken:
+  description: The spoken tongues of the known world and the peoples who use them.
+
+content/law:
+  description: The legal traditions, codes, and systems of justice practised across the known world.
+
+content/location:
+  description: The places of the known world, from continents and natural features to settlements and trade routes.
+
+content/location/natural:
+  description: The natural geography of the known world, including continents, ecosystems, and landforms.
+
+content/location/natural/continent:
+  description: The great landmasses of the known world and the peoples who inhabit them.
+
+content/location/natural/ecosystem:
+  description: The great ecosystems and biomes of the known world, from forests to grasslands.
+
+content/location/natural/feature:
+  description: The rivers, mountains, seas, and other natural features that shape the known world.
+
+content/location/route:
+  description: The roads, trade routes, and passages that connect the peoples of the known world.
+
+content/location/route/trade:
+  description: The great trade routes along which the goods and wealth of the known world move.
+
+content/location/settlement:
+  description: The settlements of the known world, from great cities to remote outposts.
+
+content/location/settlement/city:
+  description: The great cities of the known world, their peoples, commerce, and governance.
+
+content/location/settlement/outpost:
+  description: The remote outposts and frontier stations at the edges of the known world.
+
+content/location/settlement/region:
+  description: The broad regions and territories of the known world, defined by geography and culture.
+
+content/location/settlement/town:
+  description: The towns of the known world, serving as centres of trade and administration for their surroundings.
+
+content/location/settlement/village:
+  description: The villages and small communities that form the foundation of settled life in the known world.
+
+content/magic:
+  description: The Art and its workings, the principles of resonance and pattern, and the laws governing magic.
+
+content/magic/law:
+  description: The principles, theories, and natural laws underlying the practice of the Art.
+
+content/magic/relic:
+  description: The relics and artefacts whose patterns have been reshaped by the workings of the Art.
+
+content/military:
+  description: The martial traditions, forces, and conflicts of the peoples of the known world.
+
+content/mythology:
+  description: The myths, legends, and cosmic beliefs of the peoples of the known world.
+
+content/species/fauna:
+  description: The animals and creatures of the known world, both common and legendary.
+
+content/species/flora:
+  description: The plants, trees, and growing things of the known world.
+
+content/people:
+  description: The individuals of the known world, from notable figures to figures of history.
+
+content/people/historical:
+  description: The figures of history whose deeds shaped the events of the known world.
+
+content/people/notable:
+  description: The notable individuals of the present age, known across the known world.
+
+content/religion:
+  description: The religions, orders, and spiritual traditions of the peoples of the known world.

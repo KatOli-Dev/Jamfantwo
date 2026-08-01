@@ -1,0 +1,47 @@
+---
+layout: default
+title: Eel
+description: "The eel is the snake-like fish of the Greywash Reed Marshes, caught in the mud and channels of the marsh and valued for the rich and oily flesh."
+---
+
+## The Eels of the Reed Marshes
+
+The eel is the most valued of the fish that the marsh communities catch, and the eel is the creature of the mud and the slow waters of the Greywash.
+
+The eels of the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) are the fish that are caught in the channels and the pools of the marsh. The eel is a long and snake-like fish that lives in the mud and the vegetation of the marsh, and the eel is caught in the traps that are set in the channels.
+
+## Physical Characteristics
+
+The eel is the long and the snake-like fish that measures between the two and the four feet in the length and that weighs between the one and the five pounds in the adult, and the eel is the fish that is the most distinctive in the appearance of the fish of the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash). The body of the eel is the elongated and the cylindrical body that is the body that is the body that is the body that is the covered in the small and the embedded scales that are the scales that are the scales that are the scales that are the scales that are the scales that are the scales that are not visible to the eye.
+
+The skin of the eel is the skin that is the dark and the slimy skin that is the skin that is the skin that is the protection of the animal against the abrasion and the infection that are the hazards of the life in the mud and the vegetation of the marsh. The slime of the eel is the secretion that is the secretion that is the secretion that is the most characteristic of the features of the fish, and the slime is the secretion that is the secretion that makes the eel the fish that is the most difficult to hold and the fish that is the most difficult to handle.
+
+The fins of the eel are the fins that are the small and the continuous fins that are the fins that are the fins that are the fins that are the fins that are the fins that run along the back and the belly of the fish, and the fins are the fins that are the fins that are the fins that are the fins that are the fins that are the fins that are the propulsion of the fish through the water. The eel is the fish that is the fish that is the swimmer of the undulating motion that is the motion that is the motion that is the motion that is the motion that is the motion that is the most efficient of the motions of the fish in the mud and the vegetation of the marsh.
+
+## The Life Cycle of the Eel
+
+The eel is the fish that has the life cycle that is the most mysterious of the life cycles of the fish of the known world, and the eel is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that spawns in the sea and returns to the marsh. The eel that lives in the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) is the eel that is the eel that descends to the [Greyring Ocean](/content/location/natural/feature/greyring-ocean) in the autumn to spawn in the deep water that is the water that is the water that is the water that is the spawning ground of the eel.
+
+The eel that spawns in the sea is the eel that is the eel that dies after the spawning, and the eggs that are the eggs that are the eggs that are released into the water are the eggs that are the eggs that are the eggs that hatch into the larvae that are the larvae that are the larvae that are the transparent and the leaf-shaped larvae that are the larvae that drift with the current. The larvae that are the larvae that are the larvae that are the larvae that are the larvae that are the larvae that develop into the young eels that are the eels that are the eels that ascend the rivers and the marshes in the spring.
+
+The eel that ascends the river is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that lives in the marsh for the years of the growth and the development. The eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that returns to the sea to spawn is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that has lived for the ten or the fifteen years in the marsh.
+
+## The Catching of the Eel
+
+The eels of the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) are the fish that are caught in the channels and the pools of the marsh, and the eel is the fish that is caught in the traps that are set in the channels. The traps that are used for the eel are the traps that are the traps that are the traps that are the pots and the nets and the weirs that are the traps that are the traps that are the traps that are the most effective for the eel that is the fish that is the fish that is the fish that is the fish that lives in the mud and the vegetation of the marsh.
+
+The eel is also caught by the [fishing-and-whaling](/content/economy/fishing-and-whaling) methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are the line and the hook that are the methods that are the methods that are the methods that are the methods that are the methods that are the methods that are used by the individual fishermen who fish the marsh. The eel that is caught by the line is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is taken at the night when the eel is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the eel that is the most active.
+
+## The Eel in the Economy and the Culture
+
+The eel is valued for the rich and oily flesh, and the eel is eaten fresh in the season and smoked for the preservation. The smoked eel of the Greywash is exported to the markets of the coastal cities, where the eel is valued by the connoisseurs of the fish. The eel is the fish that is the food that is the most valued of the foods that are the foods that are the foods of the marsh communities, and the eel is the fish that is the fish that is the fish that is the fish that is the fish that is the source of the income for the marsh communities that catch the eel.
+
+The [guilds](/content/economy/guilds) of the fishermen regulate the catching of the eel and the trade in the eel and the eel products, and the guilds set the standards for the quality and the packaging of the fish that is sold in the markets. The eel is the fish that is the subject of the [trade-and-tariffs](/content/economy/trade-and-tariffs) that govern the trade in the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is exported from the Greywash to the coastal cities.
+
+The eel is the fish that is the subject of the [Coastal Life in Nordhaven](/content/culture/coastal-life-in-nordhaven) traditions of the northern peoples, and the eel is the fish that is the symbol of the marsh and the muddy water in the culture of the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) communities. The eel is the fish that is the subject of the [tide-reading](/content/culture/tide-reading) that is the practice of the coastal peoples who read the movements of the marine life, and the eel is the fish that is the indicator of the season and the movement of the water.
+
+## The Distribution of the Eel
+
+The eel is the fish that is found in the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) and the rivers and the estuaries that are the waters that are the waters that are the waters that are the waters that are connected to the [Greyring Ocean](/content/location/natural/feature/greyring-ocean). The eel is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is the fish that is found in the marshes and the rivers of the [Aethelar](/content/location/natural/continent/aethelar) continent and the [Morvind](/content/location/natural/continent/morvind) continent.
+
+The eel is not the fish of the [Auric Ocean](/content/location/natural/feature/auric-ocean) and the [Sahrana](/content/location/natural/continent/sahrana) continent, for the eel is the fish of the cold and the temperate waters and the eel is the fish that is the fish that is the fish that does not thrive in the warm waters of the south. The eel is the fish that is the fish that is the fish that is the fish that is the fish that is the most abundant in the [Greywash Reed Marshes](/content/location/natural/ecosystem/reed-marshes-of-the-greywash) that are the marshes that are the marshes that are the marshes that are the most extensive of the marshes of the known world.

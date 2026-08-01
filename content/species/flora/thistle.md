@@ -1,0 +1,49 @@
+---
+layout: default
+title: Thistle
+description: "The thistle is the most widespread weed of the Aethelaran wheat and barley fields, its prickly shoots edible and its flowers feeding the bees of the region."
+---
+
+The thistle is the most widespread weed of the wheat and barley fields of Aethelar, a prickly plant whose deep roots compete with the crops for water and nutrients but whose young shoots are edible and whose flowers provide nectar for the bees of the honey-makers.
+
+## The Thistle of the Fields of Aethelar
+
+The thistle that grows in the fields of [Aethelar](/content/location/natural/continent/aethelar) is the most widespread of the weeds of the cultivated land, and the thistle is a constant presence in the fields of the wheat and the barley that the farmers of the region cultivate. The thistle is a prickly plant that produces a deep root system that competes with the crops for the water and the nutrients of the soil, and the thistle also produces the seeds that are spread by the wind and that germinate in the disturbed soil of the cultivated fields.
+
+The control of the thistle is achieved by the repeated cutting of the plant before the flowers produce the seeds, and the farmers of [Aethelar](/content/location/natural/continent/aethelar) have developed the technique of the summer fallow that involves the ploughing of the field in the summer to destroy the thistles and the other weeds that have grown in the field. The fallow is left without a crop for a season, and the repeated ploughing of the fallow eliminates the thistles and the other perennial weeds that the cultivation of the crop cannot control.
+
+The thistle of the Aethelaran fields is not without its uses, for the young shoots of the thistle are edible and the leaves of the thistle are used in the preparation of the rennet that is used in the making of the cheese. The thistle is also valued by the beekeepers, for the flowers of the thistle produce the nectar that the bees use in the production of the honey.
+
+## Physical Characteristics
+
+The thistle is a biennial plant that in the first year produces a rosette of the prickly leaves that lie close to the ground, and in the second year the plant sends up the flowering stem that reaches a height of three to five feet in the mature specimens. The stem of the thistle is winged and spiny, the wings being the extensions of the leaf bases that run along the length of the stem and that give the stem the armoured appearance that deters the grazing animals from browsing the plant. The leaves of the thistle are deeply lobed and the margins of the lobes are armed with the sharp spines that are the principal defence of the plant against the herbivores that would consume it.
+
+The flower of the thistle is a composite head that is produced at the apex of the stem and the branches, the head being a globe of the numerous florets that are surrounded by the bracts that are tipped with the spines. The flower of the thistle is a deep purple in the most common variety, the colour being intense and the head being conspicuous in the field where the thistle has been allowed to grow. The seeds of the thistle are small and light, each seed being equipped with the pappus that catches the wind and carries the seed across the field and the surrounding land, the wind dispersal being the means by which the thistle colonises the new ground and the disturbed soil.
+
+## Weed Control and Agriculture
+
+The thistle is the most troublesome of the weeds that the farmers of [Aethelar](/content/location/natural/continent/aethelar) must contend with, the deep root system of the plant making the thistle resistant to the methods of the control that are effective against the annual weeds. The root of the thistle extends to a depth of several feet in the soil, and the root produces the buds that give rise to the new shoots when the original plant has been cut or the root has been broken by the plough. The fragments of the root that the plough leaves in the soil are capable of the regeneration, and the cultivation that is intended to destroy the thistle may instead spread the plant through the field if the root fragments are distributed by the ploughing.
+
+The summer fallow is the most effective of the methods that the farmers use for the control of the thistle, the repeated ploughing of the fallow exposing the roots to the drying of the sun and the desiccation that kills the root tissue. The fallow is ploughed at intervals of two to three weeks through the summer, each ploughing bringing the new roots to the surface and the exposure to the dry air killing the tissue that the previous ploughing has missed. The farmers of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) and the other wheat-growing regions of Aethelar have refined the technique of the summer fallow over the centuries of the practice, and the fallow year is a recognised part of the rotation that the farmers follow to maintain the productivity of the land.
+
+## Edible Uses
+
+The young shoots of the thistle are edible and have been gathered from the fields for the preparation of the dishes that the rural households of [Aethelar](/content/location/natural/continent/aethelar) produce. The shoots are harvested in the early spring when the plant has produced the new growth and the spines have not yet hardened, the shoots being cut below the surface of the soil to include the tender portion of the stem that is below the ground. The shoots are peeled to remove the spiny exterior and the tender interior is boiled or steamed and served with the butter and the salt that the rural households have in the supply.
+
+The roots of the thistle in the first year of the growth are also edible, the root being dug in the autumn of the first year and prepared by the boiling or the roasting that the rural cooks use for the [root vegetables](/content/species/flora/root-vegetable). The root of the thistle is said to have a flavour that is similar to the flavour of the [Cardamom](/content/species/flora/cardamom), the two plants being related, and the root is valued in the regions where the thistle is abundant and the other vegetables are scarce in the late autumn and the winter.
+
+## The Thistle and the Bees
+
+The thistle is valued by the beekeepers of [Aethelar](/content/location/natural/continent/aethelar) for the nectar that the flowers produce in the abundance, the nectar being the source of the honey that the [honey bees](/content/species/fauna/honey-bee) collect from the thistle heads in the late summer. The honey that is produced from the thistle nectar is a dark and the strongly flavoured honey that is prized by the consumers who prefer the robust honeys over the lighter varieties that the other flowers produce. The thistle honey is among the last of the honeys that the bees produce in the season, the thistle flowering in the late summer and the early autumn when the other sources of the nectar have faded.
+
+The beekeepers of the [Northern Marches](/content/government/national/northern-marches) and the other regions of Aethelar maintain the hives in the locations that are near the fields where the thistle is abundant, the proximity of the thistle ensuring that the bees have the access to the nectar that the flowers provide. The beekeepers do not cultivate the thistle, for the plant is a weed that the farmers seek to eradicate, but the beekeepers value the presence of the thistle in the fallow fields and the margins of the cultivated land where the plant persists despite the efforts of the farmers to control it.
+
+## The Thistle in Cheese Making
+
+The flowers of the thistle are used in the preparation of the rennet that is the agent of the coagulation of the milk in the making of the cheese, the flowers containing the enzymes that cause the milk to curdle and the curds to form. The thistle rennet is used in the regions of [Aethelar](/content/location/natural/continent/aethelar) where the animal rennet is not available or where the tradition of the vegetable rennet is preferred, the cheeses that are produced with the thistle rennet having a character that is distinct from the cheeses that are produced with the animal rennet.
+
+The thistle flowers are collected in the late summer when the heads are in the full bloom, the flowers being dried and stored for the use in the cheese making that continues through the autumn and the winter. The dried flowers are ground to a powder that is steeped in the warm water to extract the enzymes, the extract being added to the milk in the quantity that the cheese maker determines by the experience and the tradition. The cheeses that are produced with the thistle rennet are the specialty of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) and the other regions where the thistle is abundant and the tradition of the vegetable rennet is maintained.
+
+## Cultural Significance
+
+The thistle has a place in the folklore and the symbolism of the [Aethelari](/content/language/spoken/aethelari) peoples that is out of proportion to the nuisance that the plant causes to the farmers, the thistle being associated with the qualities of the resilience and the determination that the plant embodies. The thistle is the emblem of the [Northern Marches](/content/government/national/northern-marches), the plant being chosen for the symbol of the region because the thistle represents the hardiness and the defiance that the northern peoples value. The [folk omens and superstitions](/content/mythology/folk-omens-and-superstitions) of the rural communities include the belief that the thistle growing tall at the door of the house is the sign of the prosperity that the year will bring, the vigour of the thistle being the indicator of the fertility of the soil that the farm occupies.

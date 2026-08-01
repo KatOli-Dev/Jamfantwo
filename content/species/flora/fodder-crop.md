@@ -1,0 +1,43 @@
+---
+layout: default
+title: Fodder Crop
+description: "The turnips and oats grown by the northern farmers of Aethelar and Morvind to feed the animals through the long winter months."
+---
+
+The farmers of the northern regions of [Aethelar](/content/location/natural/continent/aethelar) and [Morvind](/content/location/natural/continent/morvind) grow the fodder crops that provide the feed for the animals through [the long winter](/content/history/the-long-winter) months.
+
+## The Fodder Crops of the Northern Farms
+
+The turnip is the most common of the fodder crops, and the turnip is sown in the spring and harvested in the autumn for the storage in the cellars and the pits that keep the roots fresh through the winter.
+
+The oat is grown as a fodder crop in the northern regions, and the oat is cut and fed to the animals as the green fodder in the summer and as the dried straw in the winter. The oat is also grown for the grain that is fed to the [Horse](/content/species/fauna/horse) and the other working animals that require the concentrated energy of the grain for the work that they perform.
+
+## The Turnip as the Winter Feed
+
+The turnip is the foundation of the winter feeding of the livestock in the northern regions, the root being rich in the moisture and the nutrients that the animals need to maintain the condition through the months when the pasture is buried under the snow. The turnip is sown in the late spring after the ground has warmed and the danger of the frost has passed, the seed being broadcast in the prepared fields and covered with a light layer of the soil. The turnip grows through the summer, the root swelling as the season progresses, and the turnip is harvested in the autumn before the first hard frost that would damage the roots that are left in the ground.
+
+The harvested turnips are stored in the cellars and the pits that are dug in the ground and lined with the straw, the roots being piled in the pits and covered with the layers of the straw and the earth that protect them from the frost and the damp. The turnips will keep for months in the cool and dark conditions of the pit, and the farmer who has stored a sufficient quantity of the turnips can feed the [cattle](/content/species/fauna/cattle) and the [sheep](/content/species/fauna/sheep) through the winter without the loss of the condition that would result from the poor feeding. The turnips are fed to the animals by the chopping of the roots and the mixing of the pieces with the straw and the hay, the mixture being placed in the troughs that the animals eat from in the byres and the sheds.
+
+## The Oat as the Fodder Grain
+
+The oat is the other principal fodder crop of the northern regions, the grain being valued for the concentrated energy that it provides to the working animals that labour through the winter. The oat that is grown for the fodder is harvested and threshed in the same manner as the oat that is grown for the human consumption, and the grain is stored in the sacks and the bins that keep it dry and free from the pests that would consume it. The oat grain is fed to the [Horse](/content/species/fauna/horse) and the [oxen](/content/species/fauna/oxen) that pull the wagons and the ploughs, and the working animals that receive the oat grain in their feed maintain the strength and the stamina that the work demands.
+
+The oat straw that remains after the threshing of the grain is also used as the fodder, the straw being mixed with the hay and the turnips to provide the bulk that the animals need in their diet. The oat straw is not as nutritious as the hay, but the straw is a useful supplement that extends the supply of the hay and provides the bedding that the animals need in the byres and the stalls. The farmers of the northern regions value the oat for the multiple uses that the crop provides, and the oat is a staple of the fodder cropping system that has been developed over the centuries of the farming in the cold and the wet conditions of the north.
+
+## Other Fodder Crops of the Northern Regions
+
+The fodder crops of the northern regions are not limited to the turnip and the oat, and the farmers who specialise in the livestock production also grow the other crops that supplement the winter feeding of the animals. The [Root Vegetable](/content/species/flora/root-vegetable) is a root crop that is similar to the turnip but larger and more productive, the mangel being sown in the spring and harvested in the autumn and stored in the same manner as the turnip. The mangel is a crop that is more common in the lowland regions where the soil is deep and the growing season is longer, and the mangel is valued for the large yield that the crop produces in the favourable conditions.
+
+The [hay crop](/content/species/flora/hay-crop) is the other essential component of the winter feeding, the hay being the dried grass that is cut from the meadows in the summer and stored in the barns for the winter. The hay is the foundation of the winter diet of the [cattle](/content/species/fauna/cattle) and the [sheep](/content/species/fauna/sheep), and the farmer who has a good supply of the hay and the turnips and the oat grain can carry the livestock through the winter without the losses that would result from the inadequate feeding. The combination of the hay and the roots and the grain is the system of the winter feeding that has been developed by the northern farmers over the centuries, and the system is the foundation of the [livestock and herding](/content/economy/livestock-and-herding) economy of the northern regions.
+
+## The Crop Rotation and the Soil
+
+The fodder crops are an essential component of the crop rotation that the northern farmers practice, the turnip and the oat being the crops that are grown in the years when the land is rested from the wheat and the barley. The turnip is a crop that is grown in the first year of the rotation, the root breaking up the soil and the cultivation of the turnip providing the opportunity for the weeding and the cleaning of the land that improves the conditions for the following crop. The oat is grown in the second year of the rotation, the grain being the crop that follows the turnip and that benefits from the clean and the well-prepared soil that the turnip year has provided.
+
+The rotation of the fodder crops and the grain crops is the system that has been developed by the farmers of the northern regions to maintain the fertility of the soil and to control the weeds and the pests that would reduce the yields of the crops. The rotation is a practice that is recommended by the [guilds](/content/economy/guilds) of the agricultural advisors who study the methods of the farming, and the farmers who follow the rotation consistently achieve the higher yields and the better quality than the farmers who do not. The rotation is also a practice that is enforced by the landowners who lease the land to the tenant farmers, the terms of the lease specifying the rotation that the tenant must follow to maintain the productivity of the land.
+
+## The Storage and the Byres
+
+The storage of the fodder crops is a major undertaking that occupies the farmers in the autumn, the roots and the grain and the hay being gathered and stored in the buildings and the pits that are prepared for the purpose. The byres and the sheds where the animals are housed through the winter are the structures that are essential to the system of the winter feeding, and the construction and the maintenance of the byres is a significant part of the work of the farmer in the months before the winter arrives. The byres are built of the stone and the timber that are available in the region, the walls being thick and the roofs being pitched to shed the snow, and the interiors being fitted with the troughs and the stalls that hold the animals and the feed.
+
+The [long winter](/content/history/the-long-winter) that afflicts the northern regions is the challenge that the fodder cropping system is designed to meet, and the farmer who has prepared the fodder crops and the storage and the byres is the farmer who survives the winter without the losses that would ruin the less prepared. The winter feeding of the livestock is the most demanding and the most critical of the tasks that the northern farmer faces, and the farmer who carries the animals through the winter in good condition is the farmer who will sell the stock at the good prices in the spring markets. The fodder crops are the foundation of the northern farming economy, and the cultivation and the storage of the fodder is the work that defines the rhythm of the farming year in the cold and the wet regions of Aethelar and Morvind.

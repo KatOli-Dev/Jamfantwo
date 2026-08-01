@@ -1,0 +1,45 @@
+---
+layout: default
+title: Sunvine
+description: "A trailing vine of the Sunfire Steppe that absorbs and concentrates sunlight, its sap distilled by alchemists for light-based spells and foci."
+---
+
+## The Sunvine and the Concentrated Light
+
+The sunvine is a plant that grows in the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe) of [Sahrana](/content/location/natural/continent/sahrana), a trailing vine that produces the small and golden flowers that open in the full heat of the day. The sunvine absorbs the light of the sun and concentrates the energy in the leaves and the stems, and the plant that is harvested at the right moment yields a substance that is used in the preparation of the light-based spells of the Art.
+
+The sap of the sunvine is collected by the alchemists of the [Sahrani](/content/language/spoken/sahrani) coast, who cut the stems of the vine in the early morning and collect the sap that drips from the cut. The sap is distilled and concentrated into a viscous liquid that glows with a faint internal light, and the liquid is used in the construction of the foci that channel the energy of the sun.
+
+The trade in the sunvine sap is regulated by the [Vashari Pact](/content/government/national/vashari-pact), which controls the access to the regions where the sunvine grows and the routes by which the sap is transported to the markets of the coast.
+
+## Physical Characteristics
+
+The sunvine is a trailing plant that spreads across the ground in the open areas of the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe), the stems of the vine extending to a length of six to ten feet in the mature specimens and rooting at the nodes where the stem touches the ground. The leaves of the sunvine are small and thick, the surface of the leaf being covered with a fine and reflective pubescence that gives the plant a silvery appearance in the bright light of the day. The leaves of the sunvine are oriented to face the sun throughout the day, the petioles of the leaves turning to track the movement of the sun across the sky, and the leaves are the principal organs of the light absorption that the plant performs.
+
+The flowers of the sunvine are small and golden, the petals being no more than a quarter of an inch in the diameter and the flower being open only in the hours of the brightest sunlight. The flowers produce a nectar that is collected by the bees and the other insects of the steppe, and the nectar is said to have the property of the sunvine in the miniature, the flavour being warm and golden and the effect being a mild stimulation that the steppe peoples attribute to the concentrated light. The fruit of the sunvine is a small and dry capsule that splits open when the seeds are mature, the seeds being dispersed by the wind that carries them across the steppe.
+
+## Habitat and Distribution
+
+The sunvine is found in the open and the sun-exposed areas of the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe), the vine requiring the direct and the intense sunlight that the steppe provides for the growth and the production of the sap that the alchemists collect. The sunvine is not found in the shaded areas beneath the [acacia](/content/species/flora/acacia) trees or in the sheltered areas where the other plants of the steppe find protection from the heat, for the sunvine is a plant that thrives in the conditions that the other plants find intolerable.
+
+The distribution of the sunvine is limited to the regions of the steppe where the soil is the sandy loam that drains rapidly after the seasonal rains, the vine being unable to tolerate the waterlogged conditions that the heavier soils produce. The sunvine is most abundant in the central and the eastern parts of the steppe, the regions that receive the greatest intensity of the sunlight and the least interference from the cloud cover that the coastal influence produces. The [Vashari Pact](/content/government/national/vashari-pact) controls the access to the regions where the sunvine grows, and the collection of the sap is restricted to the licensed harvesters who operate under the regulations that the Pact has established.
+
+## Alchemical Processing
+
+The sap of the sunvine is processed by the alchemists of the [Sahrani](/content/language/spoken/sahrani) coast in the laboratories that are equipped for the distillation and the concentration of the magical materials. The fresh sap is a thin and pale liquid that flows from the cut stems of the vine in the early morning, the sap being collected in the glass vessels that the harvesters place beneath the cuts. The sap is transported to the coastal laboratories in the sealed and the darkened containers that protect the sap from the light that would begin the degradation of the active compounds before the distillation is complete.
+
+The distillation of the sunvine sap is a process that requires the careful control of the temperature and the duration, the sap being heated in the distillation apparatus that the alchemists have designed for the purpose of the concentration. The distillate that emerges from the process is a viscous and the golden liquid that glows with the faint internal light that is the mark of the concentrated solar energy, the intensity of the glow being the measure of the quality and the potency of the distillate. The distillate is stored in the sealed glass vials that protect the liquid from the light and the air, and the vials are kept in the darkened chambers that the alchemists maintain for the storage of the sensitive materials.
+
+## Magical Applications
+
+The concentrated sap of the sunvine is used in the construction of the [Art and Craft in the Art](/content/magic/art-and-craft-in-the-art) foci that the mages use in the working of the light-based spells, the sap being incorporated into the lenses and the crystals that channel and the focus the energy of the light. The foci that are constructed with the sunvine sap are the most effective of the instruments that the mages use for the workings that involve the light, the concentrated solar energy of the sap amplifying the power and the precision of the spell that the mage directs through the focus.
+
+The sunvine sap is also used in the [enchantment and binding](/content/magic/enchantment-and-binding) of the objects that are intended to carry the properties of the light, the sap being applied to the surface of the object in the ritual that binds the energy of the sun to the material. The objects that are enchanted with the sunvine sap include the lamps that burn without the fuel and the weapons that carry the light of the sun into the darkness, and the enchantments that the sunvine sap supports are among the most durable and the most valued of the magical objects that the mages produce.
+
+The mages of the [Southern Reach Academy](/content/government/local/southern-reach-academy-council) have conducted the research into the properties of the sunvine sap, and the findings of the research have been published in the [experiment and theory](/content/magic/experiment-and-theory) literature that the Academy produces. The research has demonstrated that the sunvine sap contains the compounds that absorb and the store the solar energy in a form that is compatible with the magical energy that the mages channel, and the sap is the only known material that provides this function in the concentration that the magical applications require.
+
+## Trade and Regulation
+
+The trade in the sunvine sap is a significant component of the economy of the [Vashari Pact](/content/government/national/vashari-pact), the sap being among the most valuable of the products that the steppe yields. The [guilds](/content/economy/guilds) of the alchemists in the coastal cities are the principal buyers of the sap, and the [prices and livelihood](/content/economy/prices-and-livelihood) of the alchemical guilds are closely tied to the supply and the quality of the sunvine sap that the steppe provides. The regulation of the trade is the responsibility of the Pact authorities who license the harvesters and the traders, and the regulations are designed to prevent the over-harvesting that would deplete the wild population of the sunvine and the degradation of the sap that the improper handling would cause.
+
+The sunvine sap is exported from the [Sahrani](/content/language/spoken/sahrani) coast to the markets of the [Aethelari](/content/language/spoken/aethelari) cities and the [Morvindi](/content/language/spoken/morvindi) settlements, the sap being among the Sahrani products that are traded across the [Sahrani Desert Trail](/content/location/route/trade/sahrani-desert-trail) and the sea routes that connect the continents. The demand for the sunvine sap has increased in the recent years as the mages of the northern cities have adopted the light-based workings that the sap enables, and the Pact authorities have responded to the increased demand with the measures that protect the sustainability of the harvest.

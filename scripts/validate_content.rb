@@ -44,8 +44,8 @@ INDEX_PATH_RULES = [
   'content/law/',
   'content/military/',
   'content/mythology/',
-  ['content/nature/', 'flora'],
-  ['content/nature/', 'fauna'],
+  ['content/species/', 'flora'],
+  ['content/species/', 'fauna'],
   'content/religion/',
   'deity',
   'ideology',
@@ -70,7 +70,6 @@ INDEX_PATH_RULES = [
   ['content/location/', 'settlement/region'],
   ['content/people/', 'historical'],
   ['content/people/', 'notable'],
-  ['content/species/', 'beasts'],
   ['content/species/', 'sapient'],
 ].freeze
 
@@ -307,7 +306,9 @@ end
 def normalize_link_text(text)
   text.to_s.downcase
       .sub(/\A(the|a|an)\s+/, '')
-      .gsub(/[^\w\s]/, '')
+      .gsub('-', ' ')
+      .gsub("'", '')
+      .gsub(/[^\w\s]/, ' ')
       .gsub(/\s+/, ' ')
       .strip
 end

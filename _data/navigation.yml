@@ -15,8 +15,6 @@ groups:
         url: /content/geography/
       - title: Locations
         url: /content/location/
-      - title: Nature
-        url: /content/nature/
   - label: Society
     items:
       - title: Government

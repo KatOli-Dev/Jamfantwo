@@ -1,0 +1,47 @@
+---
+layout: default
+title: Walnut
+description: "The walnut tree of Aethelar's forests and Sahrana's gardens, whose husks produce a dark brown dye for the working-class cloth, ropes, and sails of the fishing fleets."
+---
+
+## Walnut
+
+The husk of the walnut produces a brown dye that is used in the dyeing of the cloth that is worn by the working classes of the three continents.
+
+The walnut tree grows in the forests of [Aethelar](/content/location/natural/continent/aethelar) and the cultivated gardens of [Sahrana](/content/location/natural/continent/sahrana), and the husks that surround the nuts are collected in the autumn when the nuts are harvested. The brown that the walnut husk produces is a dark and serviceable colour that does not show the dirt and the stains of the working life, and the cloth that is dyed with the walnut brown is the most common cloth of the labouring population. The walnut husk is also used in the dyeing of the ropes and the sails that the ships of the coastal cities use, and the brown sails of the fishing fleets are the result of the dyeing of the canvas with the walnut husk.
+
+## Physical Characteristics
+
+The walnut is a large deciduous tree that reaches a height of sixty to eighty feet in the mature specimens, the trunk being straight and the bark being a grey-brown that is deeply furrowed in the older trees. The crown of the walnut is broad and spreading, the branches being arranged in the open structure that allows the light to penetrate to the interior of the canopy. The leaves of the walnut are pinnate and large, the leaf being composed of the five to the nine leaflets that are arranged along the central rachis and that are released in the autumn as a single unit.
+
+The nut of the walnut is enclosed in a hard and wrinkled shell that is surrounded by the green husk that is the source of the dye, the husk being a fleshy and the aromatic covering that splits open when the nut is ripe and that releases the nut to the ground. The kernel of the walnut is a rich and the oily nut that is valued for the flavour and the nutritional content, the kernel being enclosed in the two halves of the shell that are joined at the seam. The walnut tree begins to produce the nuts at the age of eight to ten years and continues to produce for the century or more that the tree may live, the annual production of the mature tree being measured in the bushels of the nuts that the tree yields.
+
+## Habitat and Distribution
+
+The walnut grows in the temperate forests of [Aethelar](/content/location/natural/continent/aethelar), the tree being found in the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood) and the [Brackenshield Wood](/content/location/natural/ecosystem/brackenshield-wood) where the soil is deep and the moisture is reliable. The walnut is also found in the mixed forests of the [Crown Range](/content/location/natural/feature/crown-range) foothills and the other regions of the Aethelari continent where the conditions are suitable for the growth of the species. The walnut is cultivated in the gardens and the orchards of the [Sahrani](/content/language/spoken/sahrani) coast, the tree being introduced to the southern continent by the traders who brought the nuts from Aethelar and planted the trees in the gardens of the coastal cities.
+
+The walnut requires the deep and the well-drained soil for the best growth, the root system of the tree being extensive and the tree being unable to tolerate the waterlogged conditions that the poorly drained soils produce. The walnut is also sensitive to the late frosts that can damage the flowers and the young leaves that emerge in the spring, the tree being most productive in the regions where the spring is gradual and the frosts are rare after the growth has begun.
+
+## The Walnut Husk and Dye Production
+
+The husk of the walnut is the source of the brown dye that is among the most widely used of the natural dyes in the known world, the dye being produced by the extraction of the pigment from the green husks that surround the nuts. The husks are collected in the autumn when the nuts are harvested, the husks being separated from the nuts and the fresh husks being used immediately or the husks being dried and stored for the later use. The pigment is extracted by the boiling of the husks in the water, the liquid that results being the dye bath that the cloth is immersed in for the dyeing.
+
+The walnut dye produces a range of the brown shades that extend from the light tan of the diluted bath to the deep and the dark brown of the concentrated and the repeated dyeing, the colour being the fast and the durable dye that does not fade with the washing and the exposure to the light. The walnut brown is the colour of the working cloth that the labouring population of the three continents wears, the colour being the practical and the serviceable shade that does not show the dirt and the stains that the working life produces. The [textiles and cloth](/content/economy/textiles-and-cloth) industry of the Aethelari and the Sahrani cities uses the walnut dye as the base for the cloth that is produced for the mass market, the dye being the inexpensive and the reliable colorant that the production of the working cloth requires.
+
+## Walnut in the Dyeing of Ropes and Sails
+
+The walnut husk is used in the dyeing of the ropes and the sails that the ships of the coastal cities use, the brown colour of the walnut dye being the practical and the protective colour that the maritime applications require. The ropes that are dyed with the walnut husk are the ropes that the [shipbuilding](/content/economy/shipbuilding) industry produces for the fishing fleets and the merchant vessels, the brown colour being the result of the dyeing that the ropes undergo before they are put into the service. The walnut dye protects the rope from the degradation that the sunlight and the salt water would cause, the pigment in the dye acting as the barrier that reduces the damage that the elements inflict.
+
+The sails of the fishing fleets are the canvas that is dyed with the walnut husk, the brown sails being the distinctive feature of the fishing vessels of the [Aethelari](/content/language/spoken/aethelari) and the [Sahrani](/content/language/spoken/sahrani) coasts. The brown sails are the practical choice for the fishing boats, the colour being the inconspicuous shade that does not alert the fish to the presence of the vessel and the dye being the preservative that extends the life of the canvas. The [fishing and whaling](/content/economy/fishing-and-whaling) industry of the coastal cities is dependent on the walnut dye for the sails that the fleets use, and the [guilds](/content/economy/guilds) of the sail makers and the rope makers are among the principal buyers of the walnut husks that the harvest produces.
+
+## The Walnut as Food
+
+The kernel of the walnut is a valued food that is consumed fresh and used in the cooking of the Aethelari and the Sahrani cuisines, the nut being a rich source of the oil and the protein that the diet of the populations benefits from. The walnuts are eaten fresh in the autumn when the harvest is done, the nuts being cracked and the kernels being consumed as the snack and the ingredient that the [feasting and dining](/content/culture/feasting-and-dining) traditions include. The walnuts are also used in the baking of the breads and the cakes that the Aethelari bakers produce, the nuts being mixed into the dough and the batter to add the flavour and the texture that the walnuts provide.
+
+The oil that is pressed from the walnut kernels is a valued culinary oil that is used in the cooking and the dressing of the dishes that the Aethelari and the Sahrani cuisines produce. The walnut oil is a golden and the fragrant oil that is used in the preparation of the salads and the cold dishes that the warm climate of the Sahrani coast favours, the oil being the product that the [markets and fairs](/content/economy/markets-and-fairs) of the coastal cities trade. The [spices and dyes](/content/economy/spices-and-dyes) merchants of the Sahrani coast also trade the walnut oil, the oil being among the products that the [Sahrani Desert Trail](/content/location/route/trade/sahrani-desert-trail) carries from the interior to the coast.
+
+## Timber and Wood
+
+The wood of the walnut is a valued timber that is used in the production of the furniture and the objects that the craftsmen of the Aethelari cities produce, the wood being a dark and the richly grained material that is prized for the beauty and the workability. The [timber and logging](/content/economy/timber-and-logging) trade of the Aethelari forests includes the walnut as one of the most valuable of the species that the forests produce, the walnut timber being the material that the furniture makers and the cabinet makers select for the pieces that the wealthy households commission.
+
+The walnut wood is also used in the production of the gunstocks and the other objects that require the strength and the stability that the walnut provides, the wood being the material that the [weaponry and armour](/content/military/weaponry-and-armour) craftsmen use for the stocks of the crossbows and the longbows. The walnut wood is shaped and finished with the care that the quality of the wood demands, the grain and the colour of the wood being the features that the craftsmen highlight in the finishing of the pieces that they produce.

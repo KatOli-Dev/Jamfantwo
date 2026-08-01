@@ -1,0 +1,49 @@
+---
+layout: default
+title: Truffle
+description: "The most expensive food in the known world, a black underground fungus of the Vintners Vale found by trained pigs and valued for its earthy pungent flavour."
+---
+
+## The Truffles of the Vintners Vale
+
+The truffles that grow in the soils of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) are among the most expensive foods in the known world, valued by the cooks of the wealthy households for the intense flavour that the truffle imparts to the dishes in which it is used. The truffle is a fungus that grows underground in association with the roots of the oak and the hazel trees of the vale, and the truffle is gathered by the trained pigs and dogs that detect the scent of the ripe truffle beneath the soil.
+
+The truffle season of the Vintners Vale runs from the autumn to the winter, and the gatherers of the truffles must compete with the wild boars and the other animals that also seek the truffles for their food. The truffles are harvested by the licensed gatherers who are granted the rights to the truffle grounds by the owners of the land, and the trade in truffles is regulated by the [guilds](/content/economy/guilds) of the merchants who deal in the luxury foods.
+
+The truffle of the Vintners Vale is a black truffle that is rough on the outside and dark within, and the flavour of the truffle is earthy and pungent. The truffle is used in the preparation of the sauces and the stuffings that accompany the roasted meats and the pasta dishes of the wealthy households, and the price of the truffle in the markets of [Eldreth](/content/location/settlement/city/eldreth) is measured in silver pieces per ounce.
+
+## Physical Characteristics
+
+The truffle is a subterranean fungus that produces the fruiting body beneath the surface of the soil, the body being an irregular and roughly globular structure that measures one to three inches in the diameter in the mature specimens. The exterior of the truffle is a dark brown to the black surface that is covered with the small and the angular warts that give the truffle the rough and the textured appearance that distinguishes the species. The interior of the truffle is a dense and the marbled flesh that is grey-brown in the colour and that is traversed by the white veins that are the network of the spore-bearing tissue.
+
+The aroma of the truffle is the most distinctive of the qualities of the species, the scent being a complex and the intense combination of the earthy, the musky, and the garlicky notes that the human nose detects at the concentrations that are measured in the parts per billion. The aroma of the truffle is the means by which the animals locate the fungus beneath the soil, the scent of the mature truffle being powerful enough to penetrate the layer of the earth that covers the fruiting body and to reach the sensitive noses of the pigs and the dogs that the gatherers use.
+
+## The Symbiotic Relationship
+
+The truffle is a mycorrhizal fungus that lives in the symbiotic association with the roots of the trees, the fungus providing the tree with the minerals and the water that the fungal mycelium extracts from the soil, and the tree providing the fungus with the carbohydrates that the tree produces through the photosynthesis. The truffle is associated primarily with the [oak](/content/species/flora/oak) and the hazel trees of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale), the roots of these trees providing the substrate that the truffle requires for the production of the fruiting bodies.
+
+The establishment of the truffle in the new ground is a slow process that requires the presence of the host trees and the conditions of the soil that the truffle favours. The truffle does not grow in the open ground or in the soils that have been cultivated, the fungus being dependent on the undisturbed root systems of the trees and the specific conditions of the soil chemistry that the woodland provides. The truffle grounds of the Vintners Vale are the areas of the mature woodland that have been managed for the production of the truffles for the centuries, the trees being maintained and the soil being protected from the disturbance that would destroy the fungal network.
+
+## Gathering and the Trained Animals
+
+The gathering of the truffles is the skill that the truffle hunters of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) have developed over the generations of the practice, the hunters using the trained pigs and the dogs that are able to detect the scent of the ripe truffle beneath the soil. The pigs are the traditional animals for the truffle hunting, the sense of the smell of the pig being acute and the instinct of the pig for the subterranean food being the trait that the truffle hunters exploit. The dogs have been trained for the truffle hunting in the more recent times, the advantage of the dog being that the dog does not consume the truffle that it finds, the dog being trained to indicate the location of the truffle and to allow the hunter to dig the fungus from the ground.
+
+The training of the animals for the truffle hunting begins when the animal is young, the pig or the dog being introduced to the scent of the truffle and the reward being given when the animal locates the source of the scent. The training takes the months and the years of the patient work, and the trained animals are the valuable assets that the truffle hunters maintain with the care that the skill of the animal deserves. The [guilds](/content/economy/guilds) of the truffle hunters regulate the practice of the truffle hunting and the use of the trained animals, and the guilds maintain the standards of the conduct that prevent the damage to the truffle grounds and the over-harvesting that would deplete the population of the fungus.
+
+## The Truffle Grounds
+
+The truffle grounds of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) are the woodlands that have been managed for the production of the truffles for the generations, the oak and the hazel trees being maintained at the spacing that the truffle requires and the undergrowth being controlled to prevent the competition that would reduce the yield. The owners of the truffle grounds are the families and the institutions that have held the rights to the grounds for the centuries, the rights being the valuable property that is passed from the generation to the generation and that is the subject of the careful management that the value of the truffle demands.
+
+The [wild boars](/content/species/fauna/wild-boar) of the Vintners Vale are the competitors of the truffle hunters, the boars being the natural consumers of the truffles that the woodland produces. The boars have the sense of the smell that rivals the trained pigs, and the boars dig the truffles from the ground before the hunters can reach them. The control of the boar population is a constant concern of the truffle ground managers, the boars being hunted in the seasons when the truffles are not in production and the hunting being the method of the control that the ground owners use to reduce the competition for the truffles.
+
+## Culinary Uses
+
+The truffle is used in the cuisine of the wealthy households of [Aethelar](/content/location/natural/continent/aethelar) and the other continents where the Sahrani and the Aethelari cooking traditions have spread, the flavour of the truffle being the element that elevates the dishes that the truffle is used in to the level of the luxury that the price of the truffle commands. The truffle is shaved thinly over the pasta and the risotto that the cooks of the wealthy households prepare, the heat of the dish releasing the aroma of the truffle and the flavour pervading the food that the truffle has touched.
+
+The truffle is also used in the preparation of the sauces that accompany the roasted [aethelar stag](/content/species/fauna/aethelar-stag) and the other meats that the feasts of the wealthy feature, the truffle being infused into the sauce through the slow cooking that extracts the flavour and the aroma of the fungus. The [feasting and dining](/content/culture/feasting-and-dining) traditions of the Aethelari elite include the truffle as the ingredient that marks the occasion as the significant event, the presence of the truffle at the table being the signal that the host has spared no expense in the preparation of the feast.
+
+## Trade and Economics
+
+The trade in the truffles of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) is among the most lucrative of the food trades in the known world, the price of the truffles in the markets of the [Aethelari](/content/language/spoken/aethelari) cities being measured in the silver pieces per ounce that the [prices and livelihood](/content/economy/prices-and-livelihood) records of the [guilds](/content/economy/guilds) document. The truffles are sold through the merchants who specialise in the luxury foods, and the merchants maintain the relationships with the truffle ground owners and the hunters that ensure the supply of the truffles that the market demands.
+
+The [markets and fairs](/content/economy/markets-and-fairs) of [Eldreth](/content/location/settlement/city/eldreth) and the other major cities are the venues where the truffles are traded, the truffles being displayed in the sealed containers that protect the aroma and the quality of the fungus from the degradation that the exposure to the air would cause. The [guilds](/content/economy/guilds) of the luxury food merchants regulate the trade in the truffles and maintain the standards of the quality and the pricing that govern the commerce in the most expensive of the foods that the known world produces.

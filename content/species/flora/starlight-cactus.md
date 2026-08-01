@@ -1,0 +1,53 @@
+---
+layout: default
+title: Starlight Cactus
+description: "A rare winter-blooming cactus of the southern desert whose glowing white flower enhances divination, found only by the Kharesh Tribes who guard its locations."
+---
+
+## The Starlight Cactus of the Southern Desert
+
+The starlight cactus that grows in the remote regions of the southern desert produces a flower that opens only on the clearest nights of the winter, when the stars are visible in the full brilliance. The flower of the starlight cactus is a cluster of the white petals that surround the centre of the flower that glows with a faint luminescence that mirrors the light of the stars.
+
+The flower of the starlight cactus is used in the preparation of the potions that enhance the abilities of the mage in the practices of the divination and the astronomy. The flower is harvested at the moment when the glow of the centre is at its brightest, and the flower is dried and ground into the powder that is the base of the potion.
+
+The starlight cactus is rare and difficult to find, and the [Kharesh Tribes](/content/government/national/kharesh-tribes) who know the locations of the cacti are the only source of the flowers. The trade in the starlight cactus flowers is conducted through the personal connections between the mages and the tribal leaders, and the prices that the flowers command are among the highest of any magical plant.
+
+## Physical Characteristics
+
+The starlight cactus is a columnar plant that grows to a height of three to four feet in the mature specimens, the body of the cactus being a single ribbed column that branches rarely and only in the oldest individuals. The ribs of the cactus are deep and sharp-edged, and the spines that line the ribs are thin and translucent, catching the light of the stars in a manner that gives the cactus its name even when the plant is not in flower. The skin of the cactus is a pale grey-green that blends with the gravel and the stone of the desert floor, and the cactus is difficult to distinguish from the surrounding rock except when the flower is open.
+
+The root system of the starlight cactus is shallow and widespread, the roots extending horizontally from the base of the plant to collect the moisture that falls on the desert surface during the rare rains of the winter. The cactus stores the water in the fleshy tissue of the column, and the plant can survive for years between the significant rainfalls that replenish the reserves. The growth of the cactus is extremely slow, and a specimen that has reached the height of three feet may be a century or more in age, the annual increment being measured in the fractions of an inch.
+
+The flower of the starlight cactus is produced only by the mature specimens that have reached the age of fifty years or more, and the flower appears in the deepest winter when the nights are longest and the sky is clearest. The bud of the flower forms in the late autumn and matures slowly through the winter, the flower opening on the night when the sky is free of the clouds and the moon is absent or below the horizon. The flower remains open for a single night, and by the dawn the petals have closed and the luminescence has faded, the flower withering within a day of the opening.
+
+## Habitat and Distribution
+
+The starlight cactus grows in the deepest parts of the [Kharesh](/content/location/natural/feature/kharesh) desert, in the regions where the sand gives way to the gravel plains and the rocky outcrops that characterise the interior of the desert. The cactus is found at the edges of the [Sahrani Wastes](/content/location/settlement/region/sahrani-wastes) where the soil is a thin layer of the decomposed stone over the bedrock, and the cactus is never found in the sandy regions where the dunes shift and the surface is unstable.
+
+The distribution of the starlight cactus is limited to a small number of the sites that are scattered across the interior of the desert, and the total population of the mature cacti is estimated by the [salawa](/content/species/sapient/salawa) guides to be no more than a few hundred specimens. The isolation of the sites and the difficulty of the travel through the desert interior have protected the cactus from the collectors and the opportunists who would strip the plants for the value of the flowers, and the [Kharesh Tribes](/content/government/national/kharesh-tribes) guard the locations of the cacti with the same care that they apply to the protection of the [sunroot](/content/species/flora/sunroot) groves.
+
+## The Kharesh and the Starlight Cactus
+
+The [Kharesh Tribes](/content/government/national/kharesh-tribes) regard the starlight cactus as a sacred plant that is entrusted to their care by the spirits of the desert, and the cactus is woven into the mythology and the ritual of the tribal life in a manner that places it among the most revered of the plants of the [Sahrani](/content/language/spoken/sahrani) interior. The cactus is associated with the stars and the night sky in the mythology of the Kharesh, and the flower of the cactus is said to be the gift of the stars to the desert people, a light that the desert yields only to those who know the ways of the deep interior.
+
+The harvest of the starlight cactus flower is conducted by the designated members of the tribes who have been trained in the rituals of the harvest and who know the locations of the individual cacti. The harvesters travel to the sites of the cacti on the nights when the conditions are right for the opening of the flower, and the harvesters wait in the darkness for the moment when the luminescence reaches its peak. The flower is cut with a blade of the obsidian that the Kharesh obtain from the volcanic glass of the [Ember Ridge](/content/location/natural/feature/ember-ridge), and the cut is made at the base of the flower so that the cactus is not damaged and the flower will be produced again in the following winter.
+
+## Magical Applications
+
+The starlight cactus flower is the principal ingredient in the potions that enhance the [divination](/content/magic/divination-and-foresight) and the astronomical workings of the mages of the known world, and the powder that is produced from the dried flower is the base of the preparations that the diviners use to extend the range and the clarity of the visions. The potion is consumed by the mage before the working of the divination, and the effect of the potion is to sharpen the inner sight and to sensitise the perception to the patterns and the signs that the diviner seeks.
+
+The starlight cactus flower is also used in the construction of the [Art and Craft in the Art](/content/magic/art-and-craft-in-the-art) foci that the astronomers use in the observation of the stars and the interpretation of the movements of the celestial bodies. The powder is mixed with the resin of the [acacia](/content/species/flora/acacia) and the ground bone of the [golden eagle](/content/species/fauna/golden-eagle) to form a paste that is applied to the lenses and the mirrors of the astronomical instruments, and the paste is said to enhance the ability of the instrument to capture and to focus the faint light of the distant stars.
+
+The mages of the [Eldreth Library](/content/magic/relic/library-of-eldreth) have conducted the studies of the properties of the starlight cactus flower, and the findings of the studies are recorded in the volumes that are held in the restricted collections of the library. The studies have confirmed that the luminescence of the flower is not a natural phenomenon but a manifestation of the magical energy that the cactus absorbs from the starlight over the decades of the growth, and the energy is released in the flower in a concentrated form that is unique among the plants of the known world.
+
+## Trade and Economics
+
+The trade in the starlight cactus flower is among the most exclusive and the most expensive of the trades in the magical materials of the known world, and the flowers that reach the markets of the coastal cities are sold for the sums that rival the price of the [truffles](/content/species/flora/truffle) of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale). The flowers are sold by the individual bloom and not by the weight, and the price of a single flower is measured in the gold pieces that only the wealthiest of the mages and the institutions can afford.
+
+The [Vashari Pact](/content/government/national/vashari-pact) regulates the trade in the starlight cactus flowers through the agreements that have been negotiated with the [Kharesh Tribes](/content/government/national/kharesh-tribes), and the [guilds](/content/economy/guilds) of the alchemists and the apothecaries are the principal buyers of the flowers that the tribes release for the trade. The flowers are transported under the guard of the [Pact Guard](/content/government/local/pact-guard) from the interior of the desert to the markets of the coast, and the transport is conducted in the sealed containers that protect the flowers from the light and the moisture that would degrade the potency of the powder.
+
+## Attempts at Cultivation
+
+The attempts to cultivate the starlight cactus in the gardens and the greenhouses of the coastal cities have been uniformly unsuccessful, and the cacti that have been transplanted from the desert to the coastal environments have declined and died within a few years of the transplantation. The cactus appears to require the specific conditions of the desert interior that cannot be replicated in the artificial environments, and the soil, the temperature, and the quality of the starlight that the cactus absorbs are all factors that the cultivators have been unable to reproduce.
+
+The mages of the [Southern Reach Academy](/content/government/local/southern-reach-academy-council) have conducted the most sustained of the attempts at the cultivation, and the Academy has maintained a collection of the transplanted cacti for the periods of up to a decade. The cacti in the collection have survived but have not produced the flowers, and the luminescence that is the source of the magical property of the flower has not developed in the specimens that are grown outside the desert. The conclusion of the Academy is that the starlight cactus is a plant that cannot be cultivated and that the supply of the flowers will remain dependent on the wild population of the desert interior.

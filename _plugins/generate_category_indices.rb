@@ -9,21 +9,32 @@ module Jekyll
       @name = 'index.md'
 
       self.process(@name)
-      self.content = build_content(pages)
       self.data = {}
       self.data['layout'] = 'default'
-      label = dir.sub(%r{^content/}, '').split('/').last || 'Index'
-      self.data['title'] = label.tr('-', ' ').split.map(&:capitalize).join(' ')
+
+      dir_info   = site.data['directories'] && site.data['directories'][dir]
+      dir_title  = dir_info && dir_info['title']
+      dir_desc   = dir_info && dir_info['description']
+
+      label = dir_title || begin
+        l = dir.sub(%r{^content/}, '').split('/').last || 'Index'
+        l.tr('-', ' ').split.map(&:capitalize).join(' ')
+      end
+      self.data['title']       = label
+      self.data['description'] = dir_desc if dir_desc && !dir_desc.empty?
+
+      self.content = build_content(pages, dir_desc)
     end
 
-    def build_content(pages)
+    def build_content(pages, dir_desc)
       sorted = pages.sort_by { |p| (p.data['title'] || p.data['name'] || '').downcase }
-      sorted.map do |p|
+      list = sorted.map do |p|
         t = p.data['title'] ||
             File.basename(p.path, File.extname(p.path)).tr('-', ' ').split.map(&:capitalize).join(' ')
         desc = p.data['description']
         desc.nil? || desc.empty? ? "- [#{t}](#{p.url})" : "- [#{t}](#{p.url}) — #{desc}"
       end.join("\n")
+      dir_desc && !dir_desc.empty? ? "#{dir_desc}\n\n#{list}" : list
     end
   end
 

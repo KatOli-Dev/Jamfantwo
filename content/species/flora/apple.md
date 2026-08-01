@@ -1,0 +1,41 @@
+---
+layout: default
+title: Apple
+description: "The most widespread fruit tree of Aethelar, grown in every cold-winter region for cider, fresh eating, dried provisions, and the winter cellars of the northern settlements."
+---
+
+## Apple
+
+The apple is the most widespread fruit tree of [Aethelar](/content/location/natural/continent/aethelar), grown in every region where the winters are cold enough to provide the dormancy period that the tree requires and the summers are warm enough to ripen the fruit.
+
+The apple trees of the [Brackenshield Wood](/content/location/natural/ecosystem/brackenshield-wood) margins and the slopes of the [Crown Range](/content/location/natural/feature/crown-range) produce fruit of exceptional quality, and the varieties that are grown in these regions are known by the names of the settlements that originated them. The principal use of the apple is the production of cider, a fermented beverage that is consumed in vast quantities throughout the northern regions of Aethelar and in the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) settlements of [Morvind](/content/location/natural/continent/morvind). The cider presses of the northern orchards are among the most important agricultural implements in the region, and the pressing season in autumn is a time of intense activity when the orchardists and their families work from dawn to dusk to crush the fruit and collect the juice. The juice is fermented in oak barrels that are stored in cellars where the temperature remains steady through the winter, and the cider that emerges in the spring is a clear, sharp beverage that keeps well through the following year.
+
+The apples that are not pressed for cider are stored in cool cellars that preserve them through the winter months, providing a source of fresh fruit that is valued in the northern settlements where few other fruits are available. The stored apples are eaten raw, baked into pies and pastries, or cooked into sauce that accompanies roasted meat, and the dried apple rings that are produced in the orchards of the [Northern Marches](/content/government/national/northern-marches) are a staple provision of the ships that carry the trade of the [Greyring Ocean](/content/location/natural/feature/greyring-ocean).
+
+## Physical Characteristics
+
+The apple tree is a deciduous tree that reaches a height of fifteen to thirty feet depending on the variety and the rootstock. The trunk of the apple tree is short and thick, and the bark is dark and scaly, developing the fissures and the ridges that characterise the older trees. The branches of the apple tree spread outward in a rounded crown, and the tree produces the new growth each spring from the spurs and the tips of the branches. The leaves of the apple are oval and toothed, with a downy underside that distinguishes the apple from the pear and the other related fruits.
+
+The flowers of the apple tree appear in the spring, and the blossoms are white with a tinge of pink that fades as the flowers open. The apple blossom is a symbol of the spring in the northern regions, and the flowering of the orchards is a moment of beauty that is celebrated in the songs and the customs of the [Aethelar](/content/location/natural/continent/aethelar) settlements. The fruit of the apple is a pome, a fleshy fruit with a core of the seeds, and the fruit ranges in size from the small crab apples to the large dessert apples that are grown for the table.
+
+## Varieties and Cultivation
+
+The varieties of the apple that are grown in the orchards of Aethelar are the result of centuries of selection and breeding, and each region has its own varieties that are adapted to the local conditions. The varieties that are grown for the cider are typically the sharp and the bitter apples that produce the juice with the high acidity and the tannin content that the cider requires. The varieties that are grown for the table are the sweet and the aromatic apples that are eaten fresh, and the varieties that are grown for the storage are the firm and the thick-skinned apples that keep through the winter.
+
+The cultivation of the apple tree requires a period of cold dormancy in the winter, and the apple is not grown in the regions where the winters are too mild to provide the chilling that the tree requires. The apple tree is propagated by grafting, and the varieties that are grown in the orchards are grafted onto the rootstocks that determine the size and the vigour of the tree. The dwarfing rootstocks that are used in the intensive orchards produce the small trees that bear fruit within three to four years of the planting, and the standard rootstocks that are used in the traditional orchards produce the large trees that bear fruit after seven to eight years but that live for a century or more.
+
+## Cider Production
+
+The production of the cider is the principal use of the apple in the northern regions of [Aethelar](/content/location/natural/continent/aethelar), and the cider is a beverage that is consumed by the peoples of every station. The cider is produced from the juice of the apples that are crushed in the presses that are operated by the orchardists in the autumn. The juice is fermented by the natural yeasts that are present on the skins of the fruit, and the fermentation converts the sugar of the juice into the alcohol and the carbon dioxide. The cider is stored in the oak barrels that are kept in the cellars where the temperature is steady, and the cider matures over the winter and is ready for the drinking in the spring.
+
+The cider that is produced in the different regions of Aethelar varies in the character and the quality, and the cider of the [Northern Marches](/content/government/national/northern-marches) is known for the dry and the sharp style that is preferred by the people of the region. The cider of the [Vintners Vale](/content/location/natural/ecosystem/vintners-vale) is sweeter and more full-bodied, and the cider that is produced in the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) settlements of [Morvind](/content/location/natural/continent/morvind) is a strong and the potent beverage that is distilled into the spirit that is called the applejack.
+
+## Economic and Cultural Significance
+
+The apple orchards of the northern regions are a significant component of the agricultural economy, and the trade in the apples and the cider is a source of the income for the orchardists and the merchants who deal in the fruit. The [guilds](/content/economy/guilds) of the cider makers regulate the production and the sale of the cider, and the guilds maintain the standards of the quality that protect the reputation of the regional ciders in the markets of the cities.
+
+The apple is a fruit of great cultural significance in the traditions of the [Aethelar](/content/location/natural/continent/aethelar) settlements, and the apple is associated with the customs and the festivals of the autumn. The harvest of the apples is a time of the gathering and the celebration, and the pressing of the cider is a communal activity that brings the neighbours and the families together. The apple is also a symbol of the abundance and the fertility, and the apple is used in the rituals and the customs of the harvest that are observed in the settlements of the northern regions.
+
+## Geographical Distribution
+
+The apple is grown throughout the temperate regions of [Aethelar](/content/location/natural/continent/aethelar), and the apple is the most widely planted fruit tree on the continent. The apple is also grown in the [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) settlements of [Morvind](/content/location/natural/continent/morvind), where the proximity of the ocean moderates the winter cold and provides the conditions that the apple requires. The apple is not grown in the warmer regions of [Sahrana](/content/location/natural/continent/sahrana), where the winters are too mild to provide the dormancy that the tree requires, and the [citrus](/content/species/flora/citrus) and the [date](/content/species/flora/date) are the fruit trees of the southern continent.
