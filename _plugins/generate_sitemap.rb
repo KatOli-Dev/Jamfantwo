@@ -3,6 +3,7 @@ require 'fileutils'
 Jekyll::Hooks.register :site, :post_write do |site|
   urls = []
   today = Time.now.strftime('%Y-%m-%d')
+  base_url = "#{site.config['url']}#{site.config['baseurl']}"
 
   site.pages.each do |page|
     next if page.data['layout'] == 'redirect'
@@ -11,7 +12,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
 
     url = page.url
     url += '/' unless url.end_with?('/')
-    loc = "#{site.config['url']}#{url}"
+    loc = "#{base_url}#{url}"
     lastmod = page.data['last_modified'] || today
 
     urls << { loc: loc, lastmod: lastmod }

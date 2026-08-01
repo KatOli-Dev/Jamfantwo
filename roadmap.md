@@ -8,18 +8,18 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 
 - [x] **README is stale.** README no longer contains stale stats or directory listing — resolved.
 - [x] **404 page broken link.** The broken `/content/belief/ideology/open-hand` link has been removed from the 404 page — resolved.
-- [x] **Sync magic subs between validator and index include.** The include lists `tradition,working,relic,practitioners,phenomena`; the validator lists `law,relic,tradition,working,practitioners,phenomena`. `law` is missing from the include (or vice versa).
+- [x] **Align magic category coverage.** Resolved by replacing the static category include with generated category indices; the validator and site index now cover the same magic content tree.
 
 ---
 
 ## P1 — High impact
 
-- [x] **Add search.** Jekyll plugin (`_plugins/generate_search_index.rb`) builds a JSON index on every build/serve; `search.html` page at `/search/` does client-side filtering. Standalone script at `scripts/generate_search_index.rb` for manual use. No external dependencies.
+- [x] **Add search.** Jekyll plugin (`_plugins/generate_search_index.rb`) builds a JSON index on every build/serve; `search.html` page at `/search/` does client-side filtering. No external dependencies.
 
-- [x] **Better navigation.** Header only links to Geography, Population, Style, and License — none of the large categories (Species, Locations, History, Magic, etc.). Consider a category dropdown, a secondary nav, or sidebar.
-- [x] **Add `description` to front matter on every page.** All pages now include a `description` field in front matter per the style guide.
-- [x] **Consolidate duplicate content.** The Still Flame is covered in both `content/culture/still-flame.md` and `content/religion/still-flame.md` with different titles and vantage points. One page should redirect or merge to eliminate redundancy.
-- [x] **CI for content validation.** There is no CI workflow at all. Add a GitHub Actions workflow that runs `scripts/validate_content.rb` on push and PR to catch regressions before merge.
+- [x] **Better navigation.** The header now provides a responsive Categories dropdown populated from `_data/navigation.yml`, alongside search and license links.
+- [x] **Add `description` to front matter on content pages.** Content pages now include a `description` field in front matter per the style guide.
+- [x] **Consolidate duplicate content.** `content/culture/still-flame.md` now redirects to the canonical `content/religion/still-flame.md` page.
+- [x] **CI for content validation.** GitHub Actions now runs `scripts/validate_content.rb` on pushes and pull requests, alongside the strict Jekyll build.
 
 ---
 
@@ -28,13 +28,13 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [x] **Add OG/Twitter meta tags.** Open Graph and Twitter Card `<meta>` tags added to `_layouts/default.html` via Liquid — no plugin needed.
 - [x] **Generate XML sitemap.** `_plugins/generate_sitemap.rb` builds a `sitemap.xml` at the site root on each build, listing all pages with their timestamps.
 - [x] **Breadcrumb index pages.** Content subdirectories had no `index.md`, so breadcrumb segments rendered as plain text. Now auto-generated via `_plugins/generate_category_indices.rb`.
-- [x] **Denser internal linking.** Many pages reference other topics inline without linking them. A pass to add links where natural would improve discoverability.
-- [x] **Densify `_config.yml`.** Add `authors`, `social`, `lang` declaration, and remove the placeholder `localhost` URL.
-- [x] **Add RSS/Atom feed.** A custom `_plugins/` script can generate an RSS/Atom feed on build without external gems.
+- [x] **Denser internal linking.** Cross-references were added throughout the content where related topics are first mentioned, improving discoverability.
+- [ ] **Complete `_config.yml` metadata.** `authors` and `lang` are present, but `social` is absent and `url` still points to `http://localhost:4000`. Set both when the production host is chosen.
+- [x] **Add RSS/Atom feed.** `_plugins/generate_atom_feed.rb` generates `feed.xml` on each build without external gems.
 - [x] **Pre-commit hook for content validation.** `.githooks/pre-commit` runs the validator on staged content files before each commit; `core.hooksPath` set to `.githooks/`.
 - [x] **Search UX improvements.** Fuzzy matching (bigram Dice coefficient + Levenshtein distance), typo tolerance, and `<mark>` highlighting applied to both title and snippet in results.
 - [x] **"Last modified" dates on pages.** `_plugins/inject_last_modified.rb` injects `last_modified` from git timestamps; displayed below title on content pages.
-- [x] **Validator: check hard style constraints.** The style guide bans slang, modern idioms, addressing readers, or referencing the real world, but the validator does not check these. Add regex patterns to catch violations automatically.
+- [x] **Validator: check hard style constraints.** The validator now loads regex-based style constraints from `scripts/validator_config.yml` and checks for direct reader address and anachronistic or real-world terms.
 
 ---
 
@@ -69,5 +69,5 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [ ] **No table of contents on content pages.** Pages run 1,000+ words; an auto-generated TOC from H2/H3 headings would aid navigation on long articles.
 - [ ] **No "recently updated" page.** `last_modified` timestamps are injected and shown on individual pages but not aggregated anywhere in-site. A "What's new" page would surface recent changes alongside the Atom feed.
 - [ ] **Redundant CI workflows.** `ci.yml` and `validate.yml` both run the validator on overlapping branch triggers; they should be consolidated into a single workflow.
-- [ ] **Glossary is manually maintained.** `_data/glossary.yml` is hand-curated and likely to fall behind. A plugin could auto-generate it from tagged frontmatter or the first paragraph of each page.
+- [ ] **Glossary data is manually maintained.** The glossary page is generated by `_plugins/generate_glossary.rb`, but `_data/glossary.yml` remains hand-curated and may fall behind the content. Generate its entries from tagged front matter or page content.
 - [ ] **No "random page" feature.** A lightweight JS script could pick a random URL from the existing search index — a common feature for worldbuilding wikis.

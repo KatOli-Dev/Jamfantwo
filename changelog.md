@@ -3,9 +3,21 @@ layout: default
 title: Changelog
 ---
 
+## 2026-08-01
+
+Species content restructured: aggregated flora and fauna pages split into individual species pages. Inline JavaScript extracted into dedicated asset files. Search improved with smarter term matching and description-preferring index listings. Atom feed author fixed and authors configuration added.
+
+## 2026-07-31
+
+Hardcoded colours extracted into theme variables. The structure guide replaced with a content-page skill. Roadmap expanded.
+
+## 2026-07-30
+
+Truncated descriptions fixed across all content pages. Content validator enhanced with description length checks, duplicate detection, full-width punctuation checks, and external link warnings. Breadcrumb logic refactored and banner moved from layout to frontmatter. CI pipeline hardened and search styles moved to Sass.
+
 ## 2026-07-28
 
-Category index pages now show short descriptions alongside each entry. The mobile navigation menu properly hides on small screens, and the search field works even when JavaScript is unavailable.
+Category index pages now show short descriptions alongside each entry. The mobile navigation menu properly hides on small screens, and the search field works even when JavaScript is unavailable. Open Graph and Twitter meta tags added along with an Atom feed, last-modified dates, and HTML language configuration. CI validation workflow and redirect layout added. Glossary and print styles pages added; The Moon Weave lore page added.
 
 ## 2026-07-27
 
