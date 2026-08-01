@@ -54,10 +54,9 @@ function levenshtein(a, b) {
 
 function termScore(term, text) {
   if (term.length === 0) return 0;
-  var idx = text.indexOf(term);
-  if (idx !== -1) {
-    var boundary = idx === 0 || text[idx - 1] === ' ';
-    return boundary ? 1.0 : 0.95;
+  var idx = -1;
+  while ((idx = text.indexOf(term, idx + 1)) !== -1) {
+    if (idx === 0 || text[idx - 1] === ' ') return 1.0;
   }
   if (term.length < 4) return 0;
   var diceScore = dice(term, text);
@@ -151,7 +150,8 @@ function renderResults(query, data) {
     var m = scored[j].entry;
     var highlightedTitle = highlight(m.title, rawTerms);
     var snippetText = m.snippet.substring(0, 300);
-    var highlightedSnippet = highlight(snippetText, rawTerms);
+    var endsWithPunct = /[.!?\"\u201C\u201D\u2018\u2019]$/.test(snippetText.trimEnd());
+    var highlightedSnippet = highlight(snippetText, rawTerms) + (endsWithPunct ? '' : '&hellip;');
     html += '<article>' +
       '<a href="' + m.url + '">' + highlightedTitle + '</a>' +
       '<p>' + highlightedSnippet + '</p>' +

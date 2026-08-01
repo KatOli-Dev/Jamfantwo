@@ -9,12 +9,15 @@ Jekyll::Hooks.register :site, :post_write do |site|
     title = page.data['title']
     next unless title && !title.empty?
 
-    snippet = page.content
-      .gsub(/<[^>]*>/, '')
-      .gsub(/\[([^\]]*)\]\([^)]*\)/, '\1')
-      .gsub(/[*_#`>]/, '')
-      .gsub(/\s+/, ' ')
-      .strip[0, 400]
+    snippet = page.data['description']
+    unless snippet && !snippet.empty?
+      snippet = page.content
+        .gsub(/<[^>]*>/, '')
+        .gsub(/\[([^\]]*)\]\([^)]*\)/, '\1')
+        .gsub(/[*_#`>]/, '')
+        .gsub(/\s+/, ' ')
+        .strip[0, 400]
+    end
 
     entries << { title: title, url: page.url, snippet: snippet }
   end
