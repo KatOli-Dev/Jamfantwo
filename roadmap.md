@@ -29,7 +29,7 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [x] **Generate XML sitemap.** `_plugins/generate_sitemap.rb` builds a `sitemap.xml` at the site root on each build, listing all pages with their timestamps.
 - [x] **Breadcrumb index pages.** Content subdirectories had no `index.md`, so breadcrumb segments rendered as plain text. Now auto-generated via `_plugins/generate_category_indices.rb`.
 - [x] **Denser internal linking.** Many pages reference other topics inline without linking them. A pass to add links where natural would improve discoverability.
-- [x] **Densify `_config.yml`.** Add `author`, `social`, `lang` declaration, and remove the placeholder `localhost` URL.
+- [x] **Densify `_config.yml`.** Add `authors`, `social`, `lang` declaration, and remove the placeholder `localhost` URL.
 - [x] **Add RSS/Atom feed.** A custom `_plugins/` script can generate an RSS/Atom feed on build without external gems.
 - [x] **Pre-commit hook for content validation.** `.githooks/pre-commit` runs the validator on staged content files before each commit; `core.hooksPath` set to `.githooks/`.
 - [x] **Search UX improvements.** Fuzzy matching (bigram Dice coefficient + Levenshtein distance), typo tolerance, and `<mark>` highlighting applied to both title and snippet in results.

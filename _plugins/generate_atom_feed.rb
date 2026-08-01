@@ -42,7 +42,14 @@ Jekyll::Hooks.register :site, :post_write do |site|
   builder << "  <link href=\"#{base_url}/feed.xml\" rel=\"self\"/>\n"
   builder << "  <updated>#{now.xmlschema}</updated>\n"
   builder << "  <id>#{base_url}/</id>\n"
-  builder << "  <author><name>#{CGI.escapeHTML(site.config['title'])}</name></author>\n"
+  authors = site.config['authors']
+  if authors.nil? || authors.empty?
+    builder << "  <author><name>#{CGI.escapeHTML(site.config['title'])}</name></author>\n"
+  else
+    authors.each do |author|
+      builder << "  <author><name>#{CGI.escapeHTML(author)}</name></author>\n"
+    end
+  end
 
   entries.first(50).each do |e|
     builder << "  <entry>\n"
