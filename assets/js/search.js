@@ -1,10 +1,12 @@
 var index = null;
 var input = document.getElementById('search-input');
 var results = document.getElementById('search-results');
+var searchContainer = document.getElementById('js-search');
+var baseurl = searchContainer ? searchContainer.getAttribute('data-baseurl') || '' : '';
 
 function loadIndex() {
   if (index) return Promise.resolve(index);
-  return fetch('/assets/search-index.json')
+  return fetch(baseurl + '/assets/search-index.json')
     .then(function(r) { return r.json(); })
     .then(function(data) {
       index = data;

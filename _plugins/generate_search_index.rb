@@ -19,7 +19,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
         .strip[0, 400]
     end
 
-    entries << { title: title, url: page.url, snippet: snippet }
+    entries << { title: title, url: "#{site.baseurl}#{page.url}", snippet: snippet }
   end
 
   dest = File.join(site.dest, 'assets', 'search-index.json')
