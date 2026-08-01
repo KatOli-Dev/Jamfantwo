@@ -3,8 +3,8 @@ initials: Jfw
 description: A medieval fantasy world-building project.
 keywords: medieval,fantasy,world,world-building
 lang: en
-url: "https://katoli-dev.github.io/Jamfantwo/"
-baseurl: ""
+url: "https://katoli-dev.github.io"
+baseurl: "/Jamfantwo"
 permalink: pretty
 
 incremental: true
