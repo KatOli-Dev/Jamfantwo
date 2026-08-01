@@ -1,6 +1,6 @@
 # Jamfantwo (Jfw)
 
-A medieval fantasy world-building project built with [Jekyll](https://jekyllrb.com/) 4.4.1. The world is honest about hardship without being grim or bleak, presenting multiple perspectives on contentious events.
+A medieval fantasy world-building project. It is completely AI generated.
 
 ## Quick Start
 
