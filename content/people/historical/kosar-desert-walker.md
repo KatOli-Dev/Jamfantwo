@@ -46,7 +46,7 @@ The literary traditions of the [Sahrani](/content/language/spoken/sahrani) coast
 
 ## The Legacy of the Guide
 
-The influence of Kosar Desert-Walker on the development of the caravan trade is difficult to overstate. The routes that he established opened the interior of Sahrana to commerce, connecting the northern coast to the [southern lands](/content/location/natural/continent/southern-lands) and enabling the exchange of goods that had previously been impossible. The wells and way stations that he designed provided the infrastructure that sustained the trade, and the guides he trained maintained the routes for generations after his disappearance.
+The influence of Kosar Desert-Walker on the development of the caravan trade is difficult to overstate. The routes that he established opened the interior of Sahrana to commerce, connecting the northern coast to the [southern lands](/content/location/natural/region/southern-lands) and enabling the exchange of goods that had previously been impossible. The wells and way stations that he designed provided the infrastructure that sustained the trade, and the guides he trained maintained the routes for generations after his disappearance.
 
 The Vashari Pact honours the memory of Kosar through an annual observance that is conducted at the caravanserai of Vashari. The observance includes the recitation of the tales of Kosar's journeys, the lighting of a lamp that is said to represent the guiding spirit of the explorer, and the offering of prayers for the safety of travellers on the desert routes. The observance is attended by the guides and merchants who use the routes, and it serves as a reminder of the debt that the caravan trade owes to the guide who opened the desert.
 

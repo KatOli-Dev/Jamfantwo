@@ -34,7 +34,7 @@ a section of the river. There are six reaches in total: the Delta Reach,
 guarding [Vaelmouth](/content/location/settlement/city/vaelmouth) and the approaches from the [Stormfall
 Sea](/content/location/natural/feature/stormfall-sea); the Lower Reach,
 covering the fertile middle valley; the Upper Reach, responsible for the
-headwaters and the border with neighbouring territories; the [Eastern Reach](/content/location/natural/continent/eastern-reach),
+headwaters and the border with neighbouring territories; the [Eastern Reach](/content/location/natural/region/eastern-reach),
 watching the approaches from [Aldreth](/content/government/national/aldreth)
 and the eastern plains; the Western Reach, patrolling the western bank and the
 foothills of the [Crown Range](/content/location/natural/feature/crown-range);

@@ -12,7 +12,7 @@ The plague is described in the chronicles of the Sahrani coastal cities, includi
 
 ## The Arrival of the Plague
 
-The plague is said to have arrived in [Sahrana](/content/location/natural/continent/sahrana) aboard a merchant vessel from the distant southern continent, a land that the scholars of the present age know as the [Southern Lands](/content/location/natural/continent/southern-lands). The vessel had been trading along the southern coast of the continent and had taken on a cargo of spices and woods from the interior. The crew of the vessel had fallen ill during the voyage, and several of them had died before the vessel reached the port of [Sahran](/content/location/settlement/city/sahran).
+The plague is said to have arrived in [Sahrana](/content/location/natural/continent/sahrana) aboard a merchant vessel from the distant southern continent, a land that the scholars of the present age know as the [Southern Lands](/content/location/natural/region/southern-lands). The vessel had been trading along the southern coast of the continent and had taken on a cargo of spices and woods from the interior. The crew of the vessel had fallen ill during the voyage, and several of them had died before the vessel reached the port of [Sahran](/content/location/settlement/city/sahran).
 
 The magistrates of Sahran quarantined the vessel upon its arrival and prevented the crew from going ashore. The quarantine was effective for a time, but the plague spread from the vessel to the shore through contact with the cargo. The spices and woods that the vessel carried were inspected by merchants and porters before the quarantine was fully established, and the handlers carried the sickness into the city.
 

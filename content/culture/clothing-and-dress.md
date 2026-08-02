@@ -28,7 +28,7 @@ The centaurs do not wear clothing on the upper body, as the movement of the four
 
 ## The Clothing of the Dwarven Halls
 
-The clothing of the [dwarves](/content/species/sapient/dwarves) is adapted to the conditions of the underground life, where the temperature is constant and the light is artificial. The principal materials are the wool of the mountain sheep and the leather of the goats that are pastured on the mountain slopes. The dwarves also import the cotton and the silk of the [southern lands](/content/location/natural/continent/southern-lands) for the garments of the wealthy and the ceremonial occasions.
+The clothing of the [dwarves](/content/species/sapient/dwarves) is adapted to the conditions of the underground life, where the temperature is constant and the light is artificial. The principal materials are the wool of the mountain sheep and the leather of the goats that are pastured on the mountain slopes. The dwarves also import the cotton and the silk of the [southern lands](/content/location/natural/region/southern-lands) for the garments of the wealthy and the ceremonial occasions.
 
 The typical dress of the dwarven craftsman consists of a tunic of wool, breeches of leather, and a leather apron that protects the clothing from the sparks and the dirt of the forge. The dwarves wear the heavy boots of leather and iron that protect the feet from the sharp stones of the mine. The colours of the dwarven clothing are the earthy colours of the mountain: the browns and the greys and the deep reds that are produced by the mineral dyes of the dwarven mines.
 
