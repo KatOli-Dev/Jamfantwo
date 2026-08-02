@@ -4,47 +4,23 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 
 ---
 
-## P0 — Fixes (do first)
-
-- [x] **README is stale.** README no longer contains stale stats or directory listing — resolved.
-- [x] **404 page broken link.** The broken `/content/belief/ideology/open-hand` link has been removed from the 404 page — resolved.
-- [x] **Align magic category coverage.** Resolved by replacing the static category include with generated category indices; the validator and site index now cover the same magic content tree.
+## P0 — Fixes
 
 ---
 
 ## P1 — High impact
 
-- [x] **Add search.** Jekyll plugin (`_plugins/generate_search_index.rb`) builds a JSON index on every build/serve; `search.html` page at `/search/` does client-side filtering. No external dependencies.
-
-- [x] **Better navigation.** The header now provides a responsive Categories dropdown populated from `_data/navigation.yml`, alongside search and license links.
-- [x] **Add `description` to front matter on content pages.** Content pages now include a `description` field in front matter per the style guide.
-- [x] **Consolidate duplicate content.** `content/culture/still-flame.md` now redirects to the canonical `content/religion/still-flame.md` page.
-- [x] **CI for content validation.** GitHub Actions now runs `scripts/validate_content.rb` on pushes and pull requests, alongside the strict Jekyll build.
+- [ ] **Rename the magical system from "The Art" to "magic."** Update the terminology throughout the content pages, including prose, headings, descriptions, and references, while preserving unrelated uses of "art."
 
 ---
 
 ## P2 — Medium impact
 
-- [x] **Add OG/Twitter meta tags.** Open Graph and Twitter Card `<meta>` tags added to `_layouts/default.html` via Liquid — no plugin needed.
-- [x] **Generate XML sitemap.** `_plugins/generate_sitemap.rb` builds a `sitemap.xml` at the site root on each build, listing all pages with their timestamps.
-- [x] **Breadcrumb index pages.** Content subdirectories had no `index.md`, so breadcrumb segments rendered as plain text. Now auto-generated via `_plugins/generate_category_indices.rb`.
-- [x] **Denser internal linking.** Cross-references were added throughout the content where related topics are first mentioned, improving discoverability.
-- [x] **Complete `_config.yml` metadata.** Production `url` and `site_url`, language, authors, social profile, and default image metadata are configured.
-- [x] **Add RSS/Atom feed.** `_plugins/generate_atom_feed.rb` generates `feed.xml` on each build without external gems.
-- [x] **Pre-commit hook for content validation.** `.githooks/pre-commit` runs the validator on staged content files before each commit; `core.hooksPath` set to `.githooks/`.
-- [x] **Search UX improvements.** Fuzzy matching (bigram Dice coefficient + Levenshtein distance), typo tolerance, and `<mark>` highlighting applied to both title and snippet in results.
-- [x] **"Last modified" dates on pages.** `_plugins/inject_last_modified.rb` injects `last_modified` from git timestamps; displayed below title on content pages.
-- [x] **Validator: check hard style constraints.** The validator now loads regex-based style constraints from `scripts/validator_config.yml` and checks for direct reader address and anachronistic or real-world terms.
 
 ---
 
-## Notes
+## P3 — Aspirational
 
-- The validator (`scripts/validate_content.rb`) only performs basic structural and style checks (word count, front matter, heading levels, article usage, CJK corruption, link resolution, orphan detection). It does not evaluate prose quality, tone consistency, narrative coherence, or factual correctness across pages.
-
-## P3 — Longer term / Aspirational
-
-- [x] **Deploy the site.** The site is deployed on GitHub Pages.
 - [ ] **In-universe maps.** Even a described "cartographer's view" page or an SVG region map would ground the geography-heavy content.
 - [ ] **SCSS linting.** Leverage existing tooling or a custom script for SCSS checks to avoid new dependencies.
 - [ ] **Mundane medicine.** Surgery, midwifery, infirmaries, and herbalism practised outside the Art — the healing arts of the non-practitioner are untouched.
@@ -63,12 +39,3 @@ Long-term planning and improvement ideas for Jamfantwo. Prioritised by impact.
 - [ ] **Engineering.** Bridges, aqueducts, siege engines, and mechanical works — the technical craft distinct from architectural style, underpinning the public-works and fortifications pages.
 - [ ] **Cross-cultural festival calendar.** A consolidated overview of observances and holy days across the cultures, complementing the individual festival pages scattered through `content/culture/`.
 - [ ] **Major trade goods overview.** A single survey page of the principal commodities moving along the trade routes, tying together the individual pages on salt, spices, textiles, metals, and timber.
-- [x] **404 page links to deep pages, not category indices.** Recovery links now target the auto-generated category indexes instead of individual content pages.
-- [x] **robots.txt does not reference the sitemap.** `robots.txt` includes the `Sitemap:` directive for the generated sitemap.
-- [x] **No default social/OG image.** The site banner is now configured as the default Open Graph and Twitter image.
-- [x] **No table of contents on content pages.** Content pages now receive an automatic H2/H3 table of contents when they contain multiple sections.
-- [x] **No "recently updated" page.** A `/recently-updated/` page now lists the latest content changes using injected Git timestamps.
-- [x] **Redundant CI workflows.** The duplicate validator workflow has been removed; the main CI workflow owns build and validation checks.
-- [x] **Remove the redundant glossary.** The glossary page, data, generator, navigation entry, styling, and dedicated validator checks were removed because its remaining terms were better represented by the content pages or were too few to justify a separate feature.
-- [ ] **Rename the magical system from "The Art" to "magic."** Update the terminology throughout the content pages, including prose, headings, descriptions, and references, while preserving unrelated uses of "art."
-- [x] **Random page feature.** The navigation and `/random/` page use a lightweight JS script to choose a random content URL from the generated search index.
