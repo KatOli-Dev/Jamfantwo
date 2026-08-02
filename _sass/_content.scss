@@ -267,6 +267,41 @@ main {
       &::before {
         display: none;
       }
+
+      .toc-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0;
+        border: 0;
+        background: none;
+        color: inherit;
+        font: inherit;
+        text-align: left;
+        cursor: pointer;
+
+        &::after {
+          content: "";
+          flex: 0 0 auto;
+          width: 0.55rem;
+          height: 0.55rem;
+          margin-left: 1rem;
+          border-right: 2px solid currentColor;
+          border-bottom: 2px solid currentColor;
+          transform: translateY(-0.15rem) rotate(45deg);
+          transition: transform 0.2s ease;
+        }
+
+        &[aria-expanded="true"]::after {
+          transform: translateY(0.15rem) rotate(225deg);
+        }
+
+        &:focus-visible {
+          outline: 3px solid var(--color-link-hover);
+          outline-offset: 3px;
+        }
+      }
     }
 
     ol {
