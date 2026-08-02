@@ -6,7 +6,7 @@ description: "A trailing vine of the Sunfire Steppe that absorbs and concentrate
 
 ## The Sunvine and the Concentrated Light
 
-The sunvine is a plant that grows in the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe) of [Sahrana](/content/location/natural/continent/sahrana), a trailing vine that produces the small and golden flowers that open in the full heat of the day. The sunvine absorbs the light of the sun and concentrates the energy in the leaves and the stems, and the plant that is harvested at the right moment yields a substance that is used in the preparation of the light-based spells of the Art.
+The sunvine is a plant that grows in the [Sunfire Steppe](/content/location/natural/ecosystem/sunfire-steppe) of [Sahrana](/content/location/natural/continent/sahrana), a trailing vine that produces the small and golden flowers that open in the full heat of the day. The sunvine absorbs the light of the sun and concentrates the energy in the leaves and the stems, and the plant that is harvested at the right moment yields a substance that is used in the preparation of the light-based spells of magic.
 
 The sap of the sunvine is collected by the alchemists of the [Sahrani](/content/language/spoken/sahrani) coast, who cut the stems of the vine in the early morning and collect the sap that drips from the cut. The sap is distilled and concentrated into a viscous liquid that glows with a faint internal light, and the liquid is used in the construction of the foci that channel the energy of the sun.
 
@@ -32,7 +32,7 @@ The distillation of the sunvine sap is a process that requires the careful contr
 
 ## Magical Applications
 
-The concentrated sap of the sunvine is used in the construction of the [Art and Craft in the Art](/content/magic/art-and-craft-in-the-art) foci that the mages use in the working of the light-based spells, the sap being incorporated into the lenses and the crystals that channel and the focus the energy of the light. The foci that are constructed with the sunvine sap are the most effective of the instruments that the mages use for the workings that involve the light, the concentrated solar energy of the sap amplifying the power and the precision of the spell that the mage directs through the focus.
+The concentrated sap of the sunvine is used in the construction of the [craft-made](/content/magic/art-and-craft-in-the-art) foci that the mages use in the working of the light-based spells, the sap being incorporated into the lenses and the crystals that channel and the focus the energy of the light. The foci that are constructed with the sunvine sap are the most effective of the instruments that the mages use for the workings that involve the light, the concentrated solar energy of the sap amplifying the power and the precision of the spell that the mage directs through the focus.
 
 The sunvine sap is also used in the [enchantment and binding](/content/magic/enchantment-and-binding) of the objects that are intended to carry the properties of the light, the sap being applied to the surface of the object in the ritual that binds the energy of the sun to the material. The objects that are enchanted with the sunvine sap include the lamps that burn without the fuel and the weapons that carry the light of the sun into the darkness, and the enchantments that the sunvine sap supports are among the most durable and the most valued of the magical objects that the mages produce.
 

@@ -14,7 +14,7 @@ fi
 
 tmux new-session -d -s "$SESSION" -c "$ROOT" -n Terminal
 tmux new-window -t "$SESSION" -c "$ROOT" -n Editor "hx"
-tmux new-window -t "$SESSION" -c "$ROOT" -n Agent "opencode --continue"
+tmux new-window -t "$SESSION" -c "$ROOT" -n Agent "claude --no-chrome"
 tmux new-window -t "$SESSION" -c "$ROOT" -n Server "exec $SERVE_COMMAND"
 tmux new-window -t "$SESSION" -c "$ROOT" -n Monitor "htop"
 

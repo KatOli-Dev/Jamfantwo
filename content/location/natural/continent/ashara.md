@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Ashara
-description: "A warm land of river basins, forested escarpments, and long inland waterways where seasonal floods renew the soil and river councils govern the movement of water and trade."
+description: "A warm Aethelaran region of river basins, forested escarpments, and long inland waterways where seasonal floods renew the soil and river councils govern water and trade."
 ---
 
 ## The Land of Many Waters
 
-Ashara is a warm continent of river basins, forested escarpments, and long inland waterways that run toward a broken eastern coast. Its northern shores lie within the warm trade of the [Auric Ocean](/content/location/natural/feature/auric-ocean), while its southern interior rises into clouded hills before descending to broad marshes and shallow seas. The continent is larger than its maps suggest because much of its terrain is divided by water. Rivers, channels, lagoons, and seasonal lakes make the distance between two places depend as much upon the currents as upon the road.
+Ashara is a warm region of southern and eastern [Aethelar](/content/location/natural/continent/aethelar), composed of river basins, forested escarpments, and long inland waterways that run toward a broken Auric coast. Its northern shores lie within the warm trade of the [Auric Ocean](/content/location/natural/feature/auric-ocean), while its southern interior rises into clouded hills before descending to broad marshes and shallow seas. The region is larger than its maps suggest because much of its terrain is divided by water. Rivers, channels, lagoons, and seasonal lakes make the distance between two places depend as much upon the currents as upon the road.
 
-The name Ashara is old in the coastal languages — chiefly the river speech called [Ashari](/content/language/spoken/ashari) — and is usually translated as the land of many waters. Travellers from [Sahrana](/content/location/natural/continent/sahrana) use a different expression, calling it the green shore beyond the spice winds. Both names are suitable, though the first is more precise. Ashara has dry uplands and rocky districts, but even these receive water from a seasonal storm cycle that returns with enough regularity to shape agriculture, animal movement, and the customs of every settled people.
+The name Ashara is old in the coastal languages — chiefly the river speech called [Ashari](/content/language/spoken/ashari) — and is usually translated as the land of many waters. Travellers from [Sahrana](/content/location/natural/continent/sahrana) use a different expression, calling it the green shore beyond the spice winds. Both names are suitable, though the first is more precise. Ashara has dry uplands and rocky districts, but even these receive water from a seasonal storm cycle that returns with enough regularity to shape agriculture, animal movement, and the customs of every settled people of the region.
 
 ## The Sunken Crown and the Three Basins
 
@@ -52,4 +52,4 @@ Coastal trade connects Ashara with the cities of [Aethelar](/content/location/na
 
 Ashara is significant because it joins agriculture, wetland, forest, and sea in a single system. Its rivers are routes of trade, sources of food, and the means by which distant communities remain connected. Its marshes protect the lower coast from storm surge and provide breeding grounds for fish that later support both river and sea fisheries. Its highland forests preserve the springs upon which every basin depends.
 
-The continent's history is therefore recorded in waterworks as much as in walls. Canals, raised roads, cisterns, embankments, and floating gardens show how its peoples answer the changing shape of the land. Ashara does not conquer its waters; it lives among them, making room for flood and drought alike. That practice gives the continent its enduring character and allows its many peoples to share a landscape that would be difficult to govern by any simpler rule.
+The region's history is therefore recorded in waterworks as much as in walls. Canals, raised roads, cisterns, embankments, and floating gardens show how its peoples answer the changing shape of the land. Ashara does not conquer its waters; it lives among them, making room for flood and drought alike. That practice gives the region its enduring character and allows its many peoples to share a landscape that would be difficult to govern by any simpler rule.

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Eastern Reach
-description: "A long continent of broad river plains and shifting reefs beyond the Auric Ocean, where port councils, river assemblies, and reef wardens maintain the routes that join inland and sea."
+description: "A long eastern region of Aethelar's river plains and shifting reefs, where port councils, river assemblies, and reef wardens maintain the routes that join inland and sea."
 ---
 
-## The Arm Reaching into Sunrise
+## The Eastern Region of Aethelar
 
-The Eastern Reach is a long, irregular continent that extends beyond the far side of the [Auric Ocean](/content/location/natural/feature/auric-ocean). Its western coast faces the established sea routes, while its eastern edge breaks into islands, reefs, and open water whose full extent remains uncertain. The land narrows toward the north and widens in the south, giving it a shape that resembles an arm reaching into the sunrise. Broad river plains occupy the centre, but much of the continent is covered by low hills, salt grass, and forest adapted to the strong seasonal winds from the ocean.
+The Eastern Reach is a long, irregular region along the eastern coast of [Aethelar](/content/location/natural/continent/aethelar). Its outer shore faces the established routes of the [Auric Ocean](/content/location/natural/feature/auric-ocean), while its inland edge joins the river valleys and plains of the continent. The coast narrows toward the north and widens in the south, giving the region the shape that led mariners to call it an arm reaching into the sunrise. Broad river plains occupy the centre, while low hills, salt grass, and seasonal woodland extend inland from the sea.
 
-The term Eastern Reach comes from the earliest mariners of [Aethelar](/content/location/natural/continent/aethelar), who described the continent as the furthest land touched by the morning light. The common tongue of its river plains and western ports is called [Reachi](/content/language/spoken/reachi), or the reach speech. Its inhabitants use several older names for their regions, and no single name is accepted throughout the interior. The common term remains useful in trade records because it identifies a coherent group of ports, river mouths, and coastal roads. It also distinguishes the continent from the smaller eastern islands whose pilots share its routes but whose councils remain independent.
+The term Eastern Reach comes from the earliest mariners of Aethelar, who described this coastal region as the furthest part of the continent touched by the morning light. The common tongue of its river plains and western ports is called [Reachi](/content/language/spoken/reachi), or the reach speech. Its inhabitants use several older names for their districts, and no single name is accepted throughout the interior. The common term remains useful in trade records because it identifies a coherent group of ports, river mouths, and coastal roads. It also distinguishes the mainland from the smaller eastern islands whose pilots share its routes but whose councils remain independent.
 
 ## Cliffs, Ridge, and Southern Peninsula
 

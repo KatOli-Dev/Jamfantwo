@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Velden Strait Run
-description: "The narrow channel between the Auric Ocean and the Stormfall Sea is the only navigable passage between northern and southern seas, channelling the wealth of three continents."
+description: "The narrow channel between the Auric Ocean and the Stormfall Sea is the only navigable passage between northern and southern seas, channelling the wealth of three continents and their regions."
 ---
 
 ## The Only Passage Between Auric and Stormfall
@@ -10,7 +10,7 @@ The [Velden](/content/location/settlement/city/velden) Strait Run is the maritim
 
 ## Twisting Channel and the Reversing Tides
 
-The [Velden Strait](/content/location/natural/feature/strait-of-velden) is a narrow and twisting channel running between steep shores, its width varying from as little as two miles at the narrowest point to something more generous where the channel opens into broader waters at either end. The passage runs roughly north-east to south-west, connecting the warmer and calmer waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the colder and more turbulent waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The meeting of these two bodies of water at the narrowest point produces conditions among the most challenging for mariners anywhere in the known world. The warm current of the Auric presses northward against the cooler and more variable waters of the [Stormfall](/content/location/natural/continent/stormfall), creating eddies and tide-rips that can spin a vessel around and hold it against the current for hours at a time. The tidal range is considerable, and the direction and strength of the current reverse with each tide, so that a vessel entering at the wrong moment may find itself unable to make headway against the flow.
+The [Velden Strait](/content/location/natural/feature/strait-of-velden) is a narrow and twisting channel running between steep shores, its width varying from as little as two miles at the narrowest point to something more generous where the channel opens into broader waters at either end. The passage runs roughly north-east to south-west, connecting the warmer and calmer waters of the [Auric Ocean](/content/location/natural/feature/auric-ocean) to the colder and more turbulent waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). The meeting of these two bodies of water at the narrowest point produces conditions among the most challenging for mariners anywhere in the known world. The warm current of the Auric presses northward against the cooler and more variable waters of the Stormfall Sea, creating eddies and tide-rips that can spin a vessel around and hold it against the current for hours at a time. The tidal range is considerable, and the direction and strength of the current reverse with each tide, so that a vessel entering at the wrong moment may find itself unable to make headway against the flow.
 
 The shores are steep and rocky on both sides. The Morvind shore rises sharply from the water in a series of cliffs and headlands casting long shadows across the channel. The Aethelaran shore is gentler, with low cliffs and sheltered coves providing anchorages for vessels waiting for the tide, but submerged rocks and shoals have wrecked many vessels here over the centuries.
 

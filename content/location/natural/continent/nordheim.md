@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Nordheim
-description: "A northern continent of tundra, conifer forest, and glacier-scoured mountains, where summer light drives urgent growth and every community shares rules for shelter, rescue, and the migration routes."
+description: "A northern region of Morvind's tundra, conifer forest, and glacier-scoured mountains, where every community shares rules for shelter, rescue, and migration routes."
 ---
 
-## The Northern Home
+## The Northern Region of Morvind
 
-Nordheim is the northernmost of the great settled landmasses described in the western charts, a continent of broad tundra, low forest, and mountain walls that hold the interior against the sea. Its southern coast faces a cold ocean of long swells and shifting fog, while its northern shore reaches into waters that freeze along the bays during the darkest months. The continent is not entirely barren. A narrow southern belt supports dense coniferous woodland, and the river valleys that descend from the interior provide summer pasture and short-season fields. Beyond those valleys lies the Frostwall Tundra, whose pale grasses, stunted shrubs, and frozen lakes cover much of northern Nordheim.
+Nordheim is the northern region of [Morvind](/content/location/natural/continent/morvind), a country of broad tundra, low forest, and mountain walls that hold the interior against the sea. Its southern coast faces a cold ocean of long swells and shifting fog, while its northern shore reaches into waters that freeze along the bays during the darkest months. The region is not entirely barren. A narrow southern belt supports dense coniferous woodland, and the river valleys that descend from the interior provide summer pasture and short-season fields. Beyond those valleys lies the Frostwall Tundra, whose pale grasses, stunted shrubs, and frozen lakes cover much of northern Nordheim.
 
-Nordheim is often confused in southern records with the coastal names [Nordhaven](/content/location/settlement/city/nordhaven) and Nordheim used by several old seafaring families. The continental name is older than those local usages. Its first meaning is uncertain, though most northern sources translate it as the northern home. The name describes climate rather than political unity, for Nordheim contains many independent settlements and travelling peoples whose common customs arise from the need to preserve food, shelter, and trustworthy routes through a country where winter can make a short journey into an isolation of many weeks.
+Nordheim is often confused in southern records with the coastal names [Nordhaven](/content/location/settlement/city/nordhaven) and Nordheim used by several old seafaring families. The regional name is older than those local usages. Its first meaning is uncertain, though most northern sources translate it as the northern home. The name describes climate rather than political unity, for Nordheim contains many independent settlements and travelling peoples whose common customs arise from the need to preserve food, shelter, and trustworthy routes through a country where winter can make a short journey into an isolation of many weeks.
 
 ## Whitewall Range and the Frostwall Tundra
 
@@ -50,6 +50,6 @@ At the western edge of Nordheim stands the [Storm Cape](/content/location/natura
 
 ## Bright Summer and the Ice Break
 
-The southern forests produce an estimated 24,000 tons of timber annually, with fir and red cedar comprising the principal exports. The coastal fishery yields approximately 8,000 tons of herring, cod, and salmon each year, much of it dried or smoked for inland distribution. Iron ore from the eastern mountains is smelted at 14 dwarf-run forges and shipped south through the port at Nordhaven. A route census conducted in 1286 PF recorded 32 travelling clans on the tundra, with combined herds estimated at 18,000 tundra deer and 12,000 white oxen.
+The southern forests produce an estimated 24,000 tons of timber annually, with fir and red cedar comprising the principal exports. The coastal fishery yields approximately 8,000 tons of herring, cod, and salmon each year, much of it dried or smoked for inland distribution. Iron ore from the eastern mountains is smelted at 14 dwarf-run forges and shipped south through the port at Nordhaven. A route census conducted in 4886 PF recorded 32 travelling clans on the tundra, with combined herds estimated at 18,000 tundra deer and 12,000 white oxen.
 
 The southern ports maintain 22 refuge halls along the three caravan passes, each stocked with a six-month supply of dried meat, peat, and spare timber. The customs house at Nordhaven recorded 210 vessel arrivals in the last recorded year, with trade valued at approximately 14,000 silver weights. Amber, furs, and iron accounted for 62 percent of outgoing cargo by that measure.

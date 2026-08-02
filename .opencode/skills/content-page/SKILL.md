@@ -31,6 +31,7 @@ description: "1–2 sentences, 120–200 characters, in-world voice, unique per 
 - No slang, modern idioms, or anachronisms.
 - Prejudices are background reality, not narrative centrepieces; consolidate them on [content/culture/prejudices.md](/content/culture/prejudices).
 - The content tree is extensible — new subdirectories may be added under any category.
+- Be paranoid about inconsistent lore: check existing pages before introducing or repeating names, dates, places, relationships, terminology, or historical claims, and resolve contradictions in favour of established facts rather than inventing a compromise.
 
 ## Purple prose — what to avoid
 

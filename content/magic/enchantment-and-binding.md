@@ -6,7 +6,7 @@ description: "Enchantment fixes a pattern in a desired configuration, reducing i
 
 ## Fixing the Pattern in a Desired Shape
 
-The practices of enchantment and binding are among the most enduring of the workings of the Art, for they fix a pattern in a desired configuration and reduce the tendency of the pattern to settle back toward its original state. An enchanted object is one whose pattern has been bound to a particular configuration, and the binding may endure for years or for centuries depending on the skill of the practitioner and the depth of the attunement.
+The practices of enchantment and binding are among the most enduring of the workings of magic, for they fix a pattern in a desired configuration and reduce the tendency of the pattern to settle back toward its original state. An enchanted object is one whose pattern has been bound to a particular configuration, and the binding may endure for years or for centuries depending on the skill of the practitioner and the depth of the attunement.
 
 This page describes the practice of enchantment and binding as it is performed across the traditions, beginning with the principles that govern the fixing of pattern, continuing with the methods by which enchantment is achieved, and concluding with the limits and risks that the practitioner must understand.
 
@@ -32,7 +32,7 @@ The [Velden Compact](/content/government/local/velden-compact) has developed met
 
 ## The Enchantment of Tools
 
-The enchantment of tools is among the most common of the workings of the Art, for a tool that has been enchanted will perform its function more reliably and for a longer time than a tool that has not been enchanted. A knife that has been enchanted will hold its edge, a hammer that has been enchanted will strike true, and a plough that has been enchanted will turn the soil with less effort.
+The enchantment of tools is among the most common of the workings of magic, for a tool that has been enchanted will perform its function more reliably and for a longer time than a tool that has not been enchanted. A knife that has been enchanted will hold its edge, a hammer that has been enchanted will strike true, and a plough that has been enchanted will turn the soil with less effort.
 
 The [Khalisar Council](/content/government/local/khalisar-council) is the tradition most skilled in the enchantment of tools, for the Council's practitioners are frequently called upon to enchant the tools of the merchants and the craftspeople of the cities. The Council has recorded more than three hundred enchantments of tools, each with its own conditions of performance and its own limits.
 
@@ -40,17 +40,17 @@ The dwarven practitioners of the mountain holds are also skilled in the enchantm
 
 ## The Enchantment of Relics
 
-The enchantment of relics is a discipline apart from the enchantment of ordinary objects, for a relic is an object whose pattern has already been deeply shaped by the Art. The practitioner who would enchant a relic must read through the accumulated traces of the previous workings to the original pattern, a discipline that requires considerable skill and patience.
+The enchantment of relics is a discipline apart from the enchantment of ordinary objects, for a relic is an object whose pattern has already been deeply shaped by magic. The practitioner who would enchant a relic must read through the accumulated traces of the previous workings to the original pattern, a discipline that requires considerable skill and patience.
 
 The [Known-World Codex](/content/magic/relic/codex-of-the-known-world) is a relic that has been enchanted by the accumulated attention of its readers over many centuries. The Codex was not the subject of a deliberate working of enchantment, but the pattern of the Codex has been fixed by the resonance of the many readings it has received, and the Codex now holds its pattern with a strength that ordinary books do not possess.
 
-The [Letters on Pattern](/content/magic/relic/letters-on-pattern) are a relic of a different kind, for the enchantment of the Letters is carried not by the physical object but by the patterns that the Letters describe. A practitioner who reads the Letters may attune to the patterns they describe, and the attunement may be deepened with each reading. The binding of the Letters is not a binding of ink to paper but a binding of pattern to meaning, and the Letters are among the most enduring of the relics of the Art because the meaning they carry does not fade with time.
+The [Letters on Pattern](/content/magic/relic/letters-on-pattern) are a relic of a different kind, for the enchantment of the Letters is carried not by the physical object but by the patterns that the Letters describe. A practitioner who reads the Letters may attune to the patterns they describe, and the attunement may be deepened with each reading. The binding of the Letters is not a binding of ink to paper but a binding of pattern to meaning, and the Letters are among the most enduring of the relics of magic because the meaning they carry does not fade with time.
 
-The [Star-Seeker](/content/magic/relic/star-seeker) is a relic whose enchantment is of a different order again. The vessel was built and sailed by [Kaelen Navigator](/content/people/historical/kaelen-navigator) in the first recorded crossing of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the vessel bears the symbols of the constellations upon its hull. The painting of the symbols was itself a working of the Art, fixing the vessel's pattern in sympathy with the stars, and the binding has endured through the centuries because the vessel has been maintained with care by the custodians of the relic.
+The [Star-Seeker](/content/magic/relic/star-seeker) is a relic whose enchantment is of a different order again. The vessel was built and sailed by [Kaelen Navigator](/content/people/historical/kaelen-navigator) in the first recorded crossing of the [Auric Ocean](/content/location/natural/feature/auric-ocean), and the vessel bears the symbols of the constellations upon its hull. The painting of the symbols was itself a working of magic, fixing the vessel's pattern in sympathy with the stars, and the binding has endured through the centuries because the vessel has been maintained with care by the custodians of the relic.
 
 ## The Limits of Enchantment
 
-Enchantment is bounded by the same limits that govern the Art as a whole. The practitioner who would enchant an object must attune to the object through a path of sympathy, and the strength of the enchantment depends on the depth of the attunement. A practitioner who has attuned to the object over many years may achieve an enchantment that endures for generations, while a practitioner who attunes to an object for the first time may achieve an enchantment that lasts for only a season.
+Enchantment is bounded by the same limits that govern magic as a whole. The practitioner who would enchant an object must attune to the object through a path of sympathy, and the strength of the enchantment depends on the depth of the attunement. A practitioner who has attuned to the object over many years may achieve an enchantment that endures for generations, while a practitioner who attunes to an object for the first time may achieve an enchantment that lasts for only a season.
 
 The conservation of pattern also bounds enchantment. The practitioner who enchants an object cannot create a new pattern from nothing but must deepen the pattern that already exists. The deepening exacts a [cost](/content/magic/law/cost) that the practitioner bears, and the cost is greater when the enchantment is more extensive.
 
@@ -62,4 +62,4 @@ The reversal of enchantment is called unbinding, and it is a working in which th
 
 The [Sylvan Court](/content/government/local/sylvan-court) holds that unbinding is a distinct working that requires a different discipline from binding, for the practitioner who unbinds a pattern must read the original binding and find the point at which the binding may be released. The [Khalisar Council](/content/government/local/khalisar-council) holds that unbinding is simply binding performed in reverse and does not require a separate discipline.
 
-The practice of unbinding is rarely called for, for the enchantments of the Art are typically beneficial and are not reversed except when the enchantment has caused harm or when the object is to be reshaped in a different configuration. The traditions do not teach unbinding to apprentices, reserving the discipline for practitioners who have undergone extensive training beyond the apprenticeship.
+The practice of unbinding is rarely called for, for the enchantments of magic are typically beneficial and are not reversed except when the enchantment has caused harm or when the object is to be reshaped in a different configuration. The traditions do not teach unbinding to apprentices, reserving the discipline for practitioners who have undergone extensive training beyond the apprenticeship.

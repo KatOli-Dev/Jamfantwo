@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Healing and Restoration
-description: "The mending of living patterns is among the most demanding disciplines of the Art, for living things resist reading and reshaping with a vigour that dead matter does not."
+description: "The mending of living patterns is among the most demanding disciplines of magic, for living things resist reading and reshaping with a vigour that dead matter does not."
 ---
 
-## The Art Applied to the Mending of Pattern
+## Magic Applied to the Mending of Pattern
 
-The Art may be applied to the healing of living things and the restoration of damaged patterns, but the discipline is among the most demanding of the practice. The patterns of living things resist reading and reshaping with a vigour that the patterns of dead matter do not, and the practitioner who attempts to heal a living creature must overcome this resistance while working within the [limits](/content/magic/law/limit) that the order of the world imposes.
+Magic may be applied to the healing of living things and the restoration of damaged patterns, but the discipline is among the most demanding of the practice. The patterns of living things resist reading and reshaping with a vigour that the patterns of dead matter do not, and the practitioner who attempts to heal a living creature must overcome this resistance while working within the [limits](/content/magic/law/limit) that the order of the world imposes.
 
 This page describes the practice of healing and restoration as it is performed across the traditions, beginning with the principles that govern the healing of living things, continuing with the methods by which healing is accomplished, and concluding with the limits and risks that the practitioner must understand.
 
@@ -46,11 +46,11 @@ The traditions agree that the healing of a person should not be undertaken witho
 
 The healing of a person who has consented proceeds with care. The practitioner reads the pattern of the person thoroughly, perceiving the configuration of the injury or disease in all of its aspects. The practitioner then attunes to the person through the path of resonance, bringing the practitioner's pattern into sympathy with the person's pattern. The reshaping is performed through the shared path, and the practitioner who has attuned deeply to the person may accomplish more than one who has not.
 
-The [Sylvan Court](/content/government/local/sylvan-court) has recorded several healings of persons that are among the most remarkable in the literature of the Art. The Court's records describe a practitioner of the Court who healed a forester who had been crushed by a falling tree, restoring the shattered bones and damaged organs through a series of workings that required three days of continuous attention. The forester survived and returned to the forest, and the working is cited by the Court as evidence of the power of deep attunement in the healing of persons.
+The [Sylvan Court](/content/government/local/sylvan-court) has recorded several healings of persons that are among the most remarkable in the literature of magic. The Court's records describe a practitioner of the Court who healed a forester who had been crushed by a falling tree, restoring the shattered bones and damaged organs through a series of workings that required three days of continuous attention. The forester survived and returned to the forest, and the working is cited by the Court as evidence of the power of deep attunement in the healing of persons.
 
 ## The Limits of Healing
 
-Healing is bounded by the same limits that govern the Art as a whole. A practitioner may heal only through a path of sympathy, and the path exists only between patterns that are alike. The practitioner who would heal a living thing must attune to the pattern of the thing, and the attunement is easier when the practitioner shares some likeness with the subject.
+Healing is bounded by the same limits that govern magic as a whole. A practitioner may heal only through a path of sympathy, and the path exists only between patterns that are alike. The practitioner who would heal a living thing must attune to the pattern of the thing, and the attunement is easier when the practitioner shares some likeness with the subject.
 
 The conservation of pattern also bounds healing. The practitioner who heals a living thing cannot create health from nothing but must redistribute the pattern of the subject from an injured configuration to a healthier one. The redistribution exacts a [cost](/content/magic/law/cost) that the practitioner bears, and the cost is greater when the healing is more extensive.
 
@@ -58,7 +58,7 @@ The resistance of living patterns to reshaping is the principal limit on healing
 
 ## The Restoration of Objects
 
-The restoration of damaged objects is a form of healing applied to dead matter, and it is among the most common of the workings of the Art. A broken tool may be restored to its original configuration, a cracked vessel may be mended, and a faded painting may be brightened through a reshaping that returns the pattern to its earlier state.
+The restoration of damaged objects is a form of healing applied to dead matter, and it is among the most common of the workings of magic. A broken tool may be restored to its original configuration, a cracked vessel may be mended, and a faded painting may be brightened through a reshaping that returns the pattern to its earlier state.
 
 The [Khalisar Council](/content/government/local/khalisar-council) is the tradition most skilled in the restoration of objects, for the Council's practitioners are frequently called upon to restore the tools and goods upon which the commerce of the cities depends. The Council's methods of restoration are among the most practical of any tradition and are valued by the merchants who depend upon the integrity of their goods.
 

@@ -26,7 +26,7 @@ The second phase of the programme was the development of a new design of vessel 
 
 The design that emerged from this collaboration was the Nordhaven knarr, a vessel that differed significantly from the ships of other maritime nations. The knarr was broader in the beam and deeper in the draft than the ships of the southern fleets, providing the stability required for the transport of heavy cargoes of metalwork and stone. The hull was constructed with a clinker-built technique that gave the vessel greater flexibility in heavy seas, and the rig was designed to be handled by a smaller crew than was customary for vessels of similar size.
 
-The knarr was a product of the collaboration between the shipwrights of the coast and the sailors who would crew the vessels. The design was refined through testing, with prototype vessels subjected to the worst conditions that the [Stormfall](/content/location/natural/continent/stormfall) Sea could produce. The modifications that resulted from the testing were incorporated into the final design, which was standardised for production in the royal shipyards.
+The knarr was a product of the collaboration between the shipwrights of the coast and the sailors who would crew the vessels. The design was refined through testing, with prototype vessels subjected to the worst conditions that the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) could produce. The modifications that resulted from the testing were incorporated into the final design, which was standardised for production in the royal shipyards.
 
 ## The Establishment of the Royal Dockyards
 

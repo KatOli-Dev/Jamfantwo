@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Attunement Practice
-description: "Attunement brings the practitioner's own pattern into sympathy with the subject, forming the foundation without which no working of the Art may succeed."
+description: "Attunement brings the practitioner's own pattern into sympathy with the subject, forming the foundation without which no working of magic may succeed."
 ---
 
 ## The Foundation of Every Working
 
-Attunement is the process by which a practitioner brings their own pattern into sympathy with the pattern of a subject. It is the foundation of every working of the Art, and the traditions teach attunement as the second discipline after reading. A practitioner who has not attuned to the subject will accomplish nothing, and an attempt to reshape without attunement is a common cause of harm to the practitioner. The discipline of attunement is the means by which the practitioner walks the paths of [Source](/content/magic/law/source) that connect one pattern to another, and the depth of attunement determines the extent of what the practitioner may accomplish.
+Attunement is the process by which a practitioner brings their own pattern into sympathy with the pattern of a subject. It is the foundation of every working of magic, and the traditions teach attunement as the second discipline after reading. A practitioner who has not attuned to the subject will accomplish nothing, and an attempt to reshape without attunement is a common cause of harm to the practitioner. The discipline of attunement is the means by which the practitioner walks the paths of [Source](/content/magic/law/source) that connect one pattern to another, and the depth of attunement determines the extent of what the practitioner may accomplish.
 
 This page describes the practice of attunement as it is taught and performed across the traditions, beginning with the nature of the act itself, continuing with the methods by which attunement is achieved and deepened, and concluding with the limits that attunement observes and the risks that accompany it.
 
@@ -46,7 +46,7 @@ The [Velden Compact](/content/government/local/velden-compact) deepens attunemen
 
 ## The Limits of Attunement
 
-Attunement is bounded by the same [limits](/content/magic/law/limit) that govern the Art as a whole. A practitioner may only attune to a subject through a path of sympathy, and the path exists only between patterns that are alike. The closer the pattern of the practitioner is to the pattern of the subject, the more direct the path and the more readily the practitioner may attune. A practitioner who has attuned to the forest cannot readily attune to the sea, and a practitioner who has attuned to the city cannot readily attune to the deep places of the earth.
+Attunement is bounded by the same [limits](/content/magic/law/limit) that govern magic as a whole. A practitioner may only attune to a subject through a path of sympathy, and the path exists only between patterns that are alike. The closer the pattern of the practitioner is to the pattern of the subject, the more direct the path and the more readily the practitioner may attune. A practitioner who has attuned to the forest cannot readily attune to the sea, and a practitioner who has attuned to the city cannot readily attune to the deep places of the earth.
 
 The limit of sympathy is the reason that practitioners specialise by tradition. A practitioner of the [Sylvan Court](/content/government/local/sylvan-court) who must attune to a subject outside the forest undergoes a period of reattunement, a process that may require weeks or months depending on the distance between the practitioner's accustomed patterns and the patterns of the new subject. The traditions do not encourage cross-attunement, for the discipline of attunement is built upon the patterns the practitioner has learned to read, and a practitioner who attempts to attune to a pattern too far from the accustomed patterns risks confusion and error.
 
@@ -58,8 +58,8 @@ The second risk is that the practitioner may attune to a subject that is harmful
 
 ## Attunement in Daily Practice
 
-The practitioner who practises the Art regularly maintains a state of partial attunement to the patterns most commonly encountered. A practitioner of the [Sylvan Court](/content/government/local/sylvan-court) who lives in the forest is always partly attuned to the forest, and the attunement deepens with each day of practice. A practitioner of the [Velden Compact](/content/government/local/velden-compact) who sails regularly is always partly attuned to the water, and the attunement shifts with the tides.
+The practitioner who practises magic regularly maintains a state of partial attunement to the patterns most commonly encountered. A practitioner of the [Sylvan Court](/content/government/local/sylvan-court) who lives in the forest is always partly attuned to the forest, and the attunement deepens with each day of practice. A practitioner of the [Velden Compact](/content/government/local/velden-compact) who sails regularly is always partly attuned to the water, and the attunement shifts with the tides.
 
 The partial attunement is the foundation of the practitioner's skill, allowing the practitioner to read and reshape with less effort than one who must achieve full attunement before each working. The partial attunement is also the source of the [Cost](/content/magic/law/cost) that accumulates over a career, for the practitioner who maintains a partial attunement to many patterns over many years will find that the patterns leave traces that are not easily shed.
 
-The practice of attunement is therefore a discipline that the practitioner must maintain throughout a career. The practitioner who neglects attunement will find the Art increasingly difficult, and the practitioner who maintains attunement with care will find that the Art becomes more reliable with each passing year.
+The practice of attunement is therefore a discipline that the practitioner must maintain throughout a career. The practitioner who neglects attunement will find magic increasingly difficult, and the practitioner who maintains attunement with care will find that magic becomes more reliable with each passing year.

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Morvind
-description: "A rugged northern continent of high mountains and narrow fjords, where dwarven halls yield fine metalwork and coastal ports carry that craft across the Stormfall Sea to markets far south."
+description: "A rugged northern continent of high mountains and narrow fjords, whose Nordheim and Stormfall regions carry dwarven metalwork across the Stormfall Sea to markets far south."
 ---
 
 ## Mountains Define Every Feature
 
-Morvind lies to the north of [Aethelar](/content/location/natural/continent/aethelar) across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). It is a rugged and mountainous continent, its interior dominated by ranges that hold their snow well into the spring. The coastal lowlands are narrow but support fishing and trading settlements that have endured for centuries, their harbours sheltered by the same cliffs that protect them from the open ocean. Morvind's mineral wealth has long drawn prospectors and traders, and the continent's reputation for fine metalwork is recognised throughout the known world. Though smaller and less varied than [Aethelar](/content/location/natural/continent/aethelar), Morvind has a character shaped by the mountains that define its every feature.
+Morvind lies to the north of [Aethelar](/content/location/natural/continent/aethelar) across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea). It is a rugged and mountainous continent, its interior dominated by ranges that hold their snow well into the spring. The northern region of [Nordheim](/content/location/natural/continent/nordheim) contains tundra, forests, and the Whitewall Range, while the southern [Stormfall Coast](/content/location/natural/ecosystem/stormfall-coast) contains the fjords and ports facing the sea. Morvind's mineral wealth has long drawn prospectors and traders, and the continent's reputation for fine metalwork is recognised throughout the known world. Though smaller and less varied than Aethelar, Morvind has a character shaped by the mountains that define its every feature.
 
 ## Labyrinth of Valleys and High Passes
 
@@ -20,7 +20,7 @@ The rivers that descend from Morvind's heights are swift and clear, fed by glaci
 
 The coastal lowlands of Morvind are narrow, seldom extending more than a few miles inland before the mountains rise. The shore is marked by high cliffs and deep inlets, and the harbours that nestle among them are well sheltered from the storms that sweep across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) during the autumn and winter. The coastal communities are fishing and trading peoples, and their contact with the sea has shaped every aspect of their lives, from their diet to their architecture to their oral traditions.
 
-The climate of the coast is milder than that of the interior, warmed by the waters of the [Stormfall](/content/location/natural/continent/stormfall) and sheltered from the worst of the mountain weather. Fog is common in the autumn, and [the long winter](/content/history/the-long-winter) nights are lit at times by the aurora that hangs over the northern seas, a phenomenon regarded with reverence and woven into the oldest traditions. The short but intense summers are a time of feverish activity, as the coastal communities fish, trade, and prepare for the long months when the sea may be impassable. The waters off the southern coast are among the most productive fishing grounds in the known world, with cod, herring, and salmon supporting both coastal villages and the trade that carries preserved fish to the markets of Aethelar.
+The climate of the coast is milder than that of the interior, warmed by the waters of the [Stormfall Sea](/content/location/natural/feature/stormfall-sea) and sheltered from the worst of the mountain weather. Fog is common in the autumn, and [the long winter](/content/history/the-long-winter) nights are lit at times by the aurora that hangs over the northern seas, a phenomenon regarded with reverence and woven into the oldest traditions. The short but intense summers are a time of feverish activity, as the coastal communities fish, trade, and prepare for the long months when the sea may be impassable. The waters off the southern coast are among the most productive fishing grounds in the known world, with cod, herring, and salmon supporting both coastal villages and the trade that carries preserved fish to the markets of Aethelar.
 
 ## Dwarven Halls and Human Harbours
 

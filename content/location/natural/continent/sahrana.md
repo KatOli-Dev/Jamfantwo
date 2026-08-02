@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Sahrana
-description: "The southernmost continent, where fertile coastal city-states face a warm sea while the great Kharesh desert stretches inland toward remote highlands and the inland seas of the Southern Reach."
+description: "The southernmost continent, where fertile coastal city-states face a warm sea while the Kharesh stretches inland toward the remote Southern Lands and its inland seas."
 ---
 
 ## The Southernmost Continent
 
-Sahrana is the southernmost continent, lying across the [Auric Ocean](/content/location/natural/feature/auric-ocean) from [Aethelar](/content/location/natural/continent/aethelar). Much of its interior is covered by vast desert, punctuated by rocky uplands and seasonal river systems. The northern coast, washed by warm currents, supports several fertile regions that have given rise to prosperous and cultured city-states. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare [spices and dyes](/content/economy/spices-and-dyes) are among the most valuable in the known world. The continent is a land of contrasts, where great wealth and refinement coexist with some of the harshest conditions found anywhere.
+Sahrana is the southernmost continent, lying across the [Auric Ocean](/content/location/natural/feature/auric-ocean) from [Aethelar](/content/location/natural/continent/aethelar). Much of its interior is covered by vast desert, punctuated by rocky uplands and seasonal river systems. The northern coast, washed by warm currents, supports several fertile regions that have given rise to prosperous and cultured city-states. Beyond the Kharesh, the remote southern region called the [Southern Lands](/content/location/natural/continent/southern-lands) contains temperate highlands and inland seas governed by the Southern Reach. Sahrana's distance from the northern continents has allowed distinct traditions to flourish, and its trade routes for rare [spices and dyes](/content/economy/spices-and-dyes) are among the most valuable in the known world. The continent is a land of contrasts, where great wealth and refinement coexist with some of the harshest conditions found anywhere.
 
 ## Fertile Coast, Foothills, and the Great Desert
 

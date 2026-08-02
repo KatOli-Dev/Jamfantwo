@@ -16,11 +16,10 @@ the crews harder, and the captains more skilled than those who ply the milder
 southern routes. The [Nordhaven](/content/location/settlement/city/nordhaven) [Northern Fleet](/content/government/local/northern-fleet) meets these requirements and has
 done so since the earliest days of the realm.
 
-Nordhaven's position on the northern coast of [Aethelar](/content/location/natural/continent/aethelar)
-gives it control over the sea-lanes that connect the continent to the
-[Karhold Realm](/content/government/national/karhold-realm) and the [Frostwall
-Clans](/content/government/national/frostwall-clans) of
-[Morvind](/content/location/natural/continent/morvind). The fleet protects
+Nordhaven's position on the southern coast of [Morvind](/content/location/natural/continent/morvind)
+gives it control over the sea-lanes that connect the continent to
+[Aethelar](/content/location/natural/continent/aethelar) and the [Frostwall
+Clans](/content/government/national/frostwall-clans) of the Morvind interior. The fleet protects
 this trade, enforces the realm's claims to fishing grounds and sealing
 stations, and provides a defence against the raiders who occasionally descend
 from the northern islands. Without the fleet, Nordhaven would be vulnerable to
