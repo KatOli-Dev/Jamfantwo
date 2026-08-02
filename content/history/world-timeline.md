@@ -1,12 +1,12 @@
 ---
 layout: default
 title: World Timeline
-description: "A compilation of the major events of recorded history from the earliest period to the present day, constructed from the chronicles of the various nations and peoples of the three continents."
+description: "A compilation of the major events of recorded history from the earliest period to the present day, constructed from the chronicles of the nations and regions of Aethelar, Morvind, and Sahrana."
 ---
 
 ## Compilation of Recorded Events
 
-The timeline that follows records the major events of the history of the known world, from the earliest period for which any record survives to the present day. The chronology is constructed from the chronicles of the various nations and peoples of the three continents, and the dates are reckoned according to the calendars of the chroniclers whose records are the source. Where the chronicles disagree upon the date or the character of an event, the disagreement is noted and no judgment is offered upon which account is to be preferred. The timeline is a work of compilation rather than interpretation, intended to provide a single sequence by which the events of the different nations may be related to one another.
+The timeline that follows records the major events of the history of the known world, from the earliest period for which any record survives to the present day. The chronology is constructed from the chronicles of the nations and named regions of [Aethelar](/content/location/natural/continent/aethelar), [Morvind](/content/location/natural/continent/morvind), and [Sahrana](/content/location/natural/continent/sahrana). Regional names such as Thessara, Nordheim, Stormfall, and the Southern Lands identify distinct cultural and geographic areas within those continents; they are not additional continents. The dates are reckoned according to the calendars of the chroniclers whose records are the source. Where the chronicles disagree upon the date or the character of an event, the disagreement is noted and no judgment is offered upon which account is to be preferred. The timeline is a work of compilation rather than interpretation, intended to provide a single sequence by which the events of the different nations may be related to one another.
 
 ## Earliest Kingdoms and Institutions
 

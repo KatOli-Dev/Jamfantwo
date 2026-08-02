@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Nordheim
-description: "A northern continent of tundra, conifer forest, and glacier-scoured mountains, where summer light drives urgent growth and every community shares rules for shelter, rescue, and the migration routes."
+description: "A northern region of Morvind's tundra, conifer forest, and glacier-scoured mountains, where every community shares rules for shelter, rescue, and migration routes."
 ---
 
-## The Northern Home
+## The Northern Region of Morvind
 
-Nordheim is the northernmost of the great settled landmasses described in the western charts, a continent of broad tundra, low forest, and mountain walls that hold the interior against the sea. Its southern coast faces a cold ocean of long swells and shifting fog, while its northern shore reaches into waters that freeze along the bays during the darkest months. The continent is not entirely barren. A narrow southern belt supports dense coniferous woodland, and the river valleys that descend from the interior provide summer pasture and short-season fields. Beyond those valleys lies the Frostwall Tundra, whose pale grasses, stunted shrubs, and frozen lakes cover much of northern Nordheim.
+Nordheim is the northern region of [Morvind](/content/location/natural/continent/morvind), a country of broad tundra, low forest, and mountain walls that hold the interior against the sea. Its southern coast faces a cold ocean of long swells and shifting fog, while its northern shore reaches into waters that freeze along the bays during the darkest months. The region is not entirely barren. A narrow southern belt supports dense coniferous woodland, and the river valleys that descend from the interior provide summer pasture and short-season fields. Beyond those valleys lies the Frostwall Tundra, whose pale grasses, stunted shrubs, and frozen lakes cover much of northern Nordheim.
 
-Nordheim is often confused in southern records with the coastal names [Nordhaven](/content/location/settlement/city/nordhaven) and Nordheim used by several old seafaring families. The continental name is older than those local usages. Its first meaning is uncertain, though most northern sources translate it as the northern home. The name describes climate rather than political unity, for Nordheim contains many independent settlements and travelling peoples whose common customs arise from the need to preserve food, shelter, and trustworthy routes through a country where winter can make a short journey into an isolation of many weeks.
+Nordheim is often confused in southern records with the coastal names [Nordhaven](/content/location/settlement/city/nordhaven) and Nordheim used by several old seafaring families. The regional name is older than those local usages. Its first meaning is uncertain, though most northern sources translate it as the northern home. The name describes climate rather than political unity, for Nordheim contains many independent settlements and travelling peoples whose common customs arise from the need to preserve food, shelter, and trustworthy routes through a country where winter can make a short journey into an isolation of many weeks.
 
 ## Whitewall Range and the Frostwall Tundra
 

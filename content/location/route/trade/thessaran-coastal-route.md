@@ -18,7 +18,7 @@ The northern course begins where the coast opens around [Eldreth](/content/locat
 
 Every major harbour maintains a quay district, a storehouse quarter, and a refuge anchorage beyond the main breakwater. The large cities provide cranes, shipwrights, sailmakers, and licensed brokers, while smaller ports specialise in provisions and local cargoes. Harbour masters use signal flags and lanterns to assign berths. Thessaran Toll is one of the smallest but most carefully placed stations on the route, standing beside a headland road where coastal cargoes are transferred from ships to wagons, allowing merchants to avoid a difficult reef or storm-exposed stretch of water. The outpost weighs goods, records their destination, and collects the contribution funding nearby lights and road repairs.
 
-At the northern edge of the route, [Stormfall](/content/location/natural/continent/stormfall) Pier serves vessels approaching from colder waters and needing to exchange cargo before entering the Auric coast. Its pier is built of heavy timber braced with iron, and the settlement stands behind a low seawall protecting its sheds from the strongest tides. Fishers, pilots, and freight handlers make up most of the permanent population.
+At the northern edge of the route, Stormfall Pier serves vessels approaching from the colder waters of the Stormfall Sea and needing to exchange cargo before entering the Auric coast. Its pier is built of heavy timber braced with iron, and the settlement stands behind a low seawall protecting its sheds from the strongest tides. Fishers, pilots, and freight handlers make up most of the permanent population.
 
 ## Grain South, Spices North
 
@@ -32,7 +32,7 @@ The crews are chiefly human, though every major harbour includes dwarven smiths,
 
 ## Winter Storms and the Lighthouse Patterns
 
-The route is most heavily used during late spring, summer, and early autumn. Winter storms move in from the [Stormfall](/content/location/natural/continent/stormfall) waters and can drive a vessel onto the coast. The autumn gales are especially dangerous near headlands, where wind from the open ocean meets currents flowing out of river mouths. Captains study cloud shapes, the swell beneath a calm surface, and the behaviour of seabirds before deciding whether to leave harbour. Fog is common near the northern headlands and in the mornings after rain. The league's lighthouses use different patterns of shutters or coloured glass so that pilots can identify them when the shore is hidden.
+The route is most heavily used during late spring, summer, and early autumn. Winter storms move in from the Stormfall Sea and can drive a vessel onto the coast. The autumn gales are especially dangerous near headlands, where wind from the open ocean meets currents flowing out of river mouths. Captains study cloud shapes, the swell beneath a calm surface, and the behaviour of seabirds before deciding whether to leave harbour. Fog is common near the northern headlands and in the mornings after rain. The league's lighthouses use different patterns of shutters or coloured glass so that pilots can identify them when the shore is hidden.
 
 ## Principal Connection Among the Eastern Ports
 

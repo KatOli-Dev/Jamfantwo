@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Crown Range
-description: "The crescent highlands forming the spine and watershed of Thessara, whose stair-stepped plateaus, high meadows, and ancient limestone basin carry the road between coasts through passes watched by."
+description: "The crescent highlands forming the spine and watershed of Thessara in eastern Aethelar, whose plateaus, meadows, and limestone basin carry roads through the regional passes."
 ---
 
-## The Crescent Highlands of Thessara
+## The Crescent Highlands of Eastern Aethelar
 
-The Crown Range is the set of highlands whose ridges form a broad crescent around the central valleys of [Thessara](/content/location/natural/continent/thessara), serving as the spine and the watershed of the continent. The mountains are not continuous walls but open into passes, stair-stepped plateaus, and high meadows, allowing roads to cross the continent while still dividing its waters. The range is at once a barrier and a corridor, for the same openings that allow the passage of roads also divide the rivers that descend to the two coasts. The Crown Range must not be confused with the [Sunken Crown](/content/location/natural/feature/sunken-crown) of [Ashara](/content/location/natural/continent/ashara), a separate highland of the warm continent to the south, distinguished by climate, rock, and the peoples who inhabit their slopes.
+The Crown Range is the set of highlands whose ridges form a broad crescent around the central valleys of [Thessara](/content/location/natural/continent/thessara), a region of eastern [Aethelar](/content/location/natural/continent/aethelar). It serves as the spine and watershed of the eastern highlands. The mountains are not continuous walls but open into passes, stair-stepped plateaus, and high meadows, allowing roads to cross the region while still dividing its waters. The range is at once a barrier and a corridor, for the same openings that allow the passage of roads also divide the rivers that descend to the coast and interior. The Crown Range must not be confused with the [Sunken Crown](/content/location/natural/feature/sunken-crown) of [Ashara](/content/location/natural/continent/ashara), another Aethelaran highland distinguished by climate, rock, and the peoples who inhabit its slopes.
 
 ## Arc of Summits, High Meadows, and the Shepherds' Domain
 
@@ -52,4 +52,4 @@ The agreement is administered by panels composed of representatives from upstrea
 
 ## Spine, Watershed, and Inheritance
 
-The Crown Range is the spine and the watershed of Thessara, and its ridges, passes, meadows, and mines are the inheritance that the continent has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of metal and a foundation of agreement. The prosperity of the continent is bound up with the health of the range, and the maintenance of the passes, drainage, and mining works is a duty shared by every people whose lands depend upon the water and stone that the highland provides.
+The Crown Range is the spine and the watershed of Thessara, and its ridges, passes, meadows, and mines are the inheritance that eastern Aethelar has received from the highland. The range is at once a barrier and a corridor, a watershed and a source of water, a treasury of metal and a foundation of agreement. The prosperity of the region is bound up with the health of the range, and the maintenance of the passes, drainage, and mining works is a duty shared by every people whose lands depend upon the water and stone that the highland provides.

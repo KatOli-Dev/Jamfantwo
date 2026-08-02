@@ -95,7 +95,7 @@ uneven.
 Control of the seas is as important as control of the land for the trading
 realms. [Aldreth](/content/government/national/aldreth) fields the largest
 fleet in the known world, a force of deep-water warships that protects the
-eastern trade routes and projects power across the [Stormfall](/content/location/natural/continent/stormfall) Sea.
+eastern trade routes and projects power across the [Stormfall Sea](/content/location/natural/feature/stormfall-sea).
 [Nordhaven](/content/government/national/nordhaven) matches [Aldreth](/content/government/national/aldreth) in the
 northern waters, its fleet designed for the rougher conditions of the
 [Whitewall Range](/content/location/natural/feature/whitewall-range) approaches.
