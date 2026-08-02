@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pattern Reading
-description: "The first discipline taught in every tradition, pattern reading demands a stillness of body and mind from which all later skill in the Art proceeds."
+description: "The first discipline taught in every tradition, pattern reading demands a stillness of body and mind from which all later skill in magic proceeds."
 ---
 
 ## The First Discipline of the Practitioner
@@ -16,7 +16,7 @@ The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) de
 
 The first reading of a pattern is rarely complete. The practitioner must return to the reading many times before the pattern is perceived in its full configuration. The libraries of [Avaros](/content/location/settlement/city/avaros) record that a pattern of even moderate complexity may require a season of patient attention before the practitioner has perceived all its aspects, and the records of [Velden](/content/location/settlement/city/velden) indicate that the pattern of a living person is rarely fully perceived in less than a year.
 
-The reading is not a passive observation, for the reading itself changes the reader. The practitioner who has read a pattern deeply enough to reshape it is no longer the same practitioner who began the reading, and this change is part of the [cost](/content/magic/law/cost) of the Art. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) holds that the change is the price of knowledge, and the practitioner who would know the pattern must be prepared to bear the change.
+The reading is not a passive observation, for the reading itself changes the reader. The practitioner who has read a pattern deeply enough to reshape it is no longer the same practitioner who began the reading, and this change is part of the [cost](/content/magic/law/cost) of magic. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) holds that the change is the price of knowledge, and the practitioner who would know the pattern must be prepared to bear the change.
 
 ## Reading Dead Matter
 
@@ -36,13 +36,13 @@ The [Sylvan Court](/content/government/local/sylvan-court) is the tradition most
 
 The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) teaches the reading of living things through prolonged stillness in the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood). The apprentice sits in a single place and lets the patterns of the living things in that place enter the awareness without forcing the attention. The method is slower than the method of the [Sylvan](/content/language/pseudo/sylvan) Court, but the Fellowship holds that the reading achieved through stillness is deeper than the reading achieved through active attention.
 
-The resistance of living patterns to reading is greater the more complex the living thing and the more vigorous its will. A tree offers less resistance than a bird, and a bird offers less resistance than a person. The practitioner who would read a living person must overcome a resistance that is unlike any other in the Art, for the will of the person is itself part of the pattern, and the will resists the attention of the reader.
+The resistance of living patterns to reading is greater the more complex the living thing and the more vigorous its will. A tree offers less resistance than a bird, and a bird offers less resistance than a person. The practitioner who would read a living person must overcome a resistance that is unlike any other in magic, for the will of the person is itself part of the pattern, and the will resists the attention of the reader.
 
 ## Reading Persons
 
 The reading of a person is the most demanding of the reading disciplines and is undertaken only by practitioners who have undergone extensive training. The pattern of a person is bound up with the will of the person, and the will is itself part of the pattern. The practitioner who reads a person must read not only the configuration of the body but also the configuration of the mind, the memory, and the intention.
 
-The traditions agree that the reading of a person should not be undertaken without the subject's consent, for the reading of a person without consent is a violation of the ethical constraints of the Art. The [Khalisar Council](/content/government/local/khalisar-council) has been particularly insistent on this point and has published several accounts of practitioners who attempted to read a person without consent and were harmed in the attempt.
+The traditions agree that the reading of a person should not be undertaken without the subject's consent, for the reading of a person without consent is a violation of the ethical constraints of magic. The [Khalisar Council](/content/government/local/khalisar-council) has been particularly insistent on this point and has published several accounts of practitioners who attempted to read a person without consent and were harmed in the attempt.
 
 The practitioner who reads a person with consent proceeds with care, attending to the configuration of the person as a whole. The reading is not a violation of the person's privacy but a perception of the person's unity, and the practitioner who reads a person deeply will find that the reading reveals not only the person's present state but also the traces of the person's history.
 
@@ -58,11 +58,11 @@ The [Khalisar Council](/content/government/local/khalisar-council) teaches the r
 
 ## The Limits of Reading
 
-Reading is bounded by the same [limits](/content/magic/law/limit) that govern the Art as a whole. A practitioner may only read a subject through a path of sympathy, and the path exists only between patterns that are alike. The closer the pattern of the practitioner is to the pattern of the subject, the more readily the practitioner may read the subject. A practitioner who has attuned to the forest cannot readily read the sea, and a practitioner who has attuned to the city cannot readily read the deep places of the earth.
+Reading is bounded by the same [limits](/content/magic/law/limit) that govern magic as a whole. A practitioner may only read a subject through a path of sympathy, and the path exists only between patterns that are alike. The closer the pattern of the practitioner is to the pattern of the subject, the more readily the practitioner may read the subject. A practitioner who has attuned to the forest cannot readily read the sea, and a practitioner who has attuned to the city cannot readily read the deep places of the earth.
 
 The reading is also limited by the memory of the pattern. A pattern that has been reshaped retains the traces of the reshaping, and the traces may obscure the original configuration of the pattern. The practitioner who reads a pattern that has been deeply reshaped must read through the traces to reach the original configuration, a discipline that requires considerable skill.
 
-The reading of a pattern that has absorbed the resonance of many workings over many years is the most demanding of the reading disciplines, for the traces of the workings accumulate and complicate the pattern. The relics of the Art are patterns of this kind, and the reading of a relic such as the [Known-World Codex](/content/magic/relic/codex-of-the-known-world) or the [Letters on Pattern](/content/magic/relic/letters-on-pattern) is a discipline that only the most skilled practitioners can perform with confidence.
+The reading of a pattern that has absorbed the resonance of many workings over many years is the most demanding of the reading disciplines, for the traces of the workings accumulate and complicate the pattern. The relics of magic are patterns of this kind, and the reading of a relic such as the [Known-World Codex](/content/magic/relic/codex-of-the-known-world) or the [Letters on Pattern](/content/magic/relic/letters-on-pattern) is a discipline that only the most skilled practitioners can perform with confidence.
 
 ## The Risks of Reading
 

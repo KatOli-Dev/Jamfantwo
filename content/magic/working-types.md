@@ -6,9 +6,9 @@ description: "A working is a single named act of reshaping performed upon a part
 
 ## The Many Forms of Reshaping
 
-A working is a single, named act of the Art: a particular reshaping performed upon a particular pattern in a particular way. The same effect may be achieved by workings of different traditions, and a single tradition may produce effects that resemble the workings of another. The working is therefore described as the practitioners describe it, with the pattern and the discipline named together.
+A working is a single, named act of magic: a particular reshaping performed upon a particular pattern in a particular way. The same effect may be achieved by workings of different traditions, and a single tradition may produce effects that resemble the workings of another. The working is therefore described as the practitioners describe it, with the pattern and the discipline named together.
 
-This page describes the principal types of workings that the traditions have recorded, grouped by the nature of the reshaping they perform. Some workings are widely shared among the traditions, while others are held by a single tradition or by a single lineage within a tradition. A few workings are recorded only in the relics of the Art, their practitioners long dispersed.
+This page describes the principal types of workings that the traditions have recorded, grouped by the nature of the reshaping they perform. Some workings are widely shared among the traditions, while others are held by a single tradition or by a single lineage within a tradition. A few workings are recorded only in the relics of magic, their practitioners long dispersed.
 
 ## Shaping
 
@@ -38,7 +38,7 @@ The revealing of hidden patterns is a skill that the traditions value highly. A 
 
 The [Khalisar Council](/content/government/local/khalisar-council) has developed several workings of revealing that are used in the resolution of disputes. A practitioner of the Council may read the pattern of a document to determine whether it has been altered, or read the pattern of a building to determine whether its structure has been damaged. The Council's workings of revealing are among the most practical of any tradition and are in high demand among the merchants and magistrates of the [Sahrani](/content/language/spoken/sahrani) coast.
 
-The academies of the [Southern Reach](/content/government/national/southern-reach) have developed theoretical accounts of revealing that are more systematic than those of any other tradition. The academies treat revealing as a form of reading in which the practitioner attunes to the traces of past reshapings rather than to the present configuration of the subject, and the academies' accounts of the method are among the most cited texts in the study of the Art.
+The academies of the [Southern Reach](/content/government/national/southern-reach) have developed theoretical accounts of revealing that are more systematic than those of any other tradition. The academies treat revealing as a form of reading in which the practitioner attunes to the traces of past reshapings rather than to the present configuration of the subject, and the academies' accounts of the method are among the most cited texts in the study of magic.
 
 ## Warding
 
@@ -60,6 +60,6 @@ Unshaping is more difficult than unbinding, for the pattern that has been shaped
 
 ## The Limits of Working Types
 
-The types of working described here are not exhaustive, and the traditions continue to discover new workings as the Art is practised in new contexts and with new patterns. The [Velden Compact](/content/government/local/velden-compact) has recorded several workings that do not fit neatly into the categories described here, and the academies of the [Southern Reach](/content/government/national/southern-reach) have proposed a classification of workings that differs from the one presented in this page.
+The types of working described here are not exhaustive, and the traditions continue to discover new workings as magic is practised in new contexts and with new patterns. The [Velden Compact](/content/government/local/velden-compact) has recorded several workings that do not fit neatly into the categories described here, and the academies of the [Southern Reach](/content/government/national/southern-reach) have proposed a classification of workings that differs from the one presented in this page.
 
-The shared understanding of the types of working is part of the common vocabulary of the Art, and the practitioner who would communicate with practitioners of other traditions must be familiar with the types as they are commonly understood. The disputes about the classification of workings are of interest to the academies and to the theorists of the Art, but the practitioner at work is concerned less with classification than with the practical question of which working will produce the desired effect.
+The shared understanding of the types of working is part of the common vocabulary of magic, and the practitioner who would communicate with practitioners of other traditions must be familiar with the types as they are commonly understood. The disputes about the classification of workings are of interest to the academies and to the theorists of magic, but the practitioner at work is concerned less with classification than with the practical question of which working will produce the desired effect.

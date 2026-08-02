@@ -6,13 +6,13 @@ description: "Some traditions read the patterns of what is yet to come through m
 
 ## Reading the Patterns of What Is to Come
 
-The Art may be applied to the reading of patterns that are not yet fully formed, and the traditions have developed methods by which a practitioner may perceive the shape of things to come. The practice is called divination by some traditions and foresight by others, and the disputes about the nature and limits of the practice are among the most vigorous in the study of the Art.
+Magic may be applied to the reading of patterns that are not yet fully formed, and the traditions have developed methods by which a practitioner may perceive the shape of things to come. The practice is called divination by some traditions and foresight by others, and the disputes about the nature and limits of the practice are among the most vigorous in the study of magic.
 
 This page describes the practice of divination and foresight as it is performed across the traditions, beginning with the principles that govern the reading of future patterns, continuing with the methods by which foresight is achieved, and concluding with the limits and risks that the practitioner must understand.
 
 ## The Principles of Foresight
 
-The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) define foresight as the reading of patterns that are not yet fully configured. The definition is the most widely cited of any in the literature of the Art, and it has been adopted by every tradition that has produced a written account of the practice. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) prefers the older term of divination, but the meaning is the same in practice.
+The chroniclers of the [Sylvan Court](/content/government/local/sylvan-court) define foresight as the reading of patterns that are not yet fully configured. The definition is the most widely cited of any in the literature of magic, and it has been adopted by every tradition that has produced a written account of the practice. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) prefers the older term of divination, but the meaning is the same in practice.
 
 The possibility of foresight depends upon the observation that patterns are not static configurations that spring into being at the moment they are perceived. A pattern forms over time, and the traces of its formation may be read before the pattern is fully configured. The practitioner who reads a pattern in its early stages of formation may perceive the shape of the pattern before it is complete, and this perception is the foundation of foresight.
 
@@ -42,11 +42,11 @@ The [Sylvan Court](/content/government/local/sylvan-court) teaches the reading o
 
 The [Velden Compact](/content/government/local/velden-compact) teaches the reading of signs in the sea and the sky. The colour of the water, the direction of the wind, and the behaviour of the creatures of the sea are all signs that the practitioner may read as indications of the coming weather or of events that will affect the vessel. The Compact's practitioners are among the most skilled in the reading of signs, and the navigators who cross the seas rely upon their readings for the safety of their vessels.
 
-The [Khalisar Council](/content/government/local/khalisar-council) does not practise the reading of signs, holding that the practice is too unreliable to be of practical use. The Council observes that a sign that is read one way may be read differently by another practitioner and that the interpretation of signs is more a matter of the practitioner's imagination than of the discipline of the Art.
+The [Khalisar Council](/content/government/local/khalisar-council) does not practise the reading of signs, holding that the practice is too unreliable to be of practical use. The Council observes that a sign that is read one way may be read differently by another practitioner and that the interpretation of signs is more a matter of the practitioner's imagination than of the discipline of magic.
 
 ## The Limits of Foresight
 
-Foresight is bounded by the same limits that govern the Art as a whole. The practitioner who would foresee the future must attune to the present pattern of the subject and read the traces of the future within it, but the reading is limited by the extent of the practitioner's attunement and the complexity of the pattern.
+Foresight is bounded by the same limits that govern magic as a whole. The practitioner who would foresee the future must attune to the present pattern of the subject and read the traces of the future within it, but the reading is limited by the extent of the practitioner's attunement and the complexity of the pattern.
 
 The principal limit on foresight is the uncertainty that is inherent in the formation of patterns. A pattern that is not yet fully configured may take any of several shapes, and the practitioner who reads the traces of the future may perceive the most likely shape but cannot be certain that the pattern will take that shape. The [Khalisar Council](/content/government/local/khalisar-council) holds that the uncertainty is the reason that foresight should not be relied upon for decisions of consequence, and the Council's practitioners are trained to treat their foresight as a possibility rather than as a certainty.
 
@@ -54,7 +54,7 @@ The second limit is the influence of the practitioner's own will upon the patter
 
 ## The Risks of Foresight
 
-The principal risk of foresight is that the practitioner may become attached to the future that has been read and may attempt to shape the present toward that future, violating the ethical constraints of the Art. The [Khalisar Council](/content/government/local/khalisar-council) has recorded several cases in which a practitioner who foresaw an unfavourable outcome attempted to reshape the present to avoid the outcome and caused harm in the attempt.
+The principal risk of foresight is that the practitioner may become attached to the future that has been read and may attempt to shape the present toward that future, violating the ethical constraints of magic. The [Khalisar Council](/content/government/local/khalisar-council) has recorded several cases in which a practitioner who foresaw an unfavourable outcome attempted to reshape the present to avoid the outcome and caused harm in the attempt.
 
 The second risk is that the practitioner may read a future that is harmful and may be harmed by the reading. The [Heartwood Fellowship](/content/government/local/heartwood-fellowship) has recorded cases in which a practitioner who read the future of a person was so affected by what was read that the practitioner could not continue in the practice. The Fellowship holds that the practitioner who would read the future must be prepared to bear the knowledge of what is read, for the knowledge cannot be unread.
 
