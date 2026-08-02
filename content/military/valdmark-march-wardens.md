@@ -7,8 +7,8 @@ description: "The mounted March Wardens of Valdmark patrol the eastern border ce
 ## The Watchers of the Border
 
 [Valdmark](/content/government/national/valdmark) lies at the eastern edge of
-the settled lands of [Aethelar](/content/location/natural/continent/aethelar), a realm of forests, hills, and river valleys
-that forms a buffer between the established kingdoms and the wilder territories
+the settled river valley of the [Morvind](/content/location/natural/continent/morvind) interior, a realm of forests, hills, and river valleys
+that forms a buffer between the established valley settlements and the wilder cold steppes
 beyond. The March Wardens are the military force that guards this buffer,
 protecting [Valdmark](/content/government/national/valdmark) from incursions by the tribes and raiders that inhabit the
 eastern wilderness. The Wardens are not a standing army in the manner of the
@@ -123,7 +123,7 @@ again. The Wardens were created as a permanent border force, and they have
 maintained the security of Valdmark ever since.
 
 The Wardens have fought in every major conflict that has touched the eastern
-regions of Aethelar. They have repelled invasions, conducted raids into enemy
+regions of the Morvind interior. They have repelled invasions, conducted raids into enemy
 territory, and served as scouts and guides for the armies of the allied realms.
 Their reputation for skill and courage is second to none, and they are regarded
 with respect and admiration throughout the known world.
