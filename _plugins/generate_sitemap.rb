@@ -3,7 +3,7 @@ require 'fileutils'
 Jekyll::Hooks.register :site, :post_write do |site|
   urls = []
   today = Time.now.strftime('%Y-%m-%d')
-  base_url = site.config['url']
+  base_url = site.config['site_url']
 
   site.pages.each do |page|
     next if page.data['layout'] == 'redirect'

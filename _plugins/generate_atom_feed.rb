@@ -4,7 +4,7 @@ require 'cgi'
 Jekyll::Hooks.register :site, :post_write do |site|
   entries = []
   now = Time.now.utc
-  base_url = site.config['url']
+  base_url = site.config['site_url']
 
   site.pages.each do |page|
     next if page.data['layout'] == 'redirect'

@@ -1,6 +1,6 @@
 <nav aria-label="Primary">
   <div class="nav-row">
-    <a href="{{ '/' | relative_url }}" class="brand">
+    <a href="{{ site.site_url }}/" class="brand">
       {{site.title}}
     </a>
     <button type="button" class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
@@ -25,7 +25,7 @@
             <ul>
               {%- for item in group.items %}
               <li>
-                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <a href="{{ site.site_url }}{{ item.url }}">{{ item.title }}</a>
               </li>
               {%- endfor %}
             </ul>
@@ -34,10 +34,13 @@
         </ul>
       </li>
       <li>
-        <a href="{{ '/search/' | relative_url }}" class="js-search-link">Search</a>
+        <a href="{{ site.site_url }}/search/" class="js-search-link">Search</a>
       </li>
       <li>
-        <a href="{{ '/license/' | relative_url }}">License</a>
+        <a href="{{ site.site_url }}/random/" class="js-random-link" data-index-url="{{ site.site_url }}/assets/search-index.json">Random page</a>
+      </li>
+      <li>
+        <a href="{{ site.site_url }}/license/">License</a>
       </li>
       <li>
         <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to light theme">

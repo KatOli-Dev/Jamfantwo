@@ -13,7 +13,7 @@ fi
 tmux new-session -d -s "$SESSION" -c "$ROOT" -n Terminal
 tmux new-window -t "$SESSION" -c "$ROOT" -n Editor "hx"
 tmux new-window -t "$SESSION" -c "$ROOT" -n Agent "opencode --continue"
-tmux new-window -t "$SESSION" -c "$ROOT" -n Server "bundle exec jekyll serve --incremental"
+tmux new-window -t "$SESSION" -c "$ROOT" -n Server "$ROOT/scripts/serve.sh"
 tmux new-window -t "$SESSION" -c "$ROOT" -n Monitor "htop"
 
 tmux select-window -t "$SESSION:Agent"

@@ -2,12 +2,12 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
+    <meta http-equiv="refresh" content="0; url={{ site.site_url }}{{ page.redirect_to }}">
     <meta name="robots" content="noindex">
     <title>Redirecting...</title>
-    <link rel="canonical" href="{{ page.redirect_to | relative_url }}">
+    <link rel="canonical" href="{{ site.site_url }}{{ page.redirect_to }}">
   </head>
   <body>
-    <p>Redirecting to <a href="{{ page.redirect_to | relative_url }}">{{ page.redirect_to | relative_url }}</a>.</p>
+    <p>Redirecting to <a href="{{ site.site_url }}{{ page.redirect_to }}">{{ site.site_url }}{{ page.redirect_to }}</a>.</p>
   </body>
 </html>

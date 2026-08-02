@@ -4,6 +4,7 @@ description: A medieval fantasy world-building project.
 keywords: medieval,fantasy,world,world-building
 lang: en
 url: "https://katoli-dev.github.io/Jamfantwo"
+site_url: "https://katoli-dev.github.io/Jamfantwo"
 permalink: pretty
 
 incremental: true

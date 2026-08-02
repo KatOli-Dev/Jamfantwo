@@ -2,11 +2,11 @@ var index = null;
 var input = document.getElementById('search-input');
 var results = document.getElementById('search-results');
 var searchContainer = document.getElementById('js-search');
-var baseurl = searchContainer ? searchContainer.getAttribute('data-baseurl') || '' : '';
+var siteUrl = searchContainer ? searchContainer.getAttribute('data-site-url') || '' : '';
 
 function loadIndex() {
   if (index) return Promise.resolve(index);
-  return fetch(baseurl + '/assets/search-index.json')
+  return fetch(siteUrl + '/assets/search-index.json')
     .then(function(r) { return r.json(); })
     .then(function(data) {
       index = data;

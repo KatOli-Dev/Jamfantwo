@@ -32,7 +32,7 @@ module Jekyll
         t = p.data['title'] ||
             File.basename(p.path, File.extname(p.path)).tr('-', ' ').split.map(&:capitalize).join(' ')
         desc = p.data['description']
-        url = "#{@site.baseurl}#{p.url}"
+        url = "#{@site.config['site_url']}#{p.url}"
         desc.nil? || desc.empty? ? "- [#{t}](#{url})" : "- [#{t}](#{url}) — #{desc}"
       end.join("\n")
       dir_desc && !dir_desc.empty? ? "#{dir_desc}\n\n#{list}" : list

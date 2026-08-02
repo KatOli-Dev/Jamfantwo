@@ -6,7 +6,14 @@ A medieval fantasy world-building project. It is completely AI generated.
 
 ```bash
 bundle install
-bundle exec jekyll serve
+./scripts/serve.sh
+```
+
+The server is available on the local network at `http://<this-machine-ip>:4000`.
+To choose the address used in generated links explicitly:
+
+```bash
+JEKYLL_PUBLIC_URL=http://192.168.1.10:4000 ./scripts/serve.sh
 ```
 
 ## Validation
