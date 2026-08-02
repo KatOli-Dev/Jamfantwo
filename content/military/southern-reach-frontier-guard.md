@@ -11,7 +11,7 @@ region of [Sahrana](/content/location/natural/continent/sahrana) beyond the [Kha
 hills, inland seas, and fertile valleys that has been settled for centuries. The Southern
 Reach is famous throughout the known world for its military academies,
 institutions that train the officers and soldiers who serve not only the Reach
-itself but also many of the other realms of Aethelar. The academies produce
+itself but also many of the other realms of the known world. The academies produce
 officers who are skilled in strategy, tactics, and the arts of command, and
 they are the foundation of the [Southern Reach](/content/government/national/southern-reach)'s military strength.
 

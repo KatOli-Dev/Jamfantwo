@@ -16,7 +16,7 @@ The tradition of exploration in the Southern Reach dates from the earliest centu
 
 The scholars of the Reach were determined to verify the accounts and to explore the remote southern region. They equipped a number of small vessels for the inland seas and sent caravans southward from the Kharesh routes. The early journeys were not successful, as the roads were poorly charted and several parties were lost in the highlands. The scholars persisted, however, and the improvements in boatbuilding, surveying, and caravan organisation made in later centuries enabled them to undertake more ambitious expeditions.
 
-The academies of the Reach also encouraged overland exploration of the interior of Aethelar. The scholars of the Reach were interested in the natural history of the continent, and they sent expeditions into the forests, the mountains, and the plains to document the plants and the animals that were found there. The expeditions returned with specimens and records that were preserved in the collections of the academies.
+The academies of the Reach also encouraged overland exploration of the wider known world. The scholars of the Reach were interested in the natural history of the other continents, and they sent expeditions into the forests, the mountains, and the plains of Aethelar to document the plants and the animals that were found there. The expeditions returned with specimens and records that were preserved in the collections of the academies.
 
 ## The First Southern Expeditions
 
@@ -34,7 +34,7 @@ The most famous of the fifth-century expeditions was the expedition of the schol
 
 Orin's expedition was notable for the quality of the records that it produced. Orin was a skilled artist, and he made detailed drawings of the plants, the animals, and the people that the party encountered. The drawings were preserved in the archives of the academies and were used by later scholars as a reference for the study of the natural history of the Southern Lands.
 
-The fifth century also saw a number of expeditions into the interior of Aethelar. The scholars of the Reach explored the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains), and the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands). The expeditions documented the species of the three continents and added substantially to the knowledge of the natural world.
+The fifth century also saw a number of expeditions abroad into the interior of Aethelar and the uplands of Morvind. The scholars of the Reach explored the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), the [Great Grass Plains](/content/location/natural/ecosystem/great-grass-plains), and the [Morvind Uplands](/content/location/natural/ecosystem/morvind-uplands). The expeditions documented the species of the three continents and added substantially to the knowledge of the natural world.
 
 ## The Contributions of the Expeditions
 
