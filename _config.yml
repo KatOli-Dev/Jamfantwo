@@ -5,6 +5,7 @@ keywords: medieval,fantasy,world,world-building
 lang: en
 url: "https://katoli-dev.github.io/Jamfantwo"
 site_url: "https://katoli-dev.github.io/Jamfantwo"
+image: /assets/images/banner.jpg
 permalink: pretty
 
 incremental: true
@@ -27,3 +28,6 @@ exclude:
 
 authors:
   - Contributors
+
+social:
+  github: "https://github.com/KatOli-Dev"
