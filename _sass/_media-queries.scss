@@ -156,9 +156,10 @@
       transition: max-height 0.35s ease, opacity 0.25s ease, visibility 0.25s ease;
 
       &.nav-menu-open {
-        max-height: 80vh;
+        max-height: none;
         opacity: 1;
         visibility: visible;
+        overflow: visible;
       }
 
       ul {
@@ -180,7 +181,7 @@
         justify-content: center;
       }
 
-      .dropdown-menu {
+      > ul.dropdown-menu {
         position: static;
         transform: none;
         min-width: auto;
@@ -227,7 +228,7 @@
       display: none;
     }
 
-    .dropdown-menu {
+    ul .dropdown > ul.dropdown-menu {
       display: grid;
     }
   }
@@ -349,7 +350,7 @@
       }
     }
 
-    .dropdown .dropdown-menu {
+    .dropdown > ul.dropdown-menu {
       gap: 0.75rem;
       padding: 0.75rem;
     }
