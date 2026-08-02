@@ -4,7 +4,7 @@ module Jekyll
       @site = site
       @base = base
       @dir = 'glossary'
-      @name = 'index.html'
+      @name = 'index.md'
 
       self.process(@name)
       self.content = build_content(entries)
