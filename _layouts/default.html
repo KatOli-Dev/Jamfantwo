@@ -63,10 +63,16 @@
       </nav>
       {%- endunless %}
       <h1>
-        {{page.title}}
+        {{ page.title | default: site.title }}
       </h1>
       {%- if page.image %}
-          <img src="{{ site.site_url }}{{ page.image }}" alt="{{ page.title }}" class="page-image" loading="lazy">
+        {%- if page.url == '/' %}
+          <div class="banner-wrapper">
+            <img src="{{ site.site_url }}{{ page.image }}" alt="{{ page.title | default: site.title }}" class="banner-img" loading="lazy">
+          </div>
+        {%- else %}
+          <img src="{{ site.site_url }}{{ page.image }}" alt="{{ page.title | default: site.title }}" class="page-image" loading="lazy">
+        {%- endif %}
       {%- endif %}
       {%- if page.last_modified and page.url != '/' %}
       <p style="font-size:0.85rem;color:#8b8b9a;margin-top:0.25rem;">
