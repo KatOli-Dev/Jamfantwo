@@ -19,10 +19,26 @@ These lore-consistency blockers must be resolved before P1, P2, or P3 work begin
 
 ## P1 — High impact
 
+- [ ] **Backlinks / "referenced by" section.** Build a link graph from the existing content cross-links and surface "pages that link here" at the bottom of each page — high value on a wiki this cross-referenced, and complements `_plugins/generate_search_index.rb` and `_plugins/generate_category_indices.rb`.
+- [ ] **Related-pages / "see also" block.** Derive related pages from shared tags or directory proximity instead of relying on authors to remember manual cross-links.
+- [ ] **Interactive timeline view.** Generate a timeline from dated events across `content/history/`, now that the P0 canonical-calendar work makes consistent ordering possible.
+- [ ] **CI build and validation gate.** Run `scripts/validate_content.rb`, a Jekyll build, and a link checker automatically on every PR so lore-consistency and broken-link regressions are caught before merge, not after.
+- [ ] **Dead-link and broken-anchor checker.** Extend the validator or add a build-time plugin to catch links to missing pages or missing in-page anchors.
+- [ ] **Orphan-page detection.** Use the same link graph as the backlinks feature to flag pages with no incoming links, so abandoned or disconnected content surfaces automatically.
+
 ---
 
 ## P2 — Medium impact
 
+- [ ] **Site index / glossary page.** A single A-Z listing of every page with its category, since `_data/navigation.yml` currently only surfaces top-level sections.
+- [ ] **Sibling navigation in breadcrumbs.** The breadcrumb trail in `_layouts/default.html` only shows ancestors; add a "siblings in this section" list for lateral browsing within a directory like `content/government/national/`.
+- [ ] **Search input debounce and result grouping.** `assets/js/search.js` re-scores the full index on every keystroke with no debounce; add debouncing and group results by content category instead of one flat list.
+- [ ] **Search keyboard shortcut.** Bind `/` or `Ctrl+K` to focus the search input, a common docs/wiki convenience.
+- [ ] **Auto-generated family-tree / succession diagrams.** Render SVG diagrams at build time from front-matter relations for royal lines in `content/people/` and `content/government/`.
+- [ ] **Weighted / unread random page.** Extend `assets/js/random.js` with a "random page weighted by category" option or an "unread" mode backed by a localStorage visited-set.
+- [ ] **Sticky or collapsible table of contents.** The TOC injected by `_plugins/inject_table_of_contents.rb` could stick or collapse on long lore pages.
+- [ ] **Print stylesheet audit.** Verify `_sass/_print.scss` cleanly strips nav, search, and footer chrome when printing.
+- [ ] **JSON-LD structured data.** Add `Article` schema per page using existing front matter, complementing `_plugins/generate_sitemap.rb` and `_plugins/generate_atom_feed.rb` for richer search-engine previews.
 
 ---
 
