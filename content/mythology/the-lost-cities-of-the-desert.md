@@ -12,7 +12,7 @@ The scholars of the Cloisters of Reading have collected many versions of the leg
 
 ## Ubar, the City of a Thousand Pillars
 
-The most famous of the lost cities is Ubar, the City of a Thousand Pillars, which the legends describe as the richest and the most beautiful of all the desert cities. Ubar was built in a valley that was said to be the garden of the desert, a place of springs and groves and flowing water that the inhabitants had channelled through the city in marble aqueducts. The city was built of white stone that gleamed in the sun, and its thousand pillars supported the roofs of the great halls where the merchants and the scholars and the rulers of the desert gathered to conduct their business.
+The most famous of the lost cities is Ubar, the City of a Thousand Pillars, described in the legends as the wealthiest of the desert cities. Ubar was said to have been built in a valley fed by springs, its groves of date palm and flowing water channelled through the city by marble aqueducts. The legends describe the city's buildings as constructed of white limestone, its thousand pillars supporting the roofs of the great halls where merchants, scholars, and rulers of the desert gathered to conduct their business.
 
 The fall of Ubar is attributed to the pride of its rulers, the legends say, who came to believe that the city's prosperity was the result of their own wisdom and strength and who neglected the gratitude that the powers of the desert required. The springs that watered the valley dried up, the groves withered, and the sands began to encroach upon the city's walls. The rulers of Ubar refused to abandon the city, and the sands rose higher and higher until the city was buried completely, and the pillars that had supported the roofs of the great halls became the only sign of the city's existence.
 
@@ -20,7 +20,7 @@ The nomads of the Kharesh Tribes say that the pillars of Ubar can still be seen 
 
 ## The Amber City
 
-The second of the great lost cities is called the Amber City in the traditions of the eastern tribes, a city that was built of a stone that glowed with a warm golden light at dawn and at dusk. The Amber City was the centre of the trade in spices and incense, the legends say, and its markets were the richest in the desert, where merchants from every corner of the known world came to exchange their goods. The city was ruled by a queen whose name is lost to the ages, a woman of great wisdom and beauty who governed the city with justice and who was loved by her people.
+The second of the great lost cities is called the Amber City in the traditions of the eastern tribes, a city that legends describe as built from a stone that reflected an amber colour at dawn and at dusk. The Amber City was the centre of the trade in spices and incense, the legends say, and its markets were among the richest in the desert, where merchants from every corner of the known world came to exchange their goods. The city was ruled by a queen whose name is lost to the ages; the legends credit her with governing the city justly and describe her as beloved by her people.
 
 The fall of the Amber City is attributed to a betrayal, the legends say, a conspiracy of merchants who sought to seize the city's wealth for themselves and who opened the gates to a warlord from the north. The queen and her people fought bravely, but they were overwhelmed, and the city was sacked and burned. The sands rose over the ruins, and the Amber City was lost, and the name of the queen was forgotten.
 
@@ -30,9 +30,9 @@ The betrayal of the Amber City is a cautionary tale that the desert peoples tell
 
 The third of the lost cities is the City of the Singing Walls, a city that was built in a canyon in the deep desert and that was famous for the music that the wind made as it passed through the carved stone of the walls. The city was the centre of the desert arts, the legends say, and the musicians and the poets and the dancers of the city were renowned throughout the world. The city was built by a people who had mastered the art of shaping stone with sound, and the walls of the city were carved with patterns that resonated with the wind and produced a music that was heard for miles across the desert.
 
-The fall of the City of the Singing Walls is attributed to a silence, the legends say, a great stillness that fell upon the desert when the wind ceased to blow and the music of the walls fell silent. The people of the city waited for the wind to return, but it did not return, and the silence grew heavier and heavier until the people could no longer bear it and they left the city and scattered across the desert. The city remained, silent and empty, and the sands rose around it until only the upper portions of the walls were visible.
+The fall of the City of the Singing Walls is attributed to a change in the wind, the legends say: the wind that had passed through the carved stone ceased to blow, and the music of the walls fell silent. The people of the city waited for the wind to return, but it did not, and eventually they left the city and scattered across the desert. The city remained, empty, and the sands rose around it until only the upper portions of the walls were visible.
 
-The nomads say that the City of the Singing Walls can still be heard on certain nights, when the wind blows from the north and passes through the buried walls, producing a faint and melancholy music that carries across the dunes. The music is the voice of the lost people, the nomads say, and the desert remembers them still.
+The nomads say that the City of the Singing Walls can still be heard on certain nights, when a north wind passes through the buried walls and produces a faint music audible across the dunes. The nomads regard the sound as evidence that the lost people have not been forgotten.
 
 ## The Search for the Lost Cities
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Water Lily
-description: "The beautiful floating-flowered plant of the Aethelaran lakes and ponds whose edible rhizome is used in soups and stews, and whose petals are dried for calming infusions."
+description: "The floating-flowered plant of the Aethelaran lakes and ponds whose edible rhizome is used in soups and stews, and whose petals are dried for calming infusions."
 ---
 
 ## The Water Lily of the Aethelaran Lakes
 
-The water lilies that grow in the lakes and the ponds of [Aethelar](/content/location/natural/continent/aethelar) are among the most beautiful of the aquatic plants, their large and fragrant flowers floating on the surface of the water and their broad leaves providing shade for the fish that gather beneath them. The water lilies are not cultivated but are gathered from the wild in the summer months when the flowers are open and the leaves are fully expanded.
+The water lilies that grow in the lakes and the ponds of [Aethelar](/content/location/natural/continent/aethelar) are floating aquatic plants, their large and fragrant flowers resting on the surface of the water and their broad leaves providing shade for the fish that gather beneath them. The water lilies are not cultivated but are gathered from the wild in the summer months when the flowers are open and the leaves are fully expanded.
 
 The root of the water lily is a thick and fleshy rhizome that grows in the mud at the bottom of the pond, and the rhizome is harvested by the gatherers who wade into the water and pull the rhizome from the mud. The rhizome of the water lily is edible, and the rhizome is sliced and dried for the use in the soups and the stews of the households of the lake districts.
 
@@ -40,7 +40,7 @@ The fresh rhizome is also consumed in the regions where the water lily is harves
 
 The flowers of the water lily are used in the preparation of the infusions that are drunk for the calming of the nerves and the relief of the anxiety that afflicts the people of the cities, the infusion being the remedy that the [healing and restoration](/content/magic/healing-and-restoration) practitioners and the herbalists of the Aethelari regions recommend. The petals of the water lily are dried and steeped in the hot water to produce the infusion that is consumed in the evening for the relaxation that the infusion promotes, the calming effect being the property that the flower is valued for.
 
-The dried petals of the water lily are also added to the potpourris that are placed in the rooms of the houses to provide the pleasant scent that the petals release, the fragrance of the water lily being the delicate and the sweet scent that the households of the Aethelari cities value. The potpourris are the products that the [guilds](/content/economy/guilds) of the apothecaries and the herbalists prepare, the potpourris being among the goods that the [markets and fairs](/content/economy/markets-and-fairs) of the cities trade. The water lily petals are the ingredient that the apothecaries select for the quality of the scent and the calming property that the petals provide.
+The dried petals of the water lily are also added to potpourris placed in the rooms of houses to provide a pleasant scent, valued by the households of the Aethelari cities for its delicate sweetness. The potpourris are the products that the [guilds](/content/economy/guilds) of the apothecaries and the herbalists prepare, the potpourris being among the goods that the [markets and fairs](/content/economy/markets-and-fairs) of the cities trade. The water lily petals are the ingredient that the apothecaries select for the quality of the scent and the calming property that the petals provide.
 
 ## Ecological Role
 
