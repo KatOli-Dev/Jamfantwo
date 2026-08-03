@@ -5,3 +5,5 @@
 /temp/
 .opencode/node_modules/
 .opencode/secrets.json
+/.claude/worktrees/
+/.claude/settings.local.json
