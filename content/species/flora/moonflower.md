@@ -6,7 +6,7 @@ description: "A rare vine of the Aethelar Heartwood that blooms only under the f
 
 ## The Moonflower and the Full Moon
 
-The moonflower is the most celebrated of the magical plants of [Aethelar](/content/location/natural/continent/aethelar), a rare and beautiful plant that blooms only on the night of the full moon in the late summer. The moonflower is a climbing vine that grows in the clearings of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), and the flowers that the vine produces are large and white, opening in the hours after the sunset and closing before the dawn.
+The moonflower is a magical plant of [Aethelar](/content/location/natural/continent/aethelar) that blooms only on the night of the full moon in the late summer. The moonflower is a climbing vine that grows in the clearings of the [Aethelar Heartwood](/content/location/natural/ecosystem/aethelar-heartwood), and the flowers that the vine produces are large and white, opening in the hours after the sunset and closing before the dawn.
 
 The petals of the moonflower are used in the preparation of the potion that enhances the vision of the mage, allowing the mage to perceive the flows of the magical energy that are invisible to the ordinary eye. The petals are harvested at the moment when the moon is at its zenith, and the petals are dried in the dark and ground into the powder that is the base of the potion.
 
@@ -16,7 +16,7 @@ The moonflower is protected by the [elves](/content/species/sapient/elves) of th
 
 The moonflower is a perennial vine that climbs by the twining of the slender stems around the branches and the trunks of the trees that support the plant, the vine reaching the length of twenty feet or more in the mature specimens. The leaves of the moonflower are heart-shaped and dark green, the leaves being arranged alternately along the stem and the surfaces being smooth and glossy and reflecting the moonlight that falls on the plant in the night. The stems of the moonflower are slender and fragile, the vine being dependent on the support of the surrounding trees and the shrubs for the structural strength that the plant lacks.
 
-The flowers of the moonflower are the most remarkable feature of the plant, the flowers being large and white and fragrant, the petals being arranged in the trumpet shape that is characteristic of the species. The flowers of the moonflower are among the largest of the flowers that are produced by the plants of the Aethelar Heartwood, the individual flowers being six inches or more in the diameter, and the petals being a pure white colour that seems to glow in the moonlight that illuminates the forest clearing. The fragrance of the moonflower is sweet and heavy, the scent being carried on the air for the considerable distance and being the means by which the pollinators are attracted to the flowers in the dark of the night.
+The flowers of the moonflower are its most distinctive feature: large, white, and fragrant, with petals arranged in the trumpet shape characteristic of the species. The flowers of the moonflower are among the largest produced by plants of the Aethelar Heartwood, the individual blooms reaching six inches or more in diameter, with petals of a pure white that reflects the available moonlight. The fragrance is strong and carries over a considerable distance, which is how the flower attracts the pollinators active in the dark of the night.
 
 ## Habitat and the Heartwood Clearings
 

@@ -20,7 +20,7 @@ The Frostwall Clans maintain the custom of lighting a fire at the crossroads dur
 
 ## The Frost Maidens
 
-The Frost Maidens are among the more ambiguous of the winter spirits, beings of great beauty and great danger who appear in the stories of the northern settlements. The Frost Maidens are described as women of pale and luminous beauty, clad in garments of frost and ice, with hair that streams in the wind like the northern lights. The Frost Maidens appear on the nights when the aurora is brightest, the stories say, and they dance across the snow in patterns that mirror the movements of the lights above.
+The Frost Maidens are among the more ambiguous of the winter spirits, beings the stories describe as dangerous despite their appearance. The Frost Maidens are described as women clad in garments of frost and ice, their pale hair moving with the wind. The Frost Maidens appear on the nights when the aurora is brightest, the stories say, and they are said to move across the snow in patterns that mirror the lights above.
 
 The Frost Maidens are not malevolent in the manner of the Ice Walker, but they are dangerous nonetheless, for their beauty can lure the unwary into the snow where they will perish from the cold. The stories tell of hunters and travellers who saw the Frost Maidens dancing and who followed them, captivated by their beauty, until they were lost in the wilderness and never seen again. The Frost Maidens do not intend to harm those who follow them, the stories say; they are simply indifferent to the fate of mortals, and the beauty of their dance is the only thing that matters to them.
 

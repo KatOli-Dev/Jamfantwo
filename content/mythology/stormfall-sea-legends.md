@@ -28,7 +28,7 @@ The Drowned Isles are the subject of many stories of treasure and loss, and the 
 
 ## The Phantom Ship
 
-The legend of the Phantom Ship is the most famous of the Stormfall Sea ghost stories, and versions of it are told in every port of the northern coasts. The Phantom Ship is described as a vessel that appears on the horizon during the fog, a ship of ancient design that sails without crew and that is lit by a pale light that flickers like a candle. The Phantom Ship does not respond to the signals of the living ships, and it vanishes when approached, dissolving into the fog as though it had never been.
+The legend of the Phantom Ship is the most famous of the Stormfall Sea ghost stories, and versions of it are told in every port of the northern coasts. The Phantom Ship is described as a vessel that appears on the horizon during fog, a ship of ancient design that sails without crew and is lit by a pale, flickering light. The Phantom Ship does not respond to the signals of living ships, and it vanishes when approached, disappearing back into the fog.
 
 The Phantom Ship is said to be the vessel of a crew that died at sea and that continues to sail the Stormfall Sea because they cannot find their way to the shore. The ship is a sign of ill fortune, the sailors say, and those who see the Phantom Ship must prepare for a difficult passage. Some versions of the legend say that the Phantom Ship is looking for a living crew to take the place of the dead, and the sailors who board the phantom are never seen again.
 
@@ -36,7 +36,7 @@ The legend of the Phantom Ship is one of the most persistent of the sea legends,
 
 ## The Stormfall Lights
 
-The lights that appear above the Stormfall Sea during the winter months are one of the most beautiful of the sea's phenomena, and the legends that surround them are among the most poetic of the northern traditions. The Stormfall Lights are bands of colour that dance across the sky, green and purple and red, shifting and flowing like curtains of light in the wind. The lights are visible from both the Aethelaran and the Morvind coasts, and the northern peoples have developed elaborate traditions of interpreting their movements.
+The lights that appear above the Stormfall Sea during the winter months are a notable natural phenomenon, and the legends that surround them are among the most elaborate of the northern traditions. The Stormfall Lights are bands of green, purple, and red that shift in position across the sky over the course of an evening. The lights are visible from both the Aethelaran and the Morvind coasts, and the northern peoples have developed elaborate traditions of interpreting their movements.
 
 The legends of the Stormfall Lights vary among the different coastal communities. The humans of the [Nordhaven](/content/location/settlement/city/nordhaven) coast say that the lights are the spirits of the dead dancing across the sky, celebrating their release from the world of the living. The dwarves of the Morvind coast say that the lights are the reflections of the great forges of the deep halls, shining upward through the stone and the water and the air. The elves of the northern forests say that the lights are the veil between the worlds, the boundary that separates the realm of the living from the realm of the spirits.
 
