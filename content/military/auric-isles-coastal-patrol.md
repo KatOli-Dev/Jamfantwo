@@ -7,7 +7,7 @@ description: "The coastal patrol of the Auric Isles, a force of small, swift cut
 ## The Island Defence
 
 The [Auric Isles](/content/government/national/auric-isles) are a scattered
-archipelago in the [eastern reach](/content/location/natural/continent/eastern-reach)es of the [Auric
+archipelago in the [eastern reach](/content/location/natural/region/eastern-reach)es of the [Auric
 Ocean](/content/location/natural/feature/auric-ocean), a chain of islands that
 stretches for hundreds of miles across waters that are rich in fish and
 frequented by merchant ships on the long voyage between the continents. The

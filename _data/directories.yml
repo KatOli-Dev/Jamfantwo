@@ -63,6 +63,9 @@ content/location/natural/ecosystem:
 content/location/natural/feature:
   description: The rivers, mountains, seas, and other natural features that shape the known world.
 
+content/location/natural/region:
+  description: The named geographic regions within the known world's continents, distinguished by coast, climate, and culture rather than continental status.
+
 content/location/route:
   description: The roads, trade routes, and passages that connect the peoples of the known world.
 

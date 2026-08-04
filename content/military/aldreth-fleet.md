@@ -32,7 +32,7 @@ different area of operation. The Home Squadron guards the approaches to
 Eldreth and the coastal waters of Aldreth itself, providing close protection
 for the merchant shipping that enters and leaves the great harbour. The Eastern
 Squadron patrols the trade routes toward the [Auric
-Isles](/content/government/national/auric-isles) and the far [eastern reach](/content/location/natural/continent/eastern-reach)es of
+Isles](/content/government/national/auric-isles) and the far [eastern reach](/content/location/natural/region/eastern-reach)es of
 the [Stormfall Sea](/content/location/natural/feature/stormfall-sea), where piracy has historically been a problem. The Western
 Squadron operates toward the [Greater Inland
 Sea](/content/location/natural/feature/greater-inland-sea) and the approaches

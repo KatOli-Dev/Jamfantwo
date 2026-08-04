@@ -60,6 +60,7 @@ INDEX_PATH_RULES = [
   ['content/language/', 'spoken'],
   'content/magic/',
   ['content/location/', 'natural/continent'],
+  ['content/location/', 'natural/region'],
   ['content/location/', 'natural/ecosystem'],
   ['content/location/', 'natural/feature'],
   ['content/location/', 'route/trade'],

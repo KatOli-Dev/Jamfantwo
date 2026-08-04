@@ -30,7 +30,7 @@ The station is governed by a chief warden appointed by the council at Grimhold, 
 
 ## Seasonal Convoys and the Highland Trade
 
-The traffic through Frostwall Outpost is seasonal and tightly connected to the route's opening. Early convoys carry tools, grain, salt, and timber toward the remote settlements whose stores must be renewed after winter. Later convoys bring ore, worked iron, hides, wool, and preserved meat back toward the lower markets. Some merchants continue toward the [Stoneheim Highland Road](/content/location/route/trade/stoneheim-highland-road), while others descend into the [Stormfall](/content/location/natural/continent/stormfall) coastal trade.
+The traffic through Frostwall Outpost is seasonal and tightly connected to the route's opening. Early convoys carry tools, grain, salt, and timber toward the remote settlements whose stores must be renewed after winter. Later convoys bring ore, worked iron, hides, wool, and preserved meat back toward the lower markets. Some merchants continue toward the [Stoneheim Highland Road](/content/location/route/trade/stoneheim-highland-road), while others descend into the [Stormfall](/content/location/natural/region/stormfall) coastal trade.
 
 Caravan masters declare their loads at the station and receive advice about the next section of the road. The warden may require a convoy to divide if its animals cannot cross a narrow shelf safely, or may join several small parties under one patrol. The station's economy is based upon service fees, clan contributions, and wages paid for road work.
 
