@@ -23,6 +23,8 @@ groups:
         url: /content/law/
       - title: Economy
         url: /content/economy/
+      - title: Medicine
+        url: /content/medicine/
       - title: Military
         url: /content/military/
   - label: Belief
