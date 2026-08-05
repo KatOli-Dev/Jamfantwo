@@ -23,6 +23,7 @@ exclude:
   - "opencode.json"
   - ".opencode"
   - ".github"
+  - ".claude"
   - "scripts"
   - "temp"
 

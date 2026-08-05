@@ -3,7 +3,7 @@
 /.jekyll-metadata
 /assets/search-index.json
 /temp/
-.opencode/node_modules/
-.opencode/secrets.json
+/.opencode/node_modules/
+/.opencode/secrets.json
 /.claude/worktrees/
 /.claude/settings.local.json
