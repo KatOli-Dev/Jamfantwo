@@ -2,6 +2,13 @@ name: Deploy to GitHub Pages
 
 on:
   push:
+    paths-ignore:
+      - '.claude/**'
+      - '.opencode/**'
+      - 'opencode.json'
+      - 'temp/**'
+      - '.gitignore'
+      - '.githooks/**'
   workflow_dispatch:
 
 permissions:

@@ -2,8 +2,22 @@ name: CI
 on:
   push:
     branches: [main, master, development]
+    paths-ignore:
+      - '.claude/**'
+      - '.opencode/**'
+      - 'opencode.json'
+      - 'temp/**'
+      - '.gitignore'
+      - '.githooks/**'
   pull_request:
     branches: [main, master, development]
+    paths-ignore:
+      - '.claude/**'
+      - '.opencode/**'
+      - 'opencode.json'
+      - 'temp/**'
+      - '.gitignore'
+      - '.githooks/**'
 jobs:
   build:
     runs-on: ubuntu-latest
