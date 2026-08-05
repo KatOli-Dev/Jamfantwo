@@ -99,6 +99,9 @@ content/magic/law:
 content/magic/relic:
   description: The relics and artefacts whose patterns have been reshaped by the workings of the Art.
 
+content/medicine:
+  description: The mundane arts of healing practised by those without access to magic — surgery, midwifery, herbalism, and the physicians and institutions that sustain them.
+
 content/military:
   description: The martial traditions, forces, and conflicts of the peoples of the known world.
 
