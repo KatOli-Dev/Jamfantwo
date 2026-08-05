@@ -20,8 +20,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
     url = page.url
     url += '/' unless url.end_with?('/')
 
-    src_path = File.join(site.source, page.path)
-    updated = File.exist?(src_path) ? File.mtime(src_path).utc : now
+    last_modified = page.data['last_modified']
+    updated = last_modified ? Time.parse(last_modified).utc : now
 
     entries << {
       title: title,
