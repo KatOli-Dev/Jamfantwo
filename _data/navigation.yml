@@ -25,6 +25,8 @@ groups:
         url: /content/economy/
       - title: Military
         url: /content/military/
+      - title: Medicine
+        url: /content/medicine/
   - label: Belief
     items:
       - title: Religion

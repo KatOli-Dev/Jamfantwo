@@ -36,6 +36,9 @@ content/government/national:
 content/history:
   description: The recorded events, eras, and turning points of the known world's past.
 
+content/medicine:
+  description: The treatment of injury and illness among those without access to magic, from field surgery to the herbalist's shop.
+
 content/language:
   description: The languages and writing systems of the known world, both spoken and constructed.
 
