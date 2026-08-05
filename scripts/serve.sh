@@ -3,9 +3,6 @@ set -euo pipefail
 
 ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 PORT="${JEKYLL_PORT:-4000}"
-read -r LAN_IP _ < <(hostname -I 2>/dev/null || true) || true
-LAN_IP="${LAN_IP:-127.0.0.1}"
-PUBLIC_URL="${JEKYLL_PUBLIC_URL:-http://${LAN_IP}:${PORT}}"
 mkdir -p "$ROOT/temp"
 RUNTIME_CONFIG="$(mktemp "$ROOT/temp/jekyll-local.XXXXXX.yml")"
 
@@ -15,10 +12,14 @@ cleanup() {
 
 trap cleanup EXIT
 
-printf 'site_url: "%s"\nincremental: false\n' "$PUBLIC_URL" > "$RUNTIME_CONFIG"
-printf 'LAN address: %s:%s\n' "$LAN_IP" "$PORT"
-printf 'Site URL: %s\n' "$PUBLIC_URL"
-printf 'Stylesheet: %s/assets/css/default.css\n' "$PUBLIC_URL"
+if [ -n "${JEKYLL_PUBLIC_URL:-}" ]; then
+  printf 'site_url: "%s"\nincremental: false\n' "$JEKYLL_PUBLIC_URL" > "$RUNTIME_CONFIG"
+  printf 'Site URL: %s\n' "$JEKYLL_PUBLIC_URL"
+  printf 'Stylesheet: %s/assets/css/default.css\n' "$JEKYLL_PUBLIC_URL"
+else
+  printf 'incremental: false\n' > "$RUNTIME_CONFIG"
+  printf 'Links: root-relative — works from any address on port %s\n' "$PORT"
+fi
 
 cd "$ROOT"
 bundle exec jekyll serve \
