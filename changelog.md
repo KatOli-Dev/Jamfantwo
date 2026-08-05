@@ -3,6 +3,10 @@ layout: default
 title: Changelog
 ---
 
+## 2026-08-05
+
+A new Medicine category was added, covering the mundane healing arts practised without access to magic: physicians and medical guilds, surgery, bonesetting, midwifery, infirmaries and almshouses, herbalism and apothecaries, battlefield medicine, veterinary medicine, humoral theory, and poisons and antidotes.
+
 ## 2026-08-01
 
 Species content restructured: aggregated flora and fauna pages split into individual species pages. Inline JavaScript extracted into dedicated asset files. Search improved with smarter term matching and description-preferring index listings. Atom feed author fixed and authors configuration added.
