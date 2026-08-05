@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'pathname'
 require 'yaml'
+require_relative '../lib/homepage_reachability'
 
 ROOT = Pathname.new(File.expand_path('..', __dir__))
 CONTENT_DIR = ROOT.join('content')
@@ -34,52 +35,8 @@ STYLE_PATTERNS = (VALIDATOR_CONFIG['style_constraints'] || {}).flat_map do |cate
   end
 end
 
-# Mirror of the filtering in _plugins/generate_category_indices.rb. A content
-# page is considered listed by the homepage index if any rule matches.
-INDEX_TITLE_RULES = %w[geography population].freeze
-INDEX_PATH_RULES = [
-  'content/art/',
-  'content/culture/',
-  'content/economy/',
-  'content/law/',
-  'content/military/',
-  'content/mythology/',
-  ['content/species/', 'flora'],
-  ['content/species/', 'fauna'],
-  'content/religion/',
-  'deity',
-  'ideology',
-  'religion/monotheist',
-  'religion/polytheist',
-  'science/physical',
-  'science/theoretical',
-  ['content/government/', 'national'],
-  ['content/government/', 'local'],
-  'content/history/',
-  ['content/language/', 'pseudo'],
-  ['content/language/', 'spoken'],
-  'content/magic/',
-  ['content/location/', 'natural/continent'],
-  ['content/location/', 'natural/region'],
-  ['content/location/', 'natural/ecosystem'],
-  ['content/location/', 'natural/feature'],
-  ['content/location/', 'route/trade'],
-  ['content/location/', 'settlement/city'],
-  ['content/location/', 'settlement/town'],
-  ['content/location/', 'settlement/village'],
-  ['content/location/', 'settlement/outpost'],
-  ['content/location/', 'settlement/region'],
-  ['content/people/', 'historical'],
-  ['content/people/', 'notable'],
-  ['content/species/', 'sapient'],
-].freeze
-
-def listed_in_index?(page_path, title)
-  return true if INDEX_TITLE_RULES.include?(title.to_s.downcase)
-  INDEX_PATH_RULES.each do |rule|
-    return true if Array(rule).all? { |frag| page_path.to_s.include?(frag) }
-  end
-  false
+def listed_in_index?(page_path, _title)
+  HomepageReachability.reachable?(ROOT, page_path.to_s)
 end
 
 @failures = []
