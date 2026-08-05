@@ -105,31 +105,7 @@ def parse_front_matter(text)
 end
 
 def parse_front_matter_yaml(yaml_text)
-  result = {}
-  in_list = nil
-  yaml_text.each_line do |raw|
-    line = raw.chomp.sub(/\s*#.*\z/, '')
-    next if line.strip.empty?
-    if line =~ /\A-\s+(.*)\z/
-      result[in_list] ||= []
-      result[in_list] << $1.strip
-      next
-    end
-    if line =~ /\A([A-Za-z0-9_-]+):\s*(.*)\z/
-      key = $1
-      val = $2
-      if val.strip.empty?
-        in_list = key
-      else
-        in_list = nil
-        val = val.strip
-        val = val[1..-2] if val.start_with?('"') && val.end_with?('"')
-        val = val[1..-2] if val.start_with?("'") && val.end_with?("'")
-        result[key] = val
-      end
-    end
-  end
-  result
+  YAML.safe_load(yaml_text) || {}
 end
 
 def strip_code_blocks(body)
