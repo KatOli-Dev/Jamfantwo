@@ -102,6 +102,9 @@ content/magic/relic:
 content/military:
   description: The martial traditions, forces, and conflicts of the peoples of the known world.
 
+content/medicine:
+  description: The mundane practice of medicine across the known world, from physicians and surgeons to midwives, herbalists, and the infirmaries that care for the sick.
+
 content/mythology:
   description: The myths, legends, and cosmic beliefs of the peoples of the known world.
 
