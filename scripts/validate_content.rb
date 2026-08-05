@@ -34,8 +34,10 @@ STYLE_PATTERNS = (VALIDATOR_CONFIG['style_constraints'] || {}).flat_map do |cate
   end
 end
 
-# Mirror of the filtering in _plugins/generate_category_indices.rb. A content
-# page is considered listed by the homepage index if any rule matches.
+# Hand-maintained list of content path fragments considered reachable from
+# the homepage index. Does not mirror _plugins/generate_category_indices.rb
+# (which auto-generates an index for every content directory lacking one,
+# with no path-based filtering); keep this in sync with content/ manually.
 INDEX_TITLE_RULES = %w[geography population].freeze
 INDEX_PATH_RULES = [
   'content/art/',
@@ -47,12 +49,6 @@ INDEX_PATH_RULES = [
   ['content/species/', 'flora'],
   ['content/species/', 'fauna'],
   'content/religion/',
-  'deity',
-  'ideology',
-  'religion/monotheist',
-  'religion/polytheist',
-  'science/physical',
-  'science/theoretical',
   ['content/government/', 'national'],
   ['content/government/', 'local'],
   'content/history/',
