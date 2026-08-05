@@ -1,8 +1,9 @@
 require 'fileutils'
+require 'time'
 
 Jekyll::Hooks.register :site, :post_write do |site|
   urls = []
-  today = Time.now.strftime('%Y-%m-%d')
+  today = Time.now.xmlschema
   base_url = site.config['site_url']
 
   site.pages.each do |page|
@@ -13,7 +14,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
     url = page.url
     url += '/' unless url.end_with?('/')
     loc = "#{base_url}#{url}"
-    lastmod = page.data['last_modified'] || today
+    raw_last_modified = page.data['last_modified']
+    lastmod = raw_last_modified ? Time.parse(raw_last_modified).xmlschema : today
 
     urls << { loc: loc, lastmod: lastmod }
   end
