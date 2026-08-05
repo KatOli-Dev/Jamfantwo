@@ -7,6 +7,11 @@
 # Usage:
 #   ruby scripts/find_unlinked_references.rb --report=FILE
 #   ruby scripts/find_unlinked_references.rb --apply
+#
+# --apply rewrites content files via regex-based text substitution. It is a
+# tool for a human to run deliberately and review with `git diff` before
+# committing, not something to invoke as unattended automation — see
+# agents.md's "do not use scripts to modify content files" guidance.
 
 require 'yaml'
 require 'date'
@@ -21,6 +26,38 @@ def in_heading?(body, pos)
   bol = bol ? bol + 1 : 0
   eol = body.index("\n", bol) || body.length
   body[bol...eol].lstrip.start_with?('#')
+end
+
+# Returns a copy of body, identical in length and line breaks, with the
+# contents of fenced code blocks, indented code blocks, and HTML comments
+# replaced by spaces — so title matches never fire inside sample code, and
+# byte offsets/line numbers still map 1:1 onto the original body.
+def mask_non_prose(body)
+  masked = body.gsub(/<!--.*?-->/m) { |m| m.gsub(/[^\n]/, ' ') }
+
+  in_fence = false
+  in_indented_block = false
+  lines = masked.lines.map do |line|
+    if line =~ /\A(\s*)(```|~~~)/
+      in_fence = !in_fence
+      line.gsub(/[^\n]/, ' ')
+    elsif in_fence
+      line.gsub(/[^\n]/, ' ')
+    elsif line.strip.empty?
+      in_indented_block = false
+      line
+    elsif line =~ /\A(?: {4,}|\t)/
+      in_indented_block = true
+      line.gsub(/[^\n]/, ' ')
+    elsif in_indented_block
+      in_indented_block = false
+      line
+    else
+      line
+    end
+  end
+
+  lines.join
 end
 
 # ---------------------------------------------------------------------------
@@ -65,6 +102,7 @@ results = [] # [source_rel, line_num, match_text, target_link, target_title]
 pages.each do |src|
   body = File.read(src[:abspath])
   body = body.sub(/\A---\s*\n.*?\n---\s*\n/m, '')
+  scan_body = mask_non_prose(body)
 
   link_offsets = body.enum_for(:scan, LINK_RE).map { |m| $~.begin(0)...$~.end(0) }
 
@@ -82,7 +120,7 @@ pages.each do |src|
 
     first_candidate = nil
 
-    body.scan(re) do
+    scan_body.scan(re) do
       matched = $~.to_s
       pos = $~.begin(0)
       next if link_offsets.any? { |r| r.cover?(pos) }
@@ -117,12 +155,15 @@ if APPLY
     cands.sort_by { |c| -c[2].length }.each do |c|
       _, _, match_text, tgt_link, tgt_title = c
 
+      # Recompute against the current (possibly already-edited) body, masking
+      # out code/comment regions so replacements never land inside them.
+      scan_body = mask_non_prose(body)
       link_offsets = body.enum_for(:scan, LINK_RE).map { |m| $~.begin(0)...$~.end(0) }
 
       escaped = Regexp.escape(match_text)
       re = match_text.include?(' ') ? /#{escaped}/i : /\b#{escaped}\b/i
 
-      body.scan(re) do
+      scan_body.scan(re) do
         matched = $~.to_s
         pos = $~.begin(0)
         next if link_offsets.any? { |r| r.cover?(pos) }
